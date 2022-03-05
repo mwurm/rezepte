@@ -23,31 +23,31 @@ Kressebrot
 probieren.hml aus Telegramgruppe 27.12. - woher kommt die HTML-Datei?
 
 ## Suppe
-Tom Kha Gai (! Galgant, Koriander, Zitronengras, Kaffirlimonenblätter) https://www.spiegel.de/stil/rezept-fuer-thailaendische-kokos-huehnersuppe-tom-kha-gai-a-aad6f727-e47e-4165-a324-6e5f12ed2852-amp
+Tom Kha Gai (! Galgant, Koriander, Zitronengras, Kaffirlimonenblätter) https://www.spiegel.de/stil/rezept-fuer-thailaendische-kokos-huehnersuppe-tom-kha-gai-a-aad6f727-e47e-4165-a324-6e5f12ed2852-amp  
 Badische Lauchsuppe (Telegramfoto 14.11.2020)
-Porree Pilz Cremesuppe https://www.bildderfrau.de/kochen-backen/rezepte/article230666792/Perfekt-fuer-den-Herbst-kraeftige-Porree-Pilz-Cremesuppe.html 
+Porree Pilz Cremesuppe https://www.bildderfrau.de/kochen-backen/rezepte/article230666792/Perfekt-fuer-den-Herbst-kraeftige-Porree-Pilz-Cremesuppe.html  
 
 ## Pasta 
 Spaghetti in einer Ajvar Parmesan Schmandsauce https://zu-faul-zum-kochen.de/spaghetti-in-einer-ajvar-parmesan-schmandsauce/
 
 
 ## Dessert
-Weißes Schokoladenmousse (Stephane) 
-Creme brullee https://www.sonntagsistkaffeezeit.de/creme-brulee-rezept/
+Weißes Schokoladenmousse (Stephane)   
+Creme brullee https://www.sonntagsistkaffeezeit.de/creme-brulee-rezept/  
 
 ### Weihnachten
-Lebkuchen-Cookie-Creme https://www.myhomebook.de/fun/weihnachtsdessert-rezept
+Lebkuchen-Cookie-Creme https://www.myhomebook.de/fun/weihnachtsdessert-rezept  
 
 ## Mehlspeisen & Gebäck
-Zitronen Polenta Kuchen mit Rosmarin https://trickytine.com/zitronen-polenta-kuchen-rosmarin-rezept/
+Zitronen Polenta Kuchen mit Rosmarin https://trickytine.com/zitronen-polenta-kuchen-rosmarin-rezept/  
 
 ## Salat
 
 ## ????
-Rindsrouladen mit geschmorten weißen Bohnen und Tomaten https://sz-magazin.sueddeutsche.de/das-kochquartett/rezept-rindsrouladen-bohnen-89370
-Türkische Linsensuppe https://www.wunderweib.de/tuerkische-linsensuppe-rezept-fuer-das-leckere-gericht-112502.html
-Süßer Kürbis Kaiserschmarrn https://trickytine.com/kuerbis-kaiserschmarrn/
-Putengeschnetzeltes Bombay https://www.marions-kochbuch.de/rezept/5696.htm
+Rindsrouladen mit geschmorten weißen Bohnen und Tomaten https://sz-magazin.sueddeutsche.de/das-kochquartett/rezept-rindsrouladen-bohnen-89370  
+Türkische Linsensuppe https://www.wunderweib.de/tuerkische-linsensuppe-rezept-fuer-das-leckere-gericht-112502.html  
+Süßer Kürbis Kaiserschmarrn https://trickytine.com/kuerbis-kaiserschmarrn/  
+Putengeschnetzeltes Bombay https://www.marions-kochbuch.de/rezept/5696.htm  
 Chratzete https://www.schwarzwald-netz.com/168/Schwarzwald-Kueche/Schwarzwald-Rezepte/Spezialitaet-Chratzete.html
 Fugazzeta (argentinische Pizza) https://utopia.de/ratgeber/fugazzeta-so-backst-du-die-argentinische-pizza-variante/?amp
 Croque Monsieur https://www.vogue.de/lifestyle/artikel/croque-monsieur-rezept-franzosisches-sandwich-croque-monsieur-toaster
