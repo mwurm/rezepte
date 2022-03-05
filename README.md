@@ -20,6 +20,8 @@ Kressebrot
 
 
 # Kategorien
+probieren.hml aus Telegramgruppe 27.12. - woher kommt die HTML-Datei?
+
 ## Suppe
 Tom Kha Gai (! Galgant, Koriander, Zitronengras, Kaffirlimonenblätter) https://www.spiegel.de/stil/rezept-fuer-thailaendische-kokos-huehnersuppe-tom-kha-gai-a-aad6f727-e47e-4165-a324-6e5f12ed2852-amp
 Badische Lauchsuppe (Telegramfoto 14.11.2020)
@@ -58,6 +60,12 @@ Spiced Cheese Biscuits https://www.gourmettraveller.com.au/recipes/fast-recipes/
 Cheddar Salbei Scones  https://www.bbcgoodfood.com/recipes/cheddar-sage-scones
 Asparagus Bread Cases https://www.bestrecipes.com.au/recipes/asparagus-bread-cases-recipe/w5izxyh9
 Goat's Cheese and Asparagus Tarts https://www.bestrecipes.com.au/recipes/goats-cheese-asparagus-tarts-recipe/4lfl2pkv
+Paprika sauté chicken (FCA) https://youtu.be/94TvgNnx-p4
+Escoffier's poulet sauté Alice (FCA) https://youtu.be/I6vs2HkMt6o
+Kartoffelcurry Teresa Baumg. (Telegram 28.1.22)
+
+
+
 
 ## Französische Appetizer
 https://insanelygoodrecipes.com/french-appetizers/
