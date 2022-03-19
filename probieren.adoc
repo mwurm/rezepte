@@ -1,0 +1,232 @@
+// Hardbreaks: Newline macht auch in Asciidoc neue Zeile
+:hardbreaks-option:
+
+Eintopf:::
+
+Salat:::
+Schlemmersalat (htb S.55)
+Herbstsalat mit Kichererbsen, Feigen, Äpfel (Foto, ALDI)
+
+
+Vegetarisches:::
+Indisches Dal
+One-Pot Kartoffeln-Tomaten-Halloumi
+Marokkanisch Kichererbsen-Linsen-Suppe (Foto)
+Gemüse-Chili (Foto, JO)
+Auberginen-Döner (Foto, EDEKA)
+Pilz-Burger (Foto, ALDI)
+Bohnen auf Toast (JO wfk)
+Griechische Kartoffelpfanne (JO wfk)
+Schwarzes Dal (JO wfk)
+Rührei Masala (JO wfk)
+Zwiebelkuchen (Kulinarische Streifzüge)
+Gemüse-Pommes mit Parmesankruste (Foto REWE)
+Kürbis-Korma mit Kartoffeln und Möhren (EDEKA)
+Dosas - Kichererbsen-Wraps mit Gemüsefüllung (JO wfk)
+
+
+
+… mit Käse::
+Zuchini mit Ziegenkäse-Füllung + Thymian (Anne)
+Pizza bianca
+Pizza bianca mit Brombeere und Ziegenfrischkäse (MM, Pizza "Wolke 5")
+Gemüse-Curry (Foto, JO)
+Camembert-Stangen (Foto, JO)
+Käsetoast Jamie-Style (JO wfk)
+Roquefort-Soufflé (htb, S.78)
+
+
+
+
+Fisch & Meeresfrüchte / Surf&Turf:::
+Thunfisch mit Sesamkruste (5Z, S.135)
+Gebratene Forelle (Alf, S.146) #Probieren
+Chorizo/Garnelen-Surf&Turf auf Polenta (Foto)
+Lachs-Quiche (Aldi)
+Fischsuppe ungarisch (Foto)
+Gebackene Sardellen (Kulinarische Streifzüge)
+Schwertfisch mit Pfeffersoße (Kulinarische Streifzüge)
+Fischbrötchen mit Erbspüree (Foto, JO)
+Polenta-Crostini mit Salsiccia, Sardellen, Gemüse (Foto, ALDI)
+Kabeljau-Saltimbocca (Foto, ALDI)
+Gegrille Sardinen und toskanischer Brotsalat (JO, Foto)
+Chorizo-Tintenfisch (Foto, JO)
+Tintenfisch & Avocadomus (Foto, JO 5Z)
+Fish & Chips (JO wfk)
+
+
+
+Geflügel:::
+Harissa-Hänchen (5Z, S.107) #Probieren
+Knuspriges Erdnusshänchen (5Z, S. 105) #Probieren
+Chicken Fajitas mit Tomatensalsa
+Putenbrust mit Kräuterfüllung im Speckmantel (Foto)
+Hähnchenbrust in Curry-Ananase-Marinade (MM)
+Putenbrust mit Maronenfüllung
+Kürbiseintopf mit Pute (Foto, freundin)
+Hähnchen-Tikka-Masala (Foto, JO, Anne hat's aus der Für Sie)
+Hähnchen-Satay (JO wfk)
+
+
+Rind & Schwein:::
+Schnitzel Wiener Art (oR)
+Münchner Schnitzel (oR)
+Pfeffersteak (oR)
+Rinderbraten mediterran (Fot Aldi, Brasato al vino rosso)
+Schweinefilet mit Senfkruste (p)
+Schweinefilet in Pfefferkruste
+Schweinefilet mit Dijon-Senfkruste
+Trucker-Buletten mit Bacon und Parmesan-Potato-Chips (MM)
+Schnitzel mit Kartoffelchips (Foto, EDEKA, "Chips")
+Hotdog-Auflauf mit Käse (MM)
+Reis mit Banane, Ananas, Schnitzel (MM)
+Cordon Blue (MM)
+Königspasteten (Kulinarische Streifzüge)
+Schweinemedaillons in Calvados (Kulinarische Streifzüge)
+Speck-Sandwich (Foto, JO)
+Black-Forest-Burger mit Senf-Avocado-Creme (Foto, EDEKA)
+Schweinefilet mit Pistazien-Parmesan-Kruste (Foto, ALDI)
+Spargel-Wok mit Rindfleisch & Champignons
+Burger
+Schweinelende Bombay
+
+
+wenig Fleisch::
+Kürbis + Hack (Anne)
+
+
+Wild:::
+Rehpflanzerl (Alf S.279) #Probieren
+
+
+
+Pasta & Risotto:::
+Gnocchi
+Kritharaki
+Carbonara klassisch
+Pesto
+Mandili di Seta ("silk handkerchief")
+Lemon Tagliatelle
+Salsa Etrusca
+Cacio e Pepe
+Ricotta Dumpling
+Pasta alla Ali Baba (MM)
+Pasta mit Pfifferlingen und Tomaten-Pangrattato (Foto, EDEKA)
+Pasta mit Paprika-Sahnesoße und Bacon
+Tomaten-Sahnesoße (TODO finden)
+Pasta mit Ricotta-Röstpaprika-Soße (MM)
+Fussili mit Huhn & Thymian-Gemüse-Ragout (Foto, JO?)
+Pasta mit Broccoli (Foto, JO)
+Maritime Pasta (Foto, JO)
+Pasta mit Thunfisch-Steak (Foto, JO)
+Pasta mit Salsa di Noci - Walnuss-Pinien-Soße (Foto, Aldi)
+Koshari al Forno (JO wfk)
+Pasta mit Auberginen & Tomaten (telegram 21-8-13)
+
+
+Pizza etc.:::
+Sellerie-Salbei-Pizza
+Blitzpizza auf Wrap (Foto)
+
+
+
+Frühstück:::
+Schoko-Porridge (telegram Anne sagtn englisch ist besser)
+
+
+Basis:::
+
+Beilagen:::
+Polentataler (Alf S. 321) #Probieren
+Metaxasoße (p)
+Rotkohl (p,MM)
+Cole Slaw
+Griechischer Krautsalat (p)
+Naan-Brot (p)
+Guacamole
+Champignon-Rahmsoße
+Sauce Hollandaise
+Zwiebelbrot (Foto)
+Erbsenstampf (EDEKA)
+Kräuterquark (Foto)
+Amba-Sauce (JO wfk Schwarma-Extras)
+Hummus (JO wfk Schwarma-Extras)
+Taboulé  (JO wfk Schwarma-Extras)
+
+
+
+Suppeneinlagen::
+Riebele (Foto, Kulinarische Streifzüge)
+
+
+Dressing:::
+Zitronen-Basilikum-Dressing mit Feigensenf (Foto)
+
+
+Gewürze + Rubs:::
+Tandoori-Marinade (Foto, Webers Grillbibel)
+Asia Marinade (MM, Bag to Asia)
+
+
+
+
+Häppchen:::
+Käsewindbeutel (htb S. 14)
+Sandwich: Schwarzbrot mit Bergkäse und Feigen-Chutney (Foto, EDEKA)
+Tortellini am Spieß mit Chorizo und Tomate (Foto)
+Frischkäse mit Lachs
+Frischkäse Mange & Curry
+Frischkäse Rote Beete & Meerrettich
+Frischkäse mit Spinat & Parmesan
+Croissants pikant mit Salami & Käse (MM)
+Croissants pikant mit Brie, Lauch, Himbeerkonfitüre (MM)
+Sellerie-Chutney mit Brot und Blauschimmelkäse (EDEKA)
+Sellerie-Chips (EDEKA)
+Orasnice - Walnussbällchen (Kulinarische Streifzüge)
+Pistanzien-Energy-Balls (Foto)
+Kakao-Nussriegel (Foto)
+Knoblauchbrot (JO wfk)
+Maisbrot und Cipotle-Butter (JO wfk)
+
+
+Suppe:::
+Tomatensuppe (MM)
+Kressesuppe (EDEKA)
+Kürbissuppe mit Kastanie-Klösschen (Foto, JO)
+Champignon-Erdnuss-Suppe (Foto, ALDI)
+Zwiebelsuppe (Foto, ALDI)
+Badische Lauchsuppe (Kulinarische Streifzüge)
+
+
+
+Süßspeisen:::
+warm::
+Soufflé (fca, yt)
+French Toast (cb)
+NY Blintzes (cb)
+Gratinierte Birnen (Foto, ALDI)
+
+
+kalt::
+Zitronenmousse (p, htb S.244)
+Cookie-Dough-Eis (telegram)
+
+
+
+Kuchen, Torten, Cookies, Muffins:::
+Käsekuchen mit Quark und Pudding
+Lila-Laune-Torte
+Schoko-Nusskuchen (Erzsi)
+Birnen-Tarte-Tatin (JO wfk)
+Madeleines (fca,yt)
+Bagel
+
+
+Saisonal:::
+Halloween::
+Mumien-Würstchen (Foto)
+
+TODO:::
+Notizen 15m-Rezepte Anne + Matthias
+
+
