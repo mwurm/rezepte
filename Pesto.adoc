@@ -1,4 +1,4 @@
-= Pesto
+= Pesto Verde
 2 Portionen
 [width="100%",cols=">20%,30%,50%",options=""]
 |===
@@ -10,6 +10,27 @@
 |1/2 TL |Salz 
 |===
 
+_Testen_: Eiswürfel soll oxidieren des Pestos verhindern (bei 2 Portionen Eiswürfeln vorher zerkleinern)
+
+Quelle: https://www.lecker.de/basilikum-pesto-29673.html
+
+== Bärlauch-Pesto
+Bärlauch statt Basisilikum
+
+== Bärlauch-Petersilien-Pesto
+1:1 Bärlauch:Petersilie statt Basilikum
 
 
-Quelle: https://www.youtube.com/watch?v=jYg0rpwpAp4
+== Pesto Rosso
+2 Portionen?
+[width="100%",cols=">20%,30%,50%",options=""]
+|===
+|40g|Tomaten _(getrocknet, ohne Öl)_ .2+|über Nacht einweichen
+|50ml |Olivenöl
+|20g|Pinienkerne _(geröstet)_ .2+|mit Tomaten und Öl im Zerkleinerer grob pürieren
+|6g |Basilikum
+|30g |Parmesan .2+| unterrühren und würzen
+|1 Pr. |Salz 
+|===
+
+
