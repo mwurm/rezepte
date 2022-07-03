@@ -1,6 +1,8 @@
 = Fettucine Alfredo
+:imagesdir: img
 
-image::img/Fettuccine Alfredo.jpg[]
+
+image::Fettuccine Alfredo.jpg[]
 
 2 Portionen
 
