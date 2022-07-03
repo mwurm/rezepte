@@ -1,5 +1,7 @@
 = Fettucine Alfredo
 
+image::img/Fettuccine Alfredo.jpg[]
+
 2 Portionen
 
 |===
