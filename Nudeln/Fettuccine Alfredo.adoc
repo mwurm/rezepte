@@ -1,10 +1,10 @@
 = Fettucine Alfredo
-:imagesdir: img
 
+
+2 Portionen
 
 image::Fettuccine Alfredo.jpg[]
 
-2 Portionen
 
 |===
 |200g|Fettucine|kochen in 10g Salz, 1000ml Wasser¹. Nudelwasser abgießen, aber behalten. Dann Nudeln wieder in Topf geben.
