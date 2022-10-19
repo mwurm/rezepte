@@ -1,0 +1,137 @@
+##### leichte Gerichte #####
+* Bayrischer Wurstsalat                                  :Hauptgericht:Salat:Fleisch:leicht:
+* Caesar Salad (JO 20m) :Hauptgericht:Salat:Fleisch:leicht:
+* Cremige Auberginen-Pasta :Hauptgericht:vegetarisch:leicht:
+* Curry-Mango-Garnelen (5Z, S.147) :Hauptgericht:Fisch:leicht:
+* Edamame-Salat :Hauptgericht:vegetarisch:leicht:
+* Eintopf italienisch :todo:Hauptgericht:vegetarisch:leicht:
+* Falafelsalat mit Tahin-Dressing                        :Hauptgericht:vegetarisch:Salat:leicht:
+* Indischer Eintopf :Hauptgericht:vegetarisch:leicht:
+* Italienischer Salat :Hauptgericht:Salat:leicht:
+* Kartoffel-Curry :Hauptgericht:vegetarisch:leicht:
+* Koreanische Udon-Nudelsuppe                             :todo:Hauptgericht:vegetarisch:leicht:
+* Lachs auf Bohnengemüse (Anne) :Hauptgericht:Fisch:leicht:
+* Lachs aus der Holzplanke :Hauptgericht:Fisch:leicht:
+* Linsen-Frikadellen                                      :todo:Hauptgericht:vegetarisch:leicht:
+* Linsencurry mit Spinat :Hauptgericht:vegetarisch:leicht:
+* Nizza Salat (5Z, S.19) :Hauptgericht:Fisch:leicht:
+* Pappa al Pomodoro (5Z, S. 173) :Hauptgericht:vegetarisch:leicht:
+* Paprikaauflauf mit Feta :Hauptgericht:Käse:vegetarisch:leicht:
+* Pilztopf :Hauptgericht:vegetarisch:leicht:
+* Ratatouille-Tarte                                :Hauptgericht:vegetarisch:leicht:
+* Shakshuka :Hauptgericht:vegetarisch:leicht:
+* Spargel und Eier mit French Dressing (5Z, S.165) :Hauptgericht:vegetarisch:leicht:
+* Sushi :Hauptgericht:Fisch:leicht:
+* Süsskartoffeln Cajun-Style (5Z, S. 175) :Hauptgericht:vegetarisch:leicht:
+* Zucchini mit Hack und Linsen (Anne)                  :Hauptgericht:Fleisch:leicht:
+
+
+##### vegetarische Gerichte - kein/wenig Käse #####
+* Cremige Auberginen-Pasta :Hauptgericht:vegetarisch:leicht:
+* Dampfnudeln :Hauptgericht:vegetarisch:
+* Edamame-Salat :Hauptgericht:vegetarisch:leicht:
+* Eintopf italienisch :todo:Hauptgericht:vegetarisch:leicht:
+* Falafelsalat mit Tahin-Dressing                        :Hauptgericht:vegetarisch:Salat:leicht:
+* Fugazzeta                                               :todo:Hauptgericht:vegetarisch:
+* Indischer Eintopf :Hauptgericht:vegetarisch:leicht:
+* Kartoffel-Curry :Hauptgericht:vegetarisch:leicht:
+* Koreanische Udon-Nudelsuppe                             :todo:Hauptgericht:vegetarisch:leicht:
+* Linsen-Frikadellen                                      :todo:Hauptgericht:vegetarisch:leicht:
+* Linsencurry mit Spinat :Hauptgericht:vegetarisch:leicht:
+* Pappa al Pomodoro (5Z, S. 173) :Hauptgericht:vegetarisch:leicht:
+* Pasta e Ceci :todo:Hauptgericht:vegetarisch:
+* Pasta mit Pilzen und Knoblauch :Hauptgericht:vegetarisch:
+* Pasta mit Pilzen + Knoblauch (5Z, S.65)                      :Hauptgericht:vegetarisch:
+* Pasta mit Walnuss-Soße :Hauptgericht:vegetarisch:
+* Pfifferlinge auf Weißbrot :Hauptgericht:vegetarisch:
+* Pilztopf :Hauptgericht:vegetarisch:leicht:
+* Pizza                                           :Hauptgericht:vegetarisch:Fisch:Fleisch:
+* Ratatouille-Tarte                                :Hauptgericht:vegetarisch:leicht:
+* Risotto :Hauptgericht:vegetarisch:Fisch:Fleisch:
+* Rührei :Hauptgericht:vegetarisch:
+* Shakshuka :Hauptgericht:vegetarisch:leicht:
+* Spaghetti mit Ajvar-Parmesan-Schmandsoße :todo:Hauptgericht:vegetarisch:
+* Spargel und Eier mit French Dressing (5Z, S.165) :Hauptgericht:vegetarisch:leicht:
+* Süsskartoffeln Cajun-Style (5Z, S. 175) :Hauptgericht:vegetarisch:leicht:
+
+
+##### vegetarische Gerichte - viel Käse #####
+* Camemburger (MM) :Hauptgericht:Käse:vegetarisch:
+* Feta vom Grill :Hauptgericht:Käse:vegetarisch:
+* Gebackener Camembert (oR) :Hauptgericht:Käse:vegetarisch:
+* Kartoffelgratin :Hauptgericht:Käse:vegetarisch:
+* Käsespätzle :Hauptgericht:Käse:vegetarisch:
+* Melanzane al Parmigiana - Idee: Tarteform :Hauptgericht:Käse:vegetarisch:
+* Paprikaauflauf mit Feta :Hauptgericht:Käse:vegetarisch:leicht:
+* Pasta Alfredo :Hauptgericht:vegetarisch:Käse:
+* Pasta mit Oliven und Ziegenkäse :Hauptgericht:Käse:vegetarisch:
+* Raclette :Hauptgericht:Käse:vegetarisch:
+
+
+
+
+
+* Bifteki :Hauptgericht:Fleisch:
+* Boeuf Stroganoff :Hauptgericht:Fleisch:todo:
+* Bosna-Semmel :Hauptgericht:Fleisch:
+* Brotkranz mit Kürbis, Schinken, Oliven, Kräutern (Anne) :Hauptgericht:Fleisch:
+* Cevapcici :Hauptgericht:Fleisch:
+* Chicken Tikka Masala :Hauptgericht:Geflügel:
+* Croque Monsieur / Madame :Hauptgericht:Fleisch:
+* Currywurst :Hauptgericht:Fleisch:
+* Dorade vom Grill :Hauptgericht:Fisch:
+* Flammkuchen :Hauptgericht:Fleisch:
+* Fleischpflanzerl :Hauptgericht:Fleisch:
+* Forelle aus dem Ofen :Hauptgericht:Fisch:
+* Gebratene Forelle :Hauptgericht:Fisch:
+* Gulasch :Hauptgericht:Fleisch:
+* Hackbraten :Hauptgericht:Fleisch:
+* Hackfleisch-Taschen (Tupper) :Hauptgericht:Fleisch:
+* Halbes Hähnchen                                     :Hauptgericht:Geflügel:
+* Harissa-Hähnchen :Hauptgericht:Geflügel:
+* Hot Dog :Hauptgericht:Fleisch:
+* Knuspriges Erdnusshähnchen :Hauptgericht:Geflügel:
+* Kürbischaos :Hauptgericht:Fleisch:
+* Kürbispizza mit Pfifferlingen :Hauptgericht:Fleisch:
+* Lachs mit Chorizo (5Z, S. 125) :Hauptgericht:Fisch:
+* Lasagne :Hauptgericht:Fleisch:
+* Leberkäs :Hauptgericht:Fleisch:
+* Mediterraner Braten :todo:Hauptgericht:Fleisch:
+* Münchner Schnitzel :Hauptgericht:ohne_Beilage:
+* Nürnberger Bratwürste mit Sauerkraut (oR) :Hauptgericht:Fleisch:
+* Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream (oR) :Hauptgericht:Fleisch:
+* Pasta Amatriciana :Hauptgericht:Fleisch:
+* Pasta Bolognese :Hauptgericht:Fleisch:
+* Pasta Carbonara :Hauptgericht:Fleisch:
+* Pasta emiliana :Hauptgericht:Fleisch:
+* Pasta mit Garnelen, Pesto + Rosé (5Z, S.73) :Hauptgericht:Fisch:
+* Pasta mit Lachs und Avocadocreme :todo:Hauptgericht:Fisch:
+* Pasta mit Shrimps :Hauptgericht:Fisch:
+* Pasta mit Speck-Zwiebel-Ziegenkäse :Hauptgericht:Fleisch:
+* Pelmeni :Hauptgericht:Fleisch:
+* Pesto-Hähnchen mit Blätterteig (5Z, S. 115) :Hauptgericht:Geflügel:
+* Pfannen-Lasagne :todo:Hauptgericht:Fleisch:
+* Puten-Geschnetzeltes Bombay                             :Hauptgericht:Geflügel:todo:
+* Putenbrust mit Maronenfüllung :Hauptgericht:Geflügel:
+* Putenschnitzel :Hauptgericht:Geflügel:
+* Rehpflanzerl :Hauptgericht:Wild:
+* Rouladen :Hauptgericht:Fleisch:
+* Sahara-Chili :Hauptgericht:Fleisch:
+* Salat mit Maultaschen + Sauerrahmdressing :Hauptgericht:Salat:
+* Schmorbraten :Hauptgericht:Fleisch:
+* Schmorfleisch (5Z, S.195) :Hauptgericht:Fleisch:
+* Schweinefilet mit Pistazien-Parmesan-Kruste :todo:Hauptgericht:Fleisch:
+* Schweinefilet vom Grill :Hauptgericht:Fleisch:
+* Sommerlicher Weißwurstsalat :Hauptgericht:todo:Fleisch:
+* Souvlaki :Hauptgericht:ohne_Beilage:Fleisch:
+* Steckerlfisch :Hauptgericht:Fisch:
+* Texas Jailhouse Chili :Hauptgericht:Fleisch:
+* Thunfisch mit Sesamkruste :Hauptgericht:Fisch:
+* Tikka Brathähnchen im Ofen (5Z, S?) :Hauptgericht:Geflügel:
+* Tintenfisch vom Grill :Hauptgericht:Fisch:
+* Toast Hawaii (oR) :Hauptgericht:Fleisch:
+* Weißwürste :Hauptgericht:Fleisch:
+* What the hack-Buletten (MM) :Hauptgericht:Fleisch:
+* Wiener :Hauptgericht:Fleisch:
+* Zucchini mit Ziegenkäse-Füllung und Thymian :Hauptgericht:Fleisch:
+* Zwiebelrostbraten :Hauptgericht:Fleisch:
