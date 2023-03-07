@@ -8,6 +8,23 @@
 
 Quelle: https://github.com/SUSE/recipebook.
 
+[id='sec.appetithaeppchen']
+== Appetithäppchen
+
+ifdef::env-github[]
+<<recipes/appetithaeppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
+endif::[]
+ifndef::env-github[]
+include::recipes/appetithaeppchen/hackfleischtaschen.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/appetithaeppchen/käsegebäck.adoc#, Käsegebäck>>
+endif::[]
+ifndef::env-github[]
+include::recipes/appetithaeppchen/käsegebäck.adoc[]
+endif::[]
+
 [id='sec.beilagen']
 == Beilagen
 

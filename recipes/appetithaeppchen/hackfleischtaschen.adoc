@@ -1,0 +1,13 @@
+[id='sec.hackfleischtaschen']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Hackfleischtaschen
+image::hackfleischtaschen/hackfleischtaschen.jpg[Hackfleischtaschen, width=30%]
+
+aus Tupper-Rezeptbuch

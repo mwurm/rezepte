@@ -1,0 +1,32 @@
+[id='sec.kaesegebaeck']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Käsegebäck
+
+4 Portionen
+
+[width="100%",cols=">20%,30%,50%"]
+|===
+|100g |*Gruyere* | in kleiner KitchenAid-Schüssel reiben
+
+24h einweichen, dann 200ml kochendes Wasser geben und 1h köcheln
+|1 | Eigelb .4+.^| zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen.
+
+30 min in Kühlschrank ruhen
+|85g | Mehl
+|60g | Butter (kalt, gewürfelt)
+|1 Pr |Salz, Pfeffer, Cayennepfeffer
+
+|1 |Eiklar .2+.^| Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
+| |Blüten / Cumin
+||| Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen
+
+7-8 min backen
+|===
+
