@@ -1,0 +1,67 @@
+== Innovate Everywhere Recipes
+
+The latest version of the recipe book can be found here:
+https://suse.github.io/recipebook/recipes.html
+
+* Clone the repo and open rezepte.adoc locally in a browser that supports
+  AsciiDoc or in another tool such as asciidoctor
+
+* Open this project in
+  https://gitpod.io/#https://github.com/SUSE/recipebook[gitpod] and edit it
+  directly there.
+
+* The GitHub preview of the in-development recipes is at
+<<rezepte.adoc#>>.
+
+=== Contributing
+
+Want to help? We love to hear that! Below are a few hints to guide you.
+
+1. Create a new recipe file under recipes/<appropriate_directory>/ 
+   Consider copying the recipe_template.adoc from the top level folder
+   to have a baseline to work from.
+2. Make sure you include a section identifier `[id='sec.recipe_name']` and a title `=== Recipe Name`
+   each on their own line and separated by an empty line from other content
+3. Add a reference to the new recipe to rezepte.adoc in the top level
+4. Add any images to images/<recipe_name>/
+5. build the docs with docbuild.sh (requires asciidoctor, see below for install details)
+6. check the output at build/recipes.html to verify it matches the formatting you want
+
+It is recommended to start your recipe by copying recipe_template.adoc from the top
+level folder. Alternately, look at the existing recipes to copy the formatting for
+setting the images folder, which is a little awkward as we want it to render correctly
+with github's preview.
+
+==== Writing
+
+These release notes are written in the AsciiDoc (`*.adoc`) format. For some
+great AsciiDoc documentation, see https://asciidoctor.org/docs/asciidoc-writers-guide/.
+
+Viewing asciidoc is most easily done via a plugin to Chrome such as
+https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+
+Add your recipe under recipes/<recipe-type> ... desserts go under recipes/desserts for example
+
+Images associated with the recipe should be added under the images folder at the top level, then
+inside a sub-folder with the recipe name
+
+Asciidoctor can be installed for Leap 15.2 at
+https://software.opensuse.org/package/rubygem-asciidoctor Other
+distributions can be found at
+https://asciidoctor.org/#a-linux-package-managers. You can also
+install it using bundler or via gem directly:
+[source,shell]
+----
+bundle install
+# or
+gem install asciidoctor
+----
+
+After installing asciidoctor, run the build:
+[source,shell]
+----
+./docbuild.sh
+# or if you installed asciidoctor via bundler
+bundle exec -- ./docbuild.sh
+----
+The output of the build will be build/recipes.html

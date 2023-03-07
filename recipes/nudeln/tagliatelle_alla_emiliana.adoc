@@ -1,0 +1,23 @@
+[id='sec.tagliatelle_alla_emiliana']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Tagliatelle alla emiliana
+
+3 Portionen
+
+|===
+|300g|Tagliatelle|kochen
+|1 |Zwiebel _(gewürfelt)_ |anbraten
+|250ml | Sahne .2+| dazugießen, kurz aufkochen
+|2 TL|Brühpulver _(optional)_
+|125g | Kochschinken _(klein geschnitten)_ .2+| zugeben und kochen
+|150g | Erbsen _(TK)_
+|70g |Parmesan .2+| zugeben, verrühren, dann Nudeln unter die Soße heben
+||Salz, Pfeffer
+|===

@@ -1,0 +1,87 @@
+
+:imagesdir: images
+
+:docinfo:
+
+= Rezepte
+:toc:
+
+Quelle: https://github.com/SUSE/recipebook.
+
+[id='sec.beilagen']
+== Beilagen
+
+ifdef::env-github[]
+<<recipes/beilagen/hummus.adoc#, Hummus>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beilagen/hummus.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/beilagen/semmelknödel.adoc#, Semmelknödel>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beilagen/semmelknödel.adoc[]
+endif::[]
+
+
+[id='sec.nudeln']
+== Nudeln
+
+ifdef::env-github[]
+<<recipes/nudeln/fettuccine_alfredo.adoc#, Fettucine Alfredo>>
+endif::[]
+ifndef::env-github[]
+include::recipes/nudeln/fettuccine_alfredo.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/nudeln/lemon_tagliatelle.adoc#, Lemon Tagliatelle>>
+endif::[]
+ifndef::env-github[]
+include::recipes/nudeln/lemon_tagliatelle.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/nudeln/ragu_alla_bolognese.adoc#, Ragù alla Bolognese>>
+endif::[]
+ifndef::env-github[]
+include::recipes/nudeln/ragu_alla_bolognese.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/nudeln/tagliatelle_alla_emiliana.adoc#, Tagliatelle alla emiliana>>
+endif::[]
+ifndef::env-github[]
+include::recipes/nudeln/tagliatelle_alla_emiliana.adoc[]
+endif::[]
+
+
+
+[id='sec.mehlspeisen']
+== Mehlspeisen
+
+Mehlspeisen sind süße oder pikante Gerichte aus Mehl, Eiern, Milch und Zucker. Bekannte Beispiele sind Kuchen, Strudel, Palatschinken und Knödel. Sie sind ein wichtiger Bestandteil vieler Küchen und werden oft als Dessert, Snack oder Hauptgericht serviert.
+
+ifdef::env-github[]
+<<recipes/mehlspeisen/brioche.adoc#, Brioche>>
+endif::[]
+ifndef::env-github[]
+include::recipes/mehlspeisen/brioche.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/mehlspeisen/naan.adoc#, Naan>>
+endif::[]
+ifndef::env-github[]
+include::recipes/mehlspeisen/naan.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/mehlspeisen/waffeln.adoc#, Waffeln>>
+endif::[]
+ifndef::env-github[]
+include::recipes/mehlspeisen/waffeln.adoc[]
+endif::[]
+

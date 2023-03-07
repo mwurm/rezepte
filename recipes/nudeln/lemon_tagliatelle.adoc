@@ -1,0 +1,25 @@
+[id='sec.lemon_tagliatelle']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+=== Lemon Tagliatelle
+
+
+2 Portionen
+
+|===
+|200g|Tagliatelle|kochen, Nudelwasser behalten!
+|2 |Knoblauch _(Scheiben)_ .2+|in Olivenöl anbraten
+|1 TL |Chili _(gehackt)_
+|100ml | Nudelwasser .2+| zugeben, auch die Nudeln
+|50g | Butter 
+|0,5 | Zitrone _(Saft)_ .3+| zugeben und verrühren
+|1EL|Petersilie _(gehackt)_
+|4EL|Parmesan
+|1 TL| Zitronenschale _(Abrieb)_ .2+| pro Teller: mit fertigen Nudeln servieren
+|1 EL| Parmesan
+|===

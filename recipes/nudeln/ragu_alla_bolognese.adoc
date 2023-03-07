@@ -1,0 +1,24 @@
+[id='sec.ragu_alla_bolognese']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Ragù alla Bolognese
+
+4 Portionen
+
+|===
+|100g|*Pancetta*|klein hacken, in 2EL neutralem Öl anbraten
+|1 |Zwiebel _(gewürfelt)_ |zugeben, glasis anbraten
+|1 |*Selleriestange* _(fein gehackt)_| zugeben, 5min anbraten
+|2|*Karotten* _(fein gehackt)_ | zugeben, glasig anbraten
+|500g|*Hackfleisch, gemischt* | zugeben, anbraten
+|2EL|Tomatenmark .2+| Mark und Wasser verrühren und zugeben
+|100ml|Wasser, warm
+|50ml|Milch | zugeben
+||| 2h köcheln lassen
+|===

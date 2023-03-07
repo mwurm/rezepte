@@ -1,0 +1,12 @@
+[id='sec.naan']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Naan
+
+https://www.youtube.com/watch?v=qnzBkCkv9gs

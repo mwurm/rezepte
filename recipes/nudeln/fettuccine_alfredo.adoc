@@ -1,0 +1,26 @@
+[id='sec.fettucine_alfredo']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Fettucine Alfredo
+image::fettuccine_alfredo/fettuccine_alfredo.jpg[Fettucine Alfredo, width=70%]
+
+2 Portionen
+
+|===
+|200g|Fettucine|kochen in 10g Salz, 1000ml Wasser¹. Nudelwasser abgießen, aber behalten. Dann Nudeln wieder in Topf geben.
+|40g |Butter .3+| Hälfte der Butter verrühren, dann Hälfte des Nudelwasser zugeben und mit Hälfte des Parmesan zur cremiger Konsistenz verrühren.
+
+Dann wiederholen.
+|60g |Parmesan
+|80ml |Nudelwasser
+||| mit Pfeffer servieren
+|===
+
+
+¹ statt 10-100-1000-Regel hier: 10-200-1000

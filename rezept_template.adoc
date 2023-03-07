@@ -1,0 +1,14 @@
+// TODO id umbennen, muss eindeutig sein, wird inkludiert in rezepte.adoc
+[id='sec.benenne_das_rezept']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Name des Rezepts
+
+image::waffeln/waffeln.jpg[Name, width=70%]
+

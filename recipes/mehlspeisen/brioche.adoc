@@ -1,0 +1,36 @@
+[id='sec.brioche']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Brioche
+image::brioche/brioche.png[Brioche,width=70%]
+
+[width="100%",cols=">20%,30%,50%",options=""]
+|===
+|||Butter aus Kühlschrank nehmen (siehe unten)
+|250g |Mehl .4+^.^|  in Küchenmaschine mit Knethaken verrühren
+|25g |Zucker
+|3,5g |Trockenhefe
+|1/2 TL |Salz
+|3 |Eier (M) |Stück für Stück zugeben, weiter kneten bis Teig nicht mehr am Finger klebt
+|200g |*Butter* (Zimmertemperatur)|Stück für Stück zugeben, weiter kneten
+(kann bis dahin 20min dauern, beim Anheben des Knethakens soll sich Teig lösen)
+|||1-2h bei Zimmertemperatur ruhen lassen
+Teig zusammendrücken/klopfen
+mit Frischhaltefolie abgedeckt 1h15min in Kühlschrank ruhen lassen
+|||Backofen auf 180 °C (Umluft) aufheizen
+|||Teig in 3 Teile teilen, Kugeln form und in Backform legen (einfetten + Backpapier)
+
+20 min ruhen lassen
+|||mit geschlagenem Ei bepinseln, in jede Kugel mit Schere Kreuzschnitt durchführen
+|||25min backen
+|===
+
+
+
+Quelle: https://www.youtube.com/watch?v=jYg0rpwpAp4
