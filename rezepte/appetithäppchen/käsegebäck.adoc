@@ -15,8 +15,6 @@ indexterm:[Käsegebäck]
 [width="100%",cols=">20%,30%,50%"]
 |===
 |100g |*Gruyere* | in kleiner KitchenAid-Schüssel reiben
-
-24h einweichen, dann 200ml kochendes Wasser geben und 1h köcheln
 |1 | Eigelb .4+.^| zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen.
 
 30 min in Kühlschrank ruhen
