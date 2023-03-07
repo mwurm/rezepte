@@ -12,17 +12,17 @@ Quelle: https://github.com/SUSE/recipebook.
 == Appetithäppchen
 
 ifdef::env-github[]
-<<rezepte/appetithaeppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
+<<rezepte/appetithäppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
 endif::[]
 ifndef::env-github[]
-include::rezepte/appetithaeppchen/hackfleischtaschen.adoc[]
+include::rezepte/appetithäppchen/hackfleischtaschen.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<rezepte/appetithaeppchen/käsegebäck.adoc#, Käsegebäck>>
+<<rezepte/appetithäppchen/käsegebäck.adoc#, Käsegebäck>>
 endif::[]
 ifndef::env-github[]
-include::rezepte/appetithaeppchen/käsegebäck.adoc[]
+include::rezepte/appetithäppchen/käsegebäck.adoc[]
 endif::[]
 
 [id='sec.beilagen']
