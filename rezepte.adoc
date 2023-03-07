@@ -41,11 +41,21 @@ endif::[]
 [%always]
 <<<
 ifdef::env-github[]
+<<rezepte/beilagen/pesto.adoc#, Pesto>>
+endif::[]
+ifndef::env-github[]
+include::rezepte/beilagen/pesto.adoc[]
+endif::[]
+
+[%always]
+<<<
+ifdef::env-github[]
 <<rezepte/beilagen/hummus.adoc#, Hummus>>
 endif::[]
 ifndef::env-github[]
 include::rezepte/beilagen/hummus.adoc[]
 endif::[]
+
 [%always]
 <<<
 ifdef::env-github[]
@@ -131,6 +141,22 @@ endif::[]
 ifndef::env-github[]
 include::rezepte/mehlspeisen/waffeln.adoc[]
 endif::[]
+
+[%always]
+<<<
+[id='sec.kuchen']
+== Kuchen
+
+[%always]
+<<<
+ifdef::env-github[]
+<<rezepte/kuchen/zwiebelkuchen.adoc#, Zwiebelkuchen>>
+endif::[]
+ifndef::env-github[]
+include::rezepte/kuchen/zwiebelkuchen.adoc[]
+endif::[]
+
+
 
 ifdef::backend-pdf[]
 [%always]

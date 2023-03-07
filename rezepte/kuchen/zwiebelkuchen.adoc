@@ -1,0 +1,36 @@
+[id='sec.zwiebelkuchen']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+(((Zwiebelkuchen)))
+
+=== Zwiebelkuchen
+
+TODO unvolständig. Rezeptquelle?
+
+für die Le Creuset Tarte-Form
+
+4 Portionen
+
+[width="100%",cols=">20%,30%,50%"]
+|===
+|xml|Milch .6+.^| Hefe, Zucker und 3/4 der Milch in Teigschlüssel geben. Auflösen
+
+Mehl zugegeben und kneten.
+
+Salz und Rest der Milch zugeben und weiterkneten, dabei portionsweise Butter zugeben.
+|xg|Trockenhefe
+|x TL|Zucker
+|250g|Mehl
+|250g|Salz
+|50g |Butter (weich)
+|75g|Speckwürfel| anbraten
+|25g|Butter .2+.^| zugeben, glasig dünsten
+|750g|Zwiebel (fein gewürfelt)
+
+|===

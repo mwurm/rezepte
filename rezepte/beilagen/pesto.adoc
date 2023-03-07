@@ -1,12 +1,28 @@
-= Pesto Verde
+[id='sec.pesto']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+(((Pesto)))
+
+=== Pesto
+
+(((Pesto, Verde)))
+
+=== Pesto Verde
+
 2 Portionen
 [width="100%",cols=">20%,30%,50%",options=""]
 |===
-|20g|Pinienkerne _(geröstet)_ .4+|im Zerkleinerer grob pürieren
+|20g|Pinienkerne _(geröstet)_ .4+.^|im Zerkleinerer grob pürieren
 |0,5 |Zehe Knoblauch _(gewürfelt)_ 
 |50g |Basilikum
 |60ml |Olivenöl
-|25g |Parmesan .2+| unterrühren und würzen
+|25g |Parmesan .2+.^| unterrühren und würzen
 |1/2 TL |Salz 
 |===
 
@@ -14,14 +30,20 @@ _Testen_: Eiswürfel soll oxidieren des Pestos verhindern (bei 2 Portionen Eisw�
 
 Quelle: https://www.lecker.de/basilikum-pesto-29673.html
 
-== Bärlauch-Pesto
+(((Pesto, Bärlauch-Pesto)))
+
+==== Bärlauch-Pesto
 Bärlauch statt Basisilikum
 
-== Bärlauch-Petersilien-Pesto
+(((Pesto, Bärlauch-Petersilien-Pesto)))
+
+==== Bärlauch-Petersilien-Pesto
 1:1 Bärlauch:Petersilie statt Basilikum
 
 
-== Pesto Rosso
+(((Pesto, Rosso)))
+
+==== Pesto Rosso
 2 Portionen?
 [width="100%",cols=">20%,30%,50%",options=""]
 |===
