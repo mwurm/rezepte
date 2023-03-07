@@ -17,7 +17,7 @@ https://suse.github.io/recipebook/recipes.html
 
 Want to help? We love to hear that! Below are a few hints to guide you.
 
-1. Create a new recipe file under recipes/<appropriate_directory>/ 
+1. Create a new recipe file under rezepte/<appropriate_directory>/
    Consider copying the recipe_template.adoc from the top level folder
    to have a baseline to work from.
 2. Make sure you include a section identifier `[id='sec.recipe_name']` and a title `=== Recipe Name`
@@ -25,7 +25,7 @@ Want to help? We love to hear that! Below are a few hints to guide you.
 3. Add a reference to the new recipe to rezepte.adoc in the top level
 4. Add any images to images/<recipe_name>/
 5. build the docs with docbuild.sh (requires asciidoctor, see below for install details)
-6. check the output at build/recipes.html to verify it matches the formatting you want
+6. check the output at build/rezepte.html to verify it matches the formatting you want
 
 It is recommended to start your recipe by copying recipe_template.adoc from the top
 level folder. Alternately, look at the existing recipes to copy the formatting for
@@ -40,7 +40,7 @@ great AsciiDoc documentation, see https://asciidoctor.org/docs/asciidoc-writers-
 Viewing asciidoc is most easily done via a plugin to Chrome such as
 https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
 
-Add your recipe under recipes/<recipe-type> ... desserts go under recipes/desserts for example
+Add your recipe under rezepte/<recipe-type> ... desserts go under rezepte/desserts for example
 
 Images associated with the recipe should be added under the images folder at the top level, then
 inside a sub-folder with the recipe name
@@ -64,4 +64,4 @@ After installing asciidoctor, run the build:
 # or if you installed asciidoctor via bundler
 bundle exec -- ./docbuild.sh
 ----
-The output of the build will be build/recipes.html
+The output of the build will be build/rezepte.html

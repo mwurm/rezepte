@@ -12,34 +12,34 @@ Quelle: https://github.com/SUSE/recipebook.
 == Appetithäppchen
 
 ifdef::env-github[]
-<<recipes/appetithaeppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
+<<rezepte/appetithaeppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
 endif::[]
 ifndef::env-github[]
-include::recipes/appetithaeppchen/hackfleischtaschen.adoc[]
+include::rezepte/appetithaeppchen/hackfleischtaschen.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/appetithaeppchen/käsegebäck.adoc#, Käsegebäck>>
+<<rezepte/appetithaeppchen/käsegebäck.adoc#, Käsegebäck>>
 endif::[]
 ifndef::env-github[]
-include::recipes/appetithaeppchen/käsegebäck.adoc[]
+include::rezepte/appetithaeppchen/käsegebäck.adoc[]
 endif::[]
 
 [id='sec.beilagen']
 == Beilagen
 
 ifdef::env-github[]
-<<recipes/beilagen/hummus.adoc#, Hummus>>
+<<rezepte/beilagen/hummus.adoc#, Hummus>>
 endif::[]
 ifndef::env-github[]
-include::recipes/beilagen/hummus.adoc[]
+include::rezepte/beilagen/hummus.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/beilagen/semmelknödel.adoc#, Semmelknödel>>
+<<rezepte/beilagen/semmelknödel.adoc#, Semmelknödel>>
 endif::[]
 ifndef::env-github[]
-include::recipes/beilagen/semmelknödel.adoc[]
+include::rezepte/beilagen/semmelknödel.adoc[]
 endif::[]
 
 
@@ -47,31 +47,31 @@ endif::[]
 == Nudeln
 
 ifdef::env-github[]
-<<recipes/nudeln/fettuccine_alfredo.adoc#, Fettucine Alfredo>>
+<<rezepte/nudeln/fettuccine_alfredo.adoc#, Fettucine Alfredo>>
 endif::[]
 ifndef::env-github[]
-include::recipes/nudeln/fettuccine_alfredo.adoc[]
+include::rezepte/nudeln/fettuccine_alfredo.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/nudeln/lemon_tagliatelle.adoc#, Lemon Tagliatelle>>
+<<rezepte/nudeln/lemon_tagliatelle.adoc#, Lemon Tagliatelle>>
 endif::[]
 ifndef::env-github[]
-include::recipes/nudeln/lemon_tagliatelle.adoc[]
+include::rezepte/nudeln/lemon_tagliatelle.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/nudeln/ragu_alla_bolognese.adoc#, Ragù alla Bolognese>>
+<<rezepte/nudeln/ragu_alla_bolognese.adoc#, Ragù alla Bolognese>>
 endif::[]
 ifndef::env-github[]
-include::recipes/nudeln/ragu_alla_bolognese.adoc[]
+include::rezepte/nudeln/ragu_alla_bolognese.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/nudeln/tagliatelle_alla_emiliana.adoc#, Tagliatelle alla emiliana>>
+<<rezepte/nudeln/tagliatelle_alla_emiliana.adoc#, Tagliatelle alla emiliana>>
 endif::[]
 ifndef::env-github[]
-include::recipes/nudeln/tagliatelle_alla_emiliana.adoc[]
+include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
 endif::[]
 
 
@@ -82,23 +82,23 @@ endif::[]
 Mehlspeisen sind süße oder pikante Gerichte aus Mehl, Eiern, Milch und Zucker. Bekannte Beispiele sind Kuchen, Strudel, Palatschinken und Knödel. Sie sind ein wichtiger Bestandteil vieler Küchen und werden oft als Dessert, Snack oder Hauptgericht serviert.
 
 ifdef::env-github[]
-<<recipes/mehlspeisen/brioche.adoc#, Brioche>>
+<<rezepte/mehlspeisen/brioche.adoc#, Brioche>>
 endif::[]
 ifndef::env-github[]
-include::recipes/mehlspeisen/brioche.adoc[]
+include::rezepte/mehlspeisen/brioche.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/mehlspeisen/naan.adoc#, Naan>>
+<<rezepte/mehlspeisen/naan.adoc#, Naan>>
 endif::[]
 ifndef::env-github[]
-include::recipes/mehlspeisen/naan.adoc[]
+include::rezepte/mehlspeisen/naan.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/mehlspeisen/waffeln.adoc#, Waffeln>>
+<<rezepte/mehlspeisen/waffeln.adoc#, Waffeln>>
 endif::[]
 ifndef::env-github[]
-include::recipes/mehlspeisen/waffeln.adoc[]
+include::rezepte/mehlspeisen/waffeln.adoc[]
 endif::[]
 
