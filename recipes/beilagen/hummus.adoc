@@ -19,7 +19,7 @@ endif::[]
 
 |||
 
-|1 Zehe |Knoblauch (grepresst) .8+^.^|im kleinen Philips-Mixer pürieren
+|1 Zehe |Knoblauch (grepresst) .8+.^|im kleinen Philips-Mixer pürieren
 
 |13ml |*Zitronensaft*
 
