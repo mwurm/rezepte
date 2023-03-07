@@ -8,7 +8,7 @@ ifndef::env-github[]
 endif::[]
 
 === Waffeln
-image::waffeln/waffeln.jpg[Waffeln,width=70%]
+image::waffeln/waffeln.jpg[Waffeln,width=30%]
 
 für 4 Personen
 

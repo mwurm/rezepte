@@ -10,5 +10,5 @@ endif::[]
 
 === Name des Rezepts
 
-image::waffeln/waffeln.jpg[Name, width=70%]
+image::waffeln/waffeln.jpg[Name, width=30%]
 

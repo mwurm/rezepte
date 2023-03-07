@@ -8,7 +8,7 @@ ifndef::env-github[]
 endif::[]
 
 === Brioche
-image::brioche/brioche.png[Brioche,width=70%]
+image::brioche/brioche.png[Brioche,width=30%]
 
 [width="100%",cols=">20%,30%,50%",options=""]
 |===
