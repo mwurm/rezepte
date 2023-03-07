@@ -6,11 +6,15 @@ endif::[]
 ifndef::env-github[]
 :imagesdir: images
 endif::[]
-=== Lemon Tagliatelle
 
+indexterm:[Lemon Tagliatelle]
+indexterm:[Pasta, Lemon Tagliatelle]
+
+=== Lemon Tagliatelle
 
 2 Portionen
 
+[width="100%",cols=">20%,30%,50%"]
 |===
 |200g|Tagliatelle|kochen, Nudelwasser behalten!
 |2 |Knoblauch _(Scheiben)_ .2+.^|in Olivenöl anbraten

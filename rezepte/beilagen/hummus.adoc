@@ -7,9 +7,10 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
-=== Hummus
+indexterm:[Hummus]
 
-2 Portionen 
+=== Hummus
+2 Portionen
 
 [width="100%",cols=">20%,30%,50%"]
 |===

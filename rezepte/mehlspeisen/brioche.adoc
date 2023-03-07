@@ -7,7 +7,10 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
+indexterm:[Brioche]
+
 === Brioche
+
 image::brioche/brioche.png[Brioche,width=30%]
 
 [width="100%",cols=">20%,30%,50%",options=""]

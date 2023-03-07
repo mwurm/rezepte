@@ -7,6 +7,10 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
+indexterm:[Naan]
+indexterm:[Brot, Naan]
+
 === Naan
+
 
 https://www.youtube.com/watch?v=qnzBkCkv9gs

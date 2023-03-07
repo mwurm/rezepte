@@ -7,9 +7,11 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
-=== Semmelknödel
+indexterm:[Semmelknödel]
+indexterm:[Knödel, Semmelknödel]
 
-4 Portionen 
+=== Semmelknödel
+4 Portionen
 
 [width="100%",cols=">20%,30%,50%"]
 |===

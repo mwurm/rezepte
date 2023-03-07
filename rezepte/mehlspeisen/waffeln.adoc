@@ -7,11 +7,15 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
+indexterm:[Waffeln]
+
 === Waffeln
+
 image::waffeln/waffeln.jpg[Waffeln,width=30%]
 
 für 4 Personen
 
+[width="100%",cols=">20%,30%,50%"]
 |===
 |125g |Butter (weich) .4+.^| in Rührschüssel verrühren
 |100g|Zucker

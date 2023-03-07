@@ -7,8 +7,9 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
-=== Käsegebäck
+indexterm:[Käsegebäck]
 
+=== Käsegebäck
 4 Portionen
 
 [width="100%",cols=">20%,30%,50%"]

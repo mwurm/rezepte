@@ -7,11 +7,16 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
+indexterm:[Alfredo]
+indexterm:[Pasta, Alfredo]
+
 === Fettucine Alfredo
+
 image::fettuccine_alfredo/fettuccine_alfredo.jpg[Fettucine Alfredo, width=30%]
 
 2 Portionen
 
+[width="100%",cols=">20%,30%,50%"]
 |===
 |200g|Fettucine|kochen in 10g Salz, 1000ml Wasser¹. Nudelwasser abgießen, aber behalten. Dann Nudeln wieder in Topf geben.
 |40g |Butter .3+.^| Hälfte der Butter verrühren, dann Hälfte des Nudelwassers zugeben und mit Hälfte des Parmesans zu cremiger Konsistenz verrühren.

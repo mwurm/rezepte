@@ -4,20 +4,27 @@
 :docinfo:
 
 = Rezepte
+:pdf-page-size: A5
 :toc:
 
 Quelle: https://github.com/SUSE/recipebook.
 
+
+[%always]
+<<<
 [id='sec.appetithaeppchen']
 == Appetithäppchen
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/appetithäppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
 endif::[]
 ifndef::env-github[]
 include::rezepte/appetithäppchen/hackfleischtaschen.adoc[]
 endif::[]
-
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/appetithäppchen/käsegebäck.adoc#, Käsegebäck>>
 endif::[]
@@ -25,16 +32,22 @@ ifndef::env-github[]
 include::rezepte/appetithäppchen/käsegebäck.adoc[]
 endif::[]
 
+
+[%always]
+<<<
 [id='sec.beilagen']
 == Beilagen
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/beilagen/hummus.adoc#, Hummus>>
 endif::[]
 ifndef::env-github[]
 include::rezepte/beilagen/hummus.adoc[]
 endif::[]
-
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/beilagen/semmelknödel.adoc#, Semmelknödel>>
 endif::[]
@@ -42,10 +55,13 @@ ifndef::env-github[]
 include::rezepte/beilagen/semmelknödel.adoc[]
 endif::[]
 
-
+[%always]
+<<<
 [id='sec.nudeln']
 == Nudeln
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/nudeln/fettuccine_alfredo.adoc#, Fettucine Alfredo>>
 endif::[]
@@ -53,6 +69,8 @@ ifndef::env-github[]
 include::rezepte/nudeln/fettuccine_alfredo.adoc[]
 endif::[]
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/nudeln/lemon_tagliatelle.adoc#, Lemon Tagliatelle>>
 endif::[]
@@ -60,6 +78,8 @@ ifndef::env-github[]
 include::rezepte/nudeln/lemon_tagliatelle.adoc[]
 endif::[]
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/nudeln/ragu_alla_bolognese.adoc#, Ragù alla Bolognese>>
 endif::[]
@@ -67,6 +87,8 @@ ifndef::env-github[]
 include::rezepte/nudeln/ragu_alla_bolognese.adoc[]
 endif::[]
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/nudeln/tagliatelle_alla_emiliana.adoc#, Tagliatelle alla emiliana>>
 endif::[]
@@ -76,11 +98,15 @@ endif::[]
 
 
 
+[%always]
+<<<
 [id='sec.mehlspeisen']
 == Mehlspeisen
 
 Mehlspeisen sind süße oder pikante Gerichte aus Mehl, Eiern, Milch und Zucker. Bekannte Beispiele sind Kuchen, Strudel, Palatschinken und Knödel. Sie sind ein wichtiger Bestandteil vieler Küchen und werden oft als Dessert, Snack oder Hauptgericht serviert.
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/mehlspeisen/brioche.adoc#, Brioche>>
 endif::[]
@@ -88,6 +114,8 @@ ifndef::env-github[]
 include::rezepte/mehlspeisen/brioche.adoc[]
 endif::[]
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/mehlspeisen/naan.adoc#, Naan>>
 endif::[]
@@ -95,6 +123,8 @@ ifndef::env-github[]
 include::rezepte/mehlspeisen/naan.adoc[]
 endif::[]
 
+[%always]
+<<<
 ifdef::env-github[]
 <<rezepte/mehlspeisen/waffeln.adoc#, Waffeln>>
 endif::[]
@@ -102,3 +132,9 @@ ifndef::env-github[]
 include::rezepte/mehlspeisen/waffeln.adoc[]
 endif::[]
 
+ifdef::backend-pdf[]
+[%always]
+<<<
+[index]
+== Index
+endif::[]

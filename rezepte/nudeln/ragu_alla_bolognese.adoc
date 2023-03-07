@@ -7,10 +7,15 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
+indexterm:[Bolognese]
+indexterm:[Ragù alla Bolognese]
+indexterm:[Pasta, Ragù alla Bolognese]
+
 === Ragù alla Bolognese
 
 4 Portionen
 
+[width="100%",cols=">20%,30%,50%"]
 |===
 |100g|*Pancetta*|klein hacken, in 2EL neutralem Öl anbraten
 |1 |Zwiebel _(gewürfelt)_ |zugeben, glasis anbraten
