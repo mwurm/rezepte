@@ -1,4 +1,4 @@
-[id='sec.semmelknoedel']
+[id='sec.curry_mango_garnelen']
 
 ifdef::env-github[]
 :imagesdir: ../../images
