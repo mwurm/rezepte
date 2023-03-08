@@ -1,0 +1,19 @@
+[id='sec.semmelknoedel']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+indexterm:[Curry-Mango-Garnelen]
+indexterm:[Garnelen, Curry-Mango-Garnelen]
+
+=== Curry-Mango-Garnelen
+
+image::curry_mango_garnelen/curry_mango_garnelen.jpg[Hackfleischtaschen, width=30%]
+
+2 Portionen
+
+Quelle: <<_5Z>>, S. 147

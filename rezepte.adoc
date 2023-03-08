@@ -110,6 +110,20 @@ endif::[]
 
 [%always]
 <<<
+[id='sec.fisch']
+== Fisch
+
+[%always]
+<<<
+ifdef::env-github[]
+<<rezepte/fisch/curry_mango_garnelen.adoc#, Curry-Mango-Garnelen>>
+endif::[]
+ifndef::env-github[]
+include::rezepte/fisch/curry_mango_garnelen.adoc[]
+endif::[]
+
+[%always]
+<<<
 [id='sec.vegetarisches']
 == Vegetarisches
 
