@@ -18,20 +18,11 @@ Quelle: https://github.com/SUSE/recipebook.
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/appetithäppchen/hackfleischtaschen.adoc#, Hackfleischtaschen>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/appetithäppchen/hackfleischtaschen.adoc[]
-endif::[]
+
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/appetithäppchen/käsegebäck.adoc#, Käsegebäck>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/appetithäppchen/käsegebäck.adoc[]
-endif::[]
 
 
 [%always]
@@ -41,30 +32,15 @@ endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/beilagen/pesto.adoc#, Pesto>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/beilagen/pesto.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/beilagen/hummus.adoc#, Hummus>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/beilagen/hummus.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/beilagen/semmelknödel.adoc#, Semmelknödel>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/beilagen/semmelknödel.adoc[]
-endif::[]
 
 (((Reis, Tomatenreis)))
 (((Tomatenreis)))
@@ -78,39 +54,19 @@ endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/nudeln/fettuccine_alfredo.adoc#, Fettucine Alfredo>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/nudeln/fettuccine_alfredo.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/nudeln/lemon_tagliatelle.adoc#, Lemon Tagliatelle>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/nudeln/lemon_tagliatelle.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/nudeln/ragu_alla_bolognese.adoc#, Ragù alla Bolognese>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/nudeln/ragu_alla_bolognese.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/nudeln/tagliatelle_alla_emiliana.adoc#, Tagliatelle alla emiliana>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
-endif::[]
 
 
 [%always]
@@ -120,12 +76,7 @@ endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/fisch/curry_mango_garnelen.adoc#, Curry-Mango-Garnelen>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/fisch/curry_mango_garnelen.adoc[]
-endif::[]
 
 [%always]
 <<<
@@ -134,12 +85,7 @@ endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/vegetarisches/linsencurry_mit_spinat.adoc#, Linsencurry mit Spinat>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/vegetarisches/linsencurry_mit_spinat.adoc[]
-endif::[]
 
 (((Spargel und Eier mit French Dressing)))
 
@@ -264,30 +210,15 @@ Mehlspeisen sind süße oder pikante Gerichte aus Mehl, Eiern, Milch und Zucker.
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/mehlspeisen/brioche.adoc#, Brioche>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/mehlspeisen/brioche.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/mehlspeisen/naan.adoc#, Naan>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/mehlspeisen/naan.adoc[]
-endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/mehlspeisen/waffeln.adoc#, Waffeln>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/mehlspeisen/waffeln.adoc[]
-endif::[]
 
 [%always]
 <<<
@@ -296,12 +227,7 @@ endif::[]
 
 [%always]
 <<<
-ifdef::env-github[]
-<<rezepte/kuchen/zwiebelkuchen.adoc#, Zwiebelkuchen>>
-endif::[]
-ifndef::env-github[]
 include::rezepte/kuchen/zwiebelkuchen.adoc[]
-endif::[]
 
 
 [%always]
