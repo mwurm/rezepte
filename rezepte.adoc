@@ -1,5 +1,6 @@
-
 :imagesdir: images
+:lang: DE
+:hyphens:
 
 :docinfo:
 
@@ -107,6 +108,19 @@ include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
 endif::[]
 
 
+[%always]
+<<<
+[id='sec.vegetarisches']
+== Vegetarisches
+
+[%always]
+<<<
+ifdef::env-github[]
+<<rezepte/vegetarisches/linsencurry_mit_spinat.adoc#, Linsencurry mit Spinat>>
+endif::[]
+ifndef::env-github[]
+include::rezepte/vegetarisches/linsencurry_mit_spinat.adoc[]
+endif::[]
 
 [%always]
 <<<
@@ -157,6 +171,13 @@ include::rezepte/kuchen/zwiebelkuchen.adoc[]
 endif::[]
 
 
+[%always]
+<<<
+[bibliography]
+== Literatur
+
+* [[[_5Z]]] Jamie Oliver. 5-Zutaten-Küche
+* [[[_15M]]] Jamie Oliver. 15-Minuten-Küche
 
 ifdef::backend-pdf[]
 [%always]

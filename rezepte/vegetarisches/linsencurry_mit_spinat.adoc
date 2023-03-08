@@ -1,0 +1,33 @@
+[id='sec.linsencurry_mit_spinat']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+(((Linsencurry mit Spinat)))
+(((Curry, Linsencurry mit Spinat)))
+
+=== Linsencurry mit Spinat
+
+2 Portionen
+
+[width="100%",cols=">20%,30%,50%"]
+|===
+|1 |Zwiebel _(geviertelt)_ .4+.^| zerkleinern (Maschine)
+|1 Stück _(daumengroß)_|*Ingwer*
+|1 Bund |*Koriander* (Stiele)
+|1 |*rote Paprika* _(grob geschnitten)_
+|1 TL|Curry .2+.^| in Öl andünsten, Gemüsepürree zugeben und 1m andünsten
+|1 TL|*Senfsamen*
+|150 g|*rote Linsen* .3+.^|zugeben, 5m köcheln
+|200 g|*Kokosmilch*
+|350 ml|Wasser (kochend)
+|100g|*Blattspinat* (TK)|zugeben, 5m köcheln
+|===
+
+Beilagen: <<sec.naan, Naan-Brot>>, Joghurt
+
+Quelle: <<_15M>>, S. 240
