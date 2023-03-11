@@ -60,10 +60,15 @@ include::rezepte/appetithäppchen/käsegebäck.adoc[]
 === Kürbissuppe
 === Gulaschsuppe
 
+
 [%always]
 <<<
 [id='sec.salat']
 == Salat
+
+[%always]
+<<<
+include::rezepte/salat/avocado_bulgur_salat.adoc[]
 
 === Bayrischer Wurstsalat
 === Falafelsalat mit Tahin-Dressing (telegram 21-9-13)
@@ -108,8 +113,6 @@ include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
 === … mit Walnuss-Soße
 === Lasagne
 === Risotto
-
-
 
 [%always]
 <<<
@@ -499,6 +502,26 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 == Saisonal
 === Halloween
 ==== Spinnen-Pizza (???)
+
+
+[%always]
+<<<
+[id='sec.gebaeck']
+== Gebäck
+
+[%always]
+<<<
+include::rezepte/gebäck/schoko_cookies_mit_m_und_ms.adoc[]
+
+[%always]
+<<<
+[id='sec.basis']
+== Basis
+
+[%always]
+<<<
+include::rezepte/basis/brauner_us_zucker.adoc[]
+
 
 
 [%always]
