@@ -84,19 +84,19 @@ include::rezepte/appetithäppchen/käsegebäck.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/fettuccine_alfredo.adoc[]
+include::rezepte/pasta/fettuccine_alfredo.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/lemon_tagliatelle.adoc[]
+include::rezepte/pasta/lemon_tagliatelle.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/ragu_alla_bolognese.adoc[]
+include::rezepte/pasta/ragu_alla_bolognese.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
+include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
 
 === Amatriciana
 === Carbonara
