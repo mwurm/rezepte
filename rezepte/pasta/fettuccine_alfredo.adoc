@@ -18,14 +18,17 @@ image::fettuccine_alfredo/fettuccine_alfredo.jpg[Fettucine Alfredo, width=30%]
 
 [width="100%",cols=">20%,30%,50%"]
 |===
-|200g|Fettucine|kochen in 10g Salz, 1000ml Wasser¹. Nudelwasser abgießen, aber behalten. Dann Nudeln wieder in Topf geben.
-|40g |Butter .3+.^| Hälfte der Butter verrühren, dann Hälfte des Nudelwassers zugeben und mit Hälfte des Parmesans zu cremiger Konsistenz verrühren.
+|200g|Fettucine|kochen (mit halb soviel Wasser als üblich)¹.
+
+Nudelwasser abgießen, aber einen Teil behalten.
+
+Pasta für den nächsten Schritt wieder in den noch heißen Topf geben.
+|40g |Butter .3+.^| Jeweils die Hälfte von Butter, Nudelwasser und Parmesan in die Pasta geben und zu cremiger Konsistenz verrühren.
 
 Dann wiederholen.
-|60g |Parmesan
 |80ml |Nudelwasser
+|60g |Parmesan
 ||| mit Pfeffer servieren
 |===
-
 
 ¹ statt 10-100-1000-Regel hier: 10-200-1000
