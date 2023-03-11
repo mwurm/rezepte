@@ -49,8 +49,18 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 
 [%always]
 <<<
-[id='sec.nudeln']
-== Nudeln
+[id='sec.salat']
+== Salat
+
+[%always]
+<<<
+include::rezepte/beilagen/avocado_bulgur_salat.adoc[]
+
+
+[%always]
+<<<
+[id='sec.pasta']
+== Pasta
 
 [%always]
 <<<
@@ -235,7 +245,7 @@ include::rezepte/kuchen/zwiebelkuchen.adoc[]
 == Kategorien
 
 === Schnelle Gerichte
-* <<sec.nudeln, Pasta-Gerichte>>
+* <<sec.pasta, Pasta-Gerichte>>
 * Rührei
 * Shakshuka
 * Weißwürste
