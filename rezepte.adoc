@@ -70,6 +70,11 @@ include::rezepte/appetithäppchen/käsegebäck.adoc[]
 === Italienischer Salat
 === Salat mit Maultaschen + Sauerrahmdressing
 === Caesar Salad (JO 20m)
+=== Avocado-Bulgur-Salat
+=== Gurkensalat
+=== Mediterraner Nudelsalat
+=== Kartoffelsalat
+=== Karottensalat
 
 
 [%always]
@@ -441,16 +446,12 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 === Rahmwirsing
 === Röstzwiebeln
 === Tsatsiki
-=== Avocado-Bulgur-Salat
-=== Gurkensalat
-=== Mediterraner Nudelsalat
-=== Kartoffelsalat
 === Pommes Frites
 === Kroketten
 === Rösti
 === Grüne Bohnen
 === Rispentomaten aus dem Ofen
-=== Karottensalat
+
 
 == süße Beilagen
 === Pflaumenröster
