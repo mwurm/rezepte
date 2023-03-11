@@ -54,7 +54,7 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 
 [%always]
 <<<
-include::rezepte/beilagen/avocado_bulgur_salat.adoc[]
+include::rezepte/salat/avocado_bulgur_salat.adoc[]
 
 
 [%always]
@@ -238,6 +238,26 @@ include::rezepte/mehlspeisen/waffeln.adoc[]
 [%always]
 <<<
 include::rezepte/kuchen/zwiebelkuchen.adoc[]
+
+
+[%always]
+<<<
+[id='sec.gebaeck']
+== Gebäck
+
+[%always]
+<<<
+include::rezepte/gebäck/schoko_cookies_mit_m_und_ms.adoc[]
+
+[%always]
+<<<
+[id='sec.basis']
+== Basis
+
+[%always]
+<<<
+include::rezepte/basis/brauner_us_zucker.adoc[]
+
 
 
 [%always]
