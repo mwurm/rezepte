@@ -11,7 +11,7 @@ endif::[]
 
 === Zwiebelkuchen
 
-TODO unvolständig. Rezeptquelle?
+TODO unvollständig. Quelle?
 
 für die Le Creuset Tarte-Form
 
@@ -19,11 +19,11 @@ für die Le Creuset Tarte-Form
 
 [width="100%",cols=">20%,30%,50%"]
 |===
-|xml|Milch .6+.^| Hefe, Zucker und 3/4 der Milch in Teigschlüssel geben. Auflösen
+|xml|Milch .6+.^| Hefe, Zucker und 3/4 der Milch in Teigschüssel geben. Auflösen
 
 Mehl zugegeben und kneten.
 
-Salz und Rest der Milch zugeben und weiterkneten, dabei portionsweise Butter zugeben.
+Salz und Rest der Milch zugeben und weiter kneten, dabei portionsweise Butter zugeben.
 |xg|Trockenhefe
 |x TL|Zucker
 |250g|Mehl

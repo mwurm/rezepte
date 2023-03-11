@@ -251,7 +251,7 @@ include::rezepte/kuchen/zwiebelkuchen.adoc[]
 * Pilztopf
 * Rührei
 * Shakshuka
-* Spargel mit Eier und French Dressing
+* Spargel mit Eiern und French Dressing
 * Süßkartoffeln Cajun-Style
 
 
