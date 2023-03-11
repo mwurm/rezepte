@@ -7,10 +7,10 @@ ifndef::env-github[]
 :imagesdir: images
 endif::[]
 
-(((Schoko-Cookies mit m&m's)))
-(((m&m-Cookies, Schoko-Cookies mit m&m's)))
+(((Schoko-Cookies mit M&M's)))
+(((M&M-Cookies, Schoko-Cookies mit M&M's)))
 
-=== Schoko-Cookies mit m&m's
+=== Schoko-Cookies mit M&M's
 9-12 Cookies
 
 [width="100%",cols=">20%,30%,50%"]
@@ -32,6 +32,6 @@ endif::[]
 |40 g|Schokodrops .2+.^|auf Cookies drücken
 
 15 min backen
-|100 g|m&m's (Erdnuss)
+|100 g|M&M's (Erdnuss)
 
 |===
