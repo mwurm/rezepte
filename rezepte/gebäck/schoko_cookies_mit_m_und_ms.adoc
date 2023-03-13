@@ -11,7 +11,7 @@ endif::[]
 (((M&M-Cookies, Schoko-Cookies mit M&M's)))
 
 === Schoko-Cookies mit M&M's
-9-12 Cookies
+15 Cookies
 
 [width="100%",cols=">20%,30%,50%"]
 |===
@@ -27,7 +27,7 @@ endif::[]
 
 |40 g|Schokodrops|zugeben, kurz verkneten
 
-9-12 Cookies formen
+15 Cookies formen (ein leicht gehäufter EL pro Portion)
 
 |40 g|Schokodrops .2+.^|auf Cookies drücken
 
