@@ -458,7 +458,11 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 
 == süße Beilagen
 === Pflaumenröster
-=== Vanillesoße
+
+[%always]
+<<<
+include::rezepte/süße_beilagen/vanillesoße.adoc[]
+
 === Orangenscheiben, getrocknet
 === Himbeermark
 
