@@ -129,6 +129,10 @@ include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
 [id='sec.rind_und_schwein']
 == Rind & Schwein
 
+[%always]
+<<<
+include::rezepte/rind_und_schwein/texas_jailhouse_chili.adoc[]
+
 === Bifteki
 === Bosna
 === Cevapcici
@@ -149,7 +153,6 @@ include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
 === Schmorfleisch Jamie-Style
 === Schweinefilet vom Grill
 === Souvlaki
-=== Texas Jailhouse Chili
 === Weißwürste
 === What the hack-Buletten (MM)
 === Wiener

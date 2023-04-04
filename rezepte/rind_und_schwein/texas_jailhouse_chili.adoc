@@ -1,0 +1,45 @@
+[id='sec.texas_jailhouse_chili']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+(((Chili)))
+(((Chili, Texas Jailhouse)))
+
+=== Texas Jailhouse Chili
+8 Portionen
+
+[width="100%",cols="30%l,.^70%l", grid=rows]
+|===
+|500g Rindfleisch
+|anbraten, vom Topf nehmen
+|2 Zwiebeln; gewürfelt
+500g Hackfleisch
+500g Chorizo; Scheiben
+|anbraten (Chorizo etwas später), würzen
+|1 TL  Worcester-Soße
+0,33l Bier
+|ablöschen, Rindfleisch wieder dazu
+|200g   Tomaten; gehackt
+100g   Tomatenmark
+1 EL   Essig
+1 Zehe Knoblauch
+1      Habanero
+2 EL   Petersilie
+1 EL   Oregano
+1 TL   Kreuzkümmel
+1 TL   Estragon
+2 TL   Zucker
+2 TL   Salz
+|zugeben, ca. 2h köcheln lassen
+|25g  Schokolade
+2 TL Pfeffer
+|zugeben
+|1 Dose Pinto-Bohnen
+|getrennt servieren
+|===
+
