@@ -12,119 +12,18 @@ indexterm:[Käsegebäck]
 === Käsegebäck
 4 Portionen
 
-[width="100%",cols=">10%,25%,65%"]
-|===
-|100g |*Gruyere* | in kleiner KitchenAid-Schüssel reiben
-|1 | Eigelb .4+.^| zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen.
-
-30 min in Kühlschrank ruhen
-|85g | Mehl
-|60g | Butter (kalt, gewürfelt)
-|1 Pr |Salz, Pfeffer, Cayennepfeffer
-
-|1 |Eiklar .2+.^| Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
-| |Blüten / Cumin
-||| Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen
-
-7-8 min backen
-|===
-
-
-
-*Favorit (auch gut parsbar, wenn ich es spaeter mal umwandeln moechte)*:
-[width="100%",cols="30%l,.^70%l"]
+[width="100%",cols="30%l,.^70%l", grid=rows]
 |===
 |100g Gruyere |in kleiner KitchenAid-Schüssel reiben
-|
-1    Eigelb
+|1    Eigelb
 85g  Mehl 
 60g  Butter; kalt, gewürfelt
 1 Pr Salz, Pfeffer, Cayennepfeffer
 |zugeben, mit Maschine zu glattem Teig kneten, ab und zu mit Hand nachhelfen.
 30 min in Kühlschrank ruhen
 |1 Eiklar
-Blüten / Cumin
+  Blüten / Cumin
 |Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
 ||Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen.
 7-8 min backen
 |===
-
-
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-! 100g ! *Gruyere*
-!===
-.^| in kleiner KitchenAid-Schüssel reiben
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-! 1 ! Eigelb
-! 85g ! Mehl
-!60g ! *Butter* (kalt, gewürfelt)
-!1 Pr !Salz, Pfeffer, Cayennepfeffer
-!===
-.^| zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen.
-
-30 min in Kühlschrank ruhen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-! 1 ! Eiklar
-! ! Blüten / Cumin
-!===
-.^| Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
-
-|| Backofen auf 180 °C vorheizen.
-
-Gebäck 30 min auf Blech ruhen lassen. 7-8 min backen.
-|===
-
-
-
-====
-100g Gruyere +
-[.text-center]
-in kleiner KitchenAid-Schüssel reiben
-====
-====
-1 Eigelb +
-85g Mehl +
-60g Butter; kalt, gewürfelt +
-1 Pr Salz, Pfeffer, Cayennepfeffer +
-[.text-center]
-zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen. 30 min in Kühlschrank ruhen.
-====
-====
-1 Eiklar +
-Blüten / Cumin +
-[.text-center]
-Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
-====
-====
-[.text-center]
-Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen.7-8 min backen.
-====
-
-```
-Käsegebäck
-20? Portionen 
-
-100g Gruyere
-# in kleiner KitchenAid-Schüssel reiben
-
-1    Eigelb
-85g  Mehl
-60g  Butter; kalt, gewürfelt
-1 Pr Salz, Pfeffer, Cayennepfeffer
-# zugeben, mit Maschine zu glattem Teig knete, ab und zu mit Hand nachhelfen. 30 min in Kühlschrank ruhen.
-
-1 Eiklar
-  Blüten / Cumin
-# Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
-
-# Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen.7-8 min backen.
-
-```
