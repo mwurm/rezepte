@@ -15,17 +15,15 @@ endif::[]
 
 [width="100%",cols="30%l,.^70%l", grid=rows]
 |===
-|500g Rindfleisch
-|anbraten, vom Topf nehmen
 |2 Zwiebeln; gewürfelt
-500g Hackfleisch
-500g Chorizo; Scheiben
-|anbraten (Chorizo etwas später), würzen
-|1 TL  Worcester-Soße
-0,33l Bier
-|ablöschen, Rindfleisch wieder dazu
-|200g   Tomaten; gehackt
+|glasig andünsten
+|500g   Hackfleisch (gemischt)
+500g   Rindfleisch
+500g   Chorizo; Scheiben
+200g   Tomaten; gehackt
+0,33l  Bier
 100g   Tomatenmark
+1 TL   Worcester-Soße
 1 EL   Essig
 1 Zehe Knoblauch
 1      Habanero
