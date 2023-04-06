@@ -65,3 +65,11 @@ After installing asciidoctor, run the build:
 bundle exec -- ./docbuild.sh
 ----
 The output of the build will be build/rezepte.html
+
+
+== Beliebiges Rezept in Mealie-JSON-Format umwandeln
+
+[source, bash]
+----
+./mealie.py -u <rezept_url>
+----
