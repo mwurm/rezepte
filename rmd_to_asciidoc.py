@@ -15,7 +15,8 @@ basic_ingredients = [
     "Mehl",
     "Cumin",
     ".*\s*Bohnen",
-    "Knoblauchzehen?"
+    "Knoblauchzehen?",
+    "Toast"
     ]
 
 basic_ingredients_regex = "(" + ")|(".join(basic_ingredients) + ")"

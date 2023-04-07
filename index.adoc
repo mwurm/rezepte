@@ -91,7 +91,7 @@ imagesdir: images
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 Scheibe ! *Vollkorntoast*; _fein gewürfelt_
+!2 Scheibe ! Toast; _fein gewürfelt_
 !1 ! Knoblauchzehe; _gehackt_
 !2 EL ! *Pinienkerne*; _gehackt_
 !3 Zweig ! *Thymian*; _gehackt_
