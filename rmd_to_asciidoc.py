@@ -1,12 +1,79 @@
 #!/usr/bin/env python
 import argparse
 import re
+import os
+import glob
+
+from rotunicode import rudecode
+
+def to_snake_case(s):
+    # Replace all non-alphanumeric characters with underscores
+    s = "".join(c if c.isalnum() else "_" for c in s)
+    # Convert to lowercase and join words with underscores
+    return "_".join(word.lower() for word in s.split())
+
+
+class Cookbook:
+    def __init__(self, recipes):
+        self.recipes = recipes
+
+    def write_to_adoc(self, directory, filename):
+        if not os.path.exists(directory):
+           os.makedirs(directory)
+
+        f = open(f"{directory}/{filename}", "w")
+
+        f.write(f"""imagesdir: images
+:lang: DE
+:hyphens:
+
+:docinfo:
+
+= Rezepte
+:pdf-page-size: A5
+:toc: left
+:toc-title:
+
+        """)
+
+        for recipe in self.recipes:
+            f.write(f"""
+[%always]
+<<<
+[id='sec.{recipe.to_id()}']
+=== {recipe.name}
+
+ganz lecker
+""")
+                    
+        f.write("""
+ifdef::backend-pdf[]
+[%always]
+<<<
+[index]
+== Index
+endif::[]
+""")
+
+        f.close()
+
 
 class Recipe:
     def __init__(self, name, attributes, instructions_with_ingredients):
         self.name = name
         self.attributes = attributes
         self.instructions_with_ingredients = instructions_with_ingredients
+
+    def to_id(self):
+        return rudecode(to_snake_case(recipe.name))
+
+    def write_to_adoc(self, directory):
+        if not os.path.exists(directory):
+           os.makedirs(directory)
+
+        f = open(f"{directory}/{self.to_id()}.adoc", "w")
+        f.write("Woops! I have deleted the content!")
+        f.close()
 
 class InstructionsWithIngredients:
     def __init__(self, instructions, ingredients):
@@ -91,19 +158,23 @@ def parse_recipe(input_str):
 
 if __name__ == '__main__':
     # Parse command line arguments
+    # ./rmd_to_asciidoc.py -t src-generated src/rmd/*.rmd
     parser = argparse.ArgumentParser()
-    parser.add_argument('-f', '--file', help='rmd file', required=True)
+    parser.add_argument('-t', '--target', help='target directory', required=False)
+    parser.add_argument('source_files', nargs=argparse.REMAINDER)
+
     args = parser.parse_args()
 
-    input_str = None
-    # Read string from file
-    with open(args.file) as f:
-        input_str = f.read()
+    recipes = []
+    for filename in args.source_files:
+        with open(filename, 'r') as f:
+            print(f"Reading {f.name}")
+            recipe = parse_recipe(f.read())
+            recipes.append(recipe)
+            if args.target is not None:
+                recipe.write_to_adoc(args.target)
 
-    recipe = parse_recipe(input_str)
-    print("Rezept: " + recipe.name)
-    print(f"Attribute: {recipe.attributes}")
-    for ii in recipe.instructions_with_ingredients:
-        for ing in ii.ingredients:
-            print(ing)
-        print(f"# {ii.instructions}")
+    cookbook = Cookbook(recipes)
+    
+    cookbook.write_to_adoc(".", "index.adoc")
+
