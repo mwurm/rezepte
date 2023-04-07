@@ -8,13 +8,18 @@ from rotunicode import rudecode
 
 basic_ingredients = [
     "Butter",
+    "Ei",
     "Eigelb",
     "Eiweiß",
+    "Milch",
     "Salz",
     "Pfeffer",
     "Mehl",
     "Cumin",
+    "Muskat",
     "Knoblauchzehen?",
+    "Knoblauch",
+    "Zwiebeln?",
     "Toast"
     ]
 
@@ -115,7 +120,7 @@ class Ingredient:
         return self.ingredient_name if re.match(basic_ingredients_regex, self.ingredient_name) else "*" + self.ingredient_name + "*"
 
     def to_asciidoc_nested_table_row(self):
-        return f"!{int(self.amount) if self.amount.is_integer() else self.amount}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
+        return f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
     def __str__(self):
         return f"{int(self.amount) if self.amount.is_integer() else self.amount}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
