@@ -14,7 +14,6 @@ basic_ingredients = [
     "Pfeffer",
     "Mehl",
     "Cumin",
-    ".*\s*Bohnen",
     "Knoblauchzehen?",
     "Toast"
     ]
