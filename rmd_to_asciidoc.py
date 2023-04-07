@@ -37,7 +37,7 @@ class Cookbook:
 
         f = open(f"{directory}/{filename}", "w")
 
-        f.write(f"""imagesdir: images
+        f.write(f""":imagesdir: images
 :lang: DE
 :hyphens:
 
