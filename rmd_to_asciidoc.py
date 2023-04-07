@@ -6,6 +6,20 @@ import glob
 
 from rotunicode import rudecode
 
+basic_ingredients = [
+    "Butter",
+    "Eigelb",
+    "Eiweiß",
+    "Salz",
+    "Pfeffer",
+    "Mehl",
+    "Cumin",
+    ".*\s*Bohnen",
+    "Knoblauchzehen?"
+    ]
+
+basic_ingredients_regex = "(" + ")|(".join(basic_ingredients) + ")"
+
 def to_snake_case(s):
     # Replace all non-alphanumeric characters with underscores
     s = "".join(c if c.isalnum() else "_" for c in s)
@@ -34,26 +48,10 @@ class Cookbook:
 :toc: left
 :toc-title:
 
-        """)
+""")
 
         for recipe in self.recipes:
-            f.write(f"""
-[%always]
-<<<
-[id='sec.{recipe.to_id()}']
-=== {recipe.name}
-
-ganz lecker
-""")
-                    
-        f.write("""
-ifdef::backend-pdf[]
-[%always]
-<<<
-[index]
-== Index
-endif::[]
-""")
+            f.write(recipe.to_asciidoc_section("==="))
 
         f.close()
 
@@ -65,7 +63,7 @@ class Recipe:
         self.instructions_with_ingredients = instructions_with_ingredients
 
     def to_id(self):
-        return rudecode(to_snake_case(recipe.name))
+        return rudecode(to_snake_case(self.name))
 
     def write_to_adoc(self, directory):
         if not os.path.exists(directory):
@@ -74,6 +72,32 @@ class Recipe:
         f = open(f"{directory}/{self.to_id()}.adoc", "w")
         f.write("Woops! I have deleted the content!")
         f.close()
+
+    def to_asciidoc_section(self, caption): 
+        out_str = "";
+        out_str += f"""[%always]
+<<<
+[id='sec.{self.to_id()}']
+{caption} {self.name}
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+"""
+        for instr_with_ingr in self.instructions_with_ingredients:
+            out_str += """
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+"""
+            for ingr in instr_with_ingr.ingredients:
+                out_str += f"{ingr.to_asciidoc_nested_table_row()}\n"
+            out_str += f"""
+!===
+.^| {instr_with_ingr.instructions}
+"""
+        out_str += """|===
+
+"""
+        return out_str
 
 class InstructionsWithIngredients:
     def __init__(self, instructions, ingredients):
@@ -87,6 +111,12 @@ class Ingredient:
         self.ingredient_name = ingredient_name
         self.preparation_notes = preparation_notes
 
+    def ingredient_name_highlighted(self):
+        return self.ingredient_name if re.match(basic_ingredients_regex, self.ingredient_name) else "*" + self.ingredient_name + "*"
+
+    def to_asciidoc_nested_table_row(self):
+        return f"!{int(self.amount) if self.amount.is_integer() else self.amount}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
+
     def __str__(self):
         return f"{int(self.amount) if self.amount.is_integer() else self.amount}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
 
@@ -95,7 +125,7 @@ class IngredientFactory:
         # Define regular expression patterns to match amounts, units, and ingredients
         amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+'  # Matches numeric amounts, fractions, and common non-numeric amounts
         unit_pattern = r'[a-zA-Z]+'  # Matches zero or more letters
-        unit_pattern += r'|\s+[mk]?[gl]|\s+TL|\s+EL|\s+Prisen?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?'  # Matches common non-standard units of measurement
+        unit_pattern += r'|\s+[mk]?[gl]|\s+TL|\s+EL|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?'  # Matches common non-standard units of measurement
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string

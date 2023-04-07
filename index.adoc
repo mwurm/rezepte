@@ -1,0 +1,148 @@
+imagesdir: images
+:lang: DE
+:hyphens:
+
+:docinfo:
+
+= Rezepte
+:pdf-page-size: A5
+:toc: left
+:toc-title:
+
+[%always]
+<<<
+[id='sec.käsegebäck']
+=== Käsegebäck
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g ! *Gruyere*
+
+!===
+.^| in kleiner KitchenAid-Schüssel reiben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Eigelb
+!85g ! Mehl
+!60g ! Butter; _kalt, gewürfelt_
+!1 Pr ! Salz, Pfeffer, Cayennepfeffer
+
+!===
+.^| zugeben, mit Maschine zu glattem Teig kneten, ab und zu mit Hand nachhelfen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 30 min in Kühlschrank ruhen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Eiklar*
+!1 ! *Blüten / Cumin*
+
+!===
+.^| Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 7-8 min backen
+|===
+
+[%always]
+<<<
+[id='sec.lammlachse_mit_zitronenkruste']
+=== Lammlachse mit Zitronenkruste
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g ! *Kartoffeln (klein / Drillinge)*
+
+!===
+.^| In kochendem Salzwasser 10m vorgaren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g ! grüne Bohnen
+
+!===
+.^| Bohnen putzen und waschen und in kochendem Salzwasser etwa 8 Minuten garen abgießen und kalt abschrecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Den Backofen auf 120 Grad Celsius (Ober-/Unterhitze) vorheizen. Backblech mit Backpapier vorbereiten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 Scheibe ! *Vollkorntoast*; _fein gewürfelt_
+!1 ! Knoblauchzehe; _gehackt_
+!2 EL ! *Pinienkerne*; _gehackt_
+!3 Zweig ! *Thymian*; _gehackt_
+!3 Zweig ! *Rosmarin*; _gehackt_
+!0.5 Bd. ! *glatte Petersilie*; _gehackt_
+!1 EL ! *Zitronenabrieb*
+!2 EL ! Butter; _flüssig erhitzt_
+
+!===
+.^| Vermengen und durchkneten bis eine feste Masse entsteht. Mit Salz und Pfeffer abschmecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! *Lammlachs (je 125 g)*
+
+!===
+.^| In 1 EL Rapsöl ca. 1m scharf anbraten. Auf Backblech legen und die Mischung darauf verteilen. Ca. 15m fertig garen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vorgegarte Kartoffeln halbieren, in 1 EL Rapsöl 10m knusprig braten. Mit Salz und Pfeffer würzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 ! *Schalotten*; _fein gewürfelt_
+
+!===
+.^| Glasig dünsten. Bohnen dazugeben und erhitzen. Mit Salz und Pfeffer abschmecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Lammlachse mit Kartoffeln und Bohnen servieren.
+|===
+
+[%always]
+<<<
+[id='sec.texas_jailhouse_chili']
+=== Texas Jailhouse Chili
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1.5kg ! *Fleisch*
+
+!===
+.^| seeehr lange köcheln
+|===
+
