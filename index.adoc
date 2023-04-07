@@ -78,7 +78,7 @@ imagesdir: images
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!800g ! grüne Bohnen
+!800g ! *grüne Bohnen*
 
 !===
 .^| Bohnen putzen und waschen und in kochendem Salzwasser etwa 8 Minuten garen abgießen und kalt abschrecken.
