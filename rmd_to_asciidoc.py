@@ -50,7 +50,7 @@ class Cookbook:
 
 """)
 
-        for recipe in self.recipes:
+        for recipe in sorted(self.recipes, key=lambda r: r.name):
             f.write(recipe.to_asciidoc_section("==="))
 
         f.close()
