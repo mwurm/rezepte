@@ -147,7 +147,7 @@ class IngredientFactory:
         # Define regular expression patterns to match amounts, units, and ingredients
         amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+'  # Matches numeric amounts, fractions, and common non-numeric amounts
         unit_pattern = r'[a-zA-Z]+'  # Matches zero or more letters
-        unit_pattern += r'|\s+[mk]?[gl]|\s+TL|\s+EL|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?'  # Matches common non-standard units of measurement
+        unit_pattern += r'|\s+[mk]?[gl]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?'  # Matches common non-standard units of measurement
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string

@@ -72,6 +72,49 @@ Portionen: 12, Stichwörter:
 
 [%always]
 <<<
+[id='sec.antipasti']
+
+indexterm:[Antipasti]
+
+=== Antipasti
+
+Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! *Zucchini*; _Scheiben_
+!1 ! *Aubergine*; _Scheiben_
+!6 ! *Paprika, gegrillt, aus Glas*
+!800g ! *Pilze*; _ganz oder geviertelt_
+!1 ! Zwiebel; _geviertelt_
+
+!===
+.^| grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!70ml ! *Weinessig*
+!1 ! *Zitrone (Saft)*
+!70ml ! *Aceto balsamico*
+!100ml ! *Olivenöl*
+
+!===
+.^| Marinade zubereiten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Glas ! *Tomaten, getrocknet, in Öl*
+!2 Zweig ! *Rosmarin*
+
+!===
+.^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
+|===
+
+[%always]
+<<<
 [id='sec.hummus']
 
 indexterm:[Hummus]
