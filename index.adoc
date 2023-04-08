@@ -9,6 +9,28 @@
 :toc: left
 :toc-title:
 
+== Basis
+
+[%always]
+<<<
+[id='sec.brauner_us_zucker']
+
+indexterm:[Brauner US-Zucker]
+
+=== Brauner US-Zucker
+
+Portionen: 1, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
+|===
+
 == Appetithäppchen
 
 [%always]
@@ -343,5 +365,276 @@ Portionen: 4, Stichwörter: Eintopf, USA, Rind
 
 !===
 .^| seeehr lange köcheln
+|===
+
+== Mehlspeisen
+
+[%always]
+<<<
+[id='sec.brioche']
+
+indexterm:[Brioche]
+
+=== Brioche
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Butter aus Kühlschrank nehmen (siehe unten)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g ! Mehl .4+.^
+!25g ! *Zucker*
+!3.5g ! *Trockenhefe*
+!0.5 TL ! Salz
+
+!===
+.^| in Küchenmaschine mit Knethaken verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! Eier (M)
+
+!===
+.^| Stück für Stück zugeben, weiter kneten bis Teig nicht mehr am Finger klebt
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! Butter; _weich_
+
+!===
+.^| Stück für Stück zugeben, weiter kneten (kann bis dahin 20min dauern, beim Anheben des Knethakens soll sich Teig lösen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1-2h bei Zimmertemperatur ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig zusammendrücken/klopfen, mit Frischhaltefolie abgedeckt 1h15min in Kühlschrank ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 180 °C (Umluft) aufheizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig in 3 Teile teilen, Kugeln form und in Backform legen (einfetten + Backpapier)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 20 min ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit geschlagenem Ei bepinseln, in jede Kugel mit Schere Kreuzschnitt durchführen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 25min backen
+|===
+
+[%always]
+<<<
+[id='sec.naan']
+
+indexterm:[Naan]
+indexterm:[Brot, Naan]
+
+=== Naan
+
+Portionen: 0, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| https://www.youtube.com/watch?v=qnzBkCkv9gs
+|===
+
+[%always]
+<<<
+[id='sec.waffeln']
+
+indexterm:[Waffeln]
+
+=== Waffeln
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g ! Butter; _weich_
+!100g ! *Zucker*
+!1 ! Ei
+!1 Packung ! *Vanillezucker*
+
+!===
+.^| in Rührschüssel verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml ! Milch
+!250g ! Mehl
+!0.5 Packung ! *Backpulver*
+
+!===
+.^| Milch komplett und Rest portionsweise zugeben, weiterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Waffeleisen mit Pinsel einölen und erhitzen. Pro Waffel ca 2 EL Teigmassen verwenden.
+|===
+
+== Gebäck
+
+[%always]
+<<<
+[id='sec.____schoko_cookies_mit_m_m_s']
+
+indexterm:[=== Schoko-Cookies mit M&M's]
+indexterm:[M&M-Cookies, Schoko-Cookies mit M&M's]
+
+=== === Schoko-Cookies mit M&M's
+
+Portionen: 15, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ofen auf 175 °C O/U-Hitze
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g ! Butter
+!160g ! *Zucker*
+!10g ! *Melasse / Grafschafter Goldsaft*
+
+!===
+.^| cremig aufschlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Ei
+!1 TL ! *Vanilleextrakt*
+
+!===
+.^| einrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! Mehl
+
+!===
+.^| zugeben, verkneten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!40 g ! *Schokodrops*
+
+!===
+.^| zugeben, kurz verkneten. 15 Cookies formen (ein leicht gehäufter EL pro Portion)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *M&M's (Erdnuss)*
+
+!===
+.^| auf Cookies drücken. 15m backen
+|===
+
+== Kuchen
+
+[%always]
+<<<
+[id='sec.zwiebelkuchen']
+
+indexterm:[Zwiebelkuchen]
+
+=== Zwiebelkuchen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| für die Le Creuset Tarte-Form
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0 ml ! Milch (3/4)
+!0g ! *Trockenhefe*
+!0 TL ! *Zucker*
+
+!===
+.^| in Teigschüssel geben, auflösen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0 ml ! Milch (1/4)
+!250g ! Mehl
+!250g ! Salz
+!50g ! Butter (weich)
+
+!===
+.^| Mehl zugegeben und kneten. Salz und Rest der Milch zugeben und weiter kneten, dabei portionsweise Butter zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!75g ! *Speck*; _gewürfelt_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!25g ! Butter
+!750g ! Zwiebel; _fein gewürfelt_
+
+!===
+.^| zugeben, glasig dünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO und weiter?
 |===
 
