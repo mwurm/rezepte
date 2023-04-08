@@ -93,3 +93,20 @@ Executables
 chmod u+x *.sh *.py
 ```
 
+== Workflows
+
+=== Neues Rezept aus dem Internet hinzufügen:
+
+```
+./mealy.py -u <url>
+
+# Erzeugtes .rmd-File anpassen, unter src/rmd/ hinterlegen
+
+# Erzeuge index.adoc aus .rmd-Files
+./rmd_to_asciidoc.py src/rmd/*.rmd
+
+# Erzeuge index.html aus AsciiDoc-Files
+./docbuild.sh
+```
+
+
