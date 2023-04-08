@@ -58,7 +58,7 @@ class Cookbook:
 
 """)
 
-        for category in ["Basis", "Appetithäppchen", "Beilagen", "Fleischgerichte", "Mehlspeisen", "Gebäck", "Kuchen"]:
+        for category in ["Basis", "Appetithäppchen", "Beilagen", "Suppen", "Pasta", "Fleischgerichte", "Mehlspeisen", "Gebäck", "Kuchen"]:
             f.write(f"== {category}\n\n")
             for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))

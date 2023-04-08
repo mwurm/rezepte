@@ -269,6 +269,114 @@ Portionen: 4, Stichwörter: Österreich
 .^| Kastenform einfetten, darin Knödelmasse 30-35min in 180°C Umluft backen
 |===
 
+== Suppen
+
+[%always]
+<<<
+[id='sec.artischockensuppe']
+
+indexterm:[Artischockensuppe]
+
+=== Artischockensuppe
+
+Portionen: 4, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+
+!===
+.^| andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Dose ! *Artischocken*
+
+!===
+.^| abwaschen¹, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100 ml ! *Weißwein*
+!0.75l ! *Gemüsebrühe*
+!2 ! *Kartoffeln*; _grob gewürfelt_
+
+!===
+.^| 30min köcheln, am Ende pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100 ml ! *Sahne*
+
+!===
+.^| zugeben, aufköcheln, mit Salz abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ¹der Eigengeschmack der Lake muss weg
+|===
+
+== Pasta
+
+[%always]
+<<<
+[id='sec.pasta_all_amatriciana']
+
+indexterm:[Pasta all amatriciana]
+
+=== Pasta all amatriciana
+
+Portionen: 4, Stichwörter: Italien
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100 g ! *Bauchspeck*; _kleine Streifen_
+
+!===
+.^| mit 1 EL Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50 ml ! *Weißwein*
+
+!===
+.^| mit Weißwein ablöschen, Speck zur Seite nehmen (soll knusprig bleiben), Teil des Fettes entfernen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+
+!===
+.^| mit restlichem Fett andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.75 Dose ! *Tomaten*; _gehackt_
+
+!===
+.^| zugeben, köcheln, mit Salz abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Speck und Nudeln zugeben und vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tip: in gusseiserner Pfanne zubereiten +++ mit geriebenem Pecorino reichen
+|===
+
 == Fleischgerichte
 
 [%always]
