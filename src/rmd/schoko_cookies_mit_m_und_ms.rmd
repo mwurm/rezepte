@@ -1,4 +1,4 @@
-=== Schoko-Cookies mit M&M's
+Schoko-Cookies mit M&M's
 :yields: 15
 :category: Gebäck
 :indexterms: M&M-Cookies, Schoko-Cookies mit M&M's

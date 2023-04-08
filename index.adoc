@@ -519,12 +519,12 @@ Portionen: 4, Stichwörter:
 
 [%always]
 <<<
-[id='sec.____schoko_cookies_mit_m_m_s']
+[id='sec.schoko_cookies_mit_m_m_s']
 
-indexterm:[=== Schoko-Cookies mit M&M's]
+indexterm:[Schoko-Cookies mit M&M's]
 indexterm:[M&M-Cookies, Schoko-Cookies mit M&M's]
 
-=== === Schoko-Cookies mit M&M's
+=== Schoko-Cookies mit M&M's
 
 Portionen: 15, Stichwörter: 
 
