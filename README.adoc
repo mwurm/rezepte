@@ -73,3 +73,23 @@ The output of the build will be build/rezepte.html
 ----
 ./mealie.py -u <rezept_url>
 ----
+
+
+= Workspace Setup
+
+Python
+```
+pip install rotunicode
+```
+
+Asciidoctor
+```
+gem install asciidoctor
+```
+
+Executables
+
+```
+chmod u+x *.sh *.py
+```
+

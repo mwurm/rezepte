@@ -6,5 +6,5 @@ then
     exit
 fi
 
-asciidoctor -D build rezepte.adoc
+asciidoctor -D build index.adoc
 cp -r images build/
