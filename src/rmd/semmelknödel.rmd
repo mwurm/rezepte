@@ -1,6 +1,8 @@
 Semmelknödel
 :yields: 4
 :category: Beilagen
+:tags: Österreich
+
 
 1 Zwiebel; gewürfelt
 150ml Milch

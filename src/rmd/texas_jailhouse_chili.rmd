@@ -3,6 +3,7 @@ Texas Jailhouse Chili
 :category: Fleischgerichte
 :indexterms: Chili, Texas Jailhouse Chili
 :url: https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen
+:tags: Eintopf;    USA; Rind
 
 1.5kg Fleisch
 # seeehr lange köcheln

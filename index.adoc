@@ -19,7 +19,7 @@ indexterm:[Käsegebäck]
 
 === Käsegebäck
 
-Portionen: 12
+Portionen: 12, Stichwörter: 
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -78,7 +78,7 @@ indexterm:[Hummus]
 
 === Hummus
 
-Portionen: 2
+Portionen: 2, Stichwörter: Kichererbsen, Orient
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -111,7 +111,7 @@ indexterm:[Semmelknödel]
 
 === Semmelknödel
 
-Portionen: 4
+Portionen: 4, Stichwörter: Österreich
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -193,7 +193,7 @@ indexterm:[Lammlachse mit Zitronenkruste]
 
 === Lammlachse mit Zitronenkruste
 
-Portionen: 4
+Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -268,7 +268,7 @@ indexterm:[Chili, Texas Jailhouse Chili]
 
 === Texas Jailhouse Chili
 
-Portionen: 4
+Portionen: 4, Stichwörter: Eintopf, USA, Rind
 
 [%noheader, cols="1a,2", grid=rows]
 |===

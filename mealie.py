@@ -3,6 +3,9 @@ import requests
 import json
 import argparse
 import sys
+import io
+from PIL import Image
+import os
 from rotunicode import rudecode
 
 
@@ -74,13 +77,13 @@ if __name__ == '__main__':
     json_recipe_response = requests.get(f"https://demo.mealie.io/api/recipes/{json_url}", headers=headers)
     print(f"result code: {json_recipe_response.status_code}")
 
+    # print(json_recipe_response.text)
+
     
-
-
     # Decode the JSON string into a Python dictionary
     data = json.loads(json_recipe_response.text)
 
-    # Create an instance of the Person class with the decoded data
+    # Create an instance of the Recipe class with the decoded data
 
     ingredients = []
     for i in data["recipeIngredient"]: # lst is the list that contains the data
@@ -103,7 +106,8 @@ if __name__ == '__main__':
 
     original_stdout = sys.stdout # Save a reference to the original standard output
 
-    out_file_name = rudecode(to_snake_case(recipe.name)) + ".rmd"
+    recipe_id = rudecode(to_snake_case(recipe.name))
+    out_file_name = recipe_id + ".rmd"
     print(f"Write recipe to {out_file_name}")
     with open(out_file_name, 'w') as f:
         sys.stdout = f # Change the standard output to the file we created.
@@ -122,3 +126,15 @@ if __name__ == '__main__':
         sys.stdout = original_stdout # Reset the standard output to its original value
 
 
+    mealie_recipe_id = data["id"]
+    webp_image_path = recipe_id + ".webp"
+    recipe_image_response = requests.get(f"https://demo.mealie.io/api/media/recipes/{mealie_recipe_id}/images/original.webp", headers=headers)
+    if recipe_image_response.status_code == 200:
+        with Image.open(io.BytesIO(recipe_image_response.content)) as img:
+            # Create a new filename with the same name as the webp file but with a .jpg extension
+            new_filename = os.path.splitext(webp_image_path)[0] + '.jpg'
+            # Convert the image to JPEG format and save it with the new filename
+            img.convert('RGB').save(new_filename, 'JPEG')
+            print(f'Successfully converted mealie webp image to {new_filename}')
+    else:
+        print(f'Error downloading image url: status code {recipe_image_response.status_code}')

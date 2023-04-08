@@ -71,6 +71,7 @@ class Recipe:
         self.category = attributes['category']
         # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
         self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
+        self.tags = () if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]
         self.instructions_with_ingredients = instructions_with_ingredients
 
     def to_id(self):
@@ -99,7 +100,7 @@ indexterm:[{self.name}]
         out_str += f"""
 {caption} {self.name}
 
-Portionen: {self.yields}
+Portionen: {self.yields}, Stichwörter: {', '.join(self.tags)}
 
 [%noheader, cols="1a,2", grid=rows]
 |===
