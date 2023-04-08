@@ -7,6 +7,10 @@ import glob
 from rotunicode import rudecode
 
 basic_ingredients = [
+    "Ahornsirup",
+    "Paprikapulver",
+    "Senf",
+    "Tomatenmark",
     "Butter",
     "Ei",
     "Eigelb",
@@ -58,7 +62,7 @@ class Cookbook:
 
 """)
 
-        for category in ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Fleischgerichte", "Mehlspeisen", "Gebäck", "Kuchen"]:
+        for category in ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Fleischgerichte", "Geflügel", "Fisch", "Mehlspeisen", "Gebäck", "Kuchen"]:
             f.write(f"== {category}\n\n")
             for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))
@@ -150,7 +154,7 @@ class IngredientFactory:
         # Define regular expression patterns to match amounts, units, and ingredients
         amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+'  # Matches numeric amounts, fractions, and common non-numeric amounts
         unit_pattern = r'[a-zA-Z]+'  # Matches zero or more letters
-        unit_pattern += r'|\s+[mk]?[gl]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?'  # Matches common non-standard units of measurement
+        unit_pattern += r'|\s+[cmk]?[glm]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Bn\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?|\s+Becher|\s+Bch.?|\s+Be.?|\s+Beutel|\s+Btl.|\s+Stangen?|\s+Stg.?'  # Matches common non-standard units of measurement
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string

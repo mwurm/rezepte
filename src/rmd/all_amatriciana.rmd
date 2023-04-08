@@ -1,4 +1,4 @@
-Pasta all amatriciana
+Pasta all'amatriciana
 :yields: 4
 :category: Pasta
 :tags: Italien

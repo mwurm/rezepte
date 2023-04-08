@@ -158,6 +158,38 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 
 [%always]
 <<<
+[id='sec.frischkäse_aufstrich']
+
+indexterm:[Frischkäse-Aufstrich]
+
+=== Frischkäse-Aufstrich
+
+Portionen: 4, Stichwörter: Aufstrich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g ! *Frischkäse*
+!50g ! Butter
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g ! *Kochschinken*; _fein gewürfelt_
+!2 ! *Gewürzgurken*; _fein gewürfelt_
+!1 Bd ! *Schnittlauch*; _geschnitten_
+!1 ! Salz, Pfeffer, Fondor
+
+!===
+.^| zugeben und verrühren
+|===
+
+[%always]
+<<<
 [id='sec.hummus']
 
 indexterm:[Hummus]
@@ -294,7 +326,7 @@ Portionen: 2, Stichwörter: vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1 Zehe ! Knoblauch
-!2 EL ! *Tomatenmark*
+!2 EL ! Tomatenmark
 !2 EL ! Olivenöl
 !1 EL ! *Curry*
 
@@ -316,6 +348,157 @@ Portionen: 2, Stichwörter: vegetarisch
 
 !===
 .^| schneiden, zugeben, abschmecken
+|===
+
+[%always]
+<<<
+[id='sec.bayrischer_wurstsalat']
+
+indexterm:[Bayrischer Wurstsalat]
+
+=== Bayrischer Wurstsalat
+
+Portionen: 2, Stichwörter: Deutschland, Bayern
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g ! *Lyoner*; _Scheiben_
+!4 ! *Gewürzgurken*; _Scheiben_
+!2 ! *rote Zwiebeln*; _Scheiben_
+!4 EL ! *Weißweinessig*
+!4 EL ! *Rapsöl*
+!4 EL ! *Gurkenwasser*
+
+!===
+.^| vermengen, mit Salz und Pfeffer abschmecken und ziehen lassen
+|===
+
+[%always]
+<<<
+[id='sec.dressing_mit_ahornsirup']
+
+indexterm:[Dressing mit Ahornsirup]
+
+=== Dressing mit Ahornsirup
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+!1 Zehe ! Knoblauch; _gehackt_
+!1 ! *Zitrone (Saft)*
+!2 EL ! *ÖL*
+!2 EL ! Aceto balsamico
+!3 EL ! Ahornsirup
+!1 TL ! Senf
+!1 TL ! Salz
+
+!===
+.^| verrühren
+|===
+
+[%always]
+<<<
+[id='sec.dressing_mit_preiselbeeren']
+
+indexterm:[Dressing mit Preiselbeeren]
+
+=== Dressing mit Preiselbeeren
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 EL ! *Preiselbeeren*
+!2 EL ! *ÖL*
+!3 EL ! Aceto balsamico
+!1 TL ! Senf
+!1 TL ! Salz
+
+!===
+.^| verrühren
+|===
+
+[%always]
+<<<
+[id='sec.italienischer_salat__']
+
+indexterm:[Italienischer Salat		]
+
+=== Italienischer Salat		
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 ! *Pck Salatkrönung*; _mit Wasser vermengt_
+!2 EL ! Weinessig
+!2 EL ! *Öl*
+!1 Bch ! *Crème légère*
+!2 EL ! *Mayonnaise*
+!1 Bch ! *Sahne*
+!1 ! Pfeffer
+
+!===
+.^| zu Dressing verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Kopfsalat*
+!3 ! *Tomaten*; _achteln_
+!5 ! *Karotten*; _reiben_
+!1 ! *Frühlingszwiebel*; _Scheiben_
+!1 Bd ! *Radieschen*; _Scheiben_
+!1 ! *Gurke*; _Scheiben_
+!200g ! *Kochschinken*; _Streifen_
+!200g ! *Käse*; _Streifen_
+
+!===
+.^| mit Dressing zu Salat zubereiten
+|===
+
+[%always]
+<<<
+[id='sec.kohlrabi_carpaccio']
+
+indexterm:[Kohlrabi-Carpaccio]
+
+=== Kohlrabi-Carpaccio
+
+Portionen: 2, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! *Kohlrabi*; _gehobelt_
+
+!===
+.^| fächerförmig auf Teller anrichten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Zitrone (Saft)*
+!3 EL ! Olivenöl
+!30g ! *Parmesan*
+!60g ! *Parmaschinken*
+
+!===
+.^| auf Kohlrabi verteilen, salzen und pfeffern
 |===
 
 == Suppen
@@ -370,15 +553,118 @@ Portionen: 4, Stichwörter: vegetarisch
 .^| ¹der Eigengeschmack der Lake muss weg
 |===
 
+[%always]
+<<<
+[id='sec.käse_lauch_hackfleisch_suppe']
+
+indexterm:[Käse-Lauch-Hackfleisch-Suppe]
+
+=== Käse-Lauch-Hackfleisch-Suppe
+
+Portionen: 3, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g ! *Rinderhackfleisch*
+!3 Stangen ! *Lauch*
+!3 EL ! Olivenöl
+!1 Zehe ! Knoblauch
+!3 TL ! *Rindfleischbrühe*
+!700ml ! *Wasser*
+!200g ! *Schmelzkäse*
+!0.5 Bch ! *Creme Fraiche*
+!1 Pr ! Muskat
+!1 ! Salz und Pfeffer
+
+!===
+.^| Wasche den Lauch und schneide ihn in schmale Ringe schneiden. Erhitze das Öl im Topf und brate das Hackfleisch darin heiß an bis es krümelig ist.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Gib den Knoblauch durch eine Presse und dünste dieses kurz mit. Gib nun auch die Lauchringe zum Hackfleisch dazu und dünste diese ca. 5 Minuten mit an. Nun kannst du ca. 700 ml Brühe hinzu geben. Es sollte alles gerade so bedeckt sein. Koche die Suppe anschließend kurz auf.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nun kannst du den Schmelzkäse in die warme Suppe geben. Rühre so lange, bis er vollständig geschmolzen ist. Gib nun auch Creme Fraiche hinzu und koche die Suppe noch einmal kurz auf. Schmecke die Hackfleisch Lauch Suppe mit Salz, Pfeffer und Muskat ab.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Dazu passt frisches Baguette. Besonders lecker ist dieses, wenn es noch einmal kurz in den Backofen geschoben wird. Dann kannst du das knusprige Baguette mit etwas Butter zur Suppe servieren.
+|===
+
 == Pasta
+
+[%always]
+<<<
+[id='sec.carbonara']
+
+indexterm:[Carbonara]
+
+=== Carbonara
+
+Portionen: 2, Stichwörter: Italien
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100 g ! *Bauchspeck*; _feine Streifen_
+
+!===
+.^| langsam anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! Eigelb
+!100ml ! *Sahne*
+!50g ! *Parmesan*
+
+!===
+.^| verquirlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Modifikation: ohne Sahne, TODO
+|===
 
 [%always]
 <<<
 [id='sec.pasta_all_amatriciana']
 
-indexterm:[Pasta all amatriciana]
+indexterm:[Pasta all'amatriciana]
 
-=== Pasta all amatriciana
+=== Pasta all'amatriciana
 
 Portionen: 4, Stichwörter: Italien
 
@@ -426,7 +712,84 @@ Portionen: 4, Stichwörter: Italien
 .^| Tip: in gusseiserner Pfanne zubereiten +++ mit geriebenem Pecorino reichen
 |===
 
+== Pizza & Co.
+
+[%always]
+<<<
+[id='sec.flammkuchen']
+
+indexterm:[Flammkuchen]
+
+=== Flammkuchen
+
+Portionen: 2, Stichwörter: Elsaß, Frankreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g ! Mehl
+!1 TL ! Salz
+!2 TL ! Olivenöl
+!100ml ! *Wasser*
+
+!===
+.^| kneten, ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Bch ! *Crème fraîche mit Kräutern*
+!150g ! *Speck*; _gewürfelt_
+!1 ! Zwiebel; _gewürfelt_
+
+!===
+.^| auf Teig geben. Bei 250 °C 5-10m backen.
+|===
+
 == Fleischgerichte
+
+[%always]
+<<<
+[id='sec.gulasch']
+
+indexterm:[Gulasch]
+
+=== Gulasch
+
+Portionen: 8, Stichwörter: Österreich, Rind
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g ! Zwiebeln; _gewürfelt_
+!2 ! Knoblauchzehe; _gepresst_
+
+!===
+.^| in Butterschmalz anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5l ! *Bier*
+!400ml ! *Gemüsebrühe*
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g ! *Rindsgulasch*
+!2 TL ! *Kreukümmel*
+!4 EL ! Tomatenmark
+!4 EL ! Paprikapulver
+!4 TL ! Salz
+!2 TL ! *Cayennepfeffer*
+
+!===
+.^| zugeben, 3h köcheln lassen
+|===
 
 [%always]
 <<<
@@ -522,6 +885,43 @@ Portionen: 4, Stichwörter: Eintopf, USA, Rind
 
 !===
 .^| seeehr lange köcheln
+|===
+
+== Geflügel
+
+== Fisch
+
+[%always]
+<<<
+[id='sec.dorade_vom_grill']
+
+indexterm:[Dorade vom Grill]
+
+=== Dorade vom Grill
+
+Portionen: 1, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Dorade Royal*
+
+!===
+.^| Fisch außen und in Bachhöhle salzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1h grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Fisch "aufrecht" grillen, halbe Kartoffel in Bauchhöhle dient als Ständer
 |===
 
 == Mehlspeisen
@@ -631,6 +1031,75 @@ Portionen: 0, Stichwörter:
 
 !===
 .^| https://www.youtube.com/watch?v=qnzBkCkv9gs
+|===
+
+[%always]
+<<<
+[id='sec.pancakes']
+
+indexterm:[Pancakes]
+
+=== Pancakes
+
+Portionen: 2, Stichwörter: USA
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 ! Eiweiß
+
+!===
+.^| zu Schnee schlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 ! Eigelb
+!2 EL ! *Zucker*
+
+!===
+.^| aufschlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml ! Milch
+
+!===
+.^| zugeben und verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! Mehl
+!1 TL ! *Backpulver*
+!1 Pr ! Salz
+
+!===
+.^| zugeben und verrühren (optional: 15m ruhen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Eischnee untermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Butterschmal anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Modifikationen: beim Backen Apfelschnitze / Bananenscheiben / Blaubeeren in Teig geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Servieren mit Ahornsirup und ggf. griechischem Joghurt mit Vanille + Zucker
 |===
 
 [%always]
