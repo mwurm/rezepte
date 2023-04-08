@@ -269,6 +269,55 @@ Portionen: 4, Stichwörter: Österreich
 .^| Kastenform einfetten, darin Knödelmasse 30-35min in 180°C Umluft backen
 |===
 
+== Salate
+
+[%always]
+<<<
+[id='sec.avocado_bulgur_salat']
+
+indexterm:[Avocado-Bulgur-Salat]
+
+=== Avocado-Bulgur-Salat
+
+Portionen: 2, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150 g ! *Bulgur*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Zehe ! Knoblauch
+!2 EL ! *Tomatenmark*
+!2 EL ! Olivenöl
+!1 EL ! *Curry*
+
+!===
+.^| mit Bulgur vermischen, mit Salz und Pfeffer abschmecken, 20m abkühlen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! *Tomaten*; _gewürfelt (ohne Fruchtfleisch)_
+!1 ! *Avocado*
+!1 ! *Mozzarella*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 Zweige ! *Basilikum*
+
+!===
+.^| schneiden, zugeben, abschmecken
+|===
+
 == Suppen
 
 [%always]
