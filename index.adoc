@@ -494,7 +494,7 @@ Portionen: 4, Stichwörter:
 !125g ! Butter; _weich_
 !100g ! *Zucker*
 !1 ! Ei
-!1 Packung ! *Vanillezucker*
+!1 Pkg ! *Vanillezucker*
 
 !===
 .^| in Rührschüssel verrühren
@@ -503,7 +503,7 @@ Portionen: 4, Stichwörter:
 !===
 !250ml ! Milch
 !250g ! Mehl
-!0.5 Packung ! *Backpulver*
+!0.5 Pkg ! *Backpulver*
 
 !===
 .^| Milch komplett und Rest portionsweise zugeben, weiterrühren
