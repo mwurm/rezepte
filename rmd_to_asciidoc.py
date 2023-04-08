@@ -20,6 +20,9 @@ basic_ingredients = [
     "Knoblauchzehen?",
     "Knoblauch",
     "Zwiebeln?",
+    "Weinessig",
+    "Olivenöl",
+    "Aceto balsamico",
     "Toast"
     ]
 

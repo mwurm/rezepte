@@ -96,10 +96,10 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!70ml ! *Weinessig*
+!70ml ! Weinessig
 !1 ! *Zitrone (Saft)*
-!70ml ! *Aceto balsamico*
-!100ml ! *Olivenöl*
+!70ml ! Aceto balsamico
+!100ml ! Olivenöl
 
 !===
 .^| Marinade zubereiten
