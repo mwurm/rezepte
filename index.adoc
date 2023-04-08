@@ -13,12 +13,12 @@
 
 [%always]
 <<<
-[id='sec.____hackfleischtaschen']
+[id='sec.hackfleischtaschen']
 
-indexterm:[=== Hackfleischtaschen]
+indexterm:[Hackfleischtaschen]
 indexterm:[Teigtaschen, Hackfleischtaschen]
 
-=== === Hackfleischtaschen
+=== Hackfleischtaschen
 
 Portionen: 4, Stichwörter: 
 
