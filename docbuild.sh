@@ -6,5 +6,5 @@ then
     exit
 fi
 
-asciidoctor -D build index.adoc
-cp -r images build/
+asciidoctor -D github-pages index.adoc
+cp -r images github-pages/
