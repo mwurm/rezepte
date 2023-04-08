@@ -1,0 +1,6 @@
+=== Hackfleischtaschen
+:yields: 4
+:category: Appetithäppchen
+:indexterms: Teigtaschen, Hackfleischtaschen
+
+# aus Tupper-Rezeptbuch

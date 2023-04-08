@@ -13,6 +13,27 @@
 
 [%always]
 <<<
+[id='sec.____hackfleischtaschen']
+
+indexterm:[=== Hackfleischtaschen]
+indexterm:[Teigtaschen, Hackfleischtaschen]
+
+=== === Hackfleischtaschen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| aus Tupper-Rezeptbuch
+|===
+
+[%always]
+<<<
 [id='sec.käsegebäck']
 
 indexterm:[Käsegebäck]
