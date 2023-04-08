@@ -1,5 +1,7 @@
 Texas Jailhouse Chili
-:servings: 8
+:yields: 4
+:category: Fleischgerichte
+:indexterms: Chili, Texas Jailhouse Chili
 :url: https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen
 
 1.5kg Fleisch

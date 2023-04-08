@@ -1,5 +1,6 @@
 Käsegebäck
-:servings: 12
+:yields: 12
+:category: Appetithäppchen
 :url: Theresa
 
 100g Gruyere

@@ -55,8 +55,10 @@ class Cookbook:
 
 """)
 
-        for recipe in sorted(self.recipes, key=lambda r: r.name):
-            f.write(recipe.to_asciidoc_section("==="))
+        for category in ["Appetithäppchen", "Beilagen", "Fleischgerichte"]:
+            f.write(f"== {category}\n\n")
+            for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
+                f.write(recipe.to_asciidoc_section("==="))
 
         f.close()
 
@@ -65,6 +67,10 @@ class Recipe:
     def __init__(self, name, attributes, instructions_with_ingredients):
         self.name = name
         self.attributes = attributes
+        self.yields = attributes['yields']
+        self.category = attributes['category']
+        # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
+        self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
         self.instructions_with_ingredients = instructions_with_ingredients
 
     def to_id(self):
@@ -83,7 +89,17 @@ class Recipe:
         out_str += f"""[%always]
 <<<
 [id='sec.{self.to_id()}']
+
+indexterm:[{self.name}]
+"""
+
+        for indexterm in self.indexterms:
+            out_str += f"indexterm:[{indexterm}]\n"
+
+        out_str += f"""
 {caption} {self.name}
+
+Portionen: {self.yields}
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -170,7 +186,7 @@ def parse_recipe(input_str):
 
     lines = input_str.split("\n")
     name = lines[0]
-    attributes = []
+    attributes = {}
     ingredients = []
     instructions_with_ingredients = []
     for line in lines[1:]:
@@ -179,7 +195,9 @@ def parse_recipe(input_str):
             instructions_with_ingredients.append(InstructionsWithIngredients(instructions, ingredients))
             ingredients = []
         elif line.startswith(":"):
-            attributes.append(line[1:].strip())
+            # attributes :yields: 4
+            split_line = line.split(":")
+            attributes[split_line[1].strip()] = split_line[2].strip()
         elif line:
             #parts = line.split(";")
             #quantity, ingredient = parts[0], ";".join(parts[1:])

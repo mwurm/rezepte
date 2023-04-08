@@ -1,5 +1,6 @@
 Semmelknödel
-:servings: 4
+:yields: 4
+:category: Beilagen
 
 1 Zwiebel; gewürfelt
 150ml Milch

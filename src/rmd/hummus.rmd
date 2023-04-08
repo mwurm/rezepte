@@ -1,5 +1,6 @@
 Hummus
-:servings: 2 Portionen
+:yields: 2
+:category: Beilagen
 
 50g Kichererbsen (trockene)
 # trockene Kichererbsen 24h einweichen, dann in 200ml kochendes Wasser geben und 1h köcheln

@@ -1,5 +1,6 @@
 Lammlachse mit Zitronenkruste
-:servings: 4
+:yields: 4
+:category: Fleischgerichte
 :url: https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen
 
 800g Kartoffeln (klein / Drillinge)
