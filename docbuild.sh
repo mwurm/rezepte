@@ -7,4 +7,4 @@ then
 fi
 
 asciidoctor -D github-pages index.adoc
-cp -r images github-pages/
+# cp -r images github-pages/
