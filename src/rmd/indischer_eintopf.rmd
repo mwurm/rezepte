@@ -1,0 +1,4 @@
+Indischer Eintopf
+:yields: 0
+:category: Eintöpfe
+:tags: Hauptgericht;vegetarisch;leicht

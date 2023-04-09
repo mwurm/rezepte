@@ -1,0 +1,4 @@
+Kartoffel-Curry
+:yields: 0
+:category: Aufläufe
+:tags: Hauptgericht;vegetarisch;leicht

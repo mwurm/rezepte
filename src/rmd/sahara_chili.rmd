@@ -1,0 +1,4 @@
+Sahara-Chili
+:yields: 0
+:category: Eintöpfe
+:tags: Hauptgericht;Fleisch

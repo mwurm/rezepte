@@ -1,0 +1,5 @@
+Lachs mit Chorizo
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch
+# (5Z, S. 125)

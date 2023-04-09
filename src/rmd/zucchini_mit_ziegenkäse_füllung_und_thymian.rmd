@@ -1,0 +1,4 @@
+Zucchini mit Ziegenkäse-Füllung und Thymian
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;Fleisch

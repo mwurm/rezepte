@@ -1,0 +1,4 @@
+Pasta Alfredo
+:yields: 0
+:category: Pasta
+:tags: Hauptgericht;vegetarisch;Käse

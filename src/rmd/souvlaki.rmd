@@ -1,0 +1,4 @@
+Souvlaki
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;ohne_Beilage;Fleisch

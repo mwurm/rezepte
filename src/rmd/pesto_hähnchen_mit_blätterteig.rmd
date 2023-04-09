@@ -1,0 +1,5 @@
+Pesto-Hähnchen mit Blätterteig
+:yields: 0
+:category: Geflügel
+:tags: Hauptgericht;Geflügel
+# (5Z, S. 115)

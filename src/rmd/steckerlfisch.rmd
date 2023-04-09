@@ -1,0 +1,4 @@
+Steckerlfisch
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch

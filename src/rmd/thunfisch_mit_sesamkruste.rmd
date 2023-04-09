@@ -1,0 +1,4 @@
+Thunfisch mit Sesamkruste
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch

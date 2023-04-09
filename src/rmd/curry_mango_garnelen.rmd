@@ -1,0 +1,5 @@
+Curry-Mango-Garnelen
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch;leicht
+# (5Z, S.147)

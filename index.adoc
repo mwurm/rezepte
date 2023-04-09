@@ -257,6 +257,20 @@ Portionen: 4, Stichwörter:
 
 [%always]
 <<<
+[id='sec.pfifferlinge_auf_weißbrot']
+
+indexterm:[Pfifferlinge auf Weißbrot]
+
+=== Pfifferlinge auf Weißbrot
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.pizza_toast_mit_sardellen']
 
 indexterm:[Pizza-Toast mit Sardellen]
@@ -785,6 +799,40 @@ Portionen: 2, Stichwörter: Deutschland, Bayern
 
 [%always]
 <<<
+[id='sec.caesar_salad']
+
+indexterm:[Caesar Salad]
+
+=== Caesar Salad
+
+Portionen: 0, Stichwörter: Hauptgericht, Salat, Fleisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (JO 20m)
+|===
+
+[%always]
+<<<
+[id='sec.falafelsalat_mit_tahin_dressing']
+
+indexterm:[Falafelsalat mit Tahin-Dressing]
+
+=== Falafelsalat mit Tahin-Dressing
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Salat, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.italienischer_salat__']
 
 indexterm:[Italienischer Salat		]
@@ -907,6 +955,20 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| mit Nudelsalat vermengen
+|===
+
+[%always]
+<<<
+[id='sec.salat_mit_maultaschen___sauerrahmdressing']
+
+indexterm:[Salat mit Maultaschen + Sauerrahmdressing]
+
+=== Salat mit Maultaschen + Sauerrahmdressing
+
+Portionen: 0, Stichwörter: Hauptgericht, Salat
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 === Dressing
@@ -1316,32 +1378,16 @@ Portionen: 2, Stichwörter: Italien
 
 [%always]
 <<<
-[id='sec.linguine_mit_shrimps']
+[id='sec.pasta_alfredo']
 
-indexterm:[Linguine mit Shrimps]
+indexterm:[Pasta Alfredo]
 
-=== Linguine mit Shrimps
+=== Pasta Alfredo
 
-Portionen: 2, Stichwörter: 
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Käse
 
 [%noheader, cols="1a,2", grid=rows]
 |===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1 Pkg ! *Shrimps*
-!1 TL ! *Currypaste (rot)*
-
-!===
-.^| anbraten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!100ml ! *Sahne*
-!200g ! *Pasta*
-
-!===
-.^| Sahne zugeben, mit Pasta vermengen
 |===
 
 [%always]
@@ -1400,41 +1446,80 @@ Portionen: 4, Stichwörter: Italien
 
 [%always]
 <<<
-[id='sec.pasta_mit_speck_zwiebel_ziegenkäse']
+[id='sec.pasta_mit_oliven_und_ziegenkäse']
 
-indexterm:[Pasta mit Speck-Zwiebel-Ziegenkäse]
+indexterm:[Pasta mit Oliven und Ziegenkäse]
 
-=== Pasta mit Speck-Zwiebel-Ziegenkäse
+=== Pasta mit Oliven und Ziegenkäse
 
-Portionen: 4, Stichwörter: 
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_pilzen_und_knoblauch']
+
+indexterm:[Pasta mit Pilzen und Knoblauch]
+
+=== Pasta mit Pilzen und Knoblauch
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 
 [%noheader, cols="1a,2", grid=rows]
 |===
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!400g ! *Pasta*
 
 !===
-.^| kochen (100ml Nudelwasser behalten)
+.^| (5Z, S.65)
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_shrimps']
+
+indexterm:[Pasta mit Shrimps]
+
+=== Pasta mit Shrimps
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!150g ! *Speck*; _in Streifen_
-!2 ! Zwiebeln, rot
-!4 Stiele ! *Salbei*
-!200g ! *Oliven (ohne Stein)*
+!1 Pkg ! *Shrimps*
+!1 TL ! *Currypaste (rot)*
 
 !===
-.^| braten
+.^| anbraten
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100ml ! *Nudelwasser*
-!200g ! *Ziegenfrischkäse*
+!100ml ! *Sahne*
+!200g ! *Pasta*
 
 !===
-.^| in Topf verrühren, schmelzen lassen, Gebratenes zugeben; mit Nudeln vermengen
+.^| Sahne zugeben, mit Pasta vermengen
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_speck_zwiebel_ziegenkäse']
+
+indexterm:[Pasta mit Speck-Zwiebel-Ziegenkäse]
+
+=== Pasta mit Speck-Zwiebel-Ziegenkäse
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 [%always]
@@ -1487,6 +1572,20 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| unterrühren
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_cremige_auberginensoße']
+
+indexterm:[Pasta mit cremige Auberginensoße]
+
+=== Pasta mit cremige Auberginensoße
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 == Pizza & Co.
@@ -1575,6 +1674,54 @@ Portionen: 4, Stichwörter:
 
 [%always]
 <<<
+[id='sec.indischer_eintopf']
+
+indexterm:[Indischer Eintopf]
+
+=== Indischer Eintopf
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.linsencurry_mit_spinat']
+
+indexterm:[Linsencurry mit Spinat]
+
+=== Linsencurry mit Spinat
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pappa_al_pomodoro']
+
+indexterm:[Pappa al Pomodoro]
+
+=== Pappa al Pomodoro
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 173)
+|===
+
+[%always]
+<<<
 [id='sec.pilztopf']
 
 indexterm:[Pilztopf]
@@ -1635,7 +1782,63 @@ Portionen: 4, Stichwörter:
 .^| zugeben
 |===
 
+[%always]
+<<<
+[id='sec.sahara_chili']
+
+indexterm:[Sahara-Chili]
+
+=== Sahara-Chili
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
 == Aufläufe
+
+[%always]
+<<<
+[id='sec.kartoffel_curry']
+
+indexterm:[Kartoffel-Curry]
+
+=== Kartoffel-Curry
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.kartoffelgratin']
+
+indexterm:[Kartoffelgratin]
+
+=== Kartoffelgratin
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.käsespätzle']
+
+indexterm:[Käsespätzle]
+
+=== Käsespätzle
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
 
 [%always]
 <<<
@@ -1788,6 +1991,64 @@ Portionen: 2, Stichwörter:
 .^| in Reine geben, vermengen. 40min backen.
 |===
 
+== Ofengerichte
+
+[%always]
+<<<
+[id='sec.camemburger']
+
+indexterm:[Camemburger]
+
+=== Camemburger
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.feta_vom_grill']
+
+indexterm:[Feta vom Grill]
+
+=== Feta vom Grill
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.gebackener_camembert']
+
+indexterm:[Gebackener Camembert]
+
+=== Gebackener Camembert
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.raclette']
+
+indexterm:[Raclette]
+
+=== Raclette
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
 == Reisgerichte
 
 [%always]
@@ -1912,6 +2173,104 @@ Portionen: 2, Stichwörter:
 
 [%always]
 <<<
+[id='sec.bifteki']
+
+indexterm:[Bifteki]
+
+=== Bifteki
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.bosna_semmel']
+
+indexterm:[Bosna-Semmel]
+
+=== Bosna-Semmel
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.brotkranz_mit_kürbis__schinken__oliven__kräutern']
+
+indexterm:[Brotkranz mit Kürbis, Schinken, Oliven, Kräutern]
+
+=== Brotkranz mit Kürbis, Schinken, Oliven, Kräutern
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.cevapcici']
+
+indexterm:[Cevapcici]
+
+=== Cevapcici
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.croque_monsieur___madame']
+
+indexterm:[Croque Monsieur / Madame]
+
+=== Croque Monsieur / Madame
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.currywurst']
+
+indexterm:[Currywurst]
+
+=== Currywurst
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.fleischpflanzerl']
+
+indexterm:[Fleischpflanzerl]
+
+=== Fleischpflanzerl
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.gulasch']
 
 indexterm:[Gulasch]
@@ -1950,6 +2309,34 @@ Portionen: 8, Stichwörter: Österreich, Rind
 
 !===
 .^| zugeben, 3h köcheln lassen
+|===
+
+[%always]
+<<<
+[id='sec.hackbraten']
+
+indexterm:[Hackbraten]
+
+=== Hackbraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.hot_dogs']
+
+indexterm:[Hot Dogs]
+
+=== Hot Dogs
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 [%always]
@@ -2028,6 +2415,146 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 
 [%always]
 <<<
+[id='sec.lasagne']
+
+indexterm:[Lasagne]
+
+=== Lasagne
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.leberkäs']
+
+indexterm:[Leberkäs]
+
+=== Leberkäs
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.münchner_schnitzel']
+
+indexterm:[Münchner Schnitzel]
+
+=== Münchner Schnitzel
+
+Portionen: 0, Stichwörter: Hauptgericht, ohne_Beilage
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.nürnberger_bratwürste_mit_sauerkraut']
+
+indexterm:[Nürnberger Bratwürste mit Sauerkraut]
+
+=== Nürnberger Bratwürste mit Sauerkraut
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.ofenkartoffeln_mit_speck_und_kräuterquark___soure_cream']
+
+indexterm:[Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream]
+
+=== Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pasta_bolognese']
+
+indexterm:[Pasta Bolognese]
+
+=== Pasta Bolognese
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pasta_emiliana']
+
+indexterm:[Pasta emiliana]
+
+=== Pasta emiliana
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pelmeni']
+
+indexterm:[Pelmeni]
+
+=== Pelmeni
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.rehpflanzerl']
+
+indexterm:[Rehpflanzerl]
+
+=== Rehpflanzerl
+
+Portionen: 0, Stichwörter: Hauptgericht, Wild
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.rouladen']
+
+indexterm:[Rouladen]
+
+=== Rouladen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.schmorbraten']
 
 indexterm:[Schmorbraten]
@@ -2077,6 +2604,40 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen
+|===
+
+[%always]
+<<<
+[id='sec.schmorfleisch']
+
+indexterm:[Schmorfleisch]
+
+=== Schmorfleisch
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.195)
+|===
+
+[%always]
+<<<
+[id='sec.souvlaki']
+
+indexterm:[Souvlaki]
+
+=== Souvlaki
+
+Portionen: 0, Stichwörter: Hauptgericht, ohne_Beilage, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 [%always]
@@ -2136,6 +2697,104 @@ Portionen: 8, Stichwörter: Eintopf, USA, Rind
 
 !===
 .^| getrennt servieren
+|===
+
+[%always]
+<<<
+[id='sec.toast_hawaii']
+
+indexterm:[Toast Hawaii]
+
+=== Toast Hawaii
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.weißwürste']
+
+indexterm:[Weißwürste]
+
+=== Weißwürste
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.what_the_hack_buletten']
+
+indexterm:[What the hack-Buletten]
+
+=== What the hack-Buletten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.wiener']
+
+indexterm:[Wiener]
+
+=== Wiener
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.zucchini_mit_hack_und_linsen']
+
+indexterm:[Zucchini mit Hack und Linsen]
+
+=== Zucchini mit Hack und Linsen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.zucchini_mit_ziegenkäse_füllung_und_thymian']
+
+indexterm:[Zucchini mit Ziegenkäse-Füllung und Thymian]
+
+=== Zucchini mit Ziegenkäse-Füllung und Thymian
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.zwiebelrostbraten']
+
+indexterm:[Zwiebelrostbraten]
+
+=== Zwiebelrostbraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 == Geflügel
@@ -2216,7 +2875,131 @@ Portionen: 4, Stichwörter: Indien
 .^| zu Soße geben, Fleisch dazu, 5m köcheln
 |===
 
+[%always]
+<<<
+[id='sec.halbes_hähnchen']
+
+indexterm:[Halbes Hähnchen]
+
+=== Halbes Hähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.harissa_hähnchen']
+
+indexterm:[Harissa-Hähnchen]
+
+=== Harissa-Hähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.knuspriges_erdnusshähnchen']
+
+indexterm:[Knuspriges Erdnusshähnchen]
+
+=== Knuspriges Erdnusshähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.pesto_hähnchen_mit_blätterteig']
+
+indexterm:[Pesto-Hähnchen mit Blätterteig]
+
+=== Pesto-Hähnchen mit Blätterteig
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 115)
+|===
+
+[%always]
+<<<
+[id='sec.putenbrust_mit_maronenfüllung']
+
+indexterm:[Putenbrust mit Maronenfüllung]
+
+=== Putenbrust mit Maronenfüllung
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.putenschnitzel']
+
+indexterm:[Putenschnitzel]
+
+=== Putenschnitzel
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.tikka_brathähnchen_im_ofen__5z__s__']
+
+indexterm:[Tikka Brathähnchen im Ofen (5Z, S?)]
+
+=== Tikka Brathähnchen im Ofen (5Z, S?)
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
 == Fisch
+
+[%always]
+<<<
+[id='sec.curry_mango_garnelen']
+
+indexterm:[Curry-Mango-Garnelen]
+
+=== Curry-Mango-Garnelen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.147)
+|===
 
 [%always]
 <<<
@@ -2249,6 +3032,248 @@ Portionen: 1, Stichwörter:
 
 !===
 .^| Tipp: Fisch "aufrecht" grillen, halbe Kartoffel in Bauchhöhle dient als Ständer
+|===
+
+[%always]
+<<<
+[id='sec.forelle_aus_dem_ofen']
+
+indexterm:[Forelle aus dem Ofen]
+
+=== Forelle aus dem Ofen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.forelle__gebraten']
+
+indexterm:[Forelle, gebraten]
+
+=== Forelle, gebraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.lachs_auf_bohnengemüse']
+
+indexterm:[Lachs auf Bohnengemüse]
+
+=== Lachs auf Bohnengemüse
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.lachs_aus_der_holzplanke']
+
+indexterm:[Lachs aus der Holzplanke]
+
+=== Lachs aus der Holzplanke
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.lachs_mit_chorizo']
+
+indexterm:[Lachs mit Chorizo]
+
+=== Lachs mit Chorizo
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 125)
+|===
+
+[%always]
+<<<
+[id='sec.nizza_salat']
+
+indexterm:[Nizza Salat]
+
+=== Nizza Salat
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.19)
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_garnelen__pesto___rosé']
+
+indexterm:[Pasta mit Garnelen, Pesto + Rosé]
+
+=== Pasta mit Garnelen, Pesto + Rosé
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.73)
+|===
+
+[%always]
+<<<
+[id='sec.steckerlfisch']
+
+indexterm:[Steckerlfisch]
+
+=== Steckerlfisch
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.sushi']
+
+indexterm:[Sushi]
+
+=== Sushi
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.thunfisch_mit_sesamkruste']
+
+indexterm:[Thunfisch mit Sesamkruste]
+
+=== Thunfisch mit Sesamkruste
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.tintenfisch_vom_grill']
+
+indexterm:[Tintenfisch vom Grill]
+
+=== Tintenfisch vom Grill
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+== Vegetarisches
+
+[%always]
+<<<
+[id='sec.rührei']
+
+indexterm:[Rührei]
+
+=== Rührei
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.shakshuka']
+
+indexterm:[Shakshuka]
+
+=== Shakshuka
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.spargel_und_eier_mit_french_dressing']
+
+indexterm:[Spargel und Eier mit French Dressing]
+
+=== Spargel und Eier mit French Dressing
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.165)
+|===
+
+[%always]
+<<<
+[id='sec.süsskartoffeln_cajun_style']
+
+indexterm:[Süsskartoffeln Cajun-Style]
+
+=== Süsskartoffeln Cajun-Style
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 175)
 |===
 
 == Desserts
@@ -2440,6 +3465,20 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| 25min backen
+|===
+
+[%always]
+<<<
+[id='sec.dampfnudeln']
+
+indexterm:[Dampfnudeln]
+
+=== Dampfnudeln
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 [%always]

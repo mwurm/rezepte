@@ -1,0 +1,4 @@
+Tintenfisch vom Grill
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch

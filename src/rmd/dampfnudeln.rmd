@@ -1,0 +1,4 @@
+Dampfnudeln
+:yields: 0
+:category: Mehlspeisen
+:tags: Hauptgericht;vegetarisch

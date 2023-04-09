@@ -1,0 +1,4 @@
+Pasta mit Oliven und Ziegenkäse
+:yields: 0
+:category: Pasta
+:tags: Hauptgericht;Käse;vegetarisch
