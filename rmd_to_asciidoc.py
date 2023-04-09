@@ -63,7 +63,7 @@ class Cookbook:
 """)
 
         
-        cookbook_categories = ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Aufläufe", "Fleischgerichte", "Geflügel", "Fisch", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen"]
+        cookbook_categories = ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Aufläufe", "Reisgerichte", "Fleischgerichte", "Geflügel", "Fisch", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen"]
         for recipe in self.recipes:
             if recipe.category not in cookbook_categories:
                 raise Exception(f"Recipe {recipe.name} uses unknown category {recipe.category}")                
