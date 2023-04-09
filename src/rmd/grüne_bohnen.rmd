@@ -1,0 +1,4 @@
+Grüne Bohnen
+:yields: 0
+:category: Beilagen
+:tags: vegetarisch; leicht

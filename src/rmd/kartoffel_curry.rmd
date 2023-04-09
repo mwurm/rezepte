@@ -2,3 +2,29 @@ Kartoffel-Curry
 :yields: 0
 :category: Aufläufe
 :tags: Hauptgericht;vegetarisch;leicht
+
+2.5 TL gem. Koriander
+1 TL gem. Kreuzkümmel
+2 TL gem. Kurkuma
+1 Prise gem. Nelken
+1 Prise frisch gem. Muskatnuss
+4 EL Olivenöl
+1 Zwiebel, gehackt
+4 Knoblauchzehen, fein gehackt
+1 1/2 EL Ingwer, fein gehackt
+1 rote Chili, fein geschnitten
+1 Prise Meersalz
+1 Zimtstange
+2 Sternanis
+400ml Kokosmilch
+300g Kartoffeln; geschält und in Würfel (2 cm) geschnitten
+800g Kichererbsen (aus der Dose mit Flüssigkeit)
+4 EL Korianderblätter; gehackt
+
+# TODO Zutaten einsortieren
+# In einer kleinen Schüssel den Koriander, den Kreuzkümmel, die Kurkuma, die Nelken und die Muskatnuss mischen und mit 3 EL Wasser vermengen.
+# Das Olivenöl in einem Topf erhitzen. Dann die Zwiebel, den Knoblauch, den Ingwer, den Chili und das Salz hinzufügen und alles ca. 5 Minuten dünsten.
+# Wenn die Zutaten anfangen sich gold zu färben, die Gewürzmischung, die Zimtstange und den Sternanis hinzufügen. Alles 1 Minute aufkochen lassen und dann für ca. 30 Minuten ruhen lassen.
+# Danach die Kokosmilch, die Kartoffeln und die Kichererbsen (inklusive Flüssigkeit) unterrühren. Das Salz und den Zucker hinzufügen und alles für 15-20 Minuten bei mittlerer Hitze köcheln lassen. Falls die Kartoffeln noch nicht gar sind, die Kochzeit verlängern.
+# Zum Schluss das Curry noch einmal abschmecken und mit dem Koriander bestreuen.
+# Tipp: Wer möchte, kann das Curry mit Basmati-Reis oder Couscous servieren

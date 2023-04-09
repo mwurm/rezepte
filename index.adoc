@@ -390,6 +390,20 @@ Portionen: 4, Stichwörter: Aufstrich
 
 [%always]
 <<<
+[id='sec.grüne_bohnen']
+
+indexterm:[Grüne Bohnen]
+
+=== Grüne Bohnen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.hummus']
 
 indexterm:[Hummus]
@@ -507,6 +521,20 @@ Portionen: 2, Stichwörter:
 
 !===
 .^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
+|===
+
+[%always]
+<<<
+[id='sec.rispentomaten_aus_dem_ofen']
+
+indexterm:[Rispentomaten aus dem Ofen]
+
+=== Rispentomaten aus dem Ofen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
 |===
 
 [%always]
@@ -1810,6 +1838,65 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2.5 TL ! *gem. Koriander*
+!1 TL ! *gem. Kreuzkümmel*
+!2 TL ! *gem. Kurkuma*
+!1 Prise ! *gem. Nelken*
+!1 Prise ! *frisch gem. Muskatnuss*
+!4 EL ! Olivenöl
+!1 ! Zwiebel, gehackt
+!4 ! Knoblauchzehen, fein gehackt
+!1 ! *1/2 EL Ingwer, fein gehackt*
+!1 ! *rote Chili, fein geschnitten*
+!1 Prise ! *Meersalz*
+!1 ! *Zimtstange*
+!2 ! *Sternanis*
+!400ml ! *Kokosmilch*
+!300g ! *Kartoffeln*; _geschält und in Würfel (2 cm) geschnitten_
+!800g ! *Kichererbsen (aus der Dose mit Flüssigkeit)*
+!4 EL ! *Korianderblätter*; _gehackt_
+
+!===
+.^| TODO Zutaten einsortieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In einer kleinen Schüssel den Koriander, den Kreuzkümmel, die Kurkuma, die Nelken und die Muskatnuss mischen und mit 3 EL Wasser vermengen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Das Olivenöl in einem Topf erhitzen. Dann die Zwiebel, den Knoblauch, den Ingwer, den Chili und das Salz hinzufügen und alles ca. 5 Minuten dünsten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Wenn die Zutaten anfangen sich gold zu färben, die Gewürzmischung, die Zimtstange und den Sternanis hinzufügen. Alles 1 Minute aufkochen lassen und dann für ca. 30 Minuten ruhen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Danach die Kokosmilch, die Kartoffeln und die Kichererbsen (inklusive Flüssigkeit) unterrühren. Das Salz und den Zucker hinzufügen und alles für 15-20 Minuten bei mittlerer Hitze köcheln lassen. Falls die Kartoffeln noch nicht gar sind, die Kochzeit verlängern.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zum Schluss das Curry noch einmal abschmecken und mit dem Koriander bestreuen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Wer möchte, kann das Curry mit Basmati-Reis oder Couscous servieren
 |===
 
 [%always]
@@ -3483,6 +3570,20 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 
 [%always]
 <<<
+[id='sec.kaiserschmarrn']
+
+indexterm:[Kaiserschmarrn]
+
+=== Kaiserschmarrn
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, süß
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.naan']
 
 indexterm:[Naan]
@@ -3969,6 +4070,7 @@ Portionen: 4, Stichwörter:
 * <<sec.caesar_salad, Caesar Salad>>
 * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
 * <<sec.falafelsalat_mit_tahin_dressing, Falafelsalat mit Tahin-Dressing>>
+* <<sec.grüne_bohnen, Grüne Bohnen>>
 * <<sec.indischer_eintopf, Indischer Eintopf>>
 * <<sec.kartoffel_curry, Kartoffel-Curry>>
 * <<sec.lachs_auf_bohnengemüse, Lachs auf Bohnengemüse>>
@@ -3977,6 +4079,7 @@ Portionen: 4, Stichwörter:
 * <<sec.nizza_salat, Nizza Salat>>
 * <<sec.pappa_al_pomodoro, Pappa al Pomodoro>>
 * <<sec.pasta_mit_cremige_auberginensoße, Pasta mit cremige Auberginensoße>>
+* <<sec.rispentomaten_aus_dem_ofen, Rispentomaten aus dem Ofen>>
 * <<sec.shakshuka, Shakshuka>>
 * <<sec.spargel_und_eier_mit_french_dressing, Spargel und Eier mit French Dressing>>
 * <<sec.sushi, Sushi>>
