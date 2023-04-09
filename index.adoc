@@ -3962,3 +3962,23 @@ Portionen: 4, Stichwörter:
 .^| TODO und weiter?
 |===
 
+== Rezepte nach Stichwort
+
+=== leicht
+
+* <<sec.caesar_salad, Caesar Salad>>
+* <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
+* <<sec.falafelsalat_mit_tahin_dressing, Falafelsalat mit Tahin-Dressing>>
+* <<sec.indischer_eintopf, Indischer Eintopf>>
+* <<sec.kartoffel_curry, Kartoffel-Curry>>
+* <<sec.lachs_auf_bohnengemüse, Lachs auf Bohnengemüse>>
+* <<sec.lachs_aus_der_holzplanke, Lachs aus der Holzplanke>>
+* <<sec.linsencurry_mit_spinat, Linsencurry mit Spinat>>
+* <<sec.nizza_salat, Nizza Salat>>
+* <<sec.pappa_al_pomodoro, Pappa al Pomodoro>>
+* <<sec.pasta_mit_cremige_auberginensoße, Pasta mit cremige Auberginensoße>>
+* <<sec.shakshuka, Shakshuka>>
+* <<sec.spargel_und_eier_mit_french_dressing, Spargel und Eier mit French Dressing>>
+* <<sec.sushi, Sushi>>
+* <<sec.süsskartoffeln_cajun_style, Süsskartoffeln Cajun-Style>>
+* <<sec.zucchini_mit_hack_und_linsen, Zucchini mit Hack und Linsen>>

@@ -82,7 +82,12 @@ class Cookbook:
                     f.write(recipe.to_asciidoc_section("===="))
                 
 
-
+        f.write(f"== Rezepte nach Stichwort\n\n")
+        for tag in ["leicht"]:
+            f.write(f"=== {tag}\n\n")
+            for recipe in sorted(filter(lambda rec: tag in rec.tags, self.recipes), key=lambda r: r.name):
+                # * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
+                f.write(f"* <<{recipe.sec_id()}, {recipe.name}>>\n")
 
         f.close()
 
@@ -102,6 +107,9 @@ class Recipe:
     def to_id(self):
         return rudecode(to_snake_case(self.name))
 
+    def sec_id(self):
+        return f"sec.{self.to_id()}"
+
     def write_to_adoc(self, directory):
         if not os.path.exists(directory):
            os.makedirs(directory)
@@ -114,7 +122,7 @@ class Recipe:
         out_str = "";
         out_str += f"""[%always]
 <<<
-[id='sec.{self.to_id()}']
+[id='{self.sec_id()}']
 
 indexterm:[{self.name}]
 """
