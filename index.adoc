@@ -2085,17 +2085,54 @@ indexterm:[Chili, Texas Jailhouse Chili]
 
 === Texas Jailhouse Chili
 
-Portionen: 4, Stichwörter: Eintopf, USA, Rind
+Portionen: 8, Stichwörter: Eintopf, USA, Rind
 
 [%noheader, cols="1a,2", grid=rows]
 |===
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1.5kg ! *Fleisch*
+!2 ! Zwiebeln; _gewürfelt_
 
 !===
-.^| seeehr lange köcheln
+.^| glasig andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g ! *Hackfleisch (gemischt)*
+!500g ! *Rindfleisch*
+!500g ! *Chorizo*; _Scheiben_
+!200g ! *Tomaten*; _gehackt_
+!0.33l ! *Bier*
+!100g ! Tomatenmark
+!1 TL ! *Worcester-Soße*
+!1 EL ! *Essig*
+!1 Zehe ! Knoblauch
+!1 ! *Habanero 🌶️*
+!2 EL ! *Petersilie*
+!1 EL ! *Oregano*
+!1 TL ! Cumin
+!1 TL ! *Estragon*
+!2 TL ! *Zucker*
+!2 TL ! Salz
+
+!===
+.^| zugeben, ca. 2h köcheln lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!25g ! *Schokolade*
+!2 TL ! Pfeffer
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Dose ! *Pinto-Bohnen*
+
+!===
+.^| getrennt servieren
 |===
 
 == Geflügel
@@ -2311,7 +2348,7 @@ Portionen: 2, Stichwörter:
 !===
 
 !===
-.^| ^1^: in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
+.^| ^1^in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
 |===
 
 == Mehlspeisen
