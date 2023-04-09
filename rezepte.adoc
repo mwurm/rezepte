@@ -8,6 +8,7 @@
 :pdf-page-size: A5
 :toc: left
 :toc-title:
+:toclevels: 4
 
 Quelle: https://github.com/SUSE/recipebook.
 
