@@ -1,6 +1,6 @@
 Chicken Tikka Masala
 :yields: 4
-:category: Gefügel
+:category: Geflügel
 :tags: Indien
 
 150 g Joghurt

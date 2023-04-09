@@ -62,7 +62,13 @@ class Cookbook:
 
 """)
 
-        for category in ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Aufläufe", "Fleischgerichte", "Geflügel", "Fisch", "Mehlspeisen", "Gebäck", "Kuchen"]:
+        
+        cookbook_categories = ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Aufläufe", "Fleischgerichte", "Geflügel", "Fisch", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen"]
+        for recipe in self.recipes:
+            if recipe.category not in cookbook_categories:
+                raise Exception(f"Recipe {recipe.name} uses unknown category {recipe.category}")                
+
+        for category in cookbook_categories:
             f.write(f"== {category}\n\n")
             for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))
@@ -146,13 +152,13 @@ class Ingredient:
     def to_asciidoc_nested_table_row(self):
         amount_str = ""
         if self.amount is not None:
-            amount_str = f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
+            amount_str = f"{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
         return f"!{amount_str}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
     def __str__(self):
         amount_str = ""
         if self.amount is not None:
-            amount_str = f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
+            amount_str = f"{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
         return f"{amount_str}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
 
 class IngredientFactory:
