@@ -58,6 +58,7 @@ class Cookbook:
 = Rezepte
 :pdf-page-size: A5
 :toc: left
+:toclevels: 4
 :toc-title:
 
 """)
