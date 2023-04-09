@@ -7,8 +7,8 @@
 = Rezepte
 :pdf-page-size: A5
 :toc: left
-:toc-title:
 :toclevels: 4
+:toc-title:
 
 Quelle: https://github.com/SUSE/recipebook.
 
