@@ -182,7 +182,7 @@ Portionen: 4, Stichwörter: Aufstrich
 !100g ! *Kochschinken*; _fein gewürfelt_
 !2 ! *Gewürzgurken*; _fein gewürfelt_
 !1 Bd ! *Schnittlauch*; _geschnitten_
-! ! Salz, Pfeffer, Fondor
+!1 ! Salz, Pfeffer, Fondor
 
 !===
 .^| zugeben und verrühren
@@ -213,8 +213,8 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 !1 Zehe ! Knoblauch; _grepresst_
 !13ml ! *Zitronensaft*
 !24g ! *Tahin*
-!1 ! */3 TL Salz*
-!1 ! */3 TL Cumin*
+!0.33 TL ! Salz
+!0.33 TL ! Cumin
 !50ml ! *Wasser*
 
 !===
@@ -444,7 +444,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 ! */2 Pck Salatkrönung*; _mit Wasser vermengt_
+!0.5 ! *Pck Salatkrönung*; _mit Wasser vermengt_
 !2 EL ! Weinessig
 !2 EL ! *Öl*
 !1 Bch ! *Crème légère*
@@ -501,6 +501,60 @@ Portionen: 2, Stichwörter: vegetarisch
 .^| auf Kohlrabi verteilen, salzen und pfeffern
 |===
 
+[%always]
+<<<
+[id='sec.mediterraner_nudelsalat']
+
+indexterm:[Mediterraner Nudelsalat]
+
+=== Mediterraner Nudelsalat
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g ! *Nudeln*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Zucchini*; _Scheiben geviertelt_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 Glas ! *Tomaten (getrocket)*; _würfeln_
+!1 ! *Mozzarella*; _würfeln_
+!1 Bund ! *Rucola*
+!50g ! *Pinienkerne*
+
+!===
+.^| vermengen mit Nudeln und Zucchini
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6 EL ! Olivenöl
+!3 EL ! Aceto balsamico
+!1 TL ! Senf (scharf)
+!2 EL ! *Pesto*
+
+!===
+.^| Dressing zubereiten, mit Salz und Pfeffer abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Nudelsalat vermengen
+|===
+
 == Suppen
 
 [%always]
@@ -533,7 +587,7 @@ Portionen: 4, Stichwörter: vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100 ml ! *Weißwein*
-!3 ! */4l Gemüsebrühe*
+!0.75l ! *Gemüsebrühe*
 !2 ! *Kartoffeln*; _grob gewürfelt_
 
 !===
@@ -581,7 +635,7 @@ Portionen: 3, Stichwörter:
 !3 TL ! *Rindfleischbrühe*
 !700ml ! *Wasser*
 !200g ! *Schmelzkäse*
-!1 ! */2 Bch Creme Fraiche*
+!0.5 Bch ! *Creme Fraiche*
 !1 Pr ! Muskat
 !1 ! Salz und Pfeffer
 
@@ -631,7 +685,7 @@ Portionen: 6, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-! ! *Kreuzkümmel, Koriander, Salz, Pfeffer*
+!1 ! *Kreuzkümmel, Koriander, Salz, Pfeffer*
 
 !===
 .^| würzen
@@ -646,6 +700,63 @@ Portionen: 6, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100ml ! *Sahne*
+
+!===
+.^| zugeben
+|===
+
+[%always]
+<<<
+[id='sec.maronensuppe']
+
+indexterm:[Maronensuppe]
+
+=== Maronensuppe
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+!30g ! *Speck*
+
+!===
+.^| in 1 EL Olivenöl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *Maronen*
+!450ml ! *Wasser*
+!2 EL ! *Weißwein*
+!1 ! *Lorbeerblatt*
+
+!===
+.^| zugeben, 20min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 EL ! *Sahne*
+!4 EL ! Aceto balsamico
+
+!===
+.^| Lorbeerblatt entfernen, pürieren, Sahne zugeben, mit Salz und Pfeffer abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+!30g ! *Speck*
+
+!===
+.^| für das Topping: in 1 EL Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! *Trockenpflaumen*
+!2 TL ! Aceto balsamico
+!1 EL ! *Petersilie*; _gehackt_
 
 !===
 .^| zugeben
@@ -704,6 +815,36 @@ Portionen: 2, Stichwörter: Italien
 
 [%always]
 <<<
+[id='sec.linguine_mit_shrimps']
+
+indexterm:[Linguine mit Shrimps]
+
+=== Linguine mit Shrimps
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Pkg ! *Shrimps*
+!1 TL ! *Currypaste (rot)*
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml ! *Sahne*
+!200g ! *Pasta*
+
+!===
+.^| Sahne zugeben, mit Pasta vermengen
+|===
+
+[%always]
+<<<
 [id='sec.pasta_all_amatriciana']
 
 indexterm:[Pasta all'amatriciana]
@@ -738,7 +879,7 @@ Portionen: 4, Stichwörter: Italien
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!3 ! */4 Dose Tomaten*; _gehackt_
+!0.75 Dose ! *Tomaten*; _gehackt_
 
 !===
 .^| zugeben, köcheln, mit Salz abschmecken
@@ -832,7 +973,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-! ! *Kräuter der Provence*
+!1 ! *Kräuter der Provence*
 
 !===
 .^| auf gebackener Pizza verteilen
@@ -896,6 +1037,72 @@ Portionen: 4, Stichwörter:
 .^| Hack und Käse auf Kürbisgemüse verteilen und weitere 5min backen.
 |===
 
+[%always]
+<<<
+[id='sec.melanzane_al_parmigiana']
+
+indexterm:[Melanzane al Parmigiana]
+
+=== Melanzane al Parmigiana
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 190°C heizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _würfeln_
+!1 ! Knoblauchzehe; _gepresst_
+
+!===
+.^| mit Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Dose ! *Tomaten*; _gehackt_
+!1 EL ! Aceto balsamico
+!1 TL ! *Oregano*
+
+!===
+.^| zugeben, salzen und pfeffern. 15min köcheln.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Aubergine*
+
+!===
+.^| längs in Scheiben schneiden, grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g ! *Mozarella*
+!20g ! *Semmelbrösel*
+
+!===
+.^| Gratinform¹ aufschichten mit (unten nach oben): Aubergine / Parmesan / Tomatensoße / wdh. / ganz oben: Mozarella / Semmelbrösel / Parmesa.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 30min backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ¹besser eine große Form und nur zweimal schichten als kleine Form und mehrmals schichten
+|===
+
+== Reisgerichte
+
 == Fleischgerichte
 
 [%always]
@@ -921,7 +1128,7 @@ Portionen: 8, Stichwörter: Österreich, Rind
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0 ! *.5l Bier*
+!0.5l ! *Bier*
 !400ml ! *Gemüsebrühe*
 
 !===
@@ -980,7 +1187,7 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 !2 EL ! *Pinienkerne*; _gehackt_
 !3 Zweig ! *Thymian*; _gehackt_
 !3 Zweig ! *Rosmarin*; _gehackt_
-!0 ! *.5 Bd. glatte Petersilie*; _gehackt_
+!0.5 Bd. ! *glatte Petersilie*; _gehackt_
 !1 EL ! *Zitronenabrieb*
 !2 EL ! Butter; _flüssig erhitzt_
 
@@ -1030,7 +1237,7 @@ Portionen: 4, Stichwörter: Eintopf, USA, Rind
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 ! *.5kg Fleisch*
+!1.5kg ! *Fleisch*
 
 !===
 .^| seeehr lange köcheln
@@ -1055,7 +1262,7 @@ Portionen: 4, Stichwörter: Indien
 !===
 !150 g ! *Joghurt*
 !3 Zehen ! Knoblauch
-!1 ! *.5cm Ingwerknolle*; _fein gewürfelt_
+!1.5cm ! *Ingwerknolle*; _fein gewürfelt_
 !1 ! *Zitrone (Saft)*
 !1 EL ! *Kreuzkümmel*
 !1 EL ! *Garam Masala*
@@ -1096,7 +1303,7 @@ Portionen: 4, Stichwörter: Indien
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1 TL ! *Kardamompulver*
-!1 ! */2 TL Zimt*
+!0.5 TL ! *Zimt*
 !1 TL ! *Kurkuma*
 !1 Dose ! *Tomate (Stücke)*
 !300ml ! *Wasser*
@@ -1176,8 +1383,8 @@ Portionen: 4, Stichwörter:
 !===
 !250g ! Mehl .4+.^
 !25g ! *Zucker*
-!3 ! *.5g Trockenhefe*
-!1 ! */2 TL Salz*
+!3.5g ! *Trockenhefe*
+!0.5 TL ! Salz
 
 !===
 .^| in Küchenmaschine mit Knethaken verrühren
@@ -1356,7 +1563,7 @@ Portionen: 4, Stichwörter:
 !===
 !250ml ! Milch
 !250g ! Mehl
-!1 ! */2 Pkg Backpulver*
+!0.5 Pkg ! *Backpulver*
 
 !===
 .^| Milch komplett und Rest portionsweise zugeben, weiterrühren

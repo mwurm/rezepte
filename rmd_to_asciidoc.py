@@ -170,7 +170,7 @@ class IngredientFactory:
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string
-        pattern = r'^({})?(({})?\s+)?({})(;({}))?$'.format(amount_pattern, unit_pattern, ingredient_pattern, preparation_notes_pattern)
+        pattern = r'^({})({})?\s+({})(;({}))?$'.format(amount_pattern, unit_pattern, ingredient_pattern, preparation_notes_pattern)
         
         # Attempt to match the pattern to the ingredient string
         match = re.match(pattern, ingredient)
@@ -179,9 +179,9 @@ class IngredientFactory:
             # Extract the amount, unit, and ingredient from the match object
             amount = match.group(1)
             # unit = None if match.group(2) is None else match.group(2).strip()
-            unit = match.group(3)
-            ingredient = match.group(4)
-            preparation_notes = None if match.group(6) is None else match.group(6).strip()
+            unit = match.group(2)
+            ingredient = match.group(3)
+            preparation_notes = None if match.group(5) is None else match.group(5).strip()
             
             # Convert the amount to a float if it exists
             if amount:
