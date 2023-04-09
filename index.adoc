@@ -111,6 +111,38 @@ Portionen: 2, Stichwörter:
 .^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
 |===
 
+[%always]
+<<<
+[id='sec.tomatensoße']
+
+indexterm:[Tomatensoße]
+
+=== Tomatensoße
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+
+!===
+.^| in 2 EL Olivenöl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Dose ! *Tomaten (gehackt)*
+!20g ! Tomatenmark
+!1 TL ! Salz
+!0.5 TL ! *Zucker, Pfeffer, Paprikapulver*
+!1 EL ! *Oregano*
+
+!===
+.^| zugeben, köcheln, pürieren
+|===
+
 == Appetithäppchen
 
 [%always]
@@ -640,6 +672,39 @@ Portionen: 2, Stichwörter:
 
 !===
 .^| Würzen. Reis unterheben.
+|===
+
+[%always]
+<<<
+[id='sec.tsatsiki']
+
+indexterm:[Tsatsiki]
+
+=== Tsatsiki
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 ! *Gurke*
+
+!===
+.^| aushöhlen, grob raspeln, in Küchentuch auspressen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *griechischer Joghurt*
+!1 ! Knoblauchzehe (gepresst)
+!0.5 TL ! *Zitronenabrieb*
+!2 TL ! Olivenöl
+!1 ! Salz, Pfeffer
+!1 ! *Dill / Minze (optional)*
+
+!===
+.^| vermengen
 |===
 
 == Salate
@@ -1367,6 +1432,58 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| in Topf verrühren, schmelzen lassen, Gebratenes zugeben; mit Nudeln vermengen
+|===
+
+[%always]
+<<<
+[id='sec.pasta_mit_walnuss_soße_für_nudeln']
+
+indexterm:[Pasta mit Walnuss-Soße für Nudeln]
+
+=== Pasta mit Walnuss-Soße für Nudeln
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 Zehen ! Knoblauch; _gehackt_
+!2 ! Zwiebeln; _würfeln_
+
+!===
+.^| in Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml ! *Sahne*
+!150ml ! *Gemüsebrühe*
+!100ml ! *Weißwein*
+
+!===
+.^| dazugießen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Thymian, Majoran, Rosmarin, Salz, Pfeffer*
+
+!===
+.^| würzen, 8min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g ! *Walnüsse (gehackt)*
+
+!===
+.^| unterrühren, 4min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g ! *Parmesan*
+
+!===
+.^| unterrühren
 |===
 
 == Pizza & Co.
@@ -2154,6 +2271,49 @@ Portionen: 4, Stichwörter:
 .^| ^1^ im Tupper-Shaker gründlich schütteln, um Klümpchen zu vermeiden
 |===
 
+[%always]
+<<<
+[id='sec.vanilleeis_mit_heißen_kirschen___himbeeren']
+
+indexterm:[Vanilleeis mit heißen Kirschen / Himbeeren]
+
+=== Vanilleeis mit heißen Kirschen / Himbeeren
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *Schattenmorellen / Himbeeren (aus Glas)*
+
+!===
+.^| erhitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml ! *Saft (aus Glas)*
+!1 EL ! *Puderzucker*
+!2 TL ! *Speisestärke ^1^*
+
+!===
+.^| verrühren, eindicken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 ! *Kugeln p.P. Vanilleeis*
+
+!===
+.^| mit Kirschen / Himbeeren servieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^: in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
+|===
+
 == Mehlspeisen
 
 [%always]
@@ -2539,6 +2699,67 @@ Portionen: 6, Stichwörter:
 
 !===
 .^| Anmerkung: für 6 große Cookies
+|===
+
+[%always]
+<<<
+[id='sec.zitronenkekse_mit_weißer_schokolade']
+
+indexterm:[Zitronenkekse mit weißer Schokolade]
+
+=== Zitronenkekse mit weißer Schokolade
+
+Portionen: 16, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! Butter (weich)
+!150g ! *Zucker*
+!1 ! *Pck. Vanillezucker*
+!1 Prise ! Salz
+
+!===
+.^| rühren (Flexi-Rührer)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Ei
+!1 ! *Zitrone (Abrieb)*
+!100g ! *Frischkäse (Joghurt)*
+!225g ! Mehl
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *weiße Schokolade^1^*; _Stücke vierteln_
+
+!===
+.^| in Teigmasse unterheben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ca. 16 Cookies auf zwei Backbleche formen. 10min backen (🌡160℃).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Zitrone (Saft)*
+!100g ! *Puderzucker*
+
+!===
+.^| Zuckerguss rühren, Kekse nach abkühlen damit bestreichen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ Test: Doppelte Menge (300 g) oder gar 400 g ausprobieren.
 |===
 
 == Kuchen
