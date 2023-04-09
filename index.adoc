@@ -102,7 +102,7 @@ Portionen: 12, Stichwörter:
 !===
 
 !===
-.^| Backofen auf 180 °C vorheizen, Gebäck 30 min auf Blech ruhen lassen.
+.^| Backofen auf 🌡180℃ vorheizen, Gebäck 30 min auf Blech ruhen lassen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -262,7 +262,7 @@ Portionen: 4, Stichwörter: Österreich
 !===
 
 !===
-.^| _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 70 °C Umluft 10-15min in Ofen antrocknen lassen.
+.^| _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 🌡70℃ Umluft 10-15min in Ofen antrocknen lassen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -298,7 +298,7 @@ Portionen: 4, Stichwörter: Österreich
 !===
 
 !===
-.^| Kastenform einfetten, darin Knödelmasse 30-35min in 180°C Umluft backen
+.^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
 |===
 
 == Salate
@@ -929,7 +929,7 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 !1 ! Zwiebel; _gewürfelt_
 
 !===
-.^| auf Teig geben. Bei 250 °C 5-10m backen.
+.^| auf Teig geben. Bei 🌡250℃ 5-10m backen.
 |===
 
 [%always]
@@ -969,7 +969,7 @@ Portionen: 4, Stichwörter:
 !100g ! *Speck*; _gewürfelt_
 
 !===
-.^| mit Crème bestreichen, Zutaten verteilen. Bei 230 °C backen.
+.^| mit Crème bestreichen, Zutaten verteilen. Bei 🌡230℃ backen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -1011,7 +1011,7 @@ Portionen: 4, Stichwörter:
 !50g ! *Kürbiskerne*
 
 !===
-.^| Zutaten in Reine geben, mit Kürbiskernen bestreuen, ca. 30m backen (180 °C).
+.^| Zutaten in Reine geben, mit Kürbiskernen bestreuen, ca. 30m backen (🌡180℃).
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -1054,7 +1054,7 @@ Portionen: 2, Stichwörter:
 !===
 
 !===
-.^| Backofen auf 190°C heizen.
+.^| Backofen auf 🌡190℃ heizen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -1284,7 +1284,7 @@ Portionen: 4, Stichwörter: Indien
 !===
 
 !===
-.^| in Auflaufform 30m backen (200 °C)
+.^| in Auflaufform 30m backen (🌡200℃)
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -1419,7 +1419,7 @@ Portionen: 4, Stichwörter:
 !===
 
 !===
-.^| Backofen auf 180 °C (Umluft) aufheizen.
+.^| Backofen auf 🌡180℃ (Umluft) aufheizen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
@@ -1595,7 +1595,7 @@ Portionen: 15, Stichwörter:
 !===
 
 !===
-.^| Ofen auf 175 °C O/U-Hitze
+.^| Ofen auf 🌡175℃ O/U-Hitze
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===

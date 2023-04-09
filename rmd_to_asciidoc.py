@@ -138,6 +138,9 @@ class InstructionsWithIngredients:
     def __init__(self, instructions, ingredients):
         self.instructions = instructions
         self.ingredients = ingredients
+        # Replace strings like "180°C" by "🌡180℃" using the special UTF-8 symbol ℃
+        self.instructions = re.sub(r'(\d+)\s?(°C)', r'🌡\1℃', self.instructions)
+
 
 class Ingredient:
     def __init__(self, amount, unit, ingredient_name, preparation_notes):
