@@ -31,6 +31,86 @@ Portionen: 1, Stichwörter:
 .^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
 |===
 
+[%always]
+<<<
+[id='sec.pastateig']
+
+indexterm:[Pastateig]
+
+=== Pastateig
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g ! Mehl (405)
+!3 ! Eier
+!1 EL ! Olivenöl
+!0.5 TL ! Salz
+
+!===
+.^| TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
+|===
+
+[%always]
+<<<
+[id='sec.pizzateig']
+
+indexterm:[Pizzateig]
+
+=== Pizzateig
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g ! Mehl
+!0.5 ! *Würfel Hefe (frisch)*
+!1 TL ! *Zucker*
+
+!===
+.^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 TL ! Salz
+!2 EL ! Olivenöl
+!120ml ! *Wasser*
+
+!===
+.^| Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig nochmal durchkneten, ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
+|===
+
 == Appetithäppchen
 
 [%always]
@@ -109,6 +189,79 @@ Portionen: 12, Stichwörter:
 
 !===
 .^| 7-8 min backen
+|===
+
+[%always]
+<<<
+[id='sec.oliventapenade']
+
+indexterm:[Oliventapenade]
+
+=== Oliventapenade
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!80g ! *Oliven, schwarz, entsteint*
+!2 ! *Sardellenfilets*
+!4 ! Knoblauchzehen
+!1 TL ! *Kapern*
+!2 EL ! Olivenöl
+
+!===
+.^| in Zerkleinerer geben (Tupper Quick-Chef)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Sardellenpaste statt -filets
+|===
+
+[%always]
+<<<
+[id='sec.pizza_toast_mit_sardellen']
+
+indexterm:[Pizza-Toast mit Sardellen]
+
+=== Pizza-Toast mit Sardellen
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6 Scheiben ! Toast; _toasten_
+!1 Zehe ! Knoblauch
+!1 EL ! Olivenöl
+
+!===
+.^| Toast mit Knoblauch einreiben und mit Öl bepinseln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6 ! *Käsescheiben (Gouda)*
+!200g ! *Kirschtomaten (halbiert)*
+!12 ! *Sardellenfilets (in Öl)*
+!100g ! *Oliven (schwarz)*; _halbieren_
+!0.25 ! *Zitrone (Saft)*
+!1 ! Salz, Pfeffer
+
+!===
+.^| Toast belegen, 5min überbacken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!18 Blätter ! *Basilikum*
+
+!===
+.^| Toast dekorieren
 |===
 
 == Beilagen
@@ -223,6 +376,140 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 
 [%always]
 <<<
+[id='sec.obazda']
+
+indexterm:[Obazda]
+
+=== Obazda
+
+Portionen: 8, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!600g ! *Camembert*; _Rinde entfernen_
+!125g ! Butter
+
+!===
+.^| in Schüssel geben, 1h bei Zimmertemperatur weich werden lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *Frischkäse*
+!4 EL ! Paprikapulver
+!1 EL ! *Kümmel (gemahlen)*
+!1 ! Salz, Pfeffer
+
+!===
+.^| zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 EL ! Zwiebeln; _würfeln_
+
+!===
+.^| unterheben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation:
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1/3 des Camembert durch Limburger ersetzen (nicht mehr, da Limburger fester ist als Camembert)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1 TL Senf
+|===
+
+[%always]
+<<<
+[id='sec.rahmwirsing']
+
+indexterm:[Rahmwirsing]
+
+=== Rahmwirsing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 ! *Wirsingkohl*
+
+!===
+.^| Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml ! *Sahne*
+!1 TL ! *Brühpulver*
+!0.5 ! Muskat
+!2 TL ! Salz
+
+!===
+.^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
+|===
+
+[%always]
+<<<
+[id='sec.röstzwiebeln']
+
+indexterm:[Röstzwiebeln]
+
+=== Röstzwiebeln
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! Zwiebeln; _Ringe_
+
+!===
+.^| salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zwiebeln in Mehl wenden (Tablett mit Mehl bestäuben, Zwiebeln auflegen, Zwiebeln bestäuben)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml ! *Rapsöl*
+
+!===
+.^| erhitzen, Zwiebeln goldbraun rösten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Achtung: Zwiebeln gehen schnell von goldbraun in schwarz über! Wenn die Zwiebeln portionsweise aus dem Öl geschöpft werden, sind am Ende ein paar schon bitter.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
+|===
+
+[%always]
+<<<
 [id='sec.semmelknödel']
 
 indexterm:[Semmelknödel]
@@ -299,6 +586,60 @@ Portionen: 4, Stichwörter: Österreich
 
 !===
 .^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
+|===
+
+[%always]
+<<<
+[id='sec.tomatenreis']
+
+indexterm:[Tomatenreis]
+
+=== Tomatenreis
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *Reis*
+!225ml ! *Brühe*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _würfeln_
+!1 Zehe ! *Knoblach*; _gehackt_
+
+!===
+.^| in Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Tomate*; _gehackt_
+!80g ! Tomatenmark
+!1 ! *Paprika gelb*; _würfeln_
+
+!===
+.^| zugeben und andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150ml ! Milch
+
+!===
+.^| Portionsweise mit Milch ablöschen und eindicken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 TL ! Paprikapulver
+!1 ! Salz, Pfeffer
+
+!===
+.^| Würzen. Reis unterheben.
 |===
 
 == Salate
@@ -427,6 +768,50 @@ Portionen: 2, Stichwörter:
 
 !===
 .^| verrühren
+|===
+
+[%always]
+<<<
+[id='sec.granatapfeldressing']
+
+indexterm:[Granatapfeldressing]
+
+=== Granatapfeldressing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Granatapfel*
+
+!===
+.^| eine Hälfte: auspressen, andere Hälfte: Kerne lösen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!15ml ! *Zitronensaft*
+!15ml ! Senf, mittelscharf
+!15ml ! Ahornsirup
+!3 EL ! *Öl*
+!1 ! Salz, Pfeffer
+
+!===
+.^| verrühen (mit Granatapfelsaft)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| servieren: Kerne später auf Salat geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
 |===
 
 [%always]
@@ -762,6 +1147,54 @@ Portionen: 2, Stichwörter:
 .^| zugeben
 |===
 
+[%always]
+<<<
+[id='sec.serbische_bohnensuppe']
+
+indexterm:[Serbische Bohnensuppe]
+
+=== Serbische Bohnensuppe
+
+Portionen: 8, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g ! *Riesenbohnen (weiß)*
+
+!===
+.^| 24h in Wasser aufquellen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g ! *Bauchspeck*; _würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! *Tomaten*; _schälen_
+!2 Stangen ! *Lauch*; _würfeln_
+!3 ! *Paprika (rot)*; _würfeln_
+
+!===
+.^| mit Riesenbohnen zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 TL ! *Bohnenkraut*
+!1 EL ! Paprikapulver
+!1 TL ! Paprikapulver (scharf)
+!1 ! Pfeffer, Salz
+!2l ! *Wasser*
+
+!===
+.^| würzen, Wasser zugeben, 1h köcheln
+|===
+
 == Pasta
 
 [%always]
@@ -897,6 +1330,45 @@ Portionen: 4, Stichwörter: Italien
 .^| Tip: in gusseiserner Pfanne zubereiten +++ mit geriebenem Pecorino reichen
 |===
 
+[%always]
+<<<
+[id='sec.pasta_mit_speck_zwiebel_ziegenkäse']
+
+indexterm:[Pasta mit Speck-Zwiebel-Ziegenkäse]
+
+=== Pasta mit Speck-Zwiebel-Ziegenkäse
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g ! *Pasta*
+
+!===
+.^| kochen (100ml Nudelwasser behalten)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! *Speck*; _in Streifen_
+!2 ! Zwiebeln, rot
+!4 Stiele ! *Salbei*
+!200g ! *Oliven (ohne Stein)*
+
+!===
+.^| braten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml ! *Nudelwasser*
+!200g ! *Ziegenfrischkäse*
+
+!===
+.^| in Topf verrühren, schmelzen lassen, Gebratenes zugeben; mit Nudeln vermengen
+|===
+
 == Pizza & Co.
 
 [%always]
@@ -977,6 +1449,70 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| auf gebackener Pizza verteilen
+|===
+
+== Eintöpfe
+
+[%always]
+<<<
+[id='sec.pilztopf']
+
+indexterm:[Pilztopf]
+
+=== Pilztopf
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!175g ! *Speck*; _würfeln_
+!2 ! Zwiebeln
+!1 ! Knoblauchzehen
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Dose ! *Tomaten (gehackt)*
+!100ml ! *Wasser*
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Lorbeerblatt*
+!1 EL ! *Majoran*
+!1 ! Salz + Pfeffer
+
+!===
+.^| zugeben, 30min schmoren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Paprika*; _würfeln_
+!250g ! *Champignons*
+
+!===
+.^| zugeben, 10min schmoren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 EL ! *Schmand*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 EL ! *Petersilie*
+
+!===
+.^| zugeben
 |===
 
 == Aufläufe
@@ -1101,9 +1637,158 @@ Portionen: 2, Stichwörter:
 .^| ¹besser eine große Form und nur zweimal schichten als kleine Form und mehrmals schichten
 |===
 
+[%always]
+<<<
+[id='sec.paprikaauflauf_mit_feta']
+
+indexterm:[Paprikaauflauf mit Feta]
+
+=== Paprikaauflauf mit Feta
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ofen auf 🌡220℃ (OUH) vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! *Paprika bunt*; _würfeln_
+!1 ! Zwiebel; _grob würfeln_
+!200g ! *Feta: zerkrümeln*
+!3 EL ! *Piros Arany*
+!3 EL ! Olivenöl
+
+!===
+.^| in Reine geben, vermengen. 40min backen.
+|===
+
 == Reisgerichte
 
+[%always]
+<<<
+[id='sec.risotto']
+
+indexterm:[Risotto]
+
+=== Risotto
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _würfeln_
+
+!===
+.^| in Butter andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g ! *Risotto*
+
+!===
+.^| dazugeben, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1.5l ! *Brühe*
+!4 EL ! *Parmesan*
+!1 ! Salz, Pfeffer
+
+!===
+.^| nach und nach zuzugeben, ca. 20m garen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kürbisrisotto:500g Kürbis
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pilzrisotto: 300g Champignons, 150g Erbsen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Spargelrisotto:1-2 Bund grüner Spargel
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zitronenrisotto mit Shrimps: 2 Zitronen (Saft + Abrieb), 2 EL Senf, 200g Shrimps, Thymian
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Gorgonzolarisotto: 200g Gorgonzola, 400g Spinat
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Artischockenrisotto: 1 Dose Artischocken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Radicchiorisotto: 200g Radicchio
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Risotto mit Ziegenkäse und Pfifferlingen: 200g Ziegenfrischkäse, 400g Pfifferlinge, 2 Zweige Rosmarin + Thymian
+|===
+
 == Fleischgerichte
+
+[%always]
+<<<
+[id='sec._schweinefilet_vom_grill']
+
+indexterm:[ Schweinefilet vom Grill]
+
+===  Schweinefilet vom Grill
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Schweinefilet*
+
+!===
+.^| Salzen + pfeffern.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
+|===
 
 [%always]
 <<<
@@ -1219,6 +1904,59 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 
 !===
 .^| Lammlachse mit Kartoffeln und Bohnen servieren.
+|===
+
+[%always]
+<<<
+[id='sec.schmorbraten']
+
+indexterm:[Schmorbraten]
+
+=== Schmorbraten
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1kg ! *Rindfleisch (Bürgermeisterstück / falsches Filet)*
+
+!===
+.^| scharf anbraten, zur Seite legen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 EL ! Tomatenmark
+!2 ! *Möhren*; _5cm-Stücke halbieren_
+!1 ! *Petersilienwurzel*; _würfeln_
+!100g ! *Knollensellerie*; _würfeln_
+!4 ! *Schalotten*; _vierteln_
+!2 Zehen ! Knoblauch; _in Scheiben_
+
+!===
+.^| Tomatenmark anschwitzen und mit Gemüse anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500ml ! *Fleischbrühe*
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 Blatt ! *Lorbeer*
+
+!===
+.^| zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen
 |===
 
 [%always]
@@ -1357,6 +2095,64 @@ Portionen: 1, Stichwörter:
 |===
 
 == Desserts
+
+[%always]
+<<<
+[id='sec.schokoladenpudding']
+
+indexterm:[Schokoladenpudding]
+
+=== Schokoladenpudding
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150ml ! Milch
+!250ml ! *Sahne*
+
+!===
+.^| erhitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!130g ! *Schokolade*; _stückeln_
+
+!===
+.^| in Sahne-Milch schmelzen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml ! Milch
+!1 Pkg ! *Vanillezucker*
+!35g ! *Stärke*
+!1 EL ! *Kakaopulver*
+
+!===
+.^| zusammenrühren^1^, zugeben und unter ständigem rühren aufkochen (1 min kochen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 EL ! *Rum (optional)*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| auf Gläser verteilen, erkalten lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ im Tupper-Shaker gründlich schütteln, um Klümpchen zu vermeiden
+|===
 
 == Mehlspeisen
 
@@ -1538,6 +2334,30 @@ Portionen: 2, Stichwörter: USA
 
 [%always]
 <<<
+[id='sec.pfannkuchen']
+
+indexterm:[Pfannkuchen]
+
+=== Pfannkuchen
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g ! Mehl
+!1 Prise ! Salz
+!125ml ! *Wasser*
+!2 ! Eier
+
+!===
+.^| verrühren
+|===
+
+[%always]
+<<<
 [id='sec.waffeln']
 
 indexterm:[Waffeln]
@@ -1636,7 +2456,151 @@ Portionen: 15, Stichwörter:
 .^| auf Cookies drücken. 15m backen
 |===
 
+[%always]
+<<<
+[id='sec.schokoladencookies']
+
+indexterm:[Schokoladencookies]
+
+=== Schokoladencookies
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!280g ! Mehl
+!1.5 TL ! *Stärke*
+!1 TL ! *Natron*
+!0.5 TL ! Salz
+!170g ! Butter, zimmerwarm
+!150g ! *Zucker, braun*
+!100g ! *Zucker, weiß*
+!1 ! Ei, zimmerwarm
+!1 ! Eigelb, zimmerwarm
+!2 TL ! *Vanilleextrakt*
+!270g ! *Schokodrops, groß (selber machen)*
+
+!===
+.^| 🌡163℃ vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| trockene Zutaten verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Butter + Zucker separat 2m verrühren, bis cremig
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann Ei + Vanille zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann trockene Zutaten unterheben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann Schokodrops unterheben (Teig wird dick)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hügelchen mit flacher Spitze formen  (jeder wird ca. 170g haben)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 20m-25m backen. Mitte wird noch weich sein, aber das festigt sich beim abkühlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Beim Abkühlen ggf. noch weitere Schokodrops auf Oberseite reindrücken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Anmerkung: für 6 große Cookies
+|===
+
 == Kuchen
+
+[%always]
+<<<
+[id='sec.new_york_cheesecake']
+
+indexterm:[New York Cheesecake]
+
+=== New York Cheesecake
+
+Portionen: 12, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen 🌡180℃ Ober- Unterhitze vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g ! Butter; _schmelzen_
+!200g ! *Hafervollkornkekse*; _zerbröseln_
+
+!===
+.^| vermischen. In Springform geben, Boden flachdrücken. 30m kühlen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *Zucker*
+!2 Pkg ! *Vanillezucker*
+!3 EL ! *Speisestärke*
+!900g ! *Frischkäse (Doppelrahmstufe)*
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! Eier
+
+!===
+.^| nacheinander unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 TL ! *Vanillepaste*
+!175g ! *Sahne*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1h backen
+|===
 
 [%always]
 <<<
