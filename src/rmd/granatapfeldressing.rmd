@@ -1,6 +1,7 @@
 Granatapfeldressing
 :yields: 2
 :category: Salate
+:subcategory: Dressing
 :source: ?
 
 1 Granatapfel

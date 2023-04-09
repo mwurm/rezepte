@@ -70,8 +70,18 @@ class Cookbook:
 
         for category in cookbook_categories:
             f.write(f"== {category}\n\n")
-            for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
+            for recipe in sorted(filter(lambda rec: rec.category == category and rec.subcategory is None, self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))
+
+        
+            subcategories = set([r.subcategory for r in filter(lambda rec: rec.category == category and rec.subcategory is not None , self.recipes)])
+            for subcategory in subcategories:
+                f.write(f"=== {subcategory}\n\n")
+                for recipe in sorted(filter(lambda rec: rec.category == category and rec.subcategory == subcategory , self.recipes), key=lambda r: r.name):
+                    f.write(recipe.to_asciidoc_section("===="))
+                
+
+
 
         f.close()
 
@@ -82,6 +92,7 @@ class Recipe:
         self.attributes = attributes
         self.yields = attributes['yields']
         self.category = attributes['category']
+        self.subcategory = None if 'subcategory' not in attributes else attributes['subcategory'] 
         # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
         self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
         self.tags = () if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]

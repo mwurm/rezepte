@@ -784,103 +784,6 @@ Portionen: 2, Stichwörter: Deutschland, Bayern
 
 [%always]
 <<<
-[id='sec.dressing_mit_ahornsirup']
-
-indexterm:[Dressing mit Ahornsirup]
-
-=== Dressing mit Ahornsirup
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1 ! Zwiebel; _gewürfelt_
-!1 Zehe ! Knoblauch; _gehackt_
-!1 ! *Zitrone (Saft)*
-!2 EL ! *ÖL*
-!2 EL ! Aceto balsamico
-!3 EL ! Ahornsirup
-!1 TL ! Senf
-!1 TL ! Salz
-
-!===
-.^| verrühren
-|===
-
-[%always]
-<<<
-[id='sec.dressing_mit_preiselbeeren']
-
-indexterm:[Dressing mit Preiselbeeren]
-
-=== Dressing mit Preiselbeeren
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1 EL ! *Preiselbeeren*
-!2 EL ! *ÖL*
-!3 EL ! Aceto balsamico
-!1 TL ! Senf
-!1 TL ! Salz
-
-!===
-.^| verrühren
-|===
-
-[%always]
-<<<
-[id='sec.granatapfeldressing']
-
-indexterm:[Granatapfeldressing]
-
-=== Granatapfeldressing
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1 ! *Granatapfel*
-
-!===
-.^| eine Hälfte: auspressen, andere Hälfte: Kerne lösen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!15ml ! *Zitronensaft*
-!15ml ! Senf, mittelscharf
-!15ml ! Ahornsirup
-!3 EL ! *Öl*
-!1 ! Salz, Pfeffer
-
-!===
-.^| verrühen (mit Granatapfelsaft)
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| servieren: Kerne später auf Salat geben
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
-|===
-
-[%always]
-<<<
 [id='sec.italienischer_salat__']
 
 indexterm:[Italienischer Salat		]
@@ -1003,6 +906,105 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| mit Nudelsalat vermengen
+|===
+
+=== Dressing
+
+[%always]
+<<<
+[id='sec.dressing_mit_ahornsirup']
+
+indexterm:[Dressing mit Ahornsirup]
+
+==== Dressing mit Ahornsirup
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Zwiebel; _gewürfelt_
+!1 Zehe ! Knoblauch; _gehackt_
+!1 ! *Zitrone (Saft)*
+!2 EL ! *ÖL*
+!2 EL ! Aceto balsamico
+!3 EL ! Ahornsirup
+!1 TL ! Senf
+!1 TL ! Salz
+
+!===
+.^| verrühren
+|===
+
+[%always]
+<<<
+[id='sec.dressing_mit_preiselbeeren']
+
+indexterm:[Dressing mit Preiselbeeren]
+
+==== Dressing mit Preiselbeeren
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 EL ! *Preiselbeeren*
+!2 EL ! *ÖL*
+!3 EL ! Aceto balsamico
+!1 TL ! Senf
+!1 TL ! Salz
+
+!===
+.^| verrühren
+|===
+
+[%always]
+<<<
+[id='sec.granatapfeldressing']
+
+indexterm:[Granatapfeldressing]
+
+==== Granatapfeldressing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Granatapfel*
+
+!===
+.^| eine Hälfte: auspressen, andere Hälfte: Kerne lösen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!15ml ! *Zitronensaft*
+!15ml ! Senf, mittelscharf
+!15ml ! Ahornsirup
+!3 EL ! *Öl*
+!1 ! Salz, Pfeffer
+
+!===
+.^| verrühen (mit Granatapfelsaft)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| servieren: Kerne später auf Salat geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
 |===
 
 == Suppen
