@@ -182,7 +182,7 @@ Portionen: 4, Stichwörter: Aufstrich
 !100g ! *Kochschinken*; _fein gewürfelt_
 !2 ! *Gewürzgurken*; _fein gewürfelt_
 !1 Bd ! *Schnittlauch*; _geschnitten_
-!1 ! Salz, Pfeffer, Fondor
+! ! Salz, Pfeffer, Fondor
 
 !===
 .^| zugeben und verrühren
@@ -213,8 +213,8 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 !1 Zehe ! Knoblauch; _grepresst_
 !13ml ! *Zitronensaft*
 !24g ! *Tahin*
-!0.33 TL ! Salz
-!0.33 TL ! Cumin
+!1 ! */3 TL Salz*
+!1 ! */3 TL Cumin*
 !50ml ! *Wasser*
 
 !===
@@ -444,7 +444,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.5 ! *Pck Salatkrönung*; _mit Wasser vermengt_
+!1 ! */2 Pck Salatkrönung*; _mit Wasser vermengt_
 !2 EL ! Weinessig
 !2 EL ! *Öl*
 !1 Bch ! *Crème légère*
@@ -533,7 +533,7 @@ Portionen: 4, Stichwörter: vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100 ml ! *Weißwein*
-!0.75l ! *Gemüsebrühe*
+!3 ! */4l Gemüsebrühe*
 !2 ! *Kartoffeln*; _grob gewürfelt_
 
 !===
@@ -581,7 +581,7 @@ Portionen: 3, Stichwörter:
 !3 TL ! *Rindfleischbrühe*
 !700ml ! *Wasser*
 !200g ! *Schmelzkäse*
-!0.5 Bch ! *Creme Fraiche*
+!1 ! */2 Bch Creme Fraiche*
 !1 Pr ! Muskat
 !1 ! Salz und Pfeffer
 
@@ -605,6 +605,50 @@ Portionen: 3, Stichwörter:
 
 !===
 .^| Dazu passt frisches Baguette. Besonders lecker ist dieses, wenn es noch einmal kurz in den Backofen geschoben wird. Dann kannst du das knusprige Baguette mit etwas Butter zur Suppe servieren.
+|===
+
+[%always]
+<<<
+[id='sec.kürbissuppe']
+
+indexterm:[Kürbissuppe]
+
+=== Kürbissuppe
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1kg ! *Kürbis*
+!2 ! *Kartoffeln*
+!1 ! *Lauch*
+
+!===
+.^| schneiden, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+! ! *Kreuzkümmel, Koriander, Salz, Pfeffer*
+
+!===
+.^| würzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1l ! *Gemüsebrühe*
+
+!===
+.^| aufgießen; nach 20min pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml ! *Sahne*
+
+!===
+.^| zugeben
 |===
 
 == Pasta
@@ -694,7 +738,7 @@ Portionen: 4, Stichwörter: Italien
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.75 Dose ! *Tomaten*; _gehackt_
+!3 ! */4 Dose Tomaten*; _gehackt_
 
 !===
 .^| zugeben, köcheln, mit Salz abschmecken
@@ -747,6 +791,111 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 .^| auf Teig geben. Bei 250 °C 5-10m backen.
 |===
 
+[%always]
+<<<
+[id='sec.kürbispizza_mit_pfifferlingen']
+
+indexterm:[Kürbispizza mit Pfifferlingen]
+
+=== Kürbispizza mit Pfifferlingen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! *Pizzateig*
+
+!===
+.^| ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g ! *Ziegenfrischkäse*
+!1 Becher ! *Crème fraîche*
+!2 EL ! *Dijon-Senf*
+
+!===
+.^| verrühren, salzen, pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *Käse*; _gerieben_
+!100g ! *Hokkaidokürbis*
+!100g ! *Pfifferlinge*
+!100g ! *Speck*; _gewürfelt_
+
+!===
+.^| mit Crème bestreichen, Zutaten verteilen. Bei 230 °C backen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+! ! *Kräuter der Provence*
+
+!===
+.^| auf gebackener Pizza verteilen
+|===
+
+== Aufläufe
+
+[%always]
+<<<
+[id='sec.kürbischaos']
+
+indexterm:[Kürbischaos]
+
+=== Kürbischaos
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3 ! Zwiebeln (rot); _Spalten_
+!4 ! Knoblauchzehen; _hacken_
+!1kg ! *Hokkaidokürbis*; _würfeln_
+!2 Zweige ! *Rosmarin*; _grob hacken_
+!2 EL ! *Honig*
+!4 EL ! Olivenöl
+
+!===
+.^| in Schüssel vermengen, salzen und pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g ! *Kürbiskerne*
+
+!===
+.^| Zutaten in Reine geben, mit Kürbiskernen bestreuen, ca. 30m backen (180 °C).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g ! *Hackfleisch*
+!2 EL ! Tomatenmark
+!1 ! *rote Chilischote*
+
+!===
+.^| anbraten, salzen und pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g ! *cremiger Feta*
+!150g ! *Crème fraîche*
+
+!===
+.^| in Schüssel glatt rühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hack und Käse auf Kürbisgemüse verteilen und weitere 5min backen.
+|===
+
 == Fleischgerichte
 
 [%always]
@@ -772,7 +921,7 @@ Portionen: 8, Stichwörter: Österreich, Rind
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.5l ! *Bier*
+!0 ! *.5l Bier*
 !400ml ! *Gemüsebrühe*
 
 !===
@@ -831,7 +980,7 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 !2 EL ! *Pinienkerne*; _gehackt_
 !3 Zweig ! *Thymian*; _gehackt_
 !3 Zweig ! *Rosmarin*; _gehackt_
-!0.5 Bd. ! *glatte Petersilie*; _gehackt_
+!0 ! *.5 Bd. glatte Petersilie*; _gehackt_
 !1 EL ! *Zitronenabrieb*
 !2 EL ! Butter; _flüssig erhitzt_
 
@@ -881,13 +1030,89 @@ Portionen: 4, Stichwörter: Eintopf, USA, Rind
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1.5kg ! *Fleisch*
+!1 ! *.5kg Fleisch*
 
 !===
 .^| seeehr lange köcheln
 |===
 
 == Geflügel
+
+[%always]
+<<<
+[id='sec.chicken_tikka_masala']
+
+indexterm:[Chicken Tikka Masala]
+
+=== Chicken Tikka Masala
+
+Portionen: 4, Stichwörter: Indien
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150 g ! *Joghurt*
+!3 Zehen ! Knoblauch
+!1 ! *.5cm Ingwerknolle*; _fein gewürfelt_
+!1 ! *Zitrone (Saft)*
+!1 EL ! *Kreuzkümmel*
+!1 EL ! *Garam Masala*
+!1 EL ! Paprikapulver
+!1 EL ! *Öl*
+!1 TL ! Salz
+
+!===
+.^| zu Marinade verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!750g ! *Hähnchenbrustfilet*
+
+!===
+.^| 3h oder länger marinieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| in Auflaufform 30m backen (200 °C)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g ! *Reis*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2 ! Zwiebeln; _gewürfelt_
+
+!===
+.^| in Butterschmalz ca. 10min andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 TL ! *Kardamompulver*
+!1 ! */2 TL Zimt*
+!1 TL ! *Kurkuma*
+!1 Dose ! *Tomate (Stücke)*
+!300ml ! *Wasser*
+!1 TL ! Salz
+
+!===
+.^| zu Zwiebeln geben, 15min köcheln, pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50 ml ! *Sahne*
+!2 TL ! *Honig*
+
+!===
+.^| zu Soße geben, Fleisch dazu, 5m köcheln
+|===
 
 == Fisch
 
@@ -924,6 +1149,8 @@ Portionen: 1, Stichwörter:
 .^| Tipp: Fisch "aufrecht" grillen, halbe Kartoffel in Bauchhöhle dient als Ständer
 |===
 
+== Desserts
+
 == Mehlspeisen
 
 [%always]
@@ -949,8 +1176,8 @@ Portionen: 4, Stichwörter:
 !===
 !250g ! Mehl .4+.^
 !25g ! *Zucker*
-!3.5g ! *Trockenhefe*
-!0.5 TL ! Salz
+!3 ! *.5g Trockenhefe*
+!1 ! */2 TL Salz*
 
 !===
 .^| in Küchenmaschine mit Knethaken verrühren
@@ -1129,7 +1356,7 @@ Portionen: 4, Stichwörter:
 !===
 !250ml ! Milch
 !250g ! Mehl
-!0.5 Pkg ! *Backpulver*
+!1 ! */2 Pkg Backpulver*
 
 !===
 .^| Milch komplett und Rest portionsweise zugeben, weiterrühren
