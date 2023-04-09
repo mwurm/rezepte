@@ -1,0 +1,473 @@
+cat <<EOF > src/rmd/new_york_cheesecake.rmd
+New York Cheesecake
+:yields: 12
+:category: Kuchen
+:source: Mutti Magazin
+
+Backofen 180 °C Ober- Unterhitze vorheizen
+
+125g Butter schmelzen
+200g Hafervollkornkekse zerbröseln, mit Butterschmelze vermischen. In Springform geben, Boden flachdrücken. 30m kühlen.
+200g Zucker verrühren
+2 Pkg Vanillezucker
+3 EL Speisestärke
+900g Frischkäse (Doppelrahmstufe)
+3 Eier nacheinander unterrühren
+1 TL Vanillepaste zugeben
+175g Sahne unterrühren
+1h backen
+EOF
+
+cat <<EOF > src/rmd/pasta_mit_speck_zwiebel_ziegenkäse.rmd
+Pasta mit Speck-Zwiebel-Ziegenkäse
+:yields: 4
+:category: Pasta
+:source: maxi
+
+
+400g Nudeln kochen (100ml Nudelwasser behalten)
+150g Speck, in Scheiben braten
+2 Zwiebeln, rot
+4 Stiele Salbei
+200g Oliven (ohne Stein)
+100ml Nudelwasser in Topf verrühren, schmelzen lassen, Gebratenes zugeben; mit Nudeln vermengen
+200g Ziegenfrischkäse
+EOF
+
+cat <<EOF > src/rmd/pastateig.rmd
+Pastateig
+:yields: 4
+:category: Basis
+:source: Blog https://goo.gl/Vq2mRL
+
+300g Mehl (405 oder 00) TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
+3 Eier
+1 EL Olivenöl
+1/2 TL
+Salz
+# Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
+
+EOF
+
+cat <<EOF > src/rmd/obazda.rmd
+Obazda
+:yields: 8
+:category: Beilagen
+
+600g Camembert Camembert-Rinde entfernen, in Schüssel geben, weich werden lassen
+125g Butter
+200g Frischkäse zugeben, verrühren
+4 EL Paprikapulver
+1 EL Kümmel, gemahlen
+Salz, Pfeffer
+
+2 EL Zwiebeln (gewürfelt) unterheben
+
+# Variation: ⅓ des Camembert durch Limburger ersetzen (nicht mehr, da Limburger fester ist als Camembert)
+1 TL Senf
+
+EOF
+
+cat <<EOF > src/rmd/oliventapenade.rmd
+Oliventapenade
+:yields: 4
+:category: Appetithäppchen
+:source: Tupperware
+
+80g Oliven, schwarz, entsteint;fein zerkleinern
+2 Sardellenfilets
+3 EL Knoblauchzehe
+1 TL Kapern
+2 EL Olivenöl Zutaten mit Öl vermischen
+# Tip: Sardellenpaste statt -filets
+EOF
+
+cat <<EOF > src/rmd/paprikaauflauf_mit_feta.rmd
+Paprikaauflauf mit Feta
+:yields: 2
+:category: Aufläufe
+:source: QQQQQQ
+
+Ofen auf 220 °C (OUH) vorheizen
+
+3 Paprika bunt (gewürfelt) in Reine geben, vermengen. 40m backen.
+1 Zwiebel (gewürfelt)
+200g Feta (zerkrümelt)
+3 EL Piros Arany
+3 EL Olivenöl
+EOF
+
+cat <<EOF > src/rmd/pfannkuchen.rmd
+Pfannkuchen
+:yields: 2
+:category: Mehlspeisen
+
+150g Mehl verrühren (Eier unterrühren)
+1 Prise Salz
+125ml Wasser
+2 Eier
+EOF
+
+cat <<EOF > src/rmd/pilztopf.rmd
+Pilztopf
+Quelle: NA
+
+175g Speck anbraten
+2 Zwiebeln
+1 Knoblauchzehen
+1 Dose Tomaten (gehackt) ablöschen
+100ml Wasser
+1 Lorbeerblatt zugeben, 30m schmoren
+1 EL Majoran
+Salz + Pfeffer
+1 Paprika (gewürfelt) zugeben, 10m schmoren
+250g Champignons
+2 EL Schmand unterrühren
+1 EL Petersilie zugeben
+EOF
+
+cat <<EOF > src/rmd/pizzateig.rmd
+Pizzateig
+:yields: 2
+:category: Basis
+300g Mehl Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
+1/2 Würfel Hefe (frisch)
+1 TL Zucker
+1 TL Salz Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
+2 EL Olivenöl
+120ml Wasser
+# Teig nochmal durchkneten, ausrollen
+# Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
+EOF
+
+cat <<EOF > src/rmd/pizza_toast_mit_sardellen.rmd
+Pizza-Toast mit Sardellen
+:yields: 6
+:category: Appetithäppchen
+:source: Edeka
+6 Toastscheiben toasten, Knoblauch einreiben, mit Öl bepinseln
+1 Zehe Knoblauch
+1 EL Olivenöl
+6 Käsescheiben (Gouda) Toast belegen, 5min überbacken
+200g Kirschtomaten (halbiert)
+12 Sardellenfilets in Öl
+100g Oliven (schwarz, halbiert)
+1/4 Zitrone (Saft)
+Salz, Pfeffer
+18 Basilikumblätter Toast dekorieren
+EOF
+
+cat <<EOF > src/rmd/rahmwirsing.rmd
+Rahmwirsing
+:yields: 2
+:category: Beilagen
+:source: Schuhbeck (modifiziert)
+1/2 Wirsingkohl Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.
+200ml Sahne erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
+1 TL Brühpulver
+1/2 Muskatpulver
+2 TL Salz
+EOF
+
+cat <<EOF > src/rmd/risotto.rmd
+Risotto
+:yields: 4
+:category: Reisgerichte
+
+1 Zwiebel (gewürfelt) in Butter andünsten
+500g Risotto dazugeben, anbraten
+1.5 l Brühe nach und nach zuzugeben, ca. 20m garen
+4 EL Parmesan
+Salz, Pfeffer
+
+# Varianten
+# Kürbisrisotto:		500g Kürbis
+# Pilzrisotto: 		300g Champignons, 150g Erbsen
+#Spargelrisotto:		1-2 Bund grüner Spargel
+# Zitronenrisotto mit Shrimps: 2 Zitronen (Saft + Abrieb), 2 EL Senf, 200g Shrimps, Thymian
+# Gorgonzolarisotto: 	200g Gorgonzola, 400g Spinat
+# Artischockenrisotto: 	1 Dose Artischocken
+# Radicchiorisotto: 	200g Radicchio
+# Risotto mit Ziegenkäse und Pfifferlingen: 200g Ziegenfrischkäse, 400g Pfifferlinge, 2 Zweige Rosmarin + Thymian
+
+EOF
+
+cat <<EOF > src/rmd/röstzwiebeln.rmd
+Röstzwiebeln
+:yields: 2
+:category: Beilagen
+4 Zwiebeln in Ringe schneiden, salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.
+# Zwiebeln in Mehl wenden (Tablett mit Mehl bestäuben, Zwiebeln auflegen, Zwiebeln bestäuben)
+Salz
+200ml Rapsöl erhitzen, Zwiebeln goldbraun rösten.
+# Achtung: Zwiebeln gehen schnell von goldbraun in schwarz über!
+# Wenn die Zwiebeln portionsweise aus dem Öl geschöpft werden, sind am Ende ein paar schon bitter.
+# Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
+
+EOF
+
+cat <<EOF > src/rmd/salatdressings.rmd
+Salatdressings
+:yields: 2
+:category: Salate
+:source: diverse
+
+Öl und Essig
+2 EL Essig, 6 EL Öl, Salz, Pfeffer
+Vinaigrette
+1/4 Zwiebel ( gewürfelt) verrühren
+2 EL Weißweinessig
+1/4 TL Senf, mittelscharf
+Salz, Zucker, Pfeffer
+3 EL Öl zugeben, verrühren, 10 m ziehen lassen
+# Mod: + Petersilie / + Rosmarin / + Knoblauch / + 1 EL Preiselbeeren / statt Zucker: Honig, Ahornsirup
+
+EOF
+
+cat <<EOF > src/rmd/granatapfeldressing.rmd
+Granatapfeldressing
+:yields: 2
+:category: Salat
+:source: ?
+1 Granatapfel eine Hälfte: auspressen, andere Hälfte: Kerne lösen
+15ml Zitronensaft verrühen (mit Granatapfelsaft), Kerne später auf Salat geben
+15ml Senf, mittelscharf
+15ml Ahornsirup
+3 EL Öl
+Salz, Pfeffer
+#Mod: + Petersilie / + Rosmarin / Honig statt Zucker
+EOF
+
+cat <<EOF > src/rmd/american_dressing.rmd
+American Dressing
+EOF
+
+cat <<EOF > src/rmd/casesar_dressing.rmd
+Casesar Dressing
+EOF
+
+cat <<EOF > src/rmd/joghurt_dressing.rmd
+Joghurt-Dressing
+# Mod: bei 125g Joghurt: + 1/2 TL Senf *und* + 2 TL Ketchup
+EOF
+
+cat <<EOF > src/rmd/thousand_island_dressing.rmd
+Thousand-Island Dressing
+EOF
+
+cat <<EOF > src/rmd/serbische_bohnensuppe.rmd
+Serbische Bohnensuppe
+:yields: 8
+:category: Suppen
+:source: Erzsi
+
+500g Riesenbohnen (weiß) in Wasser einen Tag lang aufquellen lassen
+3 Paprika (rot) würfeln
+4 Tomaten (geschält)
+2 Stangen Lauch
+300g Bauchspeck würfeln, anbraten. Tomaten + Lauch zugeben, andünsten. Bohnen + Paprika zugeben
+
+2 TL Bohnenkraut würzen, Wasser zugeben, 1h köcheln
+1 EL Paprikapulver
+1 TL Paprikapulver (scharf)
+Pfeffer, Salz
+2 l Wasser
+
+EOF
+
+cat <<EOF > src/rmd/schmorbraten.rmd
+Schmorbraten
+:yields: 4
+:category: Fleischgerichte
+2 Möhren halbieren in 5cm-Stücke
+1 Petersilienwurzel würfeln
+100g  Knollensellerie würfeln
+4 Schalotten vierteln
+2 Zehen Knoblauch in Scheibchen schneiden
+1kg Rindfleisch (Bürgermeisterstück / falsches Filet)
+# scharf anbraten, zur Seite legen
+2 EL Tomatenmark
+# anschwitzen, mit ganzem Gemüse anbraten
+500ml Fleischbrühe
+# ablöschen
+1 Lorbeerblatt
+# zugeben. Fleisch dazugeben
+# 2,5h schmoren, jede 1/2h wenden, ggf. Brühe zugießen
+
+EOF
+
+cat <<EOF > src/rmd/schokoladencookies.rmd
+Schokoladencookies
+:yields: 6
+:category: Gebäck
+:source: https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/
+
+
+280g Mehl
+1.5 TL Stärke
+1 TL Natron
+0.5 TL Salz
+170g Butter, zimmerwarm
+150g Zucker, braun
+100g Zucker, weiß
+1 Ei, zimmerwarm
+1 Eigelb, zimmerwarm
+2 TL Vanilleextrakt
+270g Schokodrops, groß (selber machen)
+# 163°C vorheizen
+# trockene Zutaten verrühren
+# Butter + Zucker separat 2m verrühren, bis cremig
+# dann Ei + Vanille zugeben, verrühren
+# dann trockene Zutaten unterheben
+# dann Schokodrops unterheben (Teig wird dick)
+# Hügelchen mit flacher Spitze formen  (jeder wird ca. 170g haben)
+# 20m-25m backen. Mitte wird noch weich sein, aber das festigt sich beim abkühlen
+# Beim Abkühlen ggf. noch weitere Schokodrops auf Oberseite reindrücken
+# Anmerkung: für 6 große Cookies
+
+EOF
+
+cat <<EOF > src/rmd/schokoladenpudding.rmd
+Schokoladenpudding
+:yields: 4
+:category: Desserts
+:source: chefkoch.de
+150ml Milch
+# Schokolade stückeln, mit Milch und Sahne schmelzen lassen
+250ml Sahne
+130g Schokolade
+100ml Milch
+# zusammenrühren, zugeben und unter ständigem rühren aufkochen (1 min kochen lassen)
+1 Pkg Vanillezucker
+35g Stärke
+1 EL Kakaopulver
+2 EL Rum
+# zugeben, verrühren, auf Gläser verteilen, erkalten lassen
+EOF
+
+cat <<EOF > src/rmd/schweinefilet_vom_grill.rmd
+ Schweinefilet vom Grill
+:yields: 2
+:category: Fleischgerichte
+1 Schweinefilet
+# Salzen + pfeffern.
+# 10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
+
+EOF
+
+cat <<EOF > src/rmd/tomatenreis.rmd
+Tomatenreis
+:yields: 2
+:category: Beilagen
+:source: -
+
+150g Reis kochen
+225ml Brühe
+1 Zwiebel (gehackt)
+# Zwiebel und Knoblach in Öl andünsten, Tomaten und Tomatenmark zugeben.
+1 Zehe Knoblach (gehackt)
+1 Tomate (gehackt)
+1 Paprika gelb, gewürfelt
+80g Tomatenmark
+150ml Milch
+# Portionsweise mit Milch ablöschen und eindicken.
+# Würzen. Reis unterheben.
+1 TL Paprikapulver
+Salz, Pfeffer
+
+EOF
+
+cat <<EOF > src/rmd/tomatensoße.rmd
+Tomatensoße
+:yields: 4
+:category: Basis
+:source: Melli Schuh
+1 Zwiebel (gewürfelt) andünsten (10 min)
+2 EL Olivenöl
+1 Dose Tomaten (gehackt)
+# zugeben, köcheln, pürieren
+20g Tomatenmark
+1 TL Salz
+je 1/2 TL Zucker, Pfeffer, Paprikapulver
+1 EL Oregano
+
+EOF
+
+cat <<EOF > src/rmd/tsatsiki.rmd
+Tsatsiki
+:yields: 2
+:category: Beilagen
+:source: -
+
+1/2 Gurke aushöhlen, grob raspeln, in Küchentuch auspressen
+150g griechischer Joghurt
+# vermengen
+1 Knoblauchzehe (gepresst)
+1/2 TL Zitronenabrieb
+2 TL Olivenöl
+Salz, Pfeffer
+1 Dill / Minze, optional
+
+EOF
+
+cat <<EOF > src/rmd/vanilleeis_mit_heißen_kirschen.rmd
+Vanilleeis mit heißen Kirschen / Himbeeren
+:yields: 2
+:category: Desserts
+:source: Schuhbeck (modifiziert)
+
+200g Schattenmorellen / Himbeeren (aus Glas) erhitzen
+200ml Saft (aus Glas)
+# verrühren, eindicken.
+1 EL Puderzucker
+2 TL Speisestärke **1
+2 Kugeln p.P. Vanilleeis
+
+**1: in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke : Wasser - 1 : 2
+EOF
+
+cat <<EOF > src/rmd/pasta_mit_walnuss_soße.rmd
+ Pasta mit Walnuss-Soße
+für Nudeln
+:yields: 4
+:category: Pasta
+:source: chefkoch / grüner Ordner
+2 Zehen Knoblauch (gehackt)
+# in Öl andünsten
+2 Zwiebeln (gewürfelt)
+250ml Sahne
+# dazugießen
+150ml Gemüsebrühe
+100ml Weißwein
+Thymian, Majoran, Rosmarin, Salz, Pfeffer
+# würzen, 8min köcheln
+
+100g Walnüsse (gehackt)
+# unterrühren, 4min köcheln
+50g Parmesan
+# unterrühren
+
+EOF
+
+cat <<EOF > src/rmd/zitronenkekse_mit_weißer_schokolade.rmd
+Zitronenkekse mit weißer Schokolade
+:yields: 16
+:category: Gebäck
+:source: Mutti 2016 - N° 2,  S. 99
+
+150g Butter (weich)
+150g Zucker
+# rühren (Flexi-Rührer)
+1 Pck. Vanillezucker
+1 Prise Salz
+1 Ei
+1 Zitrone (Abrieb)
+# unterrühren
+100g Frischkäse (Joghurt)
+225g Mehl
+150g Schokolade (weiß)
+# Schokoladen-Stückchen vierteln, in Teigmasse unterheben. Ca. 16 Cookies auf zwei Backbleche formen. 10min backen (160 °C).
+1 Zitrone (Saft)
+# Zuckerguss rühren, Kekse nach abkühlen damit bestreichen
+100g  Puderzucker
+	
