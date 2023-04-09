@@ -62,7 +62,7 @@ class Cookbook:
 
 """)
 
-        for category in ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Fleischgerichte", "Geflügel", "Fisch", "Mehlspeisen", "Gebäck", "Kuchen"]:
+        for category in ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Aufläufe", "Fleischgerichte", "Geflügel", "Fisch", "Mehlspeisen", "Gebäck", "Kuchen"]:
             f.write(f"== {category}\n\n")
             for recipe in sorted(filter(lambda rec: rec.category == category , self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))
@@ -144,10 +144,16 @@ class Ingredient:
         return self.ingredient_name if re.match(basic_ingredients_regex, self.ingredient_name) else "*" + self.ingredient_name + "*"
 
     def to_asciidoc_nested_table_row(self):
-        return f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
+        amount_str = ""
+        if self.amount is not None:
+            amount_str = f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
+        return f"!{amount_str}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
     def __str__(self):
-        return f"{int(self.amount) if self.amount.is_integer() else self.amount}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
+        amount_str = ""
+        if self.amount is not None:
+            amount_str = f"!{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
+        return f"{amount_str}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
 
 class IngredientFactory:
     def get_ingredient(self, ingredient):
@@ -158,7 +164,7 @@ class IngredientFactory:
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string
-        pattern = r'^({})({})?\s+({})(;({}))?$'.format(amount_pattern, unit_pattern, ingredient_pattern, preparation_notes_pattern)
+        pattern = r'^({})?(({})?\s+)?({})(;({}))?$'.format(amount_pattern, unit_pattern, ingredient_pattern, preparation_notes_pattern)
         
         # Attempt to match the pattern to the ingredient string
         match = re.match(pattern, ingredient)
@@ -167,9 +173,9 @@ class IngredientFactory:
             # Extract the amount, unit, and ingredient from the match object
             amount = match.group(1)
             # unit = None if match.group(2) is None else match.group(2).strip()
-            unit = match.group(2)
-            ingredient = match.group(3)
-            preparation_notes = None if match.group(5) is None else match.group(5).strip()
+            unit = match.group(3)
+            ingredient = match.group(4)
+            preparation_notes = None if match.group(6) is None else match.group(6).strip()
             
             # Convert the amount to a float if it exists
             if amount:
