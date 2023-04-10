@@ -85,6 +85,7 @@ pip install rotunicode
 Asciidoctor
 ```
 gem install asciidoctor
+gem install asciidoctor-pdf
 ```
 
 Executables

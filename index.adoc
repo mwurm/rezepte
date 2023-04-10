@@ -358,6 +358,26 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 
 [%always]
 <<<
+[id='sec.cole_slaw']
+
+indexterm:[Cole Slaw]
+
+=== Cole Slaw
+
+Portionen: 0, Stichwörter: Salat, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Clow Slaw wie von Kugler (Meeretich?)
+|===
+
+[%always]
+<<<
 [id='sec.frischkäse_aufstrich']
 
 indexterm:[Frischkäse-Aufstrich]
@@ -386,6 +406,26 @@ Portionen: 4, Stichwörter: Aufstrich
 
 !===
 .^| zugeben und verrühren
+|===
+
+[%always]
+<<<
+[id='sec.grießglößchensuppe']
+
+indexterm:[Grießglößchensuppe]
+
+=== Grießglößchensuppe
+
+Portionen: 0, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)
 |===
 
 [%always]
@@ -2302,6 +2342,60 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 
 [%always]
 <<<
+[id='sec.burger']
+
+indexterm:[Burger]
+
+=== Burger
+
+Portionen: 4, Stichwörter: schnell mit Garzeit, Büro-Gemeinschaftsessen
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g ! *Pommes frites (opt.)*
+
+!===
+.^| backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g ! *Speck*
+!4 ! *Burger-Patties*
+
+!===
+.^| braten / grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! *Brioche Burger-Buns (REWE)*
+!2 ! *Tomaten*
+!1 ! Zwiebel, rot
+!1 ! *Römersalat*
+!1 ! *Burger-Sauce / Tomatenketchup / Mayonnaise*
+!4 Scheiben ! *Cheddar*
+
+!===
+.^| zubereiten (oder selber machen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! *Cole-Slaw*
+
+!===
+.^| 
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Burger, Pommes, Cole Slaw servieren
+|===
+
+[%always]
+<<<
 [id='sec.cevapcici']
 
 indexterm:[Cevapcici]
@@ -3311,6 +3405,26 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 
 [%always]
 <<<
+[id='sec.semmelknödel']
+
+indexterm:[Semmelknödel]
+
+=== Semmelknödel
+
+Portionen: 4, Stichwörter: Österreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Rezept von Anne und mein << sec.semmelknödel, Semmelknödelrezept>> abgleichen.
+|===
+
+[%always]
+<<<
 [id='sec.shakshuka']
 
 indexterm:[Shakshuka]
@@ -3580,6 +3694,78 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, süß
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+|===
+
+[%always]
+<<<
+[id='sec.marillenknödel']
+
+indexterm:[Marillenknödel]
+
+=== Marillenknödel
+
+Portionen: 3, Stichwörter: ausprobieren, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1 ! Ei
+!130g ! *glattes Mehl*
+!250g ! *Magertopfen*
+!70g ! *Margarine oder Butter*
+!1 Prise ! Salz
+!5 EL ! *Staubzucker zum Bestreuen*
+!6 ! *Marillen*
+!6 ! *Würfelzucker*
+!1 EL ! Butter
+!140g ! *Semmelbrösel*
+
+!===
+.^| Für den Topfenteig die Margarine (oder Butter) und das Ei flaumig in einer Schüssel verrühren (=abtreiben). Danach den Topfen, Mehl und Salz hinzugeben und gut durchkneten bis ein Teig entsteht.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Den Teig in 6 gleich große Stücke aufteilen und mit bemehlten Händen die einzelnen Teigteile zu einer flachen runden Teigscheibe drücken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Die Marillen gut waschen, abtrocknen und halbieren - dabei den Kern entfernen. Anstelle des Kernes ein Stück Würfelzucker geben und die beiden Marillenhälften wieder zusammensetzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nun jeweils die beiden Marillenhälften, mit dem Würfelzucker in der Mitte, auf die runden, flachgedrückten Teigstücke geben und mit dem Teig zu einem Knödel formen - die Marillenstücke sollten komplett vom Teig umhüllt sein.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In einen Topf Salzwasser zum Kochen bringen, die Marillenknödel ins Wasser geben und schwach siedend für ca. 10 - 12 Minuten gar kochen - das merkt man wenn die Knödel an der Wasseroberfläche schwimmen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In der Zwischenzeit kann man in einer Pfanne mit einem EL Butter die Semmelbröseln kurz anrösten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zum Schluss die fertig gekochten Topfenknödel in der Pfanne mit den Semmelbröseln wälzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vor dem Servieren werden die Marillenknödel mit Staubzucker (oder Zimtzucker) bestreut.
 |===
 
 [%always]
@@ -4085,3 +4271,12 @@ Portionen: 4, Stichwörter:
 * <<sec.sushi, Sushi>>
 * <<sec.süsskartoffeln_cajun_style, Süsskartoffeln Cajun-Style>>
 * <<sec.zucchini_mit_hack_und_linsen, Zucchini mit Hack und Linsen>>
+
+
+ifdef::backend-pdf[]
+[%always]
+
+<<<
+[index]
+== Index
+endif::[]

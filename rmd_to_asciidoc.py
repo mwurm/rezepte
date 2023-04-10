@@ -89,6 +89,16 @@ class Cookbook:
                 # * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
                 f.write(f"* <<{recipe.sec_id()}, {recipe.name}>>\n")
 
+        f.write("""
+
+ifdef::backend-pdf[]
+[%always]
+
+<<<
+[index]
+== Index
+endif::[]""")
+
         f.close()
 
 
@@ -189,7 +199,7 @@ class IngredientFactory:
         # Define regular expression patterns to match amounts, units, and ingredients
         amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+'  # Matches numeric amounts, fractions, and common non-numeric amounts
         unit_pattern = r'[a-zA-Z]+'  # Matches zero or more letters
-        unit_pattern += r'|\s+[cmk]?[glm]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+St\.?|\s+Bund|\s+Bd\.?|\s+Bn\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?|\s+Becher|\s+Bch\.?|\s+Be\.?|\s+Beutel|\s+Btl\.?|\s+Stangen?|\s+Stg\.?|\s+Stiele?|\s+Blatt|\s+Blätter|\s+Bl\.?'  # Matches common non-standard units of measurement
+        unit_pattern += r'|\s+[cmk]?[glm]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+Stk?\.?|\s+Bund|\s+Bd\.?|\s+Bn\.?|\s+Pkg\.?|\s+Packung|\s+Dosen?|\s+Becher|\s+Bch\.?|\s+Be\.?|\s+Beutel|\s+Btl\.?|\s+Stangen?|\s+Stg\.?|\s+Stiele?|\s+Blatt|\s+Blätter|\s+Bl\.?'  # Matches common non-standard units of measurement
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
         preparation_notes_pattern = r'.+'  # Matches one or more of any character
         # Define a regular expression pattern to match the entire ingredient string
