@@ -1528,6 +1528,26 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
 
 [%always]
 <<<
+[id='sec.pasta_mit_pesto']
+
+indexterm:[Pasta mit Pesto]
+
+=== Pasta mit Pesto
+
+Portionen: 0, Stichwörter: vegetarisch, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pesto siehe <<sec.pesto, Pesto-Rezept>>, oder Fertig-Pesto nehmen
+|===
+
+[%always]
+<<<
 [id='sec.pasta_mit_pilzen_und_knoblauch']
 
 indexterm:[Pasta mit Pilzen und Knoblauch]
@@ -1654,6 +1674,26 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+|===
+
+[%always]
+<<<
+[id='sec.tortellini']
+
+indexterm:[Tortellini]
+
+=== Tortellini
+
+Portionen: 0, Stichwörter: schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Fertig-Tortellini von REWE / Djafar
 |===
 
 == Pizza & Co.
@@ -2624,6 +2664,20 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 
 [%always]
 <<<
+[id='sec.maultaschen']
+
+indexterm:[Maultaschen]
+
+=== Maultaschen
+
+Portionen: 0, Stichwörter: schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
 [id='sec.münchner_schnitzel']
 
 indexterm:[Münchner Schnitzel]
@@ -3388,6 +3442,62 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 |===
 
 == Vegetarisches
+
+[%always]
+<<<
+[id='sec.asiatische_gemüsepfanne']
+
+indexterm:[Asiatische Gemüsepfanne]
+
+=== Asiatische Gemüsepfanne
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.asiatisches_rindfleisch_mit_gemüße']
+
+indexterm:[Asiatisches Rindfleisch mit Gemüße]
+
+=== Asiatisches Rindfleisch mit Gemüße
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.halloumi_pilz_paprika_spieße']
+
+indexterm:[Halloumi-Pilz-Paprika-Spieße]
+
+=== Halloumi-Pilz-Paprika-Spieße
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.kichererbsen_curry']
+
+indexterm:[Kichererbsen-Curry]
+
+=== Kichererbsen-Curry
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
 
 [%always]
 <<<
@@ -4253,12 +4363,16 @@ Portionen: 4, Stichwörter:
 
 === leicht
 
+* <<sec.asiatische_gemüsepfanne, Asiatische Gemüsepfanne>>
+* <<sec.asiatisches_rindfleisch_mit_gemüße, Asiatisches Rindfleisch mit Gemüße>>
 * <<sec.caesar_salad, Caesar Salad>>
 * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
 * <<sec.falafelsalat_mit_tahin_dressing, Falafelsalat mit Tahin-Dressing>>
 * <<sec.grüne_bohnen, Grüne Bohnen>>
+* <<sec.halloumi_pilz_paprika_spieße, Halloumi-Pilz-Paprika-Spieße>>
 * <<sec.indischer_eintopf, Indischer Eintopf>>
 * <<sec.kartoffel_curry, Kartoffel-Curry>>
+* <<sec.kichererbsen_curry, Kichererbsen-Curry>>
 * <<sec.lachs_auf_bohnengemüse, Lachs auf Bohnengemüse>>
 * <<sec.lachs_aus_der_holzplanke, Lachs aus der Holzplanke>>
 * <<sec.linsencurry_mit_spinat, Linsencurry mit Spinat>>
