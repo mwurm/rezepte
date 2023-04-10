@@ -3,4 +3,4 @@ Spinatknödel
 :category: Vegetarisches
 :tags: Österreich
 
-# TODO: Rezept von Anne und mein << sec.semmelknödel, Semmelknödelrezept>> abgleichen. 
+# TODO: Rezept von Anne und mein <<sec.semmelknödel, Semmelknödelrezept>> abgleichen. 
