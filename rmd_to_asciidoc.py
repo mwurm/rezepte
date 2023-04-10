@@ -141,7 +141,7 @@ indexterm:[{self.name}]
             out_str += f"indexterm:[{indexterm}]\n"
 
         out_str += f"""
-{caption} {self.name}
+{caption} {"💥" if "ausprobieren" in self.tags else ""}{self.name}
 
 Portionen: {self.yields}, Stichwörter: {', '.join(self.tags)}
 
