@@ -63,7 +63,10 @@ class Cookbook:
 
 """)
 
-        
+#        tags = {tuple(tag) for tag in [r.tags for r in self.recipes]}
+        tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
+        f.write(f"Stichwörter: {'; '.join(list(tags))}\n\n")
+
         cookbook_categories = ["Basis", "Appetithäppchen", "Beilagen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Eintöpfe", "Aufläufe", "Ofengerichte", "Reisgerichte", "Fleischgerichte", "Geflügel", "Fisch", "Vegetarisches", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen"]
         for recipe in self.recipes:
             if recipe.category not in cookbook_categories:

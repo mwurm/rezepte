@@ -10,6 +10,8 @@
 :toclevels: 4
 :toc-title:
 
+Stichwörter: Aufstrich; ausprobieren; Bayern; Büro; Büro-Gemeinschaftsessen; Deutschland; Eintopf; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; Kichererbsen; Käse; Lamm; leicht; Low Carb; Mikrowelle; ohne_Beilage; Orient; Ostern; Rind; Salat; schnell; schnell mit Garzeit; süß; USA; vegan; vegetarisch; Wild; Österreich
+
 == Basis
 
 [%always]
@@ -3515,26 +3517,6 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 
 [%always]
 <<<
-[id='sec.semmelknödel']
-
-indexterm:[Semmelknödel]
-
-=== Semmelknödel
-
-Portionen: 4, Stichwörter: Österreich
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| TODO: Rezept von Anne und mein << sec.semmelknödel, Semmelknödelrezept>> abgleichen.
-|===
-
-[%always]
-<<<
 [id='sec.shakshuka']
 
 indexterm:[Shakshuka]
@@ -3565,6 +3547,26 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 
 !===
 .^| (5Z, S.165)
+|===
+
+[%always]
+<<<
+[id='sec.spinatknödel']
+
+indexterm:[Spinatknödel]
+
+=== Spinatknödel
+
+Portionen: 4, Stichwörter: Österreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Rezept von Anne und mein << sec.semmelknödel, Semmelknödelrezept>> abgleichen.
 |===
 
 [%always]
