@@ -2578,7 +2578,7 @@ Portionen: 8, Stichwörter: Österreich, TK, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !800g!*Rindsgulasch*
-!2{nbsp}TL!*Kreukümmel*
+!2{nbsp}TL!Kreuzkümmel
 !4{nbsp}EL!Tomatenmark
 !4{nbsp}EL!Paprikapulver
 !4{nbsp}TL!Salz
