@@ -12,140 +12,6 @@
 
 Stichwörter: Aufstrich; ausprobieren; Bayern; Beilage; Büro; Deutschland; Eintopf; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; Kichererbsen; Käse; Lamm; leicht; Low Carb; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; süß; Thai; TK; Ungarn; USA; vegan; vegetarisch; Wild; Österreich
 
-== Basis
-
-[%always]
-<<<
-[id='sec.brauner_us_zucker']
-
-indexterm:[Brauner US-Zucker]
-
-=== Brauner US-Zucker
-
-Portionen: 1, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
-|===
-
-[%always]
-<<<
-[id='sec.pastateig']
-
-indexterm:[Pastateig]
-
-=== Pastateig
-
-Portionen: 4, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!300g!Mehl (405)
-!3!Eier
-!1{nbsp}EL!Olivenöl
-!0.5{nbsp}TL!Salz
-
-!===
-.^| TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
-|===
-
-[%always]
-<<<
-[id='sec.pizzateig']
-
-indexterm:[Pizzateig]
-
-=== Pizzateig
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!300g!Mehl
-!0.5!*Würfel Hefe (frisch)*
-!1{nbsp}TL!Zucker
-
-!===
-.^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1{nbsp}TL!Salz
-!2{nbsp}EL!Olivenöl
-!120ml!Wasser
-
-!===
-.^| Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Teig nochmal durchkneten, ausrollen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
-|===
-
-[%always]
-<<<
-[id='sec.tomatensoße']
-
-indexterm:[Tomatensoße]
-
-=== Tomatensoße
-
-Portionen: 4, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1!Zwiebel; _gewürfelt_
-
-!===
-.^| in 2 EL Olivenöl andünsten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1{nbsp}Dose!*Tomaten (gehackt)*
-!20g!Tomatenmark
-!1{nbsp}TL!Salz
-!0.5{nbsp}TL!Zucker, Pfeffer, Paprikapulver
-!1{nbsp}EL!Oregano
-
-!===
-.^| zugeben, köcheln, pürieren
-|===
-
 == Appetithäppchen
 
 [%always]
@@ -311,485 +177,6 @@ Portionen: 6, Stichwörter:
 
 !===
 .^| Toast dekorieren
-|===
-
-== Beilagen
-
-[%always]
-<<<
-[id='sec.antipasti']
-
-indexterm:[Antipasti]
-
-=== Antipasti
-
-Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!4!*Zucchini*; _Scheiben_
-!1!*Aubergine*; _Scheiben_
-!6!*Paprika, gegrillt, aus Glas*
-!800g!*Pilze*; _ganz oder geviertelt_
-!1!Zwiebel; _geviertelt_
-
-!===
-.^| grillen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!70ml!Weinessig
-!1!*Zitrone (Saft)*
-!70ml!*Aceto balsamico*
-!100ml!Olivenöl
-
-!===
-.^| Marinade zubereiten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1{nbsp}Glas!*Tomaten, getrocknet, in Öl*
-!2{nbsp}Zweig!*Rosmarin*
-
-!===
-.^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
-|===
-
-[%always]
-<<<
-[id='sec.cole_slaw']
-
-indexterm:[Cole Slaw]
-
-=== Cole Slaw
-
-Portionen: 0, Stichwörter: Salat, vegetarisch, Beilage
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Clow Slaw wie von Kugler (Meeretich?)
-|===
-
-[%always]
-<<<
-[id='sec.frischkäse_aufstrich']
-
-indexterm:[Frischkäse-Aufstrich]
-
-=== Frischkäse-Aufstrich
-
-Portionen: 4, Stichwörter: Aufstrich
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!300g!*Frischkäse*
-!50g!Butter
-
-!===
-.^| verrühren
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!100g!*Kochschinken*; _fein gewürfelt_
-!2!*Gewürzgurken*; _fein gewürfelt_
-!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
-!1!Salz, Pfeffer, Fondor
-
-!===
-.^| zugeben und verrühren
-|===
-
-[%always]
-<<<
-[id='sec.grießglößchensuppe']
-
-indexterm:[Grießglößchensuppe]
-
-=== Grießglößchensuppe
-
-Portionen: 0, Stichwörter: vegetarisch
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)
-|===
-
-[%always]
-<<<
-[id='sec.grüne_bohnen']
-
-indexterm:[Grüne Bohnen]
-
-=== Grüne Bohnen
-
-Portionen: 0, Stichwörter: vegetarisch, leicht
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-|===
-
-[%always]
-<<<
-[id='sec.hummus']
-
-indexterm:[Hummus]
-
-=== Hummus
-
-Portionen: 2, Stichwörter: Kichererbsen, Orient
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!50g!*Kichererbsen (trockene)*
-
-!===
-.^| trockene Kichererbsen 24h einweichen, dann in 200ml kochendes Wasser geben und 1h köcheln
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1{nbsp}Zehe!Knoblauch; _grepresst_
-!13ml!*Zitronensaft*
-!24g!*Tahin*
-!0.33{nbsp}TL!Salz
-!0.33{nbsp}TL!Cumin
-!50ml!Wasser
-
-!===
-.^| im kleinen Philips-Mixer pürieren
-|===
-
-[%always]
-<<<
-[id='sec.obazda']
-
-indexterm:[Obazda]
-
-=== Obazda
-
-Portionen: 8, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!600g!*Camembert*; _Rinde entfernen_
-!125g!Butter
-
-!===
-.^| in Schüssel geben, 1h bei Zimmertemperatur weich werden lassen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!200g!*Frischkäse*
-!4{nbsp}EL!Paprikapulver
-!1{nbsp}EL!*Kümmel (gemahlen)*
-!1!Salz, Pfeffer
-
-!===
-.^| zugeben, verrühren
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!2{nbsp}EL!Zwiebeln; _würfeln_
-
-!===
-.^| unterheben
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Variation:
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| 1/3 des Camembert durch Limburger ersetzen (nicht mehr, da Limburger fester ist als Camembert)
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| 1 TL Senf
-|===
-
-[%always]
-<<<
-[id='sec.rahmwirsing']
-
-indexterm:[Rahmwirsing]
-
-=== Rahmwirsing
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!0.5!*Wirsingkohl*
-
-!===
-.^| Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!200ml!*Sahne*
-!1{nbsp}TL!*Brühpulver*
-!0.5!Muskat
-!2{nbsp}TL!Salz
-
-!===
-.^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
-|===
-
-[%always]
-<<<
-[id='sec.rispentomaten_aus_dem_ofen']
-
-indexterm:[Rispentomaten aus dem Ofen]
-
-=== Rispentomaten aus dem Ofen
-
-Portionen: 0, Stichwörter: vegetarisch, leicht
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-|===
-
-[%always]
-<<<
-[id='sec.röstzwiebeln']
-
-indexterm:[Röstzwiebeln]
-
-=== Röstzwiebeln
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!4!Zwiebeln; _Ringe_
-
-!===
-.^| salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Zwiebeln in Mehl wenden (Tablett mit Mehl bestäuben, Zwiebeln auflegen, Zwiebeln bestäuben)
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!200ml!*Rapsöl*
-
-!===
-.^| erhitzen, Zwiebeln goldbraun rösten.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Achtung: Zwiebeln gehen schnell von goldbraun in schwarz über! Wenn die Zwiebeln portionsweise aus dem Öl geschöpft werden, sind am Ende ein paar schon bitter.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
-|===
-
-[%always]
-<<<
-[id='sec.semmelknödel']
-
-indexterm:[Semmelknödel]
-
-=== Semmelknödel
-
-Portionen: 4, Stichwörter: Österreich
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1!Zwiebel; _gewürfelt_
-!150ml!Milch
-!1{nbsp}Prise!Muskat
-
-!===
-.^| glasieren, mit Milch ablöschen und erwärmen, würzen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!250g!*Knödelbrot*
-
-!===
-.^| mit Zwiebelmasse vermengen, abdecken, 30min ruhen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1!Ei; _geschlagen_
-!2{nbsp}EL!*Petersilie*
-
-!===
-.^| zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 🌡70℃ Umluft 10-15min in Ofen antrocknen lassen.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Tipp: Hände feucht halten beim Knödel formen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Varianten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Bratknödel: 7-10min pro Seite auf mittlerer Hitze anbraten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Kaspressknödel: Zur Knödelmasse noch 200g Bergkäse verkneten und wie Bratknödel anbraten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Rührei und gebratene Knödelwürfel
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
-|===
-
-[%always]
-<<<
-[id='sec.tomatenreis']
-
-indexterm:[Tomatenreis]
-
-=== Tomatenreis
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!150g!*Reis*
-!225ml!Brühe
-
-!===
-.^| kochen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1!Zwiebel; _würfeln_
-!1{nbsp}Zehe!*Knoblach*; _gehackt_
-
-!===
-.^| in Öl andünsten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1!*Tomate*; _gehackt_
-!80g!Tomatenmark
-!1!*Paprika gelb*; _würfeln_
-
-!===
-.^| zugeben und andünsten
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!150ml!Milch
-
-!===
-.^| Portionsweise mit Milch ablöschen und eindicken.
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!1{nbsp}TL!Paprikapulver
-!1!Salz, Pfeffer
-
-!===
-.^| Würzen. Reis unterheben.
-|===
-
-[%always]
-<<<
-[id='sec.tsatsiki']
-
-indexterm:[Tsatsiki]
-
-=== Tsatsiki
-
-Portionen: 2, Stichwörter: 
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!0.5!*Gurke*
-
-!===
-.^| aushöhlen, grob raspeln, in Küchentuch auspressen
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-!150g!*griechischer Joghurt*
-!1!Knoblauchzehe (gepresst)
-!0.5{nbsp}TL!*Zitronenabrieb*
-!2{nbsp}TL!Olivenöl
-!1!Salz, Pfeffer
-!1!*Dill / Minze (optional)*
-
-!===
-.^| vermengen
 |===
 
 == Salate
@@ -4632,6 +4019,619 @@ Portionen: 4, Stichwörter:
 
 !===
 .^| TODO und weiter?
+|===
+
+== Basis
+
+[%always]
+<<<
+[id='sec.brauner_us_zucker']
+
+indexterm:[Brauner US-Zucker]
+
+=== Brauner US-Zucker
+
+Portionen: 1, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
+|===
+
+[%always]
+<<<
+[id='sec.pastateig']
+
+indexterm:[Pastateig]
+
+=== Pastateig
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!Mehl (405)
+!3!Eier
+!1{nbsp}EL!Olivenöl
+!0.5{nbsp}TL!Salz
+
+!===
+.^| TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
+|===
+
+[%always]
+<<<
+[id='sec.pizzateig']
+
+indexterm:[Pizzateig]
+
+=== Pizzateig
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!Mehl
+!0.5!*Würfel Hefe (frisch)*
+!1{nbsp}TL!Zucker
+
+!===
+.^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Salz
+!2{nbsp}EL!Olivenöl
+!120ml!Wasser
+
+!===
+.^| Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig nochmal durchkneten, ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
+|===
+
+[%always]
+<<<
+[id='sec.tomatensoße']
+
+indexterm:[Tomatensoße]
+
+=== Tomatensoße
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+
+!===
+.^| in 2 EL Olivenöl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten (gehackt)*
+!20g!Tomatenmark
+!1{nbsp}TL!Salz
+!0.5{nbsp}TL!Zucker, Pfeffer, Paprikapulver
+!1{nbsp}EL!Oregano
+
+!===
+.^| zugeben, köcheln, pürieren
+|===
+
+== Beilagen
+
+[%always]
+<<<
+[id='sec.antipasti']
+
+indexterm:[Antipasti]
+
+=== Antipasti
+
+Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Zucchini*; _Scheiben_
+!1!*Aubergine*; _Scheiben_
+!6!*Paprika, gegrillt, aus Glas*
+!800g!*Pilze*; _ganz oder geviertelt_
+!1!Zwiebel; _geviertelt_
+
+!===
+.^| grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!70ml!Weinessig
+!1!*Zitrone (Saft)*
+!70ml!*Aceto balsamico*
+!100ml!Olivenöl
+
+!===
+.^| Marinade zubereiten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Glas!*Tomaten, getrocknet, in Öl*
+!2{nbsp}Zweig!*Rosmarin*
+
+!===
+.^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
+|===
+
+[%always]
+<<<
+[id='sec.cole_slaw']
+
+indexterm:[Cole Slaw]
+
+=== Cole Slaw
+
+Portionen: 0, Stichwörter: Salat, vegetarisch, Beilage
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Clow Slaw wie von Kugler (Meeretich?)
+|===
+
+[%always]
+<<<
+[id='sec.frischkäse_aufstrich']
+
+indexterm:[Frischkäse-Aufstrich]
+
+=== Frischkäse-Aufstrich
+
+Portionen: 4, Stichwörter: Aufstrich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Frischkäse*
+!50g!Butter
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Kochschinken*; _fein gewürfelt_
+!2!*Gewürzgurken*; _fein gewürfelt_
+!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
+!1!Salz, Pfeffer, Fondor
+
+!===
+.^| zugeben und verrühren
+|===
+
+[%always]
+<<<
+[id='sec.grießglößchensuppe']
+
+indexterm:[Grießglößchensuppe]
+
+=== Grießglößchensuppe
+
+Portionen: 0, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)
+|===
+
+[%always]
+<<<
+[id='sec.grüne_bohnen']
+
+indexterm:[Grüne Bohnen]
+
+=== Grüne Bohnen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.hummus']
+
+indexterm:[Hummus]
+
+=== Hummus
+
+Portionen: 2, Stichwörter: Kichererbsen, Orient
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Kichererbsen (trockene)*
+
+!===
+.^| trockene Kichererbsen 24h einweichen, dann in 200ml kochendes Wasser geben und 1h köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _grepresst_
+!13ml!*Zitronensaft*
+!24g!*Tahin*
+!0.33{nbsp}TL!Salz
+!0.33{nbsp}TL!Cumin
+!50ml!Wasser
+
+!===
+.^| im kleinen Philips-Mixer pürieren
+|===
+
+[%always]
+<<<
+[id='sec.obazda']
+
+indexterm:[Obazda]
+
+=== Obazda
+
+Portionen: 8, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!600g!*Camembert*; _Rinde entfernen_
+!125g!Butter
+
+!===
+.^| in Schüssel geben, 1h bei Zimmertemperatur weich werden lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Frischkäse*
+!4{nbsp}EL!Paprikapulver
+!1{nbsp}EL!*Kümmel (gemahlen)*
+!1!Salz, Pfeffer
+
+!===
+.^| zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Zwiebeln; _würfeln_
+
+!===
+.^| unterheben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation:
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1/3 des Camembert durch Limburger ersetzen (nicht mehr, da Limburger fester ist als Camembert)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1 TL Senf
+|===
+
+[%always]
+<<<
+[id='sec.rahmwirsing']
+
+indexterm:[Rahmwirsing]
+
+=== Rahmwirsing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Wirsingkohl*
+
+!===
+.^| Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!*Sahne*
+!1{nbsp}TL!*Brühpulver*
+!0.5!Muskat
+!2{nbsp}TL!Salz
+
+!===
+.^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
+|===
+
+[%always]
+<<<
+[id='sec.rispentomaten_aus_dem_ofen']
+
+indexterm:[Rispentomaten aus dem Ofen]
+
+=== Rispentomaten aus dem Ofen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.röstzwiebeln']
+
+indexterm:[Röstzwiebeln]
+
+=== Röstzwiebeln
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!Zwiebeln; _Ringe_
+
+!===
+.^| salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zwiebeln in Mehl wenden (Tablett mit Mehl bestäuben, Zwiebeln auflegen, Zwiebeln bestäuben)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!*Rapsöl*
+
+!===
+.^| erhitzen, Zwiebeln goldbraun rösten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Achtung: Zwiebeln gehen schnell von goldbraun in schwarz über! Wenn die Zwiebeln portionsweise aus dem Öl geschöpft werden, sind am Ende ein paar schon bitter.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
+|===
+
+[%always]
+<<<
+[id='sec.semmelknödel']
+
+indexterm:[Semmelknödel]
+
+=== Semmelknödel
+
+Portionen: 4, Stichwörter: Österreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+!150ml!Milch
+!1{nbsp}Prise!Muskat
+
+!===
+.^| glasieren, mit Milch ablöschen und erwärmen, würzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Knödelbrot*
+
+!===
+.^| mit Zwiebelmasse vermengen, abdecken, 30min ruhen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _geschlagen_
+!2{nbsp}EL!*Petersilie*
+
+!===
+.^| zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 🌡70℃ Umluft 10-15min in Ofen antrocknen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Hände feucht halten beim Knödel formen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Bratknödel: 7-10min pro Seite auf mittlerer Hitze anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kaspressknödel: Zur Knödelmasse noch 200g Bergkäse verkneten und wie Bratknödel anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Rührei und gebratene Knödelwürfel
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
+|===
+
+[%always]
+<<<
+[id='sec.tomatenreis']
+
+indexterm:[Tomatenreis]
+
+=== Tomatenreis
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*Reis*
+!225ml!Brühe
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+!1{nbsp}Zehe!*Knoblach*; _gehackt_
+
+!===
+.^| in Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Tomate*; _gehackt_
+!80g!Tomatenmark
+!1!*Paprika gelb*; _würfeln_
+
+!===
+.^| zugeben und andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150ml!Milch
+
+!===
+.^| Portionsweise mit Milch ablöschen und eindicken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Paprikapulver
+!1!Salz, Pfeffer
+
+!===
+.^| Würzen. Reis unterheben.
+|===
+
+[%always]
+<<<
+[id='sec.tsatsiki']
+
+indexterm:[Tsatsiki]
+
+=== Tsatsiki
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Gurke*
+
+!===
+.^| aushöhlen, grob raspeln, in Küchentuch auspressen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*griechischer Joghurt*
+!1!Knoblauchzehe (gepresst)
+!0.5{nbsp}TL!*Zitronenabrieb*
+!2{nbsp}TL!Olivenöl
+!1!Salz, Pfeffer
+!1!*Dill / Minze (optional)*
+
+!===
+.^| vermengen
 |===
 
 == Rezepte nach Stichwort
