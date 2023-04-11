@@ -27,7 +27,14 @@ class Recipe:
 
 class RecipeIngredient:
     def __init__(self, note):
+        note = re.sub('Packung', 'Pkg', note, flags=re.IGNORECASE)
+        note = re.sub('Päckchen', 'Pkg', note, flags=re.IGNORECASE)
+        note = re.sub('Teelöffel', 'TL', note, flags=re.IGNORECASE)
+        note = re.sub('Esslöffel', 'EL', note, flags=re.IGNORECASE)
+        note = re.sub('(\d+)bis(\d+)', '\1-\2', note, flags=re.IGNORECASE)
+
         self.note = note
+
 
 class RecipeInstruction:
     def __init__(self, text):

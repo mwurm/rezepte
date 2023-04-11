@@ -5,9 +5,9 @@ Pizzakordeln
 :url: https://www.wochenblatt.com/rezepte/pizzakordeln-fuer-das-picknick-11590472.html
 
 250 g	Mehl
-1/2 Päckchen	Trockenhefe
-2 Esslöffel	Olivenöl
-1 Teelöffel	getrocknete Kräuter der Provence
+1/2 Pkg	Trockenhefe
+2 EL	Olivenöl
+1 TL	getrocknete Kräuter der Provence
 2 Prisen	Salz
 160 ml	Wasser
 # Für den Teig alle Zutaten in eine Schüssel geben und mit den Knethaken des Handrührgerätes oder der Küchenmaschine so lange verkneten, bis sich der Teig aus der Topfschüssel löst, eventuell noch einmal vorsichtig etwas Wasser oder Mehl nachgeben.
@@ -15,7 +15,7 @@ Pizzakordeln
 # Ein Backblech mit Backpapier auslegen. Den Back­ofen auf 180 °C Ober- und Unterhitze vorheizen.
 
 
-4 bis 5 Esslöffel	Tomatenmark
+5 EL Tomatenmark
 100 g	Reibekäse
 0 Salz
 0 Olivenöl

@@ -4191,9 +4191,9 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !250{nbsp}g!Mehl
-!0.5!*Päckchen	Trockenhefe*
-!2!*Esslöffel	Olivenöl*
-!1!*Teelöffel	getrocknete Kräuter der Provence*
+!0.5{nbsp}Pkg!*Trockenhefe*
+!2{nbsp}EL!Olivenöl
+!1{nbsp}TL!*getrocknete Kräuter der Provence*
 !2{nbsp}Prisen!Salz
 !160{nbsp}ml!*Wasser*
 
@@ -4214,7 +4214,7 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!4!*bis 5 Esslöffel	Tomatenmark*
+!5{nbsp}EL!Tomatenmark
 !100{nbsp}g!*Reibekäse*
 !0!Salz
 !0!Olivenöl
