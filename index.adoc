@@ -3590,6 +3590,59 @@ Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 
 [%always]
 <<<
+[id='sec.omelett_mit_tomate_und_mozarella']
+
+indexterm:[Omelett mit Tomate und Mozarella]
+
+=== Omelett mit Tomate und Mozarella
+
+Portionen: 2, Stichwörter: Italien, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!350g ! *Tomaten (bunte)*; _in dünnen Scheiben_
+!1 EL ! Olivenöl
+!1 EL ! *Rotweinessig*
+!1 ! Salz, Pfeffer
+
+!===
+.^| auf Teller anrichten und anmachen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4 ! Eier; _verquirlt_
+
+!===
+.^| in Pfanne erhitzen und umrühren, bis cremig
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 ! *Mozarella*; _würfeln_
+!1 TL ! *Pesto*
+
+!===
+.^| in Mitte des Omelett verteilen. Weiter stocken lassen und Omelett über Mozarella zuklappen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Omelett auf Tomaten anrichten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5 ! *Chilischote*; _dünne Ringe_
+!10 Blätter ! *Basilikim*
+
+!===
+.^| garnieren
+|===
+
+[%always]
+<<<
 [id='sec.rührei']
 
 indexterm:[Rührei]
