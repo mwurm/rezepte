@@ -4,9 +4,6 @@ Pogácsa
 :yields: 60
 :url: https://backmaedchen1967.de/pogacsa-ungarisches-gebaeck/
 
-3 EL Milch
-80 g geraspelter Käse z.B. Gouda
-
 100 ml lauwarme Milch
 20 g frische Hefe
 1 EL Mehl
@@ -22,5 +19,8 @@ Pogácsa
 # den Teig in eine Schüssel mit Deckel geben und bis zum nächsten Tag in den Kühlschrank stellen.
 # den Backofen auf 180°C Ober-/Unterhitze vorheizen.
 # den Teig auf eine leicht bemehlte Arbeitsfläche ca. 1 cm dick ausrollen und runde Kreise Ø 4,5-5 cm ausstechen. Die Teigkreise auf ein mit Backpapier ausgelegtes Backblech legen.
+
+3 EL Milch
+80 g geraspelter Käse z.B. Gouda
 # Die Teiglinge mit Milch bestreichen und geraspelten Käse bestreuen, anschließend in den vorgeheizten Backofen geben und 25-30 Minuten je nach Backofen backen. Der Käse sollte leicht gebräunt sein.
 # nach dem Backen kurz abkühlen lassen und am besten lauwarm genießen.

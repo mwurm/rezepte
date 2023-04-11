@@ -189,7 +189,11 @@ class Ingredient:
         amount_str = ""
         if self.amount is not None:
             amount_str = f"{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
-        return f"!{amount_str}{'' if self.unit is None else self.unit} ! {self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
+        unit_str = ""
+        if self.unit is not None:
+            unit_str = re.sub(r'(\s+)\(.*)', r'🌡\1℃', self.unit)
+            unit_str = re.sub('{nbsp}', ' ', self.unit, flags=re.IGNORECASE)
+        return f"!{amount_str}{unit_str}!{self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
     def __str__(self):
         amount_str = ""

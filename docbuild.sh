@@ -9,4 +9,4 @@ fi
 ./rmd_to_asciidoc.py src/rmd/*.rmd
 asciidoctor -D github-pages index.adoc
 # cp -r images github-pages/
-asciidoctor-pdf -D github-pages index.adoc
+# asciidoctor-pdf -D github-pages index.adoc
