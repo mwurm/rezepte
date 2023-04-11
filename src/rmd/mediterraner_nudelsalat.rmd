@@ -1,7 +1,9 @@
 Mediterraner Nudelsalat
 :yields: 4
 :category: Salate
-:source: Dr. Waldenberger
+:source: Waldenberger
+:tags: vegetarisch;Büro
+
 300g Nudeln
 # kochen
 1 Zucchini; Scheiben geviertelt

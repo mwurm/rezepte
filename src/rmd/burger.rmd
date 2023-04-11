@@ -1,7 +1,7 @@
 Burger
 :yields: 4
 :category: Fleischgerichte
-:tags: schnell mit Garzeit; Büro-Gemeinschaftsessen
+:tags: schnell mit Garzeit
 
 400g Pommes frites (opt.)
 # backen

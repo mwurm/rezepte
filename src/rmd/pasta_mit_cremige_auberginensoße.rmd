@@ -1,4 +1,4 @@
 Pasta mit cremige Auberginensoße
 :yields: 0
 :category: Pasta
-:tags: Hauptgericht;vegetarisch;leicht
+:tags: Hauptgericht;vegetarisch;leicht;TK;Mikrowelle,Büro

@@ -1,6 +1,6 @@
 Cole Slaw
 :yields: 0
 :category: Beilagen
-:tags: Salat;vegetarisch
+:tags: Salat;vegetarisch;Beilage
 
 # Clow Slaw wie von Kugler (Meeretich?)

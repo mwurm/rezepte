@@ -1,5 +1,5 @@
 Nizza Salat
 :yields: 0
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht
+:tags: Hauptgericht;Fisch;leicht; Low Carb; Büro
 # (5Z, S.19)

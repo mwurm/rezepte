@@ -1,6 +1,7 @@
 Dorade vom Grill
 :yields: 1
 :category: Fisch
+:tags: leicht;Low Carb
 
 1 Dorade Royal
 # Fisch außen und in Bachhöhle salzen

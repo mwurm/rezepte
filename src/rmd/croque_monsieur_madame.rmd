@@ -1,4 +1,4 @@
 Croque Monsieur / Madame
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch;schnell mit Aufheizzeit

@@ -1,4 +1,4 @@
 Käsespätzle
 :yields: 0
 :category: Aufläufe
-:tags: Hauptgericht;Käse;vegetarisch
+:tags: Hauptgericht;Käse;vegetarisch;Mikrowelle

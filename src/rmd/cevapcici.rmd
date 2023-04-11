@@ -1,4 +1,4 @@
 Cevapcici
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch;Mikrowelle

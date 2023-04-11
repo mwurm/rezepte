@@ -1,7 +1,9 @@
-Carbonara
+Pasta alla Carbonara
 :yields: 2
 :category: Pasta
-:tags: Italien
+:tags: Italien;schnell
+:indexterms: Pasta, alla Carbonara; Carbonara
+
 
 100 g Bauchspeck; feine Streifen
 # langsam anbraten

@@ -1,5 +1,5 @@
 Curry-Mango-Garnelen
 :yields: 0
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht
+:tags: Hauptgericht;Fisch;leicht;Low Carb
 # (5Z, S.147)
