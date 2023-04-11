@@ -81,7 +81,7 @@ Portionen: 2, Stichwörter:
 !===
 !300g!Mehl
 !0.5!*Würfel Hefe (frisch)*
-!1{nbsp}TL!*Zucker*
+!1{nbsp}TL!Zucker
 
 !===
 .^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
@@ -90,7 +90,7 @@ Portionen: 2, Stichwörter:
 !===
 !1{nbsp}TL!Salz
 !2{nbsp}EL!Olivenöl
-!120ml!*Wasser*
+!120ml!Wasser
 
 !===
 .^| Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
@@ -139,8 +139,8 @@ Portionen: 4, Stichwörter:
 !1{nbsp}Dose!*Tomaten (gehackt)*
 !20g!Tomatenmark
 !1{nbsp}TL!Salz
-!0.5{nbsp}TL!*Zucker, Pfeffer, Paprikapulver*
-!1{nbsp}EL!*Oregano*
+!0.5{nbsp}TL!Zucker, Pfeffer, Paprikapulver
+!1{nbsp}EL!Oregano
 
 !===
 .^| zugeben, köcheln, pürieren
@@ -343,7 +343,7 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 !===
 !70ml!Weinessig
 !1!*Zitrone (Saft)*
-!70ml!Aceto balsamico
+!70ml!*Aceto balsamico*
 !100ml!Olivenöl
 
 !===
@@ -471,7 +471,7 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 !24g!*Tahin*
 !0.33{nbsp}TL!Salz
 !0.33{nbsp}TL!Cumin
-!50ml!*Wasser*
+!50ml!Wasser
 
 !===
 .^| im kleinen Philips-Mixer pürieren
@@ -721,7 +721,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !150g!*Reis*
-!225ml!*Brühe*
+!225ml!Brühe
 
 !===
 .^| kochen
@@ -859,7 +859,7 @@ Portionen: 2, Stichwörter: Deutschland, Bayern
 !250g!*Lyoner*; _Scheiben_
 !4!*Gewürzgurken*; _Scheiben_
 !2!*rote Zwiebeln*; _Scheiben_
-!4{nbsp}EL!*Weißweinessig*
+!4{nbsp}EL!Weißweinessig
 !4{nbsp}EL!*Rapsöl*
 !4{nbsp}EL!*Gurkenwasser*
 
@@ -918,7 +918,7 @@ Portionen: 4, Stichwörter: Low Carb
 !===
 !0.5!*Pck Salatkrönung*; _mit Wasser vermengt_
 !2{nbsp}EL!Weinessig
-!2{nbsp}EL!*Öl*
+!2{nbsp}EL!Öl
 !1{nbsp}Bch!*Crème légère*
 !2{nbsp}EL!*Mayonnaise*
 !1{nbsp}Bch!*Sahne*
@@ -1013,7 +1013,7 @@ Portionen: 4, Stichwörter: vegetarisch, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !6{nbsp}EL!Olivenöl
-!3{nbsp}EL!Aceto balsamico
+!3{nbsp}EL!*Aceto balsamico*
 !1{nbsp}TL!Senf (scharf)
 !2{nbsp}EL!*Pesto*
 
@@ -1062,7 +1062,7 @@ Portionen: 2, Stichwörter:
 !1{nbsp}Zehe!Knoblauch; _gehackt_
 !1!*Zitrone (Saft)*
 !2{nbsp}EL!*ÖL*
-!2{nbsp}EL!Aceto balsamico
+!2{nbsp}EL!*Aceto balsamico*
 !3{nbsp}EL!Ahornsirup
 !1{nbsp}TL!Senf
 !1{nbsp}TL!Salz
@@ -1088,7 +1088,7 @@ Portionen: 2, Stichwörter:
 !===
 !1{nbsp}EL!*Preiselbeeren*
 !2{nbsp}EL!*ÖL*
-!3{nbsp}EL!Aceto balsamico
+!3{nbsp}EL!*Aceto balsamico*
 !1{nbsp}TL!Senf
 !1{nbsp}TL!Salz
 
@@ -1121,7 +1121,7 @@ Portionen: 2, Stichwörter:
 !15ml!*Zitronensaft*
 !15ml!Senf, mittelscharf
 !15ml!Ahornsirup
-!3{nbsp}EL!*Öl*
+!3{nbsp}EL!Öl
 !1!Salz, Pfeffer
 
 !===
@@ -1172,7 +1172,7 @@ Portionen: 4, Stichwörter: vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100{nbsp}ml!*Weißwein*
-!0.75l!*Gemüsebrühe*
+!0.75l!Gemüsebrühe
 !2!*Kartoffeln*; _grob gewürfelt_
 
 !===
@@ -1218,7 +1218,7 @@ Portionen: 3, Stichwörter:
 !3{nbsp}EL!Olivenöl
 !1{nbsp}Zehe!Knoblauch
 !3{nbsp}TL!*Rindfleischbrühe*
-!700ml!*Wasser*
+!700ml!Wasser
 !200g!*Schmelzkäse*
 !0.5{nbsp}Bch!*Creme Fraiche*
 !1{nbsp}Pr!Muskat
@@ -1270,14 +1270,14 @@ Portionen: 6, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1!*Kreuzkümmel, Koriander, Salz, Pfeffer*
+!1!Kreuzkümmel, Koriander, Salz, Pfeffer
 
 !===
 .^| würzen
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1l!*Gemüsebrühe*
+!1l!Gemüsebrühe
 
 !===
 .^| aufgießen; nach 20min pürieren
@@ -1314,9 +1314,9 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !150g!*Maronen*
-!450ml!*Wasser*
+!450ml!Wasser
 !2{nbsp}EL!*Weißwein*
-!1!*Lorbeerblatt*
+!1!Lorbeerblatt
 
 !===
 .^| zugeben, 20min köcheln
@@ -1324,7 +1324,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !4{nbsp}EL!*Sahne*
-!4{nbsp}EL!Aceto balsamico
+!4{nbsp}EL!*Aceto balsamico*
 
 !===
 .^| Lorbeerblatt entfernen, pürieren, Sahne zugeben, mit Salz und Pfeffer abschmecken
@@ -1340,7 +1340,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !3!*Trockenpflaumen*
-!2{nbsp}TL!Aceto balsamico
+!2{nbsp}TL!*Aceto balsamico*
 !1{nbsp}EL!*Petersilie*; _gehackt_
 
 !===
@@ -1367,7 +1367,7 @@ Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
 !1{nbsp}Bd!*Koriandergrün (Stiele)*; _gehackt_
 !100g!*rote Thai-Currypaste*
 !400g!*Kokosmilch (fettreduziert)*
-!1l!*Wasser*
+!1l!Wasser
 
 !===
 .^| 1h20min im Topf garen
@@ -1440,7 +1440,7 @@ Portionen: 8, Stichwörter:
 !1{nbsp}EL!Paprikapulver
 !1{nbsp}TL!Paprikapulver (scharf)
 !1!Pfeffer, Salz
-!2l!*Wasser*
+!2l!Wasser
 
 !===
 .^| würzen, Wasser zugeben, 1h köcheln
@@ -1689,7 +1689,7 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !250ml!*Sahne*
-!150ml!*Gemüsebrühe*
+!150ml!Gemüsebrühe
 !100ml!*Weißwein*
 
 !===
@@ -1771,7 +1771,7 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 !250g!Mehl
 !1{nbsp}TL!Salz
 !2{nbsp}TL!Olivenöl
-!100ml!*Wasser*
+!100ml!Wasser
 
 !===
 .^| kneten, ausrollen
@@ -1908,14 +1908,14 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}Dose!*Tomaten (gehackt)*
-!100ml!*Wasser*
+!100ml!Wasser
 
 !===
 .^| ablöschen
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1!*Lorbeerblatt*
+!1!Lorbeerblatt
 !1{nbsp}EL!*Majoran*
 !1!Salz + Pfeffer
 
@@ -2081,7 +2081,7 @@ Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro
 !4!Knoblauchzehen; _hacken_
 !1kg!*Hokkaidokürbis*; _würfeln_
 !2{nbsp}Zweige!*Rosmarin*; _grob hacken_
-!2{nbsp}EL!*Honig*
+!2{nbsp}EL!Honig
 !4{nbsp}EL!Olivenöl
 
 !===
@@ -2148,8 +2148,8 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}Dose!*Tomaten*; _gehackt_
-!1{nbsp}EL!Aceto balsamico
-!1{nbsp}TL!*Oregano*
+!1{nbsp}EL!*Aceto balsamico*
+!1{nbsp}TL!Oregano
 
 !===
 .^| zugeben, salzen und pfeffern. 15min köcheln.
@@ -2303,7 +2303,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1.5l!*Brühe*
+!1.5l!Brühe
 !4{nbsp}EL!*Parmesan*
 !1!Salz, Pfeffer
 
@@ -2570,7 +2570,7 @@ Portionen: 8, Stichwörter: Österreich, TK, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0.5l!*Bier*
-!400ml!*Gemüsebrühe*
+!400ml!Gemüsebrühe
 
 !===
 .^| ablöschen
@@ -2878,14 +2878,14 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!500ml!*Fleischbrühe*
+!500ml!Fleischbrühe
 
 !===
 .^| ablöschen
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1{nbsp}Blatt!*Lorbeer*
+!1{nbsp}Blatt!Lorbeer
 
 !===
 .^| zugeben.
@@ -2998,10 +2998,10 @@ Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro
 !1{nbsp}Zehe!Knoblauch
 !1!*Habanero 🌶️*
 !2{nbsp}EL!*Petersilie*
-!1{nbsp}EL!*Oregano*
+!1{nbsp}EL!Oregano
 !1{nbsp}TL!Cumin
-!1{nbsp}TL!*Estragon*
-!2{nbsp}TL!*Zucker*
+!1{nbsp}TL!Estragon
+!2{nbsp}TL!Zucker
 !2{nbsp}TL!Salz
 
 !===
@@ -3142,10 +3142,10 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 !3{nbsp}Zehen!Knoblauch
 !1.5cm!*Ingwerknolle*; _fein gewürfelt_
 !1!*Zitrone (Saft)*
-!1{nbsp}EL!*Kreuzkümmel*
+!1{nbsp}EL!Kreuzkümmel
 !1{nbsp}EL!*Garam Masala*
 !1{nbsp}EL!Paprikapulver
-!1{nbsp}EL!*Öl*
+!1{nbsp}EL!Öl
 !1{nbsp}TL!Salz
 
 !===
@@ -3184,7 +3184,7 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 !0.5{nbsp}TL!*Zimt*
 !1{nbsp}TL!*Kurkuma*
 !1{nbsp}Dose!*Tomate (Stücke)*
-!300ml!*Wasser*
+!300ml!Wasser
 !1{nbsp}TL!Salz
 
 !===
@@ -3193,7 +3193,7 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !50{nbsp}ml!*Sahne*
-!2{nbsp}TL!*Honig*
+!2{nbsp}TL!Honig
 
 !===
 .^| zu Soße geben, Fleisch dazu, 5m köcheln
@@ -3605,7 +3605,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 !===
 !350g!*Tomaten (bunte)*; _in dünnen Scheiben_
 !1{nbsp}EL!Olivenöl
-!1{nbsp}EL!*Rotweinessig*
+!1{nbsp}EL!Rotweinessig
 !1!Salz, Pfeffer
 
 !===
@@ -3762,9 +3762,9 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100ml!Milch
-!1{nbsp}Pkg!*Vanillezucker*
-!35g!*Stärke*
-!1{nbsp}EL!*Kakaopulver*
+!1{nbsp}Pkg!Vanillezucker
+!35g!Stärke
+!1{nbsp}EL!Kakaopulver
 
 !===
 .^| zusammenrühren^1^, zugeben und unter ständigem rühren aufkochen (1 min kochen lassen)
@@ -3812,8 +3812,8 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200ml!*Saft (aus Glas)*
-!1{nbsp}EL!*Puderzucker*
-!2{nbsp}TL!*Speisestärke ^1^*
+!1{nbsp}EL!Puderzucker
+!2{nbsp}TL!Speisestärke ^1^
 
 !===
 .^| verrühren, eindicken.
@@ -3856,8 +3856,8 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !250g!Mehl .4+.^
-!25g!*Zucker*
-!3.5g!*Trockenhefe*
+!25g!Zucker
+!3.5g!Trockenhefe
 !0.5{nbsp}TL!Salz
 
 !===
@@ -3968,7 +3968,7 @@ Portionen: 3, Stichwörter: ausprobieren, vegetarisch
 !250g!*Magertopfen*
 !70g!*Margarine oder Butter*
 !1{nbsp}Prise!Salz
-!5{nbsp}EL!*Staubzucker zum Bestreuen*
+!5{nbsp}EL!Staubzucker zum Bestreuen
 !6!*Marillen*
 !6!*Würfelzucker*
 !1{nbsp}EL!Butter
@@ -4064,7 +4064,7 @@ Portionen: 2, Stichwörter: USA
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !2!Eigelb
-!2{nbsp}EL!*Zucker*
+!2{nbsp}EL!Zucker
 
 !===
 .^| aufschlagen
@@ -4127,7 +4127,7 @@ Portionen: 2, Stichwörter:
 !===
 !150g!Mehl
 !1{nbsp}Prise!Salz
-!125ml!*Wasser*
+!125ml!Wasser
 !2!Eier
 
 !===
@@ -4150,9 +4150,9 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !125g!Butter; _weich_
-!100g!*Zucker*
+!100g!Zucker
 !1!Ei
-!1{nbsp}Pkg!*Vanillezucker*
+!1{nbsp}Pkg!Vanillezucker
 
 !===
 .^| in Rührschüssel verrühren
@@ -4191,11 +4191,11 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !250{nbsp}g!Mehl
-!0.5{nbsp}Pkg!*Trockenhefe*
+!0.5{nbsp}Pkg!Trockenhefe
 !2{nbsp}EL!Olivenöl
-!1{nbsp}TL!*getrocknete Kräuter der Provence*
+!1{nbsp}TL!*Kräuter der Provence*
 !2{nbsp}Prisen!Salz
-!160{nbsp}ml!*Wasser*
+!160{nbsp}ml!Wasser
 
 !===
 .^| Für den Teig alle Zutaten in eine Schüssel geben und mit den Knethaken des Handrührgerätes oder der Küchenmaschine so lange verkneten, bis sich der Teig aus der Topfschüssel löst, eventuell noch einmal vorsichtig etwas Wasser oder Mehl nachgeben.
@@ -4245,7 +4245,7 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100{nbsp}ml!*lauwarme Milch*
-!20{nbsp}g!*frische Hefe*
+!20{nbsp}g!frische Hefe
 !1{nbsp}EL!Mehl
 
 !===
@@ -4253,7 +4253,7 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.5{nbsp}TL!*Zucker*
+!0.5{nbsp}TL!Zucker
 !500{nbsp}g!Mehl Type 405 oder 550
 !11{nbsp}g!Salz
 !200{nbsp}ml!*Creme Fraiche*
@@ -4319,7 +4319,7 @@ Portionen: 15, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !125g!Butter
-!160g!*Zucker*
+!160g!Zucker
 !10g!*Melasse / Grafschafter Goldsaft*
 
 !===
@@ -4371,12 +4371,12 @@ Portionen: 6, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !280g!Mehl
-!1.5{nbsp}TL!*Stärke*
-!1{nbsp}TL!*Natron*
+!1.5{nbsp}TL!Stärke
+!1{nbsp}TL!Natron
 !0.5{nbsp}TL!Salz
 !170g!Butter, zimmerwarm
-!150g!*Zucker, braun*
-!100g!*Zucker, weiß*
+!150g!Zucker, braun
+!100g!Zucker, weiß
 !1!Ei, zimmerwarm
 !1!Eigelb, zimmerwarm
 !2{nbsp}TL!*Vanilleextrakt*
@@ -4456,7 +4456,7 @@ Portionen: 16, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !150g!Butter (weich)
-!150g!*Zucker*
+!150g!Zucker
 !1!*Pck. Vanillezucker*
 !1{nbsp}Prise!Salz
 
@@ -4489,7 +4489,7 @@ Portionen: 16, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!*Zitrone (Saft)*
-!100g!*Puderzucker*
+!100g!Puderzucker
 
 !===
 .^| Zuckerguss rühren, Kekse nach abkühlen damit bestreichen
@@ -4532,9 +4532,9 @@ Portionen: 12, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!200g!*Zucker*
-!2{nbsp}Pkg!*Vanillezucker*
-!3{nbsp}EL!*Speisestärke*
+!200g!Zucker
+!2{nbsp}Pkg!Vanillezucker
+!3{nbsp}EL!Speisestärke
 !900g!*Frischkäse (Doppelrahmstufe)*
 
 !===
@@ -4584,8 +4584,8 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0{nbsp}ml!Milch (3/4)
-!0g!*Trockenhefe*
-!0{nbsp}TL!*Zucker*
+!0g!Trockenhefe
+!0{nbsp}TL!Zucker
 
 !===
 .^| in Teigschüssel geben, auflösen
