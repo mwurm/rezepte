@@ -25,9 +25,45 @@ basic_ingredients = [
     "Knoblauch",
     "Zwiebeln?",
     "Weinessig",
+    "Rotweinessig",
+    "Weißweinessig",
     "Olivenöl",
+    "Öl",
+    "Sonnenblumenöl"
     "Aceto balsamico",
-    "Toast"
+    "Toast",
+    "Hefe",
+    "Trockenhefe",
+    "frische Hefe",
+    "Hefe (frisch)",
+    "Hefe (trocken)",
+    "Wasser",
+    "Zucker",
+    "Stärke",
+    "Natron",
+    "Zucker, braun",
+    "Zucker (braun)",
+    "Zucker, weiß",
+    "Zucker (weiß)",
+    "Vanillezucker",
+    "Vanillinzucker",
+    "Puderzucker",
+    "Staubzucker",
+    "Kakaopulver",
+    "Speisestärke",
+    "Honig",
+    "Cumin",
+    "Kreuzkümmel",
+    "Estragon",
+    "Oregano",
+    "Lorbeer",
+    "Fleischbrühe",
+    "Gemüsebrühe",
+    "Hühnerbrühe",
+    "Brühe"
+    
+
+    
     ]
 
 basic_ingredients_regex = "(" + ")|(".join(basic_ingredients) + ")"
