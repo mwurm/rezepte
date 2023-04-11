@@ -51,8 +51,8 @@ Portionen: 4, Stichwörter:
 !===
 !300g!Mehl (405)
 !3!Eier
-!1 EL!Olivenöl
-!0.5 TL!Salz
+!1{nbsp}EL!Olivenöl
+!0.5{nbsp}TL!Salz
 
 !===
 .^| TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
@@ -81,15 +81,15 @@ Portionen: 2, Stichwörter:
 !===
 !300g!Mehl
 !0.5!*Würfel Hefe (frisch)*
-!1 TL!*Zucker*
+!1{nbsp}TL!*Zucker*
 
 !===
 .^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 TL!Salz
-!2 EL!Olivenöl
+!1{nbsp}TL!Salz
+!2{nbsp}EL!Olivenöl
 !120ml!*Wasser*
 
 !===
@@ -136,11 +136,11 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Dose!*Tomaten (gehackt)*
+!1{nbsp}Dose!*Tomaten (gehackt)*
 !20g!Tomatenmark
-!1 TL!Salz
-!0.5 TL!*Zucker, Pfeffer, Paprikapulver*
-!1 EL!*Oregano*
+!1{nbsp}TL!Salz
+!0.5{nbsp}TL!*Zucker, Pfeffer, Paprikapulver*
+!1{nbsp}EL!*Oregano*
 
 !===
 .^| zugeben, köcheln, pürieren
@@ -194,7 +194,7 @@ Portionen: 12, Stichwörter:
 !1!Eigelb
 !85g!Mehl
 !60g!Butter; _kalt, gewürfelt_
-!1 Pr!Salz, Pfeffer, Cayennepfeffer
+!1{nbsp}Pr!Salz, Pfeffer, Cayennepfeffer
 
 !===
 .^| zugeben, mit Maschine zu glattem Teig kneten, ab und zu mit Hand nachhelfen.
@@ -244,8 +244,8 @@ Portionen: 4, Stichwörter:
 !80g!*Oliven, schwarz, entsteint*
 !2!*Sardellenfilets*
 !4!Knoblauchzehen
-!1 TL!*Kapern*
-!2 EL!Olivenöl
+!1{nbsp}TL!*Kapern*
+!2{nbsp}EL!Olivenöl
 
 !===
 .^| in Zerkleinerer geben (Tupper Quick-Chef)
@@ -286,9 +286,9 @@ Portionen: 6, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!6 Scheiben!Toast; _toasten_
-!1 Zehe!Knoblauch
-!1 EL!Olivenöl
+!6{nbsp}Scheiben!Toast; _toasten_
+!1{nbsp}Zehe!Knoblauch
+!1{nbsp}EL!Olivenöl
 
 !===
 .^| Toast mit Knoblauch einreiben und mit Öl bepinseln
@@ -307,7 +307,7 @@ Portionen: 6, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!18 Blätter!*Basilikum*
+!18{nbsp}Blätter!*Basilikum*
 
 !===
 .^| Toast dekorieren
@@ -351,8 +351,8 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Glas!*Tomaten, getrocknet, in Öl*
-!2 Zweig!*Rosmarin*
+!1{nbsp}Glas!*Tomaten, getrocknet, in Öl*
+!2{nbsp}Zweig!*Rosmarin*
 
 !===
 .^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
@@ -403,7 +403,7 @@ Portionen: 4, Stichwörter: Aufstrich
 !===
 !100g!*Kochschinken*; _fein gewürfelt_
 !2!*Gewürzgurken*; _fein gewürfelt_
-!1 Bd!*Schnittlauch*; _geschnitten_
+!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
 !1!Salz, Pfeffer, Fondor
 
 !===
@@ -466,11 +466,11 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Zehe!Knoblauch; _grepresst_
+!1{nbsp}Zehe!Knoblauch; _grepresst_
 !13ml!*Zitronensaft*
 !24g!*Tahin*
-!0.33 TL!Salz
-!0.33 TL!Cumin
+!0.33{nbsp}TL!Salz
+!0.33{nbsp}TL!Cumin
 !50ml!*Wasser*
 
 !===
@@ -501,8 +501,8 @@ Portionen: 8, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200g!*Frischkäse*
-!4 EL!Paprikapulver
-!1 EL!*Kümmel (gemahlen)*
+!4{nbsp}EL!Paprikapulver
+!1{nbsp}EL!*Kümmel (gemahlen)*
 !1!Salz, Pfeffer
 
 !===
@@ -510,7 +510,7 @@ Portionen: 8, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 EL!Zwiebeln; _würfeln_
+!2{nbsp}EL!Zwiebeln; _würfeln_
 
 !===
 .^| unterheben
@@ -557,9 +557,9 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200ml!*Sahne*
-!1 TL!*Brühpulver*
+!1{nbsp}TL!*Brühpulver*
 !0.5!Muskat
-!2 TL!Salz
+!2{nbsp}TL!Salz
 
 !===
 .^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
@@ -642,7 +642,7 @@ Portionen: 4, Stichwörter: Österreich
 !===
 !1!Zwiebel; _gewürfelt_
 !150ml!Milch
-!1 Prise!Muskat
+!1{nbsp}Prise!Muskat
 
 !===
 .^| glasieren, mit Milch ablöschen und erwärmen, würzen
@@ -657,7 +657,7 @@ Portionen: 4, Stichwörter: Österreich
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!Ei; _geschlagen_
-!2 EL!*Petersilie*
+!2{nbsp}EL!*Petersilie*
 
 !===
 .^| zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
@@ -729,7 +729,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!Zwiebel; _würfeln_
-!1 Zehe!*Knoblach*; _gehackt_
+!1{nbsp}Zehe!*Knoblach*; _gehackt_
 
 !===
 .^| in Öl andünsten
@@ -752,7 +752,7 @@ Portionen: 2, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 TL!Paprikapulver
+!1{nbsp}TL!Paprikapulver
 !1!Salz, Pfeffer
 
 !===
@@ -783,8 +783,8 @@ Portionen: 2, Stichwörter:
 !===
 !150g!*griechischer Joghurt*
 !1!Knoblauchzehe (gepresst)
-!0.5 TL!*Zitronenabrieb*
-!2 TL!Olivenöl
+!0.5{nbsp}TL!*Zitronenabrieb*
+!2{nbsp}TL!Olivenöl
 !1!Salz, Pfeffer
 !1!*Dill / Minze (optional)*
 
@@ -809,17 +809,17 @@ Portionen: 2, Stichwörter: vegetarisch
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!150 g!*Bulgur*
+!150{nbsp}g!*Bulgur*
 
 !===
 .^| kochen
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Zehe!Knoblauch
-!2 EL!Tomatenmark
-!2 EL!Olivenöl
-!1 EL!*Curry*
+!1{nbsp}Zehe!Knoblauch
+!2{nbsp}EL!Tomatenmark
+!2{nbsp}EL!Olivenöl
+!1{nbsp}EL!*Curry*
 
 !===
 .^| mit Bulgur vermischen, mit Salz und Pfeffer abschmecken, 20m abkühlen lassen
@@ -835,7 +835,7 @@ Portionen: 2, Stichwörter: vegetarisch
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 Zweige!*Basilikum*
+!2{nbsp}Zweige!*Basilikum*
 
 !===
 .^| schneiden, zugeben, abschmecken
@@ -859,9 +859,9 @@ Portionen: 2, Stichwörter: Deutschland, Bayern
 !250g!*Lyoner*; _Scheiben_
 !4!*Gewürzgurken*; _Scheiben_
 !2!*rote Zwiebeln*; _Scheiben_
-!4 EL!*Weißweinessig*
-!4 EL!*Rapsöl*
-!4 EL!*Gurkenwasser*
+!4{nbsp}EL!*Weißweinessig*
+!4{nbsp}EL!*Rapsöl*
+!4{nbsp}EL!*Gurkenwasser*
 
 !===
 .^| vermengen, mit Salz und Pfeffer abschmecken und ziehen lassen
@@ -917,11 +917,11 @@ Portionen: 4, Stichwörter: Low Carb
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0.5!*Pck Salatkrönung*; _mit Wasser vermengt_
-!2 EL!Weinessig
-!2 EL!*Öl*
-!1 Bch!*Crème légère*
-!2 EL!*Mayonnaise*
-!1 Bch!*Sahne*
+!2{nbsp}EL!Weinessig
+!2{nbsp}EL!*Öl*
+!1{nbsp}Bch!*Crème légère*
+!2{nbsp}EL!*Mayonnaise*
+!1{nbsp}Bch!*Sahne*
 !1!Pfeffer
 
 !===
@@ -933,7 +933,7 @@ Portionen: 4, Stichwörter: Low Carb
 !3!*Tomaten*; _achteln_
 !5!*Karotten*; _reiben_
 !1!*Frühlingszwiebel*; _Scheiben_
-!1 Bd!*Radieschen*; _Scheiben_
+!1{nbsp}Bd!*Radieschen*; _Scheiben_
 !1!*Gurke*; _Scheiben_
 !200g!*Kochschinken*; _Streifen_
 !200g!*Käse*; _Streifen_
@@ -965,7 +965,7 @@ Portionen: 2, Stichwörter: vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!*Zitrone (Saft)*
-!3 EL!Olivenöl
+!3{nbsp}EL!Olivenöl
 !30g!*Parmesan*
 !60g!*Parmaschinken*
 
@@ -1002,9 +1002,9 @@ Portionen: 4, Stichwörter: vegetarisch, Büro
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.5 Glas!*Tomaten (getrocket)*; _würfeln_
+!0.5{nbsp}Glas!*Tomaten (getrocket)*; _würfeln_
 !1!*Mozzarella*; _würfeln_
-!1 Bund!*Rucola*
+!1{nbsp}Bund!*Rucola*
 !50g!*Pinienkerne*
 
 !===
@@ -1012,10 +1012,10 @@ Portionen: 4, Stichwörter: vegetarisch, Büro
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!6 EL!Olivenöl
-!3 EL!Aceto balsamico
-!1 TL!Senf (scharf)
-!2 EL!*Pesto*
+!6{nbsp}EL!Olivenöl
+!3{nbsp}EL!Aceto balsamico
+!1{nbsp}TL!Senf (scharf)
+!2{nbsp}EL!*Pesto*
 
 !===
 .^| Dressing zubereiten, mit Salz und Pfeffer abschmecken
@@ -1059,13 +1059,13 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!Zwiebel; _gewürfelt_
-!1 Zehe!Knoblauch; _gehackt_
+!1{nbsp}Zehe!Knoblauch; _gehackt_
 !1!*Zitrone (Saft)*
-!2 EL!*ÖL*
-!2 EL!Aceto balsamico
-!3 EL!Ahornsirup
-!1 TL!Senf
-!1 TL!Salz
+!2{nbsp}EL!*ÖL*
+!2{nbsp}EL!Aceto balsamico
+!3{nbsp}EL!Ahornsirup
+!1{nbsp}TL!Senf
+!1{nbsp}TL!Salz
 
 !===
 .^| verrühren
@@ -1086,11 +1086,11 @@ Portionen: 2, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 EL!*Preiselbeeren*
-!2 EL!*ÖL*
-!3 EL!Aceto balsamico
-!1 TL!Senf
-!1 TL!Salz
+!1{nbsp}EL!*Preiselbeeren*
+!2{nbsp}EL!*ÖL*
+!3{nbsp}EL!Aceto balsamico
+!1{nbsp}TL!Senf
+!1{nbsp}TL!Salz
 
 !===
 .^| verrühren
@@ -1121,7 +1121,7 @@ Portionen: 2, Stichwörter:
 !15ml!*Zitronensaft*
 !15ml!Senf, mittelscharf
 !15ml!Ahornsirup
-!3 EL!*Öl*
+!3{nbsp}EL!*Öl*
 !1!Salz, Pfeffer
 
 !===
@@ -1164,14 +1164,14 @@ Portionen: 4, Stichwörter: vegetarisch
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Dose!*Artischocken*
+!1{nbsp}Dose!*Artischocken*
 
 !===
 .^| abwaschen¹, anbraten
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100 ml!*Weißwein*
+!100{nbsp}ml!*Weißwein*
 !0.75l!*Gemüsebrühe*
 !2!*Kartoffeln*; _grob gewürfelt_
 
@@ -1180,7 +1180,7 @@ Portionen: 4, Stichwörter: vegetarisch
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100 ml!*Sahne*
+!100{nbsp}ml!*Sahne*
 
 !===
 .^| zugeben, aufköcheln, mit Salz abschmecken
@@ -1214,14 +1214,14 @@ Portionen: 3, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !500g!*Rinderhackfleisch*
-!3 Stangen!*Lauch*
-!3 EL!Olivenöl
-!1 Zehe!Knoblauch
-!3 TL!*Rindfleischbrühe*
+!3{nbsp}Stangen!*Lauch*
+!3{nbsp}EL!Olivenöl
+!1{nbsp}Zehe!Knoblauch
+!3{nbsp}TL!*Rindfleischbrühe*
 !700ml!*Wasser*
 !200g!*Schmelzkäse*
-!0.5 Bch!*Creme Fraiche*
-!1 Pr!Muskat
+!0.5{nbsp}Bch!*Creme Fraiche*
+!1{nbsp}Pr!Muskat
 !1!Salz und Pfeffer
 
 !===
@@ -1315,7 +1315,7 @@ Portionen: 2, Stichwörter:
 !===
 !150g!*Maronen*
 !450ml!*Wasser*
-!2 EL!*Weißwein*
+!2{nbsp}EL!*Weißwein*
 !1!*Lorbeerblatt*
 
 !===
@@ -1323,8 +1323,8 @@ Portionen: 2, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!4 EL!*Sahne*
-!4 EL!Aceto balsamico
+!4{nbsp}EL!*Sahne*
+!4{nbsp}EL!Aceto balsamico
 
 !===
 .^| Lorbeerblatt entfernen, pürieren, Sahne zugeben, mit Salz und Pfeffer abschmecken
@@ -1340,8 +1340,8 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !3!*Trockenpflaumen*
-!2 TL!Aceto balsamico
-!1 EL!*Petersilie*; _gehackt_
+!2{nbsp}TL!Aceto balsamico
+!1{nbsp}EL!*Petersilie*; _gehackt_
 
 !===
 .^| zugeben
@@ -1364,7 +1364,7 @@ Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
 !===
 !1600g!*Hähnchen*
 !1200g!Butternut-Kürbis; _würfeln_
-!1 Bd!*Koriandergrün (Stiele)*; _gehackt_
+!1{nbsp}Bd!*Koriandergrün (Stiele)*; _gehackt_
 !100g!*rote Thai-Currypaste*
 !400g!*Kokosmilch (fettreduziert)*
 !1l!*Wasser*
@@ -1386,7 +1386,7 @@ Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Bd!*Koriandergrün (Blätter)*
+!1{nbsp}Bd!*Koriandergrün (Blätter)*
 
 !===
 .^| Suppe garnieren
@@ -1428,7 +1428,7 @@ Portionen: 8, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !4!*Tomaten*; _schälen_
-!2 Stangen!*Lauch*; _würfeln_
+!2{nbsp}Stangen!*Lauch*; _würfeln_
 !3!*Paprika (rot)*; _würfeln_
 
 !===
@@ -1436,9 +1436,9 @@ Portionen: 8, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 TL!*Bohnenkraut*
-!1 EL!Paprikapulver
-!1 TL!Paprikapulver (scharf)
+!2{nbsp}TL!*Bohnenkraut*
+!1{nbsp}EL!Paprikapulver
+!1{nbsp}TL!Paprikapulver (scharf)
 !1!Pfeffer, Salz
 !2l!*Wasser*
 
@@ -1477,14 +1477,14 @@ Portionen: 4, Stichwörter: Italien
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100 g!*Bauchspeck*; _kleine Streifen_
+!100{nbsp}g!*Bauchspeck*; _kleine Streifen_
 
 !===
 .^| mit 1 EL Olivenöl anbraten
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!50 ml!*Weißwein*
+!50{nbsp}ml!*Weißwein*
 
 !===
 .^| mit Weißwein ablöschen, Speck zur Seite nehmen (soll knusprig bleiben), Teil des Fettes entfernen
@@ -1498,7 +1498,7 @@ Portionen: 4, Stichwörter: Italien
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.75 Dose!*Tomaten*; _gehackt_
+!0.75{nbsp}Dose!*Tomaten*; _gehackt_
 
 !===
 .^| zugeben, köcheln, mit Salz abschmecken
@@ -1533,7 +1533,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100 g!*Bauchspeck*; _feine Streifen_
+!100{nbsp}g!*Bauchspeck*; _feine Streifen_
 
 !===
 .^| langsam anbraten
@@ -1636,8 +1636,8 @@ Portionen: 2, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Pkg!*Shrimps*
-!1 TL!*Currypaste (rot)*
+!1{nbsp}Pkg!*Shrimps*
+!1{nbsp}TL!*Currypaste (rot)*
 
 !===
 .^| anbraten
@@ -1680,7 +1680,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 Zehen!Knoblauch; _gehackt_
+!2{nbsp}Zehen!Knoblauch; _gehackt_
 !2!Zwiebeln; _würfeln_
 
 !===
@@ -1769,8 +1769,8 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !250g!Mehl
-!1 TL!Salz
-!2 TL!Olivenöl
+!1{nbsp}TL!Salz
+!2{nbsp}TL!Olivenöl
 !100ml!*Wasser*
 
 !===
@@ -1778,7 +1778,7 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Bch!*Crème fraîche mit Kräutern*
+!1{nbsp}Bch!*Crème fraîche mit Kräutern*
 !150g!*Speck*; _gewürfelt_
 !1!Zwiebel; _gewürfelt_
 
@@ -1809,8 +1809,8 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100g!*Ziegenfrischkäse*
-!1 Becher!*Crème fraîche*
-!2 EL!*Dijon-Senf*
+!1{nbsp}Becher!*Crème fraîche*
+!2{nbsp}EL!*Dijon-Senf*
 
 !===
 .^| verrühren, salzen, pfeffern
@@ -1907,7 +1907,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Dose!*Tomaten (gehackt)*
+!1{nbsp}Dose!*Tomaten (gehackt)*
 !100ml!*Wasser*
 
 !===
@@ -1916,7 +1916,7 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!*Lorbeerblatt*
-!1 EL!*Majoran*
+!1{nbsp}EL!*Majoran*
 !1!Salz + Pfeffer
 
 !===
@@ -1932,14 +1932,14 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 EL!*Schmand*
+!2{nbsp}EL!*Schmand*
 
 !===
 .^| unterrühren
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 EL!*Petersilie*
+!1{nbsp}EL!*Petersilie*
 
 !===
 .^| zugeben
@@ -1976,23 +1976,23 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2.5 TL!*gem. Koriander*
-!1 TL!*gem. Kreuzkümmel*
-!2 TL!*gem. Kurkuma*
-!1 Prise!*gem. Nelken*
-!1 Prise!*frisch gem. Muskatnuss*
-!4 EL!Olivenöl
+!2.5{nbsp}TL!*gem. Koriander*
+!1{nbsp}TL!*gem. Kreuzkümmel*
+!2{nbsp}TL!*gem. Kurkuma*
+!1{nbsp}Prise!*gem. Nelken*
+!1{nbsp}Prise!*frisch gem. Muskatnuss*
+!4{nbsp}EL!Olivenöl
 !1!Zwiebel, gehackt
 !4!Knoblauchzehen, fein gehackt
 !1!*1/2 EL Ingwer, fein gehackt*
 !1!*rote Chili, fein geschnitten*
-!1 Prise!*Meersalz*
+!1{nbsp}Prise!*Meersalz*
 !1!*Zimtstange*
 !2!*Sternanis*
 !400ml!*Kokosmilch*
 !300g!*Kartoffeln*; _geschält und in Würfel (2 cm) geschnitten_
 !800g!*Kichererbsen (aus der Dose mit Flüssigkeit)*
-!4 EL!*Korianderblätter*; _gehackt_
+!4{nbsp}EL!*Korianderblätter*; _gehackt_
 
 !===
 .^| TODO Zutaten einsortieren
@@ -2080,9 +2080,9 @@ Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro
 !3!Zwiebeln (rot); _Spalten_
 !4!Knoblauchzehen; _hacken_
 !1kg!*Hokkaidokürbis*; _würfeln_
-!2 Zweige!*Rosmarin*; _grob hacken_
-!2 EL!*Honig*
-!4 EL!Olivenöl
+!2{nbsp}Zweige!*Rosmarin*; _grob hacken_
+!2{nbsp}EL!*Honig*
+!4{nbsp}EL!Olivenöl
 
 !===
 .^| in Schüssel vermengen, salzen und pfeffern
@@ -2097,7 +2097,7 @@ Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !400g!*Hackfleisch*
-!2 EL!Tomatenmark
+!2{nbsp}EL!Tomatenmark
 !1!*rote Chilischote*
 
 !===
@@ -2147,9 +2147,9 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Dose!*Tomaten*; _gehackt_
-!1 EL!Aceto balsamico
-!1 TL!*Oregano*
+!1{nbsp}Dose!*Tomaten*; _gehackt_
+!1{nbsp}EL!Aceto balsamico
+!1{nbsp}TL!*Oregano*
 
 !===
 .^| zugeben, salzen und pfeffern. 15min köcheln.
@@ -2206,8 +2206,8 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 !3!*Paprika bunt*; _würfeln_
 !1!Zwiebel; _grob würfeln_
 !200g!*Feta: zerkrümeln*
-!3 EL!*Piros Arany*
-!3 EL!Olivenöl
+!3{nbsp}EL!*Piros Arany*
+!3{nbsp}EL!Olivenöl
 
 !===
 .^| in Reine geben, vermengen. 40min backen.
@@ -2304,7 +2304,7 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1.5l!*Brühe*
-!4 EL!*Parmesan*
+!4{nbsp}EL!*Parmesan*
 !1!Salz, Pfeffer
 
 !===
@@ -2471,7 +2471,7 @@ Portionen: 4, Stichwörter: schnell mit Garzeit
 !1!Zwiebel, rot
 !1!*Römersalat*
 !1!*Burger-Sauce / Tomatenketchup / Mayonnaise*
-!4 Scheiben!*Cheddar*
+!4{nbsp}Scheiben!*Cheddar*
 
 !===
 .^| zubereiten (oder selber machen lassen)
@@ -2578,11 +2578,11 @@ Portionen: 8, Stichwörter: Österreich, TK, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !800g!*Rindsgulasch*
-!2 TL!*Kreukümmel*
-!4 EL!Tomatenmark
-!4 EL!Paprikapulver
-!4 TL!Salz
-!2 TL!*Cayennepfeffer*
+!2{nbsp}TL!*Kreukümmel*
+!4{nbsp}EL!Tomatenmark
+!4{nbsp}EL!Paprikapulver
+!4{nbsp}TL!Salz
+!2{nbsp}TL!*Cayennepfeffer*
 
 !===
 .^| zugeben, 3h köcheln lassen
@@ -2651,14 +2651,14 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 Scheibe!Toast; _fein gewürfelt_
+!2{nbsp}Scheibe!Toast; _fein gewürfelt_
 !1!Knoblauchzehe; _gehackt_
-!2 EL!*Pinienkerne*; _gehackt_
-!3 Zweig!*Thymian*; _gehackt_
-!3 Zweig!*Rosmarin*; _gehackt_
-!0.5 Bd.!*glatte Petersilie*; _gehackt_
-!1 EL!*Zitronenabrieb*
-!2 EL!Butter; _flüssig erhitzt_
+!2{nbsp}EL!*Pinienkerne*; _gehackt_
+!3{nbsp}Zweig!*Thymian*; _gehackt_
+!3{nbsp}Zweig!*Rosmarin*; _gehackt_
+!0.5{nbsp}Bd.!*glatte Petersilie*; _gehackt_
+!1{nbsp}EL!*Zitronenabrieb*
+!2{nbsp}EL!Butter; _flüssig erhitzt_
 
 !===
 .^| Vermengen und durchkneten bis eine feste Masse entsteht. Mit Salz und Pfeffer abschmecken.
@@ -2866,12 +2866,12 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 EL!Tomatenmark
+!2{nbsp}EL!Tomatenmark
 !2!*Möhren*; _5cm-Stücke halbieren_
 !1!*Petersilienwurzel*; _würfeln_
 !100g!*Knollensellerie*; _würfeln_
 !4!*Schalotten*; _vierteln_
-!2 Zehen!Knoblauch; _in Scheiben_
+!2{nbsp}Zehen!Knoblauch; _in Scheiben_
 
 !===
 .^| Tomatenmark anschwitzen und mit Gemüse anbraten
@@ -2885,7 +2885,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Blatt!*Lorbeer*
+!1{nbsp}Blatt!*Lorbeer*
 
 !===
 .^| zugeben.
@@ -2932,11 +2932,11 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 EL!*Pinienkerne # Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.*
+!1{nbsp}EL!*Pinienkerne # Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.*
 !250g!*Entrecôte # Fett abschneiden und fein schneiden und in Pfanne knusprig braten. Fleisch auf 1cm flachklopfen und 1min pro Seite braten (außen brau, innnen rosa).*
-!2 TL!*Pesto*
+!2{nbsp}TL!*Pesto*
 !1!*Entrecôte-Fettstücke (opt.)*
-!1 EL!Olivenöl
+!1{nbsp}EL!Olivenöl
 
 !===
 .^| servieren: Dünne Entrecôte-Scheiben auf Pesto anrichten, ggf. auch Fettstücke. Fleischaft in Pfanne mit Öl vermischen und auf die Teller geben.
@@ -2993,16 +2993,16 @@ Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro
 !200g!*Tomaten*; _gehackt_
 !0.33l!*Bier*
 !100g!Tomatenmark
-!1 TL!*Worcester-Soße*
-!1 EL!*Essig*
-!1 Zehe!Knoblauch
+!1{nbsp}TL!*Worcester-Soße*
+!1{nbsp}EL!*Essig*
+!1{nbsp}Zehe!Knoblauch
 !1!*Habanero 🌶️*
-!2 EL!*Petersilie*
-!1 EL!*Oregano*
-!1 TL!Cumin
-!1 TL!*Estragon*
-!2 TL!*Zucker*
-!2 TL!Salz
+!2{nbsp}EL!*Petersilie*
+!1{nbsp}EL!*Oregano*
+!1{nbsp}TL!Cumin
+!1{nbsp}TL!*Estragon*
+!2{nbsp}TL!*Zucker*
+!2{nbsp}TL!Salz
 
 !===
 .^| zugeben, ca. 2h köcheln lassen
@@ -3010,14 +3010,14 @@ Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !25g!*Schokolade*
-!2 TL!Pfeffer
+!2{nbsp}TL!Pfeffer
 
 !===
 .^| zugeben
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 Dose!*Pinto-Bohnen*
+!1{nbsp}Dose!*Pinto-Bohnen*
 
 !===
 .^| getrennt servieren
@@ -3138,15 +3138,15 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!150 g!*Joghurt*
-!3 Zehen!Knoblauch
+!150{nbsp}g!*Joghurt*
+!3{nbsp}Zehen!Knoblauch
 !1.5cm!*Ingwerknolle*; _fein gewürfelt_
 !1!*Zitrone (Saft)*
-!1 EL!*Kreuzkümmel*
-!1 EL!*Garam Masala*
-!1 EL!Paprikapulver
-!1 EL!*Öl*
-!1 TL!Salz
+!1{nbsp}EL!*Kreuzkümmel*
+!1{nbsp}EL!*Garam Masala*
+!1{nbsp}EL!Paprikapulver
+!1{nbsp}EL!*Öl*
+!1{nbsp}TL!Salz
 
 !===
 .^| zu Marinade verrühren
@@ -3180,20 +3180,20 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 TL!*Kardamompulver*
-!0.5 TL!*Zimt*
-!1 TL!*Kurkuma*
-!1 Dose!*Tomate (Stücke)*
+!1{nbsp}TL!*Kardamompulver*
+!0.5{nbsp}TL!*Zimt*
+!1{nbsp}TL!*Kurkuma*
+!1{nbsp}Dose!*Tomate (Stücke)*
 !300ml!*Wasser*
-!1 TL!Salz
+!1{nbsp}TL!Salz
 
 !===
 .^| zu Zwiebeln geben, 15min köcheln, pürieren
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!50 ml!*Sahne*
-!2 TL!*Honig*
+!50{nbsp}ml!*Sahne*
+!2{nbsp}TL!*Honig*
 
 !===
 .^| zu Soße geben, Fleisch dazu, 5m köcheln
@@ -3604,8 +3604,8 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !350g!*Tomaten (bunte)*; _in dünnen Scheiben_
-!1 EL!Olivenöl
-!1 EL!*Rotweinessig*
+!1{nbsp}EL!Olivenöl
+!1{nbsp}EL!*Rotweinessig*
 !1!Salz, Pfeffer
 
 !===
@@ -3621,7 +3621,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0.5!*Mozarella*; _würfeln_
-!1 TL!*Pesto*
+!1{nbsp}TL!*Pesto*
 
 !===
 .^| in Mitte des Omelett verteilen. Weiter stocken lassen und Omelett über Mozarella zuklappen.
@@ -3635,7 +3635,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0.5!*Chilischote*; _dünne Ringe_
-!10 Blätter!*Basilikim*
+!10{nbsp}Blätter!*Basilikim*
 
 !===
 .^| garnieren
@@ -3762,16 +3762,16 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100ml!Milch
-!1 Pkg!*Vanillezucker*
+!1{nbsp}Pkg!*Vanillezucker*
 !35g!*Stärke*
-!1 EL!*Kakaopulver*
+!1{nbsp}EL!*Kakaopulver*
 
 !===
 .^| zusammenrühren^1^, zugeben und unter ständigem rühren aufkochen (1 min kochen lassen)
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2 EL!*Rum (optional)*
+!2{nbsp}EL!*Rum (optional)*
 
 !===
 .^| zugeben
@@ -3812,8 +3812,8 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200ml!*Saft (aus Glas)*
-!1 EL!*Puderzucker*
-!2 TL!*Speisestärke ^1^*
+!1{nbsp}EL!*Puderzucker*
+!2{nbsp}TL!*Speisestärke ^1^*
 
 !===
 .^| verrühren, eindicken.
@@ -3858,7 +3858,7 @@ Portionen: 4, Stichwörter:
 !250g!Mehl .4+.^
 !25g!*Zucker*
 !3.5g!*Trockenhefe*
-!0.5 TL!Salz
+!0.5{nbsp}TL!Salz
 
 !===
 .^| in Küchenmaschine mit Knethaken verrühren
@@ -3967,11 +3967,11 @@ Portionen: 3, Stichwörter: ausprobieren, vegetarisch
 !130g!*glattes Mehl*
 !250g!*Magertopfen*
 !70g!*Margarine oder Butter*
-!1 Prise!Salz
-!5 EL!*Staubzucker zum Bestreuen*
+!1{nbsp}Prise!Salz
+!5{nbsp}EL!*Staubzucker zum Bestreuen*
 !6!*Marillen*
 !6!*Würfelzucker*
-!1 EL!Butter
+!1{nbsp}EL!Butter
 !140g!*Semmelbrösel*
 
 !===
@@ -4064,7 +4064,7 @@ Portionen: 2, Stichwörter: USA
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !2!Eigelb
-!2 EL!*Zucker*
+!2{nbsp}EL!*Zucker*
 
 !===
 .^| aufschlagen
@@ -4079,8 +4079,8 @@ Portionen: 2, Stichwörter: USA
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200g!Mehl
-!1 TL!*Backpulver*
-!1 Pr!Salz
+!1{nbsp}TL!*Backpulver*
+!1{nbsp}Pr!Salz
 
 !===
 .^| zugeben und verrühren (optional: 15m ruhen lassen)
@@ -4126,7 +4126,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !150g!Mehl
-!1 Prise!Salz
+!1{nbsp}Prise!Salz
 !125ml!*Wasser*
 !2!Eier
 
@@ -4152,7 +4152,7 @@ Portionen: 4, Stichwörter:
 !125g!Butter; _weich_
 !100g!*Zucker*
 !1!Ei
-!1 Pkg!*Vanillezucker*
+!1{nbsp}Pkg!*Vanillezucker*
 
 !===
 .^| in Rührschüssel verrühren
@@ -4161,7 +4161,7 @@ Portionen: 4, Stichwörter:
 !===
 !250ml!Milch
 !250g!Mehl
-!0.5 Pkg!*Backpulver*
+!0.5{nbsp}Pkg!*Backpulver*
 
 !===
 .^| Milch komplett und Rest portionsweise zugeben, weiterrühren
@@ -4190,12 +4190,12 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!250 g!Mehl
+!250{nbsp}g!Mehl
 !0.5!*Päckchen	Trockenhefe*
 !2!*Esslöffel	Olivenöl*
 !1!*Teelöffel	getrocknete Kräuter der Provence*
-!2 Prisen!Salz
-!160 ml!*Wasser*
+!2{nbsp}Prisen!Salz
+!160{nbsp}ml!*Wasser*
 
 !===
 .^| Für den Teig alle Zutaten in eine Schüssel geben und mit den Knethaken des Handrührgerätes oder der Küchenmaschine so lange verkneten, bis sich der Teig aus der Topfschüssel löst, eventuell noch einmal vorsichtig etwas Wasser oder Mehl nachgeben.
@@ -4215,7 +4215,7 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !4!*bis 5 Esslöffel	Tomatenmark*
-!100 g!*Reibekäse*
+!100{nbsp}g!*Reibekäse*
 !0!Salz
 !0!Olivenöl
 
@@ -4244,21 +4244,21 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!100 ml!*lauwarme Milch*
-!20 g!*frische Hefe*
-!1 EL!Mehl
+!100{nbsp}ml!*lauwarme Milch*
+!20{nbsp}g!*frische Hefe*
+!1{nbsp}EL!Mehl
 
 !===
 .^| lauwarme Milch mit Hefe, Zucker und 1 EL Mehl verrühren und abgedeckt 15 Minuten stehen lassen.
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0.5 TL!*Zucker*
-!500 g!Mehl Type 405 oder 550
-!11 g!Salz
-!200 ml!*Creme Fraiche*
+!0.5{nbsp}TL!*Zucker*
+!500{nbsp}g!Mehl Type 405 oder 550
+!11{nbsp}g!Salz
+!200{nbsp}ml!*Creme Fraiche*
 !2!Eier
-!170 g!*geraspelter Käse z.B. Gouda*
+!170{nbsp}g!*geraspelter Käse z.B. Gouda*
 
 !===
 .^| in die Schüssel der Küchenmaschine geben, die aufgelöste Hefe zugeben und alles mit der Küchenmaschine verkneten.
@@ -4283,8 +4283,8 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!3 EL!Milch
-!80 g!*geraspelter Käse z.B. Gouda*
+!3{nbsp}EL!Milch
+!80{nbsp}g!*geraspelter Käse z.B. Gouda*
 
 !===
 .^| Die Teiglinge mit Milch bestreichen und geraspelten Käse bestreuen, anschließend in den vorgeheizten Backofen geben und 25-30 Minuten je nach Backofen backen. Der Käse sollte leicht gebräunt sein.
@@ -4328,7 +4328,7 @@ Portionen: 15, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!Ei
-!1 TL!*Vanilleextrakt*
+!1{nbsp}TL!*Vanilleextrakt*
 
 !===
 .^| einrühren
@@ -4342,7 +4342,7 @@ Portionen: 15, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!40 g!*Schokodrops*
+!40{nbsp}g!*Schokodrops*
 
 !===
 .^| zugeben, kurz verkneten. 15 Cookies formen (ein leicht gehäufter EL pro Portion)
@@ -4371,15 +4371,15 @@ Portionen: 6, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !280g!Mehl
-!1.5 TL!*Stärke*
-!1 TL!*Natron*
-!0.5 TL!Salz
+!1.5{nbsp}TL!*Stärke*
+!1{nbsp}TL!*Natron*
+!0.5{nbsp}TL!Salz
 !170g!Butter, zimmerwarm
 !150g!*Zucker, braun*
 !100g!*Zucker, weiß*
 !1!Ei, zimmerwarm
 !1!Eigelb, zimmerwarm
-!2 TL!*Vanilleextrakt*
+!2{nbsp}TL!*Vanilleextrakt*
 !270g!*Schokodrops, groß (selber machen)*
 
 !===
@@ -4458,7 +4458,7 @@ Portionen: 16, Stichwörter:
 !150g!Butter (weich)
 !150g!*Zucker*
 !1!*Pck. Vanillezucker*
-!1 Prise!Salz
+!1{nbsp}Prise!Salz
 
 !===
 .^| rühren (Flexi-Rührer)
@@ -4533,8 +4533,8 @@ Portionen: 12, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !200g!*Zucker*
-!2 Pkg!*Vanillezucker*
-!3 EL!*Speisestärke*
+!2{nbsp}Pkg!*Vanillezucker*
+!3{nbsp}EL!*Speisestärke*
 !900g!*Frischkäse (Doppelrahmstufe)*
 
 !===
@@ -4549,7 +4549,7 @@ Portionen: 12, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1 TL!*Vanillepaste*
+!1{nbsp}TL!*Vanillepaste*
 !175g!*Sahne*
 
 !===
@@ -4583,16 +4583,16 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0 ml!Milch (3/4)
+!0{nbsp}ml!Milch (3/4)
 !0g!*Trockenhefe*
-!0 TL!*Zucker*
+!0{nbsp}TL!*Zucker*
 
 !===
 .^| in Teigschüssel geben, auflösen
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!0 ml!Milch (1/4)
+!0{nbsp}ml!Milch (1/4)
 !250g!Mehl
 !250g!Salz
 !50g!Butter (weich)
