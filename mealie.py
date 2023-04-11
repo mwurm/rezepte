@@ -4,6 +4,7 @@ import json
 import argparse
 import sys
 import io
+import re
 from PIL import Image
 import os
 from rotunicode import rudecode
@@ -95,7 +96,7 @@ if __name__ == '__main__':
 
         recipe = Recipe(
             name=data["name"],
-            recipe_yield=data["recipeYield"],
+            recipe_yield=int(re.sub(r'(\d+).*', r'\1', data["recipeYield"] if data["recipeYield"] else "0")),
             ingredients=ingredients,
             instructions=instructions
         )
@@ -111,8 +112,10 @@ if __name__ == '__main__':
             sys.stdout = f # Change the standard output to the file we created.
             
             print(recipe.name)
-            print(recipe.recipe_yield)
-            print(recipe.original_recipe_url)
+            print(f":category: TODO")
+            print(f":tags: ausprobieren")
+            print(f":yields: {recipe.recipe_yield}")
+            print(f":url: {recipe.original_recipe_url}")
             print()
             for ingr in recipe.ingredients:
                 print(ingr.note)
