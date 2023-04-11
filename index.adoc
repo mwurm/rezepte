@@ -2932,8 +2932,20 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1{nbsp}EL!*Pinienkerne # Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.*
-!250g!*Entrecôte # Fett abschneiden und fein schneiden und in Pfanne knusprig braten. Fleisch auf 1cm flachklopfen und 1min pro Seite braten (außen brau, innnen rosa).*
+!1{nbsp}EL!*Pinienkern*
+
+!===
+.^| Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Entrecôte*
+
+!===
+.^| Fett abschneiden und fein schneiden und in Pfanne knusprig braten. Fleisch auf 1cm flachklopfen und 1min pro Seite braten (außen brau, innnen rosa).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
 !2{nbsp}TL!*Pesto*
 !1!*Entrecôte-Fettstücke (opt.)*
 !1{nbsp}EL!Olivenöl
