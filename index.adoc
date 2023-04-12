@@ -290,6 +290,37 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Salat, leicht
 
 [%always]
 <<<
+[id='sec.gurkensalat_mit_schmand']
+
+indexterm:[Gurkensalat mit Schmand]
+
+=== Gurkensalat mit Schmand
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Essig*
+!1{nbsp}TL!Salz
+!1{nbsp}Bch!*Schmand*
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Salatgurke*; _gehobelt_
+!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
+
+!===
+.^| vermengen
+|===
+
+[%always]
+<<<
 [id='sec.italienischer_salat__']
 
 indexterm:[Italienischer Salat		]
@@ -327,6 +358,58 @@ Portionen: 4, Stichwörter: Low Carb
 
 !===
 .^| mit Dressing zu Salat zubereiten
+|===
+
+[%always]
+<<<
+[id='sec.karotten_staudensellerie_salat']
+
+indexterm:[Karotten-Staudensellerie-Salat]
+
+=== Karotten-Staudensellerie-Salat
+
+Portionen: 3, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6!*Karotten*; _gerieben_
+!1!*Staudensellerie*; _schälen, Scheiben_
+!0.5{nbsp}TL!Zucker
+!1{nbsp}TL!Salz
+!3{nbsp}EL!*Essig*
+!1{nbsp}EL!Öl
+!1{nbsp}Bch!*Schmand*
+
+!===
+.^| vermischen, 2h ziehen lassen
+|===
+
+[%always]
+<<<
+[id='sec.karottensalat']
+
+indexterm:[Karottensalat]
+
+=== Karottensalat
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!9!*Karotten*; _gerieben_
+!0.5{nbsp}TL!Zucker
+!1{nbsp}TL!Salz
+!4{nbsp}EL!*Essig*
+!1{nbsp}EL!Öl
+
+!===
+.^| vermischen, 2h ziehen lassen
 |===
 
 [%always]
@@ -432,6 +515,121 @@ Portionen: 0, Stichwörter: Hauptgericht, Salat
 
 [%always]
 <<<
+[id='sec.american_dressing']
+
+indexterm:[American Dressing]
+
+==== 💥American Dressing
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!60ml!*Salatmayonnaise*
+!60ml!*saure Sahne*
+!30ml!*Speisequark*
+
+!===
+.^| glatt rühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!45ml!Milch
+!45ml!*Ketchup*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!*Schnittlauch (opt.)*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!30g!*Sardellenfilets*; _gehackt_
+!1{nbsp}EL!*Parmesan*; _gerieben_
+!1{nbsp}TL!Senf
+!1!Eigelb
+!60ml!*Zitronensaft*
+!0.5{nbsp}TL!Zucker
+!1{nbsp}EL!Weißweinessig
+
+!===
+.^| mit Stabmixer pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125ml!*Sonnenblumenöl*
+
+!===
+.^| langsam zugeben und weiterpürieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+[%always]
+<<<
+[id='sec.caesar_dressing']
+
+indexterm:[Caesar Dressing]
+
+==== 💥Caesar Dressing
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!30g!*Sardellenfilets*; _gehackt_
+!1{nbsp}EL!*Parmesan*; _gerieben_
+!1{nbsp}TL!Senf
+!1!Eigelb
+!60ml!*Zitronensaft*
+!0.5{nbsp}TL!Zucker
+!1{nbsp}EL!Weißweinessig
+
+!===
+.^| mit Stabmixer pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125ml!*Sonnenblumenöl*
+
+!===
+.^| langsam zugeben und weiterpürieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+[%always]
+<<<
 [id='sec.dressing_mit_ahornsirup']
 
 indexterm:[Dressing mit Ahornsirup]
@@ -529,6 +727,37 @@ Portionen: 2, Stichwörter:
 
 [%always]
 <<<
+[id='sec.joghurt_dressing']
+
+indexterm:[Joghurt-Dressing]
+
+==== Joghurt-Dressing
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!*Joghurt*
+!1{nbsp}EL!*Zitronensaft*
+!1{nbsp}EL!Olivenöl
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Schnittlauch*; _gehackt_
+!1!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+[%always]
+<<<
 [id='sec.tahin_dressing_v1']
 
 indexterm:[Tahin-Dressing v1]
@@ -586,6 +815,49 @@ Portionen: 2, Stichwörter: ausprobieren
 
 !===
 .^| Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
+|===
+
+[%always]
+<<<
+[id='sec.thousand_islands_dressing']
+
+indexterm:[Thousand Islands Dressing]
+
+==== Thousand Islands Dressing
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _hartgekocht, würfeln_
+!1!*Schalotte*; _würfeln_
+!1!*Gewürzgurke (klein)*; _würfeln_
+!120g!*Salatmayonnaise*
+
+!===
+.^| vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5{nbsp}TL!Tomatenmark
+!2{nbsp}EL!*Ketchup*
+!1{nbsp}EL!Weißweinessig
+!2{nbsp}EL!*Gewürzgurkenwasser*
+!1{nbsp}TL!*Worcester-Soße*
+
+!===
+.^| zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Salz, Pfeffer
+!0.5{nbsp}TL!*Chiliflocken*
+
+!===
+.^| abschmecken
 |===
 
 [%always]
@@ -1988,10 +2260,53 @@ indexterm:[Croque Monsieur / Madame]
 
 === Croque Monsieur / Madame
 
-Portionen: 0, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
+Portionen: 4, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 🌡180℃ vorheizen (⎇ alternative: Toasts in Butter anbraten)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50ml!*Sahne*
+
+!===
+.^| aufkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!120g!*Appenzeller*; _gerieben_
+
+!===
+.^| mit Sahne verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!Butter # erhitzen
+!8{nbsp}Scheiben!Toast; _ungetoastet_
+!8{nbsp}Scheiben!*Emmentaler*
+!8{nbsp}Scheiben!*Kochschinken*
+
+!===
+.^| auf 4 Portionen verteilen: Appenzeller-Schmelze auf Toastscheibe verteilen. jew. zwei Emmentaler und Schinken auflegen, mit Toastscheibe schließen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Toasts mit geschmolzener Butter bestreichen und 8min? backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!Eier
+
+!===
+.^| Option "Croque Madam": Spiegelei auf Toasts legen
 |===
 
 [%always]
@@ -2924,22 +3239,55 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 
 [%always]
 <<<
-[id='sec.nizza_salat']
+[id='sec.nizza_salat_mit_lachs']
 
-indexterm:[Nizza Salat]
+indexterm:[Nizza Salat mit Lachs]
 
-=== Nizza Salat
+=== Nizza Salat mit Lachs
 
-Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro
+Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro
 
 [%noheader, cols="1a,2", grid=rows]
 |===
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
+!2!*Lachsfilets (mit Haut, à 120g)*; _geschuppt und entgrätet_
 
 !===
-.^| (5Z, S.19)
+.^| 8min über Salzwasser dämpfen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*grüne Bohnen*
+
+!===
+.^| 6min unter dem Lachs 6 min blanchieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Eier
+
+!===
+.^| 5.5 min unter dem Lachs mit den Bohnen kochen, dann vierteln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*schwarze Oliven (entsteint)*; _gehackt_
+!2{nbsp}EL!*griechischer Joghurt*
+!1{nbsp}EL!Rotweinessig
+!0!Salz, Pfeffer
+
+!===
+.^| Dressing zubereiten, mit Bohnen vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*schwarze Oliven (entsteint)*; _gehackt_
+!0!Pfeffer
+
+!===
+.^| mit Lachs und Eiervierteln auf Salat anrichten, pfeffern
 |===
 
 [%always]
@@ -4742,7 +5090,7 @@ Portionen: 2, Stichwörter:
 * <<sec.lachs_aus_der_holzplanke, Lachs aus der Holzplanke>>
 * <<sec.linsencurry_mit_spinat, Linsencurry mit Spinat>>
 * <<sec.melanzane_al_parmigiana, Melanzane al Parmigiana>>
-* <<sec.nizza_salat, Nizza Salat>>
+* <<sec.nizza_salat_mit_lachs, Nizza Salat mit Lachs>>
 * <<sec.pappa_al_pomodoro, Pappa al Pomodoro>>
 * <<sec.paprikaauflauf_mit_feta, Paprikaauflauf mit Feta>>
 * <<sec.pasta_mit_cremige_auberginensoße, Pasta mit cremige Auberginensoße>>

@@ -1,5 +1,23 @@
-Nizza Salat
-:yields: 0
+Nizza Salat mit Lachs
+:yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch;leicht; Low Carb; Büro
-# (5Z, S.19)
+:source: (5Z, S.19)
+
+2 Lachsfilets (mit Haut, à 120g); geschuppt und entgrätet
+# 8min über Salzwasser dämpfen
+300g grüne Bohnen
+# 6min unter dem Lachs 6 min blanchieren
+2 Eier
+# 5.5 min unter dem Lachs mit den Bohnen kochen, dann vierteln
+
+4 schwarze Oliven (entsteint); gehackt
+2 EL griechischer Joghurt
+1 EL Rotweinessig
+0 Salz, Pfeffer
+# Dressing zubereiten, mit Bohnen vermengen
+
+4 schwarze Oliven (entsteint); gehackt
+0 Pfeffer
+# mit Lachs und Eiervierteln auf Salat anrichten, pfeffern
+
