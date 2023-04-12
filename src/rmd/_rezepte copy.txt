@@ -1,6 +1,5 @@
 == Appetithäppchen
 
-include::rezepte/appetithäppchen/käsegebäck.adoc[]
 === Tramezzini
 ==== Lachs, Gurke, Senf-Dill-Sauce
 ==== Tomate, Mozzarelle, Pesto
@@ -18,19 +17,14 @@ include::rezepte/appetithäppchen/käsegebäck.adoc[]
 === Blumenkohlsuppe
 === Sellerie-Suppe
 === Fleischbrühe
-=== Gulaschsuppe
 
 == Salat
-=== Gurkensalat
 === Kartoffelsalat
-=== Karottensalat
-
 
 == Pasta
 include::rezepte/pasta/fettuccine_alfredo.adoc[]
 include::rezepte/pasta/lemon_tagliatelle.adoc[]
 include::rezepte/pasta/ragu_alla_bolognese.adoc[]
-include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
 === Lasagne
 
 == Fisch

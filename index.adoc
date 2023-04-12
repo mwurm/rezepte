@@ -10,7 +10,7 @@
 :toclevels: 4
 :toc-title:
 
-Stichwörter: Aufstrich; ausprobieren; Bayern; Beilage; Büro; Deutschland; Eintopf; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; Kichererbsen; Käse; Lamm; leicht; Low Carb; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; süß; Thai; TK; Ungarn; USA; vegan; vegetarisch; Wild; Österreich
+Stichwörter: Aufstrich; ausprobieren; Bayern; Beilage; Büro; Deutschland; Eintopf; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; Kichererbsen; Käse; Lamm; leicht; Low Carb; Low Meat; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; süß; Thai; TK; Ungarn; USA; vegan; vegetarisch; Wild; Österreich
 
 == Appetithäppchen
 
@@ -942,6 +942,82 @@ Portionen: 4, Stichwörter: vegetarisch
 
 [%always]
 <<<
+[id='sec.gulaschsuppe']
+
+indexterm:[Gulaschsuppe]
+
+=== Gulaschsuppe
+
+Portionen: 6, Stichwörter: TK, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!700g!*Rindergulasch*; _klein würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Zwiebeln; _würfeln_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Paprikapulver (edelsüß)
+!2{nbsp}EL!Tomatenmark
+!2{nbsp}TL!*Majoran*
+!1{nbsp}TL!Salz
+!1{nbsp}TL!*Worcestershire-Soße*
+!0.5{nbsp}TL!*Cayennepfeffer*
+!0.5{nbsp}TL!*Piment*
+!0.5{nbsp}TL!Cumin
+
+!===
+.^| zugeben, kurz weiter andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500ml!*Rotwein*
+!2{nbsp}Blätter!Lorbeer
+!1{nbsp}TL!Stärke (opt.)
+
+!===
+.^| ablöschen, einkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!*Tomaten (gehackt)*
+!900ml!*Rinderbrühe*
+
+!===
+.^| zugeben, 45min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!700g!*Kartoffeln*; _klein würfeln_
+!3!*Paprika (rot)*; _würfeln_
+!4{nbsp}Zehen!*Koblauch*; _gepresst_
+
+!===
+.^| zugeben, 45min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz
+!1{nbsp}TL!Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+[%always]
+<<<
 [id='sec.käse_lauch_hackfleisch_suppe']
 
 indexterm:[Käse-Lauch-Hackfleisch-Suppe]
@@ -1313,6 +1389,57 @@ Portionen: 2, Stichwörter: Italien, schnell
 
 !===
 .^| Modifikation: ohne Sahne, TODO
+|===
+
+[%always]
+<<<
+[id='sec.pasta_emiliana']
+
+indexterm:[Pasta emiliana]
+
+=== Pasta emiliana
+
+Portionen: 3, Stichwörter: Hauptgericht, schnell, Low Meat
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml!*Sahne*
+
+!===
+.^| ablöschen, kurz aufkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!*Kochschinken*; _feine Streifen_
+!150g!*Erbsen (TK)*
+!0!Salz, Pfeffer
+
+!===
+.^| zugeben, abschmecken, ziehen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!70g!*Parmesan*
+
+!===
+.^| einrühren, Pasta unterheben
 |===
 
 [%always]
@@ -1701,10 +1828,48 @@ indexterm:[Sahara-Chili]
 
 === Sahara-Chili
 
-Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+Portionen: 4, Stichwörter: Hauptgericht, Fleisch
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!900g!*Rinderhackfleisch*
+!2{nbsp}TL!Zwiebelpulver
+
+!===
+.^| in 1 TL Öl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!240ml!*Tomatensoße*
+!450ml!*Rinderbrühe*
+
+!===
+.^| zugeben und 30min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3{nbsp}EL!*Chilipulver*
+!0.5{nbsp}EL!Cumin
+!1{nbsp}TL!Knoblauchgranulat
+!1{nbsp}TL!*Hühnerbrühpulver*
+!0.5{nbsp}TL!Salz
+!0.5{nbsp}TL!*Cayennepfeffer*
+!0.5{nbsp}TL!Pfeffer
+
+!===
+.^| zugeben und 1h köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!*Chilipulver*
+!0.5{nbsp}EL!Cumin
+!1{nbsp}TL!Paprikapulver
+
+!===
+.^| zugeben und 30min köcheln
 |===
 
 == Aufläufe
@@ -2574,20 +2739,6 @@ indexterm:[Pasta Bolognese]
 === Pasta Bolognese
 
 Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle, Büro, TK
-
-[%noheader, cols="1a,2", grid=rows]
-|===
-|===
-
-[%always]
-<<<
-[id='sec.pasta_emiliana']
-
-indexterm:[Pasta emiliana]
-
-=== Pasta emiliana
-
-Portionen: 0, Stichwörter: Hauptgericht, schnell
 
 [%noheader, cols="1a,2", grid=rows]
 |===
