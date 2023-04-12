@@ -1274,6 +1274,168 @@ Portionen: 8, Stichwörter:
 
 [%always]
 <<<
+[id='sec.cacio_e_pepe']
+
+indexterm:[Cacio e pepe]
+
+=== Cacio e pepe
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Spaghetti*
+
+!===
+.^| kochen (mit halb soviel Wasser als üblich)^1^.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!8{nbsp}EL!*Pecorino*; _gerieben_
+!1{nbsp}TL!Pfeffer; _grob gemahlen_
+
+!===
+.^| in Schüssel vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Spaghetti direkt aus dem Topf in den Pecorino geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4{nbsp}EL!*Nudelwasser*
+
+!===
+.^| portionsweise zugeben und zu cremiger Soße vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
+|===
+
+[%always]
+<<<
+[id='sec.fettucine_alfredo']
+
+indexterm:[Fettucine Alfredo]
+
+=== Fettucine Alfredo
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Fettucine*
+
+!===
+.^| kochen (mit halb soviel Wasser als üblich)^1^.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nudelwasser abgießen, aber einen Teil behalten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta für den nächsten Schritt wieder in den noch heißen Topf geben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!40g!Butter
+!80ml!*Nudelwasser*
+!60g!*Parmesan*
+
+!===
+.^| Jeweils die Hälfte von Butter, Nudelwasser und Parmesan in die Pasta geben und zu cremiger Konsistenz verrühren. Dann wiederholen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Pfeffer servieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
+|===
+
+[%always]
+<<<
+[id='sec.lemon_tagliatelle']
+
+indexterm:[Lemon Tagliatelle]
+
+=== Lemon Tagliatelle
+
+Portionen: 2, Stichwörter: Italien, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Tagliatelle*
+
+!===
+.^| kochen, Nudelwasser behalten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}Zehen!Knoblauch; _Scheiben_
+!1{nbsp}TL!*Chili*; _gehackt_
+
+!===
+.^| in Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml!*Nudelwasser*
+!50g!Butter 
+
+!===
+.^| zugeben, auch die Nudeln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Zitrone*; _Saft_
+!1{nbsp}EL!*Petersilie*; _gehackt_
+!4{nbsp}EL!*Parmesan*
+
+!===
+.^| zugeben und verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Zitronenschale*; _Abrieb_
+!1{nbsp}EL!*Parmesan*
+
+!===
+.^| pro Teller: mit fertigen Nudeln servieren
+|===
+
+[%always]
+<<<
 [id='sec.pasta_alfredo']
 
 indexterm:[Pasta Alfredo]
@@ -1389,6 +1551,59 @@ Portionen: 2, Stichwörter: Italien, schnell
 
 !===
 .^| Modifikation: ohne Sahne, TODO
+|===
+
+[%always]
+<<<
+[id='sec.pasta_alla_carbonara__klassisch']
+
+indexterm:[Pasta alla Carbonara, klassisch]
+indexterm:[Pasta, alla Carbonara klassisch]
+indexterm:[ Carbonara klassisch]
+
+=== Pasta alla Carbonara, klassisch
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}g!*Bauchspeck^1^*; _feine Streifen_
+
+!===
+.^| langsam anbraten. ^1^ Originalrezept: Pacetta / Guanciale
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Eier
+!1!Eigelb
+!40g!*Parmesan*
+
+!===
+.^| verquirlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!*Parmesan*
+!0!Pfeffer
+
+!===
+.^| bestreuen, servieren
 |===
 
 [%always]
@@ -1604,6 +1819,213 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, TK, Mikrowelle,B�
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+|===
+
+[%always]
+<<<
+[id='sec.pici_nudeln']
+
+indexterm:[Pici-Nudeln]
+
+=== 💥Pici-Nudeln
+
+Portionen: 4, Stichwörter: Italien, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Hartweizengrieß*
+!150ml!Wasser
+!50ml!Olivenöl
+
+!===
+.^| aus Grieß Mulde bilden, zu Teig vermengen, kneten, 30min ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig 5mm hoch ausrollen, zusammenklappen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1cm breite Streifen schneiden
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| per Hand zu Pici-Nudeln zu 30cm Länge ausrollen
+|===
+
+[%always]
+<<<
+[id='sec.ragù_alla_bolognese']
+
+indexterm:[Ragù alla Bolognese]
+indexterm:[Bolognese]
+
+=== Ragù alla Bolognese
+
+Portionen: 4, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Pancetta*; _klein hacken_
+
+!===
+.^| in 2 EL Öl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Selleriestange*; _fein gehackt_
+
+!===
+.^| zugeben, 5min anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Karotten*; _fein gehackt_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Hackfleisch (gemischt)*
+
+!===
+.^| zugeben, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Tomatenmark
+!100ml!Wasser, warm
+
+!===
+.^| Mark und Wasser verrühren und zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50ml!Milch
+
+!===
+.^| zugeben, 2h köcheln
+|===
+
+[%always]
+<<<
+[id='sec.ricotta_dumplings']
+
+indexterm:[Ricotta Dumplings]
+
+=== 💥Ricotta Dumplings
+
+Portionen: 2, Stichwörter: Italien, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!220g!*Ricotta*
+!3!Eigelb
+!20g!*Parmesan*; _gerieben_
+!0!Muskat, Salz, Pfeffer
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Mehl
+
+!===
+.^| zugeben, kneten. Zu kleinen Würsten rollen, Dumplings ausschneiden
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 3-4min kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| servieren mit: Tomatensoße + Basilikum
+|===
+
+[%always]
+<<<
+[id='sec.salsa_etrusca']
+
+indexterm:[Salsa Etrusca]
+
+=== 💥Salsa Etrusca
+
+Portionen: 4, Stichwörter: Italien, schnell, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _hartgekocht_
+!80g!*Pecorino*
+!120g!*getrocknete Tomaten (in Öl)*
+!60g!*schwarze Oliven (entsteint)*
+!30g!*Petersilie*
+!2{nbsp}Zehen!Knoblauch
+!1!*Chilischote*
+
+!===
+.^| zerkleinern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!180ml!Olivenöl
+
+!===
+.^| portionsweise zugeben und weiter zerkleinern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| passt zu:
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * Pasta (Salsa mit Nudelwasser strecken)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * Crostini
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * rohes Gemüse
 |===
 
 [%always]

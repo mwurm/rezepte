@@ -22,9 +22,6 @@
 === Kartoffelsalat
 
 == Pasta
-include::rezepte/pasta/fettuccine_alfredo.adoc[]
-include::rezepte/pasta/lemon_tagliatelle.adoc[]
-include::rezepte/pasta/ragu_alla_bolognese.adoc[]
 === Lasagne
 
 == Fisch
