@@ -1,19 +1,5 @@
 
 cat <<EOF > src/rmd/salatdressings.rmd
-Salatdressings
-:yields: 2
-:category: Salate
-:source: diverse
-
-Öl und Essig
-2 EL Essig, 6 EL Öl, Salz, Pfeffer
-Vinaigrette
-1/4 Zwiebel ( gewürfelt) verrühren
-2 EL Weißweinessig
-1/4 TL Senf, mittelscharf
-Salz, Zucker, Pfeffer
-3 EL Öl zugeben, verrühren, 10 m ziehen lassen
-# Mod: + Petersilie / + Rosmarin / + Knoblauch / + 1 EL Preiselbeeren / statt Zucker: Honig, Ahornsirup
 
 EOF
 

@@ -527,6 +527,95 @@ Portionen: 2, Stichwörter:
 .^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
 |===
 
+[%always]
+<<<
+[id='sec.tahin_dressing_v1']
+
+indexterm:[Tahin-Dressing v1]
+
+==== 💥Tahin-Dressing v1
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.tahin_dressing_v2']
+
+indexterm:[Tahin-Dressing v2]
+
+==== 💥Tahin-Dressing v2
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.tahin_dressing_v3']
+
+indexterm:[Tahin-Dressing v3]
+
+==== 💥Tahin-Dressing v3
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!60g!*Tahin*
+!30ml!*Zitronensaft*
+!10ml!Ahornsirup
+!5ml!*Dijon-Senf*
+!1{nbsp}Zehe!Knoblauch; _zerdrückt_
+!0.5{nbsp}TL!Salz
+!40ml!Wasser
+
+!===
+.^| 
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
+|===
+
+[%always]
+<<<
+[id='sec.vinaigrette']
+
+indexterm:[Vinaigrette]
+
+==== Vinaigrette
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+[%always]
+<<<
+[id='sec.öl_essig_dressing']
+
+indexterm:[Öl-Essig-Dressing]
+
+==== Öl-Essig-Dressing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
 == Suppen
 
 [%always]
