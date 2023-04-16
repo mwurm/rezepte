@@ -158,6 +158,8 @@ class Recipe:
         # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
         self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
         self.tags = () if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]
+        self.url = None if 'url' not in attributes else attributes['url'] 
+        self.source = None if 'source' not in attributes else attributes['source'] 
         self.instructions_with_ingredients = instructions_with_ingredients
 
     def to_id(self):
@@ -222,7 +224,7 @@ class Cookbook:
 
         recipes_dict = {"recipes": [], "basic_ingredients_regexes" : basic_ingredients_regexes}
         for recipe in self.recipes:
-            recipe_dict = {"name": recipe.name, "id": recipe.to_id(), "category" : recipe.category, "ingredients": [], "tags": recipe.tags}
+            recipe_dict = {"name": recipe.name, "id": recipe.to_id(), "category" : recipe.category, "ingredients": [], "tags": recipe.tags, "url": recipe.url, "source": recipe.source}
             for iwi in recipe.instructions_with_ingredients:
                 for ing in iwi.ingredients:
                     recipe_dict["ingredients"].append(ing.__dict__)
