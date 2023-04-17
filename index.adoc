@@ -2212,13 +2212,52 @@ indexterm:[Linsencurry mit Spinat]
 
 === Linsencurry mit Spinat
 
-Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel
+!1{nbsp}Zehe!Knoblauch
+!1{nbsp}Stk!*Ingwer, daumengroß*
+!1{nbsp}Bd!*Koriander (Stiele)*
+!1!*rote Paprika*
+
+!===
+.^| pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Curry*
+!1{nbsp}TL!Senfsamen
+
+!===
+.^| in Öl andünsten, Gemüsepürree zugeben und 1min andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*rote Linsen*
+!200g!*Kokosmilch, fettarm*
+!350ml!Wasser; _kochend_
+
+!===
+.^| zugeben, 5min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Blattspinat (TK)*
+
+!===
+.^| zugeben, 5min köcheln
 |===
 
-None
+Beilagen:
+* Naan-Broot
+* Joghurt
+
+
 [%always]
 <<<
 [id='sec.pappa_al_pomodoro']
@@ -5809,7 +5848,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1!Zwiebel; _würfeln_
-!1{nbsp}Zehe!*Knoblach*; _gehackt_
+!1{nbsp}Zehe!Knoblauch; _gehackt_
 
 !===
 .^| in Öl andünsten

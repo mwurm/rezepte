@@ -1,4 +1,26 @@
 Linsencurry mit Spinat
-:yields: 0
+:yields: 2
 :category: Eintöpfe
 :tags: Hauptgericht;vegetarisch;leicht;Low Carb;Mikrowelle;Büro
+1 Zwiebel
+1 Zehe Knoblauch
+1 Stk Ingwer, daumengroß
+1 Bd Koriander (Stiele)
+1 rote Paprika
+# pürieren
+
+1 TL Curry
+1 TL Senfsamen
+# in Öl andünsten, Gemüsepürree zugeben und 1min andünsten
+
+150g rote Linsen
+200g Kokosmilch, fettarm
+350ml Wasser; kochend
+# zugeben, 5min köcheln
+
+100g Blattspinat (TK)
+# zugeben, 5min köcheln
+---
+Beilagen:
+* Naan-Broot
+* Joghurt

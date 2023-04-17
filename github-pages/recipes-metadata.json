@@ -2874,7 +2874,74 @@
             "name": "Linsencurry mit Spinat",
             "id": "linsencurry_mit_spinat",
             "category": "Eint\u00f6pfe",
-            "ingredients": [],
+            "ingredients": [
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zwiebel",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Zehe",
+                    "ingredient_name": "Knoblauch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Stk",
+                    "ingredient_name": "Ingwer, daumengro\u00df",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Bd",
+                    "ingredient_name": "Koriander (Stiele)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "rote Paprika",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Curry",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Senfsamen",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 150.0,
+                    "unit": "g",
+                    "ingredient_name": "rote Linsen",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 200.0,
+                    "unit": "g",
+                    "ingredient_name": "Kokosmilch, fettarm",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 350.0,
+                    "unit": "ml",
+                    "ingredient_name": "Wasser",
+                    "preparation_notes": "kochend"
+                },
+                {
+                    "amount": 100.0,
+                    "unit": "g",
+                    "ingredient_name": "Blattspinat (TK)",
+                    "preparation_notes": null
+                }
+            ],
             "tags": [
                 "Hauptgericht",
                 "vegetarisch",
@@ -5864,7 +5931,7 @@
                 {
                     "amount": 1.0,
                     "unit": " Zehe",
-                    "ingredient_name": "Knoblach",
+                    "ingredient_name": "Knoblauch",
                     "preparation_notes": "gehackt"
                 },
                 {
