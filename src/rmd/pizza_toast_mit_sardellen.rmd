@@ -13,7 +13,7 @@ Pizza-Toast mit Sardellen
 12 Sardellenfilets (in Öl)
 100g Oliven (schwarz); halbieren
 1/4 Zitrone (Saft)
-1 Salz, Pfeffer
+^0 Salz, Pfeffer
 # Toast belegen, 5min überbacken
 
 18 Blätter Basilikum

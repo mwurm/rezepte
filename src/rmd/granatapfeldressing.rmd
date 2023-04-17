@@ -10,7 +10,7 @@ Granatapfeldressing
 15ml Senf, mittelscharf
 15ml Ahornsirup
 3 EL Öl
-1 Salz, Pfeffer
+^0 Salz, Pfeffer
 # verrühen (mit Granatapfelsaft)
 # servieren: Kerne später auf Salat geben
 # Mod: + Petersilie / + Rosmarin / Honig statt Zucker

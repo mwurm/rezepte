@@ -9,7 +9,7 @@ Obazda
 200g Frischkäse
 4 EL Paprikapulver
 1 EL Kümmel (gemahlen)
-1 Salz, Pfeffer
+^0 Salz, Pfeffer
 # zugeben, verrühren
 
 2 EL Zwiebeln; würfeln
