@@ -1,4 +1,18 @@
 Shakshuka
-:yields: 0
+:yields: 2
 :category: Vegetarisches
 :tags: Hauptgericht;vegetarisch;leicht
+
+1 Zehe Knoblauch; gehackt
+1 Zwiebel; fein gewürfelt
+3 rote Paprika; fein gewürfelt
+# anschwitzen
+
+1 Dose Tomaten (stückig)
+1 TL Salz
+1 EL Harissa-Pulver
+4 Eier
+# zugeben, 10min köcheln
+
+1 TL Pfeffer
+# pfeffern
