@@ -4126,16 +4126,64 @@ Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 None
 [%always]
 <<<
-[id='sec.asiatisches_rindfleisch_mit_gemüse']
+[id='sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons']
 
-indexterm:[Asiatisches Rindfleisch mit Gemüse]
+indexterm:[Asiatisches Rindfleisch mit Zuckerschoten und Champignons]
 
-=== Asiatisches Rindfleisch mit Gemüse
+=== Asiatisches Rindfleisch mit Zuckerschoten und Champignons
 
-Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+Portionen: 4, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6{nbsp}EL!*Sojasoße*
+!3{nbsp}EL!*Limettensaft*
+!1{nbsp}EL!*brauner Zucker*
+!1{nbsp}TL!Stärke
+!4{nbsp}EL!Wasser
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Reis*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Rinderfilet*; _schnetzeln_
+!1{nbsp}EL!*rote Currypaste*
+
+!===
+.^| in Gefrierbeutel durchkneten, dann in 2 EL Öl 4 min scharf anbraten, herausnehmen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!Zuckerschoten
+!250g!*Champignons*; _halbieren_
+!2!Knoblauchzehen; _fein hacken_
+!20g!*Ingwer*
+!0!Salz
+
+!===
+.^| in 2 EL Öl 8 min bissfest anbraten
+
+Sojamischung und Fleisch zugeben, aufkochen, salzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!80g!*Erdnüsse (geröstet, gesalzen)*; _grob hacken_
+
+!===
+.^| auf Reis und Fleisch servieren
+
+
 |===
 
 None
@@ -4246,10 +4294,36 @@ indexterm:[Shakshuka]
 
 === Shakshuka
 
-Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!1!Zwiebel; _fein gewürfelt_
+!3!*rote Paprika*; _fein gewürfelt_
+
+!===
+.^| anschwitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten (stückig)*
+!1{nbsp}TL!Salz
+!1{nbsp}EL!*Harissa-Pulver*
+!4!Eier
+
+!===
+.^| zugeben, 10min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Pfeffer
+
+!===
+.^| pfeffern
 |===
 
 None
@@ -5918,7 +5992,7 @@ None
 === leicht
 
 * <<sec.asiatische_gemüsepfanne, Asiatische Gemüsepfanne>>
-* <<sec.asiatisches_rindfleisch_mit_gemüse, Asiatisches Rindfleisch mit Gemüse>>
+* <<sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons, Asiatisches Rindfleisch mit Zuckerschoten und Champignons>>
 * <<sec.caesar_salad, Caesar Salad>>
 * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
 * <<sec.dorade_vom_grill, Dorade vom Grill>>

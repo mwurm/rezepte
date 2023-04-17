@@ -392,10 +392,95 @@
             "source": "Weight Watchers (Anne)"
         },
         {
-            "name": "Asiatisches Rindfleisch mit Gem\u00fcse",
-            "id": "asiatisches_rindfleisch_mit_gem\u00fcse",
+            "name": "Asiatisches Rindfleisch mit Zuckerschoten und Champignons",
+            "id": "asiatisches_rindfleisch_mit_zuckerschoten_und_champignons",
             "category": "Vegetarisches",
-            "ingredients": [],
+            "ingredients": [
+                {
+                    "amount": 6.0,
+                    "unit": " EL",
+                    "ingredient_name": "Sojaso\u00dfe",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 3.0,
+                    "unit": " EL",
+                    "ingredient_name": "Limettensaft",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "brauner Zucker",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "St\u00e4rke",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 4.0,
+                    "unit": " EL",
+                    "ingredient_name": "Wasser",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 250.0,
+                    "unit": "g",
+                    "ingredient_name": "Reis",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 400.0,
+                    "unit": "g",
+                    "ingredient_name": "Rinderfilet",
+                    "preparation_notes": "schnetzeln"
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "rote Currypaste",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 500.0,
+                    "unit": "g",
+                    "ingredient_name": "Zuckerschoten",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 250.0,
+                    "unit": "g",
+                    "ingredient_name": "Champignons",
+                    "preparation_notes": "halbieren"
+                },
+                {
+                    "amount": 2.0,
+                    "unit": null,
+                    "ingredient_name": "Knoblauchzehen",
+                    "preparation_notes": "fein hacken"
+                },
+                {
+                    "amount": 20.0,
+                    "unit": "g",
+                    "ingredient_name": "Ingwer",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 80.0,
+                    "unit": "g",
+                    "ingredient_name": "Erdn\u00fcsse (ger\u00f6stet, gesalzen)",
+                    "preparation_notes": "grob hacken"
+                }
+            ],
             "tags": [
                 "vegetarisch",
                 "leicht",
@@ -404,7 +489,7 @@
                 "B\u00fcro"
             ],
             "url": null,
-            "source": "EDEKA (Anne)"
+            "source": "EDEKA"
         },
         {
             "name": "Avocado-Bulgur-Salat",
@@ -2951,7 +3036,7 @@
                 "B\u00fcro"
             ],
             "url": null,
-            "source": null
+            "source": "Jamie Oliver 15-Minuten-K\u00fcche, S.240"
         },
         {
             "name": "Marillenkn\u00f6del",
@@ -5486,7 +5571,56 @@
             "name": "Shakshuka",
             "id": "shakshuka",
             "category": "Vegetarisches",
-            "ingredients": [],
+            "ingredients": [
+                {
+                    "amount": 1.0,
+                    "unit": " Zehe",
+                    "ingredient_name": "Knoblauch",
+                    "preparation_notes": "gehackt"
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zwiebel",
+                    "preparation_notes": "fein gew\u00fcrfelt"
+                },
+                {
+                    "amount": 3.0,
+                    "unit": null,
+                    "ingredient_name": "rote Paprika",
+                    "preparation_notes": "fein gew\u00fcrfelt"
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Dose",
+                    "ingredient_name": "Tomaten (st\u00fcckig)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Harissa-Pulver",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 4.0,
+                    "unit": null,
+                    "ingredient_name": "Eier",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Pfeffer",
+                    "preparation_notes": null
+                }
+            ],
             "tags": [
                 "Hauptgericht",
                 "vegetarisch",
