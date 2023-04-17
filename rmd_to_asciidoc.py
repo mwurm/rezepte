@@ -144,13 +144,17 @@ class InstructionsWithIngredients:
     def __init__(self, instructions: list[str], ingredients: list[Ingredient]):
         self.instructions = instructions
         self.ingredients = ingredients
+
+    def instructions_to_asciidoc(self) -> str:
         # Replace strings like "180°C" by "🌡180℃" using the special UTF-8 symbol ℃
-        self.instructions = re.sub(r'(\d+)\s?(°C)', r'🌡\1℃', self.instructions)
+        adoc_string = "\n\n".join(self.instructions)
+        adoc_string = re.sub(r'(\d+)\s?(°C)', r'🌡\1℃', adoc_string)
+        return adoc_string
 
 
 
 class Recipe:
-    def __init__(self, name: str, attributes: dict[str, str], instructions_with_ingredients: list[InstructionsWithIngredients]):
+    def __init__(self, name: str, attributes: dict[str, str], instructions_with_ingredients: list[InstructionsWithIngredients], asciidoc_footer: str):
         self.name = name
         self.yields = attributes['yields']
         self.category = attributes['category']
@@ -161,6 +165,7 @@ class Recipe:
         self.url = None if 'url' not in attributes else attributes['url'] 
         self.source = None if 'source' not in attributes else attributes['source'] 
         self.instructions_with_ingredients = instructions_with_ingredients
+        self.asciidoc_footer = asciidoc_footer
 
     def to_id(self):
         return rudecode(to_snake_case(self.name))
@@ -205,10 +210,11 @@ Portionen: {self.yields}, Stichwörter: {', '.join(self.tags)}
                 out_str += f"{ingr.to_asciidoc_nested_table_row()}\n"
             out_str += f"""
 !===
-.^| {instr_with_ingr.instructions}
+.^| {instr_with_ingr.instructions_to_asciidoc()}
 """
-        out_str += """|===
+        out_str += f"""|===
 
+{self.asciidoc_footer}
 """
         return out_str
 
@@ -302,23 +308,35 @@ def parse_recipe(input_str):
     name = lines[0]
     attributes = {}
     ingredients = []
-    instructions_with_ingredients = []
+    instructions_with_ingredients : list[InstructionsWithIngredients] = []
+    asciidoc_footer = None
+    read_asciidoc_footer = False
     for line in lines[1:]:
-        if line.startswith("#"):
-            instructions = line[1:].strip()
-            instructions_with_ingredients.append(InstructionsWithIngredients(instructions, ingredients))
-            ingredients = []
-        elif line.startswith(":"):
-            # attributes :yields: 4
-            split_line = line.split(":")
-            attributes[split_line[1].strip()] = split_line[2].strip()
-        elif line:
-            #parts = line.split(";")
-            #quantity, ingredient = parts[0], ";".join(parts[1:])
-            #ingredients.append((quantity.strip(), ingredient.strip()))
-            ingredients.append(ingredient_factory.get_ingredient(line))
+        if not read_asciidoc_footer:
+            if line.startswith("#"):
+                instructions_with_ingredients.append(InstructionsWithIngredients([line[1:].strip()], ingredients))
+                ingredients = []
+            elif line.startswith("  ") and len(instructions_with_ingredients) > 0:
+                instructions_with_ingredients[-1].instructions.append(line[2:].strip())
+                ingredients = []
+            elif line.startswith(":"):
+                # attributes :yields: 4
+                split_line = line.split(":")
+                attributes[split_line[1].strip()] = split_line[2].strip()
+            elif line.startswith("---"):
+                read_asciidoc_footer = True
+                asciidoc_footer = ""
+            elif line:
+                #parts = line.split(";")
+                #quantity, ingredient = parts[0], ";".join(parts[1:])
+                #ingredients.append((quantity.strip(), ingredient.strip()))
+                ingredients.append(ingredient_factory.get_ingredient(line))
+        else:
+            asciidoc_footer += f"{line}\n"
+
+
     
-    return Recipe(name, attributes, instructions_with_ingredients)
+    return Recipe(name, attributes, instructions_with_ingredients, asciidoc_footer)
 
 
 

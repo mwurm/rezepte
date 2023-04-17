@@ -392,8 +392,8 @@
             "source": "Weight Watchers (Anne)"
         },
         {
-            "name": "Asiatisches Rindfleisch mit Gem\u00fc\u00dfe",
-            "id": "asiatisches_rindfleisch_mit_gem\u00fc\u00dfe",
+            "name": "Asiatisches Rindfleisch mit Gem\u00fcse",
+            "id": "asiatisches_rindfleisch_mit_gem\u00fcse",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -5182,6 +5182,46 @@
             "tags": [],
             "url": null,
             "source": "https"
+        },
+        {
+            "name": "Schokoladenmousse",
+            "id": "schokoladenmousse",
+            "category": "Desserts",
+            "ingredients": [
+                {
+                    "amount": 90.0,
+                    "unit": "g",
+                    "ingredient_name": "Kuvert\u00fcre^1^",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 45.0,
+                    "unit": "g",
+                    "ingredient_name": "Sahne",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 3.0,
+                    "unit": null,
+                    "ingredient_name": "Eigelb",
+                    "preparation_notes": "zimmerwarm"
+                },
+                {
+                    "amount": 3.0,
+                    "unit": null,
+                    "ingredient_name": "Eiklar",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 30.0,
+                    "unit": "g",
+                    "ingredient_name": "Zucker",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [],
+            "url": "https",
+            "source": "YouTube, frenchapprentice"
         },
         {
             "name": "Schokoladenpudding",
