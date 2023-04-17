@@ -9,5 +9,5 @@ Joghurt-Dressing
 # verrühren
 
 1 EL Schnittlauch; gehackt
-^0 Salz, Pfeffer
+0 Salz, Pfeffer
 # abschmecken

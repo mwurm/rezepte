@@ -17,6 +17,6 @@ Tomatenreis
 150ml Milch
 # Portionsweise mit Milch ablöschen und eindicken.
 1 TL Paprikapulver
-^0 Salz, Pfeffer
+0 Salz, Pfeffer
 # Würzen. Reis unterheben.
 

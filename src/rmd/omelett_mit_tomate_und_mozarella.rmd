@@ -7,7 +7,7 @@ Omelett mit Tomate und Mozarella
 350g Tomaten (bunte); in dünnen Scheiben
 1 EL Olivenöl
 1 EL Rotweinessig
-^0 Salz, Pfeffer
+0 Salz, Pfeffer
 # auf Teller anrichten und anmachen.
 4 Eier; verquirlt
 # in Pfanne erhitzen und umrühren, bis cremig
