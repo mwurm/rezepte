@@ -10,7 +10,7 @@ Italienischer Salat
 1 Bch Crème légère
 2 EL Mayonnaise
 1 Bch Sahne
-1 Pfeffer
+^0 Pfeffer
 # zu Dressing verrühren
 
 1 Kopfsalat

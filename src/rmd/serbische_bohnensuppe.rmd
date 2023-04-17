@@ -16,7 +16,7 @@ Serbische Bohnensuppe
 2 TL Bohnenkraut
 1 EL Paprikapulver
 1 TL Paprikapulver (scharf)
-1 Pfeffer, Salz
+^0 Pfeffer, Salz
 2l Wasser
 # würzen, Wasser zugeben, 1h köcheln
 
