@@ -170,7 +170,7 @@ Portionen: 6, Stichwörter:
 !12!*Sardellenfilets (in Öl)*
 !100g!*Oliven (schwarz)*; _halbieren_
 !0.25!*Zitrone (Saft)*
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| Toast belegen, 5min überbacken
@@ -350,7 +350,7 @@ Portionen: 4, Stichwörter: Low Carb
 !1{nbsp}Bch!*Crème légère*
 !2{nbsp}EL!*Mayonnaise*
 !1{nbsp}Bch!*Sahne*
-!1!Pfeffer
+!0!Pfeffer
 
 !===
 .^| zu Dressing verrühren
@@ -727,7 +727,7 @@ Portionen: 2, Stichwörter:
 !15ml!Senf, mittelscharf
 !15ml!Ahornsirup
 !3{nbsp}EL!Öl
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| verrühen (mit Granatapfelsaft)
@@ -771,7 +771,7 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}EL!*Schnittlauch*; _gehackt_
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| abschmecken
@@ -878,7 +878,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 !0.5{nbsp}TL!*Chiliflocken*
 
 !===
@@ -1076,7 +1076,7 @@ Portionen: 3, Stichwörter:
 !200g!*Schmelzkäse*
 !0.5{nbsp}Bch!*Creme Fraiche*
 !1{nbsp}Pr!Muskat
-!1!Salz und Pfeffer
+!0!Salz und Pfeffer
 
 !===
 .^| Wasche den Lauch und schneide ihn in schmale Ringe schneiden. Erhitze das Öl im Topf und brate das Hackfleisch darin heiß an bis es krümelig ist.
@@ -1297,7 +1297,7 @@ Portionen: 8, Stichwörter:
 !2{nbsp}TL!*Bohnenkraut*
 !1{nbsp}EL!Paprikapulver
 !1{nbsp}TL!Paprikapulver (scharf)
-!1!Pfeffer, Salz
+!0!Pfeffer, Salz
 !2l!Wasser
 
 !===
@@ -2313,7 +2313,7 @@ Portionen: 4, Stichwörter:
 !===
 !1!Lorbeerblatt
 !1{nbsp}EL!*Majoran*
-!1!Salz + Pfeffer
+!0!Salz + Pfeffer
 
 !===
 .^| zugeben, 30min schmoren
@@ -2751,7 +2751,7 @@ Portionen: 4, Stichwörter:
 !===
 !1.5l!Brühe
 !4{nbsp}EL!*Parmesan*
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| nach und nach zuzugeben, ca. 20m garen
@@ -4235,7 +4235,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 !350g!*Tomaten (bunte)*; _in dünnen Scheiben_
 !1{nbsp}EL!Olivenöl
 !1{nbsp}EL!Rotweinessig
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| auf Teller anrichten und anmachen.
@@ -5588,7 +5588,7 @@ Portionen: 4, Stichwörter: Aufstrich
 !100g!*Kochschinken*; _fein gewürfelt_
 !2!*Gewürzgurken*; _fein gewürfelt_
 !1{nbsp}Bd!*Schnittlauch*; _geschnitten_
-!1!Salz, Pfeffer, Fondor
+!0!Salz, Pfeffer, Fondor
 
 !===
 .^| zugeben und verrühren
@@ -5691,7 +5691,7 @@ Portionen: 8, Stichwörter:
 !200g!*Frischkäse*
 !4{nbsp}EL!Paprikapulver
 !1{nbsp}EL!*Kümmel (gemahlen)*
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| zugeben, verrühren
@@ -5946,7 +5946,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}TL!Paprikapulver
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 
 !===
 .^| Würzen. Reis unterheben.
@@ -5979,7 +5979,7 @@ Portionen: 2, Stichwörter:
 !1!Knoblauchzehe (gepresst)
 !0.5{nbsp}TL!*Zitronenabrieb*
 !2{nbsp}TL!Olivenöl
-!1!Salz, Pfeffer
+!0!Salz, Pfeffer
 !1!*Dill / Minze (optional)*
 
 !===

@@ -1483,7 +1483,7 @@
                     "preparation_notes": "geschnitten"
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer, Fondor",
                     "preparation_notes": null
@@ -1531,7 +1531,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -1998,7 +1998,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Pfeffer",
                     "preparation_notes": null
@@ -2088,7 +2088,7 @@
                     "preparation_notes": "gehackt"
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -2461,7 +2461,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz und Pfeffer",
                     "preparation_notes": null
@@ -3551,7 +3551,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -3643,7 +3643,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -4248,7 +4248,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz + Pfeffer",
                     "preparation_notes": null
@@ -4336,7 +4336,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -4774,7 +4774,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -5551,7 +5551,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Pfeffer, Salz",
                     "preparation_notes": null
@@ -5975,7 +5975,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -6099,7 +6099,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
@@ -6191,7 +6191,7 @@
                     "preparation_notes": null
                 },
                 {
-                    "amount": 1.0,
+                    "amount": 0.0,
                     "unit": null,
                     "ingredient_name": "Salz, Pfeffer",
                     "preparation_notes": null
