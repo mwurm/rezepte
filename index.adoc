@@ -664,7 +664,7 @@ Portionen: 2, Stichwörter:
 !1!Zwiebel; _gewürfelt_
 !1{nbsp}Zehe!Knoblauch; _gehackt_
 !1!*Zitrone (Saft)*
-!2{nbsp}EL!*ÖL*
+!2{nbsp}EL!ÖL
 !2{nbsp}EL!*Aceto balsamico*
 !3{nbsp}EL!Ahornsirup
 !1{nbsp}TL!Senf
@@ -691,7 +691,7 @@ Portionen: 2, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}EL!*Preiselbeeren*
-!2{nbsp}EL!*ÖL*
+!2{nbsp}EL!ÖL
 !3{nbsp}EL!*Aceto balsamico*
 !1{nbsp}TL!Senf
 !1{nbsp}TL!Salz
@@ -1022,7 +1022,7 @@ Portionen: 6, Stichwörter: TK, Mikrowelle, Büro
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !800g!*Tomaten (gehackt)*
-!900ml!*Rinderbrühe*
+!900ml!Rinderbrühe
 
 !===
 .^| zugeben, 45min köcheln
@@ -1076,7 +1076,7 @@ Portionen: 3, Stichwörter:
 !200g!*Schmelzkäse*
 !0.5{nbsp}Bch!*Creme Fraiche*
 !1{nbsp}Pr!Muskat
-!0!Salz und Pfeffer
+!0!*Salz und Pfeffer*
 
 !===
 .^| Wasche den Lauch und schneide ihn in schmale Ringe schneiden. Erhitze das Öl im Topf und brate das Hackfleisch darin heiß an bis es krümelig ist.
@@ -1172,7 +1172,7 @@ Portionen: 2, Stichwörter:
 !150g!*Maronen*
 !450ml!Wasser
 !2{nbsp}EL!*Weißwein*
-!1!Lorbeerblatt
+!1!*Lorbeerblatt*
 
 !===
 .^| zugeben, 20min köcheln
@@ -1220,7 +1220,7 @@ Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1600g!*Hähnchen*
-!1200g!Butternut-Kürbis; _würfeln_
+!1200g!*Butternut-Kürbis*; _würfeln_
 !1{nbsp}Bd!*Koriandergrün (Stiele)*; _gehackt_
 !100g!*rote Thai-Currypaste*
 !400g!*Kokosmilch (fettreduziert)*
@@ -1448,7 +1448,7 @@ Portionen: 2, Stichwörter: Italien, vegetarisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !100ml!*Nudelwasser*
-!50g!Butter 
+!50g!*Butter *
 
 !===
 .^| zugeben, auch die Nudeln
@@ -1625,7 +1625,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2!Eier
+!2!*Eier*
 !1!Eigelb
 !40g!*Parmesan*
 
@@ -2231,7 +2231,7 @@ Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowe
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !1{nbsp}TL!*Curry*
-!1{nbsp}TL!Senfsamen
+!1{nbsp}TL!*Senfsamen*
 
 !===
 .^| in Öl andünsten, Gemüsepürree zugeben und 1min andünsten
@@ -2311,9 +2311,9 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!1!Lorbeerblatt
+!1!*Lorbeerblatt*
 !1{nbsp}EL!*Majoran*
-!0!Salz + Pfeffer
+!0!*Salz + Pfeffer*
 
 !===
 .^| zugeben, 30min schmoren
@@ -2358,7 +2358,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !900g!*Rinderhackfleisch*
-!2{nbsp}TL!Zwiebelpulver
+!2{nbsp}TL!*Zwiebelpulver*
 
 !===
 .^| in 1 TL Öl anbraten
@@ -2366,7 +2366,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !240ml!*Tomatensoße*
-!450ml!*Rinderbrühe*
+!450ml!Rinderbrühe
 
 !===
 .^| zugeben und 30min köcheln
@@ -2375,7 +2375,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch
 !===
 !3{nbsp}EL!*Chilipulver*
 !0.5{nbsp}EL!Cumin
-!1{nbsp}TL!Knoblauchgranulat
+!1{nbsp}TL!*Knoblauchgranulat*
 !1{nbsp}TL!*Hühnerbrühpulver*
 !0.5{nbsp}TL!Salz
 !0.5{nbsp}TL!*Cayennepfeffer*
@@ -2992,7 +2992,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!50g!Butter # erhitzen
+!50g!*Butter # erhitzen*
 !8{nbsp}Scheiben!Toast; _ungetoastet_
 !8{nbsp}Scheiben!*Emmentaler*
 !8{nbsp}Scheiben!*Kochschinken*
@@ -3008,7 +3008,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!4!Eier
+!4!*Eier*
 
 !===
 .^| Option "Croque Madam": Spiegelei auf Toasts legen
@@ -4001,7 +4001,7 @@ Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!2!Eier
+!2!*Eier*
 
 !===
 .^| 5.5 min unter dem Lachs mit den Bohnen kochen, dann vierteln
@@ -4165,7 +4165,7 @@ Portionen: 4, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!500g!Zuckerschoten
+!500g!*Zuckerschoten*
 !250g!*Champignons*; _halbieren_
 !2!Knoblauchzehen; _fein hacken_
 !20g!*Ingwer*
@@ -4242,7 +4242,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!4!Eier; _verquirlt_
+!4!*Eier*; _verquirlt_
 
 !===
 .^| in Pfanne erhitzen und umrühren, bis cremig
@@ -4313,7 +4313,7 @@ Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht
 !1{nbsp}Dose!*Tomaten (stückig)*
 !1{nbsp}TL!Salz
 !1{nbsp}EL!*Harissa-Pulver*
-!4!Eier
+!4!*Eier*
 
 !===
 .^| zugeben, 10min köcheln
@@ -4532,7 +4532,7 @@ Portionen: 2, Stichwörter:
 !===
 !200ml!*Saft (aus Glas)*
 !1{nbsp}EL!Puderzucker
-!2{nbsp}TL!Speisestärke ^1^
+!2{nbsp}TL!*Speisestärke ^1^*
 
 !===
 .^| verrühren, eindicken.
@@ -4575,7 +4575,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!250g!Mehl .4+.^
+!250g!*Mehl .4+.^*
 !25g!Zucker
 !3.5g!Trockenhefe
 !0.5{nbsp}TL!Salz
@@ -4585,7 +4585,7 @@ Portionen: 4, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!3!Eier (M)
+!3!*Eier (M)*
 
 !===
 .^| Stück für Stück zugeben, weiter kneten bis Teig nicht mehr am Finger klebt
@@ -4691,7 +4691,7 @@ Portionen: 3, Stichwörter: ausprobieren, vegetarisch
 !250g!*Magertopfen*
 !70g!*Margarine oder Butter*
 !1{nbsp}Prise!Salz
-!5{nbsp}EL!Staubzucker zum Bestreuen
+!5{nbsp}EL!*Staubzucker zum Bestreuen*
 !6!*Marillen*
 !6!*Würfelzucker*
 !1{nbsp}EL!Butter
@@ -4854,7 +4854,7 @@ Portionen: 2, Stichwörter:
 !150g!Mehl
 !1{nbsp}Prise!Salz
 !125ml!Wasser
-!2!Eier
+!2!*Eier*
 
 !===
 .^| verrühren
@@ -4983,10 +4983,10 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !0.5{nbsp}TL!Zucker
-!500{nbsp}g!Mehl Type 405 oder 550
+!500{nbsp}g!*Mehl Type 405 oder 550*
 !11{nbsp}g!Salz
 !200{nbsp}ml!*Creme Fraiche*
-!2!Eier
+!2!*Eier*
 !170{nbsp}g!*geraspelter Käse z.B. Gouda*
 
 !===
@@ -5275,7 +5275,7 @@ Portionen: 12, Stichwörter:
 
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
-!3!Eier
+!3!*Eier*
 
 !===
 .^| nacheinander unterrühren
@@ -5396,7 +5396,7 @@ Portionen: 4, Stichwörter:
 |[%noheader, cols=">30%,70%", frame=none, grid=none]
 !===
 !300g!Mehl (405)
-!3!Eier
+!3!*Eier*
 !1{nbsp}EL!Olivenöl
 !0.5{nbsp}TL!Salz
 

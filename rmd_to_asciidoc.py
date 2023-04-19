@@ -16,6 +16,7 @@ basic_ingredients_regexes = [
     "Ei",
     "Eigelb",
     "Eiweiß",
+    "Eiklar",
     "Milch",
     "Salz",
     "Pfeffer",
@@ -42,10 +43,7 @@ basic_ingredients_regexes = [
     "Zucker",
     "Stärke",
     "Natron",
-    "Zucker, braun",
-    "Zucker (braun)",
-    "Zucker, weiß",
-    "Zucker (weiß)",
+    "Zucker",
     "Vanillezucker",
     "Vanillinzucker",
     "Puderzucker",
@@ -58,16 +56,19 @@ basic_ingredients_regexes = [
     "Estragon",
     "Oregano",
     "Lorbeer",
+    "Rinderbrühe",
     "Fleischbrühe",
     "Gemüsebrühe",
     "Hühnerbrühe",
     "Brühe"
-    
-
-    
     ]
 
-basic_ingredients_regex = "(" + ")|(".join(basic_ingredients_regexes) + ")"
+# ergänze Regex am ende mit ((\s*,.*)?(\s*\(.*\))?)*$
+# das Deckt folgende Zutatenerweiterungen ab:
+# Hefe (frisch)
+# Hefe, frisch
+# Mehl, Typ 405, Weizen
+basic_ingredients_regex = "(" + ")|(".join([f'{r}((\s*,.*)?(\s*\(.*\))?)*$' for r in basic_ingredients_regexes]) + ")"
 
 def to_snake_case(s):
     # Replace all non-alphanumeric characters with underscores
@@ -84,7 +85,7 @@ class Ingredient:
         self.preparation_notes = preparation_notes
 
     def ingredient_name_highlighted(self):
-        return self.ingredient_name if re.match(basic_ingredients_regex, self.ingredient_name) else "*" + self.ingredient_name + "*"
+        return self.ingredient_name if re.match(basic_ingredients_regex, self.ingredient_name, re.IGNORECASE) else "*" + self.ingredient_name + "*"
 
     def to_asciidoc_nested_table_row(self):
         amount_str = ""
@@ -113,7 +114,7 @@ class IngredientFactory:
         pattern = r'^({})({})?\s+({})(;({}))?$'.format(amount_pattern, unit_pattern, ingredient_pattern, preparation_notes_pattern)
         
         # Attempt to match the pattern to the ingredient string
-        match = re.match(pattern, ingredient)
+        match = re.match(pattern, ingredient, re.IGNORECASE)
         
         if match:
             # Extract the amount, unit, and ingredient from the match object
