@@ -1,7 +1,9 @@
 Ragù alla Bolognese
 :yields: 4
 :category: Pasta
-:tags: Italien;schnell
+:tags: Italien;schnell;Hauptgericht;Mikrowelle; Büro; TK
+
+
 :indexterms: Bolognese
 
 100g Pancetta; klein hacken

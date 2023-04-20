@@ -231,7 +231,7 @@ class Cookbook:
 
         recipes_dict = {"recipes": [], "basic_ingredients_regexes" : basic_ingredients_regexes}
         for recipe in self.recipes:
-            recipe_dict = {"name": recipe.name, "id": recipe.to_id(), "category" : recipe.category, "ingredients": [], "tags": recipe.tags, "url": recipe.url, "source": recipe.source}
+            recipe_dict = {"name": recipe.name, "id": recipe.to_id(), "yields": recipe.yields, "category" : recipe.category, "ingredients": [], "tags": recipe.tags, "url": recipe.url, "source": recipe.source}
             for iwi in recipe.instructions_with_ingredients:
                 for ing in iwi.ingredients:
                     recipe_dict["ingredients"].append(ing.__dict__)
