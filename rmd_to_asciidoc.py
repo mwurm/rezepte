@@ -215,7 +215,7 @@ Portionen: {self.yields}, Stichwörter: {', '.join(self.tags)}
 """
         out_str += f"""|===
 
-{self.asciidoc_footer}
+{self.asciidoc_footer if self.asciidoc_footer else ''}
 """
         return out_str
 
@@ -244,7 +244,7 @@ class Cookbook:
         if not os.path.exists(directory):
            os.makedirs(directory)
 
-        f = open(f"{directory}/{filename}", "w")
+        f = open(f"{directory}/{filename}", "w", encoding="utf-8")
 
         f.write(f""":imagesdir: images
 :lang: DE
@@ -351,9 +351,10 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
+    # args.source_files = glob.glob('src/rmd/*.rmd')
     recipes = []
     for filename in args.source_files:
-        with open(filename, 'r') as f:
+        with open(filename, 'r', encoding="utf-8") as f:
             print(f"Reading {f.name}")
             recipe = parse_recipe(f.read())
             recipes.append(recipe)
