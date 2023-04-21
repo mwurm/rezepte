@@ -1,44 +1,9 @@
 {
     "recipes": [
         {
-            "name": "Pasta all'amatriciana",
-            "id": "pasta_all_amatriciana",
-            "category": "Pasta",
-            "ingredients": [
-                {
-                    "amount": 100.0,
-                    "unit": " g",
-                    "ingredient_name": "Bauchspeck",
-                    "preparation_notes": "kleine Streifen"
-                },
-                {
-                    "amount": 50.0,
-                    "unit": " ml",
-                    "ingredient_name": "Wei\u00dfwein",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": null,
-                    "ingredient_name": "Zwiebel",
-                    "preparation_notes": "gew\u00fcrfelt"
-                },
-                {
-                    "amount": 0.75,
-                    "unit": " Dose",
-                    "ingredient_name": "Tomaten",
-                    "preparation_notes": "gehackt"
-                }
-            ],
-            "tags": [
-                "Italien"
-            ],
-            "url": null,
-            "source": null
-        },
-        {
             "name": "Pasta alla Carbonara",
             "id": "pasta_alla_carbonara",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -82,6 +47,7 @@
         {
             "name": "Pasta alla Carbonara, klassisch",
             "id": "pasta_alla_carbonara__klassisch",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -135,8 +101,46 @@
             "source": null
         },
         {
+            "name": "Pasta all'amatriciana",
+            "id": "pasta_all_amatriciana",
+            "yields": "4",
+            "category": "Pasta",
+            "ingredients": [
+                {
+                    "amount": 100.0,
+                    "unit": " g",
+                    "ingredient_name": "Bauchspeck",
+                    "preparation_notes": "kleine Streifen"
+                },
+                {
+                    "amount": 50.0,
+                    "unit": " ml",
+                    "ingredient_name": "Wei\u00dfwein",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zwiebel",
+                    "preparation_notes": "gew\u00fcrfelt"
+                },
+                {
+                    "amount": 0.75,
+                    "unit": " Dose",
+                    "ingredient_name": "Tomaten",
+                    "preparation_notes": "gehackt"
+                }
+            ],
+            "tags": [
+                "Italien"
+            ],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "American Dressing",
             "id": "american_dressing",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -251,6 +255,7 @@
         {
             "name": "Antipasti",
             "id": "antipasti",
+            "yields": "8",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -331,6 +336,7 @@
         {
             "name": "Artischockensuppe",
             "id": "artischockensuppe",
+            "yields": "4",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -377,23 +383,9 @@
             "source": null
         },
         {
-            "name": "Asiatische Gem\u00fcsepfanne",
-            "id": "asiatische_gem\u00fcsepfanne",
-            "category": "Vegetarisches",
-            "ingredients": [],
-            "tags": [
-                "vegetarisch",
-                "leicht",
-                "Low Carb",
-                "Mikrowelle",
-                "B\u00fcro"
-            ],
-            "url": null,
-            "source": "Weight Watchers (Anne)"
-        },
-        {
             "name": "Asiatisches Rindfleisch mit Zuckerschoten und Champignons",
             "id": "asiatisches_rindfleisch_mit_zuckerschoten_und_champignons",
+            "yields": "4",
             "category": "Vegetarisches",
             "ingredients": [
                 {
@@ -492,8 +484,25 @@
             "source": "EDEKA"
         },
         {
+            "name": "Asiatische Gem\u00fcsepfanne",
+            "id": "asiatische_gem\u00fcsepfanne",
+            "yields": "0",
+            "category": "Vegetarisches",
+            "ingredients": [],
+            "tags": [
+                "vegetarisch",
+                "leicht",
+                "Low Carb",
+                "Mikrowelle",
+                "B\u00fcro"
+            ],
+            "url": null,
+            "source": "Weight Watchers (Anne)"
+        },
+        {
             "name": "Avocado-Bulgur-Salat",
             "id": "avocado_bulgur_salat",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -560,6 +569,7 @@
         {
             "name": "Bayrischer Wurstsalat",
             "id": "bayrischer_wurstsalat",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -609,6 +619,7 @@
         {
             "name": "Bifteki",
             "id": "bifteki",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -621,6 +632,7 @@
         {
             "name": "Bosna-Semmel",
             "id": "bosna_semmel",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -633,6 +645,7 @@
         {
             "name": "Brauner US-Zucker",
             "id": "brauner_us_zucker",
+            "yields": "1",
             "category": "Basis",
             "ingredients": [],
             "tags": [],
@@ -642,6 +655,7 @@
         {
             "name": "Brioche",
             "id": "brioche",
+            "yields": "4",
             "category": "Mehlspeisen",
             "ingredients": [
                 {
@@ -688,6 +702,7 @@
         {
             "name": "Brotkranz mit K\u00fcrbis, Schinken, Oliven, Kr\u00e4utern",
             "id": "brotkranz_mit_k\u00fcrbis__schinken__oliven__kr\u00e4utern",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -700,6 +715,7 @@
         {
             "name": "Burger",
             "id": "burger",
+            "yields": "4",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -772,6 +788,7 @@
         {
             "name": "Cacio e pepe",
             "id": "cacio_e_pepe",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -809,6 +826,7 @@
         {
             "name": "Caesar Dressing",
             "id": "caesar_dressing",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -881,6 +899,7 @@
         {
             "name": "Caesar Salad",
             "id": "caesar_salad",
+            "yields": "0",
             "category": "Salate",
             "ingredients": [],
             "tags": [
@@ -895,6 +914,7 @@
         {
             "name": "Camembert, gebacken",
             "id": "camembert__gebacken",
+            "yields": "0",
             "category": "Ofengerichte",
             "ingredients": [],
             "tags": [
@@ -909,6 +929,7 @@
         {
             "name": "Camemburger",
             "id": "camemburger",
+            "yields": "0",
             "category": "Ofengerichte",
             "ingredients": [],
             "tags": [
@@ -922,6 +943,7 @@
         {
             "name": "Cevapcici",
             "id": "cevapcici",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -935,6 +957,7 @@
         {
             "name": "Chicken Tikka Masala",
             "id": "chicken_tikka_masala",
+            "yields": "4",
             "category": "Gefl\u00fcgel",
             "ingredients": [
                 {
@@ -1069,6 +1092,7 @@
         {
             "name": "Cole Slaw",
             "id": "cole_slaw",
+            "yields": "0",
             "category": "Beilagen",
             "ingredients": [],
             "tags": [
@@ -1082,6 +1106,7 @@
         {
             "name": "Croque Monsieur / Madame",
             "id": "croque_monsieur___madame",
+            "yields": "4",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -1136,8 +1161,22 @@
             "source": null
         },
         {
+            "name": "Currywurst",
+            "id": "currywurst",
+            "yields": "0",
+            "category": "Fleischgerichte",
+            "ingredients": [],
+            "tags": [
+                "Hauptgericht",
+                "Fleisch"
+            ],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "Curry-Mango-Garnelen",
             "id": "curry_mango_garnelen",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -1150,20 +1189,9 @@
             "source": null
         },
         {
-            "name": "Currywurst",
-            "id": "currywurst",
-            "category": "Fleischgerichte",
-            "ingredients": [],
-            "tags": [
-                "Hauptgericht",
-                "Fleisch"
-            ],
-            "url": null,
-            "source": null
-        },
-        {
             "name": "Dampfnudeln",
             "id": "dampfnudeln",
+            "yields": "0",
             "category": "Mehlspeisen",
             "ingredients": [],
             "tags": [
@@ -1176,6 +1204,7 @@
         {
             "name": "Dorade vom Grill",
             "id": "dorade_vom_grill",
+            "yields": "1",
             "category": "Fisch",
             "ingredients": [
                 {
@@ -1195,6 +1224,7 @@
         {
             "name": "Dressing mit Ahornsirup",
             "id": "dressing_mit_ahornsirup",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -1253,6 +1283,7 @@
         {
             "name": "Dressing mit Preiselbeeren",
             "id": "dressing_mit_preiselbeeren",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -1293,6 +1324,7 @@
         {
             "name": "Falafelsalat mit Tahin-Dressing",
             "id": "falafelsalat_mit_tahin_dressing",
+            "yields": "0",
             "category": "Salate",
             "ingredients": [],
             "tags": [
@@ -1307,6 +1339,7 @@
         {
             "name": "Feta vom Grill",
             "id": "feta_vom_grill",
+            "yields": "0",
             "category": "Ofengerichte",
             "ingredients": [],
             "tags": [
@@ -1321,6 +1354,7 @@
         {
             "name": "Fettucine Alfredo",
             "id": "fettucine_alfredo",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -1358,6 +1392,7 @@
         {
             "name": "Flammkuchen",
             "id": "flammkuchen",
+            "yields": "2",
             "category": "Pizza & Co.",
             "ingredients": [
                 {
@@ -1413,6 +1448,7 @@
         {
             "name": "Fleischpflanzerl",
             "id": "fleischpflanzerl",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -1425,6 +1461,7 @@
         {
             "name": "Forelle aus dem Ofen",
             "id": "forelle_aus_dem_ofen",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -1437,6 +1474,7 @@
         {
             "name": "Forelle, gebraten",
             "id": "forelle__gebraten",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -1450,6 +1488,7 @@
         {
             "name": "Frischk\u00e4se-Aufstrich",
             "id": "frischk\u00e4se_aufstrich",
+            "yields": "4",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -1498,6 +1537,7 @@
         {
             "name": "Granatapfeldressing",
             "id": "granatapfeldressing",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -1544,6 +1584,7 @@
         {
             "name": "Grie\u00dfgl\u00f6\u00dfchensuppe",
             "id": "grie\u00dfgl\u00f6\u00dfchensuppe",
+            "yields": "0",
             "category": "Beilagen",
             "ingredients": [],
             "tags": [
@@ -1555,6 +1596,7 @@
         {
             "name": "Gr\u00fcne Bohnen",
             "id": "gr\u00fcne_bohnen",
+            "yields": "0",
             "category": "Beilagen",
             "ingredients": [],
             "tags": [
@@ -1567,6 +1609,7 @@
         {
             "name": "Gulasch",
             "id": "gulasch",
+            "yields": "8",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -1642,6 +1685,7 @@
         {
             "name": "Gulaschsuppe",
             "id": "gulaschsuppe",
+            "yields": "6",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -1776,6 +1820,7 @@
         {
             "name": "Gurkensalat mit Schmand",
             "id": "gurkensalat_mit_schmand",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -1816,6 +1861,7 @@
         {
             "name": "Hackbraten",
             "id": "hackbraten",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -1828,6 +1874,7 @@
         {
             "name": "Hackfleischtaschen",
             "id": "hackfleischtaschen",
+            "yields": "4",
             "category": "Appetith\u00e4ppchen",
             "ingredients": [],
             "tags": [],
@@ -1837,6 +1884,7 @@
         {
             "name": "Halbes H\u00e4hnchen",
             "id": "halbes_h\u00e4hnchen",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -1849,6 +1897,7 @@
         {
             "name": "Halloumi-Pilz-Paprika-Spie\u00dfe",
             "id": "halloumi_pilz_paprika_spie\u00dfe",
+            "yields": "0",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -1863,6 +1912,7 @@
         {
             "name": "Harissa-H\u00e4hnchen",
             "id": "harissa_h\u00e4hnchen",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -1875,6 +1925,7 @@
         {
             "name": "Hot Dogs",
             "id": "hot_dogs",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -1887,6 +1938,7 @@
         {
             "name": "Hummus",
             "id": "hummus",
+            "yields": "2",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -1942,6 +1994,7 @@
         {
             "name": "Indischer Eintopf",
             "id": "indischer_eintopf",
+            "yields": "0",
             "category": "Eint\u00f6pfe",
             "ingredients": [],
             "tags": [
@@ -1959,6 +2012,7 @@
         {
             "name": "Italienischer Salat\t\t",
             "id": "italienischer_salat__",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -2061,6 +2115,7 @@
         {
             "name": "Joghurt-Dressing",
             "id": "joghurt_dressing",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -2101,6 +2156,7 @@
         {
             "name": "Kaiserschmarrn",
             "id": "kaiserschmarrn",
+            "yields": "0",
             "category": "Mehlspeisen",
             "ingredients": [],
             "tags": [
@@ -2112,8 +2168,50 @@
             "source": null
         },
         {
+            "name": "Karottensalat",
+            "id": "karottensalat",
+            "yields": "4",
+            "category": "Salate",
+            "ingredients": [
+                {
+                    "amount": 9.0,
+                    "unit": null,
+                    "ingredient_name": "Karotten",
+                    "preparation_notes": "gerieben"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": " TL",
+                    "ingredient_name": "Zucker",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 4.0,
+                    "unit": " EL",
+                    "ingredient_name": "Essig",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "\u00d6l",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "Karotten-Staudensellerie-Salat",
             "id": "karotten_staudensellerie_salat",
+            "yields": "3",
             "category": "Salate",
             "ingredients": [
                 {
@@ -2164,48 +2262,23 @@
             "source": null
         },
         {
-            "name": "Karottensalat",
-            "id": "karottensalat",
-            "category": "Salate",
-            "ingredients": [
-                {
-                    "amount": 9.0,
-                    "unit": null,
-                    "ingredient_name": "Karotten",
-                    "preparation_notes": "gerieben"
-                },
-                {
-                    "amount": 0.5,
-                    "unit": " TL",
-                    "ingredient_name": "Zucker",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " TL",
-                    "ingredient_name": "Salz",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 4.0,
-                    "unit": " EL",
-                    "ingredient_name": "Essig",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " EL",
-                    "ingredient_name": "\u00d6l",
-                    "preparation_notes": null
-                }
+            "name": "Kartoffelgratin",
+            "id": "kartoffelgratin",
+            "yields": "0",
+            "category": "Aufl\u00e4ufe",
+            "ingredients": [],
+            "tags": [
+                "Hauptgericht",
+                "K\u00e4se",
+                "vegetarisch"
             ],
-            "tags": [],
             "url": null,
             "source": null
         },
         {
             "name": "Kartoffel-Curry",
             "id": "kartoffel_curry",
+            "yields": "0",
             "category": "Aufl\u00e4ufe",
             "ingredients": [
                 {
@@ -2320,21 +2393,9 @@
             "source": null
         },
         {
-            "name": "Kartoffelgratin",
-            "id": "kartoffelgratin",
-            "category": "Aufl\u00e4ufe",
-            "ingredients": [],
-            "tags": [
-                "Hauptgericht",
-                "K\u00e4se",
-                "vegetarisch"
-            ],
-            "url": null,
-            "source": null
-        },
-        {
             "name": "Kichererbsen-Curry",
             "id": "kichererbsen_curry",
+            "yields": "0",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -2350,6 +2411,7 @@
         {
             "name": "Knuspriges Erdnussh\u00e4hnchen",
             "id": "knuspriges_erdnussh\u00e4hnchen",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -2362,6 +2424,7 @@
         {
             "name": "Kohlrabi-Carpaccio",
             "id": "kohlrabi_carpaccio",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -2404,6 +2467,7 @@
         {
             "name": "K\u00e4se-Lauch-Hackfleisch-Suppe",
             "id": "k\u00e4se_lauch_hackfleisch_suppe",
+            "yields": "3",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -2474,6 +2538,7 @@
         {
             "name": "K\u00e4segeb\u00e4ck",
             "id": "k\u00e4segeb\u00e4ck",
+            "yields": "12",
             "category": "Appetith\u00e4ppchen",
             "ingredients": [
                 {
@@ -2526,6 +2591,7 @@
         {
             "name": "K\u00e4sesp\u00e4tzle",
             "id": "k\u00e4sesp\u00e4tzle",
+            "yields": "0",
             "category": "Aufl\u00e4ufe",
             "ingredients": [],
             "tags": [
@@ -2540,6 +2606,7 @@
         {
             "name": "K\u00fcrbischaos",
             "id": "k\u00fcrbischaos",
+            "yields": "4",
             "category": "Aufl\u00e4ufe",
             "ingredients": [
                 {
@@ -2626,6 +2693,7 @@
         {
             "name": "K\u00fcrbispizza mit Pfifferlingen",
             "id": "k\u00fcrbispizza_mit_pfifferlingen",
+            "yields": "4",
             "category": "Pizza & Co.",
             "ingredients": [
                 {
@@ -2690,6 +2758,7 @@
         {
             "name": "K\u00fcrbissuppe",
             "id": "k\u00fcrbissuppe",
+            "yields": "6",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -2736,6 +2805,7 @@
         {
             "name": "Lachs auf Bohnengem\u00fcse",
             "id": "lachs_auf_bohnengem\u00fcse",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -2749,6 +2819,7 @@
         {
             "name": "Lachs aus der Holzplanke",
             "id": "lachs_aus_der_holzplanke",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -2762,6 +2833,7 @@
         {
             "name": "Lachs mit Chorizo",
             "id": "lachs_mit_chorizo",
+            "yields": "4",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -2769,11 +2841,12 @@
                 "Fisch"
             ],
             "url": null,
-            "source": null
+            "source": "Jamie Oliver 5 Zutaten, S. 125"
         },
         {
             "name": "Lammlachse mit Zitronenkruste",
             "id": "lammlachse_mit_zitronenkruste",
+            "yields": "4",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -2860,6 +2933,7 @@
         {
             "name": "Lasagne",
             "id": "lasagne",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -2873,6 +2947,7 @@
         {
             "name": "Leberk\u00e4s",
             "id": "leberk\u00e4s",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -2885,6 +2960,7 @@
         {
             "name": "Lemon Tagliatelle",
             "id": "lemon_tagliatelle",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -2958,6 +3034,7 @@
         {
             "name": "Linsencurry mit Spinat",
             "id": "linsencurry_mit_spinat",
+            "yields": "2",
             "category": "Eint\u00f6pfe",
             "ingredients": [
                 {
@@ -3041,6 +3118,7 @@
         {
             "name": "Marillenkn\u00f6del",
             "id": "marillenkn\u00f6del",
+            "yields": "3",
             "category": "Mehlspeisen",
             "ingredients": [
                 {
@@ -3114,6 +3192,7 @@
         {
             "name": "Maronensuppe",
             "id": "maronensuppe",
+            "yields": "2",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -3202,6 +3281,7 @@
         {
             "name": "Maultaschen",
             "id": "maultaschen",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -3213,6 +3293,7 @@
         {
             "name": "Mediterraner Nudelsalat",
             "id": "mediterraner_nudelsalat",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -3286,6 +3367,7 @@
         {
             "name": "Melanzane al Parmigiana",
             "id": "melanzane_al_parmigiana",
+            "yields": "2",
             "category": "Aufl\u00e4ufe",
             "ingredients": [
                 {
@@ -3350,6 +3432,7 @@
         {
             "name": "M\u00fcnchner Schnitzel",
             "id": "m\u00fcnchner_schnitzel",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -3363,6 +3446,7 @@
         {
             "name": "Naan",
             "id": "naan",
+            "yields": "0",
             "category": "Mehlspeisen",
             "ingredients": [],
             "tags": [],
@@ -3372,6 +3456,7 @@
         {
             "name": "New York Cheesecake",
             "id": "new_york_cheesecake",
+            "yields": "12",
             "category": "Kuchen",
             "ingredients": [
                 {
@@ -3436,6 +3521,7 @@
         {
             "name": "Nizza Salat mit Lachs",
             "id": "nizza_salat_mit_lachs",
+            "yields": "2",
             "category": "Fisch",
             "ingredients": [
                 {
@@ -3506,6 +3592,7 @@
         {
             "name": "N\u00fcrnberger Bratw\u00fcrste mit Sauerkraut",
             "id": "n\u00fcrnberger_bratw\u00fcrste_mit_sauerkraut",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -3518,6 +3605,7 @@
         {
             "name": "Obazda",
             "id": "obazda",
+            "yields": "8",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -3570,6 +3658,7 @@
         {
             "name": "Ofenkartoffeln mit Speck und Kr\u00e4uterquark / Soure Cream",
             "id": "ofenkartoffeln_mit_speck_und_kr\u00e4uterquark___soure_cream",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -3582,6 +3671,7 @@
         {
             "name": "Oliventapenade",
             "id": "oliventapenade",
+            "yields": "4",
             "category": "Appetith\u00e4ppchen",
             "ingredients": [
                 {
@@ -3622,6 +3712,7 @@
         {
             "name": "Omelett mit Tomate und Mozarella",
             "id": "omelett_mit_tomate_und_mozarella",
+            "yields": "2",
             "category": "Vegetarisches",
             "ingredients": [
                 {
@@ -3689,6 +3780,7 @@
         {
             "name": "Pancakes",
             "id": "pancakes",
+            "yields": "2",
             "category": "Mehlspeisen",
             "ingredients": [
                 {
@@ -3743,6 +3835,7 @@
         {
             "name": "Pappa al Pomodoro",
             "id": "pappa_al_pomodoro",
+            "yields": "0",
             "category": "Eint\u00f6pfe",
             "ingredients": [],
             "tags": [
@@ -3759,6 +3852,7 @@
         {
             "name": "Paprikaauflauf mit Feta",
             "id": "paprikaauflauf_mit_feta",
+            "yields": "2",
             "category": "Aufl\u00e4ufe",
             "ingredients": [
                 {
@@ -3803,8 +3897,44 @@
             "source": "QQQQQQ"
         },
         {
+            "name": "Pastateig",
+            "id": "pastateig",
+            "yields": "4",
+            "category": "Basis",
+            "ingredients": [
+                {
+                    "amount": 300.0,
+                    "unit": "g",
+                    "ingredient_name": "Mehl (405)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 3.0,
+                    "unit": null,
+                    "ingredient_name": "Eier",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Oliven\u00f6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.5,
+                    "unit": " TL",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [],
+            "url": null,
+            "source": "Blog https"
+        },
+        {
             "name": "Pasta Alfredo",
             "id": "pasta_alfredo",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3819,20 +3949,17 @@
         {
             "name": "Pasta Bolognese",
             "id": "pasta_bolognese",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
-            "tags": [
-                "Hauptgericht",
-                "Mikrowelle",
-                "B\u00fcro",
-                "TK"
-            ],
+            "tags": [],
             "url": null,
             "source": null
         },
         {
             "name": "Pasta emiliana",
             "id": "pasta_emiliana",
+            "yields": "3",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -3889,6 +4016,7 @@
         {
             "name": "Pasta mit cremige Auberginenso\u00dfe",
             "id": "pasta_mit_cremige_auberginenso\u00dfe",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3904,6 +4032,7 @@
         {
             "name": "Pasta mit Garnelen, Pesto + Ros\u00e9",
             "id": "pasta_mit_garnelen__pesto___ros\u00e9",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -3916,6 +4045,7 @@
         {
             "name": "Pasta mit Oliven und Ziegenk\u00e4se",
             "id": "pasta_mit_oliven_und_ziegenk\u00e4se",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3929,6 +4059,7 @@
         {
             "name": "Tortellini",
             "id": "tortellini",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3940,6 +4071,7 @@
         {
             "name": "Pasta mit Pesto",
             "id": "pasta_mit_pesto",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3952,6 +4084,7 @@
         {
             "name": "Pasta mit Pilzen und Knoblauch",
             "id": "pasta_mit_pilzen_und_knoblauch",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -3964,6 +4097,7 @@
         {
             "name": "Pasta mit Shrimps",
             "id": "pasta_mit_shrimps",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -3998,6 +4132,7 @@
         {
             "name": "Pasta mit Speck-Zwiebel-Ziegenk\u00e4se",
             "id": "pasta_mit_speck_zwiebel_ziegenk\u00e4se",
+            "yields": "0",
             "category": "Pasta",
             "ingredients": [],
             "tags": [
@@ -4010,6 +4145,7 @@
         {
             "name": "Pasta mit Walnuss-So\u00dfe f\u00fcr Nudeln",
             "id": "pasta_mit_walnuss_so\u00dfe_f\u00fcr_nudeln",
+            "yields": "4",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -4066,42 +4202,9 @@
             "source": "chefkoch / gr\u00fcner Ordner"
         },
         {
-            "name": "Pastateig",
-            "id": "pastateig",
-            "category": "Basis",
-            "ingredients": [
-                {
-                    "amount": 300.0,
-                    "unit": "g",
-                    "ingredient_name": "Mehl (405)",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 3.0,
-                    "unit": null,
-                    "ingredient_name": "Eier",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " EL",
-                    "ingredient_name": "Oliven\u00f6l",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 0.5,
-                    "unit": " TL",
-                    "ingredient_name": "Salz",
-                    "preparation_notes": null
-                }
-            ],
-            "tags": [],
-            "url": null,
-            "source": "Blog https"
-        },
-        {
             "name": "Pelmeni",
             "id": "pelmeni",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -4114,6 +4217,7 @@
         {
             "name": "Pesto-H\u00e4hnchen mit Bl\u00e4tterteig",
             "id": "pesto_h\u00e4hnchen_mit_bl\u00e4tterteig",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -4126,6 +4230,7 @@
         {
             "name": "Pfannkuchen",
             "id": "pfannkuchen",
+            "yields": "2",
             "category": "Mehlspeisen",
             "ingredients": [
                 {
@@ -4160,6 +4265,7 @@
         {
             "name": "Pfifferlinge auf Wei\u00dfbrot",
             "id": "pfifferlinge_auf_wei\u00dfbrot",
+            "yields": "0",
             "category": "Appetith\u00e4ppchen",
             "ingredients": [],
             "tags": [
@@ -4172,6 +4278,7 @@
         {
             "name": "Pici-Nudeln",
             "id": "pici_nudeln",
+            "yields": "4",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -4203,6 +4310,7 @@
         {
             "name": "Pilztopf",
             "id": "pilztopf",
+            "yields": "4",
             "category": "Eint\u00f6pfe",
             "ingredients": [
                 {
@@ -4283,78 +4391,9 @@
             "source": null
         },
         {
-            "name": "Pizza-Toast mit Sardellen",
-            "id": "pizza_toast_mit_sardellen",
-            "category": "Appetith\u00e4ppchen",
-            "ingredients": [
-                {
-                    "amount": 6.0,
-                    "unit": " Scheiben",
-                    "ingredient_name": "Toast",
-                    "preparation_notes": "toasten"
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " Zehe",
-                    "ingredient_name": "Knoblauch",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " EL",
-                    "ingredient_name": "Oliven\u00f6l",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 6.0,
-                    "unit": null,
-                    "ingredient_name": "K\u00e4sescheiben (Gouda)",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 200.0,
-                    "unit": "g",
-                    "ingredient_name": "Kirschtomaten (halbiert)",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 12.0,
-                    "unit": null,
-                    "ingredient_name": "Sardellenfilets (in \u00d6l)",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 100.0,
-                    "unit": "g",
-                    "ingredient_name": "Oliven (schwarz)",
-                    "preparation_notes": "halbieren"
-                },
-                {
-                    "amount": 0.25,
-                    "unit": null,
-                    "ingredient_name": "Zitrone (Saft)",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 0.0,
-                    "unit": null,
-                    "ingredient_name": "Salz, Pfeffer",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 18.0,
-                    "unit": " Bl\u00e4tter",
-                    "ingredient_name": "Basilikum",
-                    "preparation_notes": null
-                }
-            ],
-            "tags": [],
-            "url": null,
-            "source": "Edeka"
-        },
-        {
             "name": "Pizzakordeln",
             "id": "pizzakordeln",
+            "yields": "0",
             "category": "Geb\u00e4ck",
             "ingredients": [
                 {
@@ -4428,6 +4467,7 @@
         {
             "name": "Pizzateig",
             "id": "pizzateig",
+            "yields": "2",
             "category": "Basis",
             "ingredients": [
                 {
@@ -4472,8 +4512,80 @@
             "source": null
         },
         {
+            "name": "Pizza-Toast mit Sardellen",
+            "id": "pizza_toast_mit_sardellen",
+            "yields": "6",
+            "category": "Appetith\u00e4ppchen",
+            "ingredients": [
+                {
+                    "amount": 6.0,
+                    "unit": " Scheiben",
+                    "ingredient_name": "Toast",
+                    "preparation_notes": "toasten"
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Zehe",
+                    "ingredient_name": "Knoblauch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Oliven\u00f6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 6.0,
+                    "unit": null,
+                    "ingredient_name": "K\u00e4sescheiben (Gouda)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 200.0,
+                    "unit": "g",
+                    "ingredient_name": "Kirschtomaten (halbiert)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 12.0,
+                    "unit": null,
+                    "ingredient_name": "Sardellenfilets (in \u00d6l)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": "g",
+                    "ingredient_name": "Oliven (schwarz)",
+                    "preparation_notes": "halbieren"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": null,
+                    "ingredient_name": "Zitrone (Saft)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Salz, Pfeffer",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 18.0,
+                    "unit": " Bl\u00e4tter",
+                    "ingredient_name": "Basilikum",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [],
+            "url": null,
+            "source": "Edeka"
+        },
+        {
             "name": "Pog\u00e1csa",
             "id": "pog\u00e1csa",
+            "yields": "60",
             "category": "Geb\u00e4ck",
             "ingredients": [
                 {
@@ -4554,6 +4666,7 @@
         {
             "name": "Putenbrust mit Maronenf\u00fcllung",
             "id": "putenbrust_mit_maronenf\u00fcllung",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -4566,6 +4679,7 @@
         {
             "name": "Putenschnitzel",
             "id": "putenschnitzel",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -4578,6 +4692,7 @@
         {
             "name": "Raclette",
             "id": "raclette",
+            "yields": "0",
             "category": "Ofengerichte",
             "ingredients": [],
             "tags": [
@@ -4591,6 +4706,7 @@
         {
             "name": "Rag\u00f9 alla Bolognese",
             "id": "rag\u00f9_alla_bolognese",
+            "yields": "4",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -4644,7 +4760,11 @@
             ],
             "tags": [
                 "Italien",
-                "schnell"
+                "schnell",
+                "Hauptgericht",
+                "Mikrowelle",
+                "B\u00fcro",
+                "TK"
             ],
             "url": null,
             "source": null
@@ -4652,6 +4772,7 @@
         {
             "name": "Rahmwirsing",
             "id": "rahmwirsing",
+            "yields": "2",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -4692,6 +4813,7 @@
         {
             "name": "Rehpflanzerl",
             "id": "rehpflanzerl",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -4704,6 +4826,7 @@
         {
             "name": "Ricotta Dumplings",
             "id": "ricotta_dumplings",
+            "yields": "2",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -4747,6 +4870,7 @@
         {
             "name": "Risotto",
             "id": "risotto",
+            "yields": "4",
             "category": "Reisgerichte",
             "ingredients": [
                 {
@@ -4787,6 +4911,7 @@
         {
             "name": "Rispentomaten aus dem Ofen",
             "id": "rispentomaten_aus_dem_ofen",
+            "yields": "0",
             "category": "Beilagen",
             "ingredients": [],
             "tags": [
@@ -4799,6 +4924,7 @@
         {
             "name": "Rote Thai H\u00fchnersuppe",
             "id": "rote_thai_h\u00fchnersuppe",
+            "yields": "6",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -4856,6 +4982,7 @@
         {
             "name": "Rouladen",
             "id": "rouladen",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -4868,6 +4995,7 @@
         {
             "name": "R\u00f6stzwiebeln",
             "id": "r\u00f6stzwiebeln",
+            "yields": "2",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -4890,6 +5018,7 @@
         {
             "name": "R\u00fchrei",
             "id": "r\u00fchrei",
+            "yields": "0",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -4902,6 +5031,7 @@
         {
             "name": "Sahara-Chili",
             "id": "sahara_chili",
+            "yields": "4",
             "category": "Eint\u00f6pfe",
             "ingredients": [
                 {
@@ -4999,6 +5129,7 @@
         {
             "name": "Salat mit Maultaschen + Sauerrahmdressing",
             "id": "salat_mit_maultaschen___sauerrahmdressing",
+            "yields": "0",
             "category": "Salate",
             "ingredients": [],
             "tags": [
@@ -5011,6 +5142,7 @@
         {
             "name": "Salsa Etrusca",
             "id": "salsa_etrusca",
+            "yields": "4",
             "category": "Pasta",
             "ingredients": [
                 {
@@ -5073,6 +5205,7 @@
         {
             "name": "Schmorbraten",
             "id": "schmorbraten",
+            "yields": "4",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -5137,6 +5270,7 @@
         {
             "name": "Schmorfleisch",
             "id": "schmorfleisch",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -5149,6 +5283,7 @@
         {
             "name": "Schnelles italienisches Steak",
             "id": "schnelles_italienisches_steak",
+            "yields": "2",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -5202,66 +5337,9 @@
             "source": "5Z"
         },
         {
-            "name": "Schoko-Cookies mit M&M's",
-            "id": "schoko_cookies_mit_m_m_s",
-            "category": "Geb\u00e4ck",
-            "ingredients": [
-                {
-                    "amount": 125.0,
-                    "unit": "g",
-                    "ingredient_name": "Butter",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 160.0,
-                    "unit": "g",
-                    "ingredient_name": "Zucker",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 10.0,
-                    "unit": "g",
-                    "ingredient_name": "Melasse / Grafschafter Goldsaft",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": null,
-                    "ingredient_name": "Ei",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 1.0,
-                    "unit": " TL",
-                    "ingredient_name": "Vanilleextrakt",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 200.0,
-                    "unit": "g",
-                    "ingredient_name": "Mehl",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 40.0,
-                    "unit": " g",
-                    "ingredient_name": "Schokodrops",
-                    "preparation_notes": null
-                },
-                {
-                    "amount": 150.0,
-                    "unit": "g",
-                    "ingredient_name": "M&M's (Erdnuss)",
-                    "preparation_notes": null
-                }
-            ],
-            "tags": [],
-            "url": null,
-            "source": null
-        },
-        {
             "name": "Schokoladencookies",
             "id": "schokoladencookies",
+            "yields": "6",
             "category": "Geb\u00e4ck",
             "ingredients": [
                 {
@@ -5338,6 +5416,7 @@
         {
             "name": "Schokoladenmousse",
             "id": "schokoladenmousse",
+            "yields": "4",
             "category": "Desserts",
             "ingredients": [
                 {
@@ -5378,6 +5457,7 @@
         {
             "name": "Schokoladenpudding",
             "id": "schokoladenpudding",
+            "yields": "4",
             "category": "Desserts",
             "ingredients": [
                 {
@@ -5434,8 +5514,68 @@
             "source": "chefkoch.de"
         },
         {
+            "name": "Schoko-Cookies mit M&M's",
+            "id": "schoko_cookies_mit_m_m_s",
+            "yields": "15",
+            "category": "Geb\u00e4ck",
+            "ingredients": [
+                {
+                    "amount": 125.0,
+                    "unit": "g",
+                    "ingredient_name": "Butter",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 160.0,
+                    "unit": "g",
+                    "ingredient_name": "Zucker",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 10.0,
+                    "unit": "g",
+                    "ingredient_name": "Melasse / Grafschafter Goldsaft",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Ei",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Vanilleextrakt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 200.0,
+                    "unit": "g",
+                    "ingredient_name": "Mehl",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 40.0,
+                    "unit": " g",
+                    "ingredient_name": "Schokodrops",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 150.0,
+                    "unit": "g",
+                    "ingredient_name": "M&M's (Erdnuss)",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [],
+            "url": null,
+            "source": null
+        },
+        {
             "name": " Schweinefilet vom Grill",
             "id": "_schweinefilet_vom_grill",
+            "yields": "2",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -5452,6 +5592,7 @@
         {
             "name": "Semmelkn\u00f6del",
             "id": "semmelkn\u00f6del",
+            "yields": "4",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -5500,6 +5641,7 @@
         {
             "name": "Serbische Bohnensuppe",
             "id": "serbische_bohnensuppe",
+            "yields": "8",
             "category": "Suppen",
             "ingredients": [
                 {
@@ -5570,6 +5712,7 @@
         {
             "name": "Shakshuka",
             "id": "shakshuka",
+            "yields": "2",
             "category": "Vegetarisches",
             "ingredients": [
                 {
@@ -5632,6 +5775,7 @@
         {
             "name": "Souvlaki",
             "id": "souvlaki",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -5645,6 +5789,7 @@
         {
             "name": "Spargel und Eier mit French Dressing",
             "id": "spargel_und_eier_mit_french_dressing",
+            "yields": "0",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -5658,6 +5803,7 @@
         {
             "name": "Spinatkn\u00f6del",
             "id": "spinatkn\u00f6del",
+            "yields": "4",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -5669,6 +5815,7 @@
         {
             "name": "Steckerlfisch",
             "id": "steckerlfisch",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -5681,6 +5828,7 @@
         {
             "name": "Sushi",
             "id": "sushi",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -5694,6 +5842,7 @@
         {
             "name": "S\u00fcsskartoffeln Cajun-Style",
             "id": "s\u00fcsskartoffeln_cajun_style",
+            "yields": "0",
             "category": "Vegetarisches",
             "ingredients": [],
             "tags": [
@@ -5707,6 +5856,7 @@
         {
             "name": "Tahin-Dressing v1",
             "id": "tahin_dressing_v1",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [],
             "tags": [
@@ -5718,6 +5868,7 @@
         {
             "name": "Tahin-Dressing v2",
             "id": "tahin_dressing_v2",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [],
             "tags": [
@@ -5729,6 +5880,7 @@
         {
             "name": "Tahin-Dressing v3",
             "id": "tahin_dressing_v3",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [
                 {
@@ -5783,6 +5935,7 @@
         {
             "name": "Texas Jailhouse Chili",
             "id": "texas_jailhouse_chili",
+            "yields": "8",
             "category": "Fleischgerichte",
             "ingredients": [
                 {
@@ -5918,6 +6071,7 @@
         {
             "name": "Thousand Islands Dressing",
             "id": "thousand_islands_dressing",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {
@@ -5994,6 +6148,7 @@
         {
             "name": "Thunfisch mit Sesamkruste",
             "id": "thunfisch_mit_sesamkruste",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -6006,6 +6161,7 @@
         {
             "name": "Tikka Brath\u00e4hnchen im Ofen (5Z, S?)",
             "id": "tikka_brath\u00e4hnchen_im_ofen__5z__s__",
+            "yields": "0",
             "category": "Gefl\u00fcgel",
             "ingredients": [],
             "tags": [
@@ -6018,6 +6174,7 @@
         {
             "name": "Tintenfisch vom Grill",
             "id": "tintenfisch_vom_grill",
+            "yields": "0",
             "category": "Fisch",
             "ingredients": [],
             "tags": [
@@ -6030,6 +6187,7 @@
         {
             "name": "Toast Hawaii",
             "id": "toast_hawaii",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6042,6 +6200,7 @@
         {
             "name": "Tomatenreis",
             "id": "tomatenreis",
+            "yields": "2",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -6112,6 +6271,7 @@
         {
             "name": "Tomatenso\u00dfe",
             "id": "tomatenso\u00dfe",
+            "yields": "4",
             "category": "Basis",
             "ingredients": [
                 {
@@ -6158,6 +6318,7 @@
         {
             "name": "Tsatsiki",
             "id": "tsatsiki",
+            "yields": "2",
             "category": "Beilagen",
             "ingredients": [
                 {
@@ -6210,6 +6371,7 @@
         {
             "name": "Vanilleeis mit hei\u00dfen Kirschen / Himbeeren",
             "id": "vanilleeis_mit_hei\u00dfen_kirschen___himbeeren",
+            "yields": "2",
             "category": "Desserts",
             "ingredients": [
                 {
@@ -6250,6 +6412,7 @@
         {
             "name": "Vinaigrette",
             "id": "vinaigrette",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [],
             "tags": [],
@@ -6259,6 +6422,7 @@
         {
             "name": "Waffeln",
             "id": "waffeln",
+            "yields": "4",
             "category": "Mehlspeisen",
             "ingredients": [
                 {
@@ -6311,6 +6475,7 @@
         {
             "name": "Wei\u00dfw\u00fcrste",
             "id": "wei\u00dfw\u00fcrste",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6323,6 +6488,7 @@
         {
             "name": "What the hack-Buletten",
             "id": "what_the_hack_buletten",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6335,6 +6501,7 @@
         {
             "name": "Wiener",
             "id": "wiener",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6347,6 +6514,7 @@
         {
             "name": "Zitronenkekse mit wei\u00dfer Schokolade",
             "id": "zitronenkekse_mit_wei\u00dfer_schokolade",
+            "yields": "16",
             "category": "Geb\u00e4ck",
             "ingredients": [
                 {
@@ -6423,6 +6591,7 @@
         {
             "name": "Zucchini mit Hack und Linsen",
             "id": "zucchini_mit_hack_und_linsen",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6436,6 +6605,7 @@
         {
             "name": "Zucchini mit Ziegenk\u00e4se-F\u00fcllung und Thymian",
             "id": "zucchini_mit_ziegenk\u00e4se_f\u00fcllung_und_thymian",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6448,6 +6618,7 @@
         {
             "name": "Zwiebelkuchen",
             "id": "zwiebelkuchen",
+            "yields": "4",
             "category": "Kuchen",
             "ingredients": [
                 {
@@ -6518,6 +6689,7 @@
         {
             "name": "Zwiebelrostbraten",
             "id": "zwiebelrostbraten",
+            "yields": "0",
             "category": "Fleischgerichte",
             "ingredients": [],
             "tags": [
@@ -6530,6 +6702,7 @@
         {
             "name": "\u00d6l-Essig-Dressing",
             "id": "\u00f6l_essig_dressing",
+            "yields": "2",
             "category": "Salate",
             "ingredients": [],
             "tags": [],
