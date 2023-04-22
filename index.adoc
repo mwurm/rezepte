@@ -35,7 +35,7 @@ Portionen: 4, Stichwörter:
 .^| aus Tupper-Rezeptbuch
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.käsegebäck']
@@ -93,7 +93,7 @@ Portionen: 12, Stichwörter:
 .^| 7-8 min backen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.oliventapenade']
@@ -125,7 +125,7 @@ Portionen: 4, Stichwörter:
 .^| Tipp: Sardellenpaste statt -filets
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pfifferlinge_auf_weißbrot']
@@ -140,7 +140,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pizza_toast_mit_sardellen']
@@ -183,7 +183,7 @@ Portionen: 6, Stichwörter:
 .^| Toast dekorieren
 |===
 
-None
+
 == Salate
 
 [%always]
@@ -233,7 +233,7 @@ Portionen: 2, Stichwörter: vegetarisch
 .^| schneiden, zugeben, abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.bayrischer_wurstsalat']
@@ -260,7 +260,7 @@ Portionen: 2, Stichwörter: Deutschland, Bayern
 .^| vermengen, mit Salz und Pfeffer abschmecken und ziehen lassen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.caesar_salad']
@@ -281,7 +281,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Salat, leicht, Low Carb
 .^| (JO 20m)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.falafelsalat_mit_tahin_dressing']
@@ -296,7 +296,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Salat, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.gurkensalat_mit_schmand']
@@ -328,7 +328,7 @@ Portionen: 4, Stichwörter:
 .^| vermengen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.italienischer_salat__']
@@ -370,7 +370,7 @@ Portionen: 4, Stichwörter: Low Carb
 .^| mit Dressing zu Salat zubereiten
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.karotten_staudensellerie_salat']
@@ -398,7 +398,7 @@ Portionen: 3, Stichwörter:
 .^| vermischen, 2h ziehen lassen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.karottensalat']
@@ -424,7 +424,7 @@ Portionen: 4, Stichwörter:
 .^| vermischen, 2h ziehen lassen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kohlrabi_carpaccio']
@@ -456,7 +456,7 @@ Portionen: 2, Stichwörter: vegetarisch
 .^| auf Kohlrabi verteilen, salzen und pfeffern
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.mediterraner_nudelsalat']
@@ -511,7 +511,7 @@ Portionen: 4, Stichwörter: vegetarisch, Büro
 .^| mit Nudelsalat vermengen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.salat_mit_maultaschen___sauerrahmdressing']
@@ -526,7 +526,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Salat
 |===
 |===
 
-None
+
 === Dressing
 
 [%always]
@@ -602,7 +602,7 @@ Portionen: 4, Stichwörter: ausprobieren
 .^| abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.caesar_dressing']
@@ -645,7 +645,7 @@ Portionen: 4, Stichwörter: ausprobieren
 .^| abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.dressing_mit_ahornsirup']
@@ -674,7 +674,7 @@ Portionen: 2, Stichwörter:
 .^| verrühren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.dressing_mit_preiselbeeren']
@@ -700,7 +700,7 @@ Portionen: 2, Stichwörter:
 .^| verrühren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.granatapfeldressing']
@@ -745,7 +745,7 @@ Portionen: 2, Stichwörter:
 .^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.joghurt_dressing']
@@ -777,7 +777,7 @@ Portionen: 4, Stichwörter:
 .^| abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tahin_dressing_v1']
@@ -792,7 +792,7 @@ Portionen: 2, Stichwörter: ausprobieren
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tahin_dressing_v2']
@@ -807,7 +807,7 @@ Portionen: 2, Stichwörter: ausprobieren
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tahin_dressing_v3']
@@ -841,7 +841,7 @@ Portionen: 2, Stichwörter: ausprobieren
 .^| Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.thousand_islands_dressing']
@@ -885,7 +885,7 @@ Portionen: 4, Stichwörter:
 .^| abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.vinaigrette']
@@ -900,7 +900,7 @@ Portionen: 2, Stichwörter:
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.öl_essig_dressing']
@@ -915,7 +915,7 @@ Portionen: 2, Stichwörter:
 |===
 |===
 
-None
+
 == Suppen
 
 [%always]
@@ -968,7 +968,7 @@ Portionen: 4, Stichwörter: vegetarisch
 .^| ¹der Eigengeschmack der Lake muss weg
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.gulaschsuppe']
@@ -1045,7 +1045,7 @@ Portionen: 6, Stichwörter: TK, Mikrowelle, Büro
 .^| abschmecken
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.käse_lauch_hackfleisch_suppe']
@@ -1100,7 +1100,7 @@ Portionen: 3, Stichwörter:
 .^| Dazu passt frisches Baguette. Besonders lecker ist dieses, wenn es noch einmal kurz in den Backofen geschoben wird. Dann kannst du das knusprige Baguette mit etwas Butter zur Suppe servieren.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kürbissuppe']
@@ -1145,7 +1145,7 @@ Portionen: 6, Stichwörter:
 .^| zugeben
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.maronensuppe']
@@ -1203,7 +1203,7 @@ Portionen: 2, Stichwörter:
 .^| zugeben
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rote_thai_hühnersuppe']
@@ -1255,7 +1255,7 @@ Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
 .^| Hähnchen am Tisch mit zwei Gabeln zerteilen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.serbische_bohnensuppe']
@@ -1304,7 +1304,7 @@ Portionen: 8, Stichwörter:
 .^| würzen, Wasser zugeben, 1h köcheln
 |===
 
-None
+
 == Pasta
 
 [%always]
@@ -1361,7 +1361,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 .^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.fettucine_alfredo']
@@ -1416,7 +1416,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 .^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lemon_tagliatelle']
@@ -1471,7 +1471,7 @@ Portionen: 2, Stichwörter: Italien, vegetarisch
 .^| pro Teller: mit fertigen Nudeln servieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_alfredo']
@@ -1486,7 +1486,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Käse, schnell
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_all_amatriciana']
@@ -1541,7 +1541,7 @@ Portionen: 4, Stichwörter: Italien
 .^| Tip: in gusseiserner Pfanne zubereiten +++ mit geriebenem Pecorino reichen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_alla_carbonara']
@@ -1593,7 +1593,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 .^| Modifikation: ohne Sahne, TODO
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_alla_carbonara__klassisch']
@@ -1647,7 +1647,7 @@ Portionen: 2, Stichwörter: Italien, schnell
 .^| bestreuen, servieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_emiliana']
@@ -1699,7 +1699,7 @@ Portionen: 3, Stichwörter: Hauptgericht, schnell, Low Meat
 .^| einrühren, Pasta unterheben
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_oliven_und_ziegenkäse']
@@ -1714,7 +1714,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_pesto']
@@ -1735,7 +1735,7 @@ Portionen: 0, Stichwörter: vegetarisch, schnell
 .^| Pesto siehe <<sec.pesto, Pesto-Rezept>>, oder Fertig-Pesto nehmen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_pilzen_und_knoblauch']
@@ -1756,7 +1756,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 .^| (5Z, S.65)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_shrimps']
@@ -1787,7 +1787,7 @@ Portionen: 2, Stichwörter:
 .^| Sahne zugeben, mit Pasta vermengen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_speck_zwiebel_ziegenkäse']
@@ -1802,7 +1802,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_walnuss_soße_für_nudeln']
@@ -1855,7 +1855,7 @@ Portionen: 4, Stichwörter:
 .^| unterrühren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_cremige_auberginensoße']
@@ -1870,7 +1870,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, TK, Mikrowelle,B�
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pici_nudeln']
@@ -1912,7 +1912,7 @@ Portionen: 4, Stichwörter: Italien, ausprobieren
 .^| per Hand zu Pici-Nudeln zu 30cm Länge ausrollen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.ragù_alla_bolognese']
@@ -1922,7 +1922,7 @@ indexterm:[Bolognese]
 
 === Ragù alla Bolognese
 
-Portionen: 4, Stichwörter: Italien, schnell
+Portionen: 4, Stichwörter: Italien, schnell, Hauptgericht, Mikrowelle, Büro, TK
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -1978,7 +1978,7 @@ Portionen: 4, Stichwörter: Italien, schnell
 .^| zugeben, 2h köcheln
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.ricotta_dumplings']
@@ -2022,7 +2022,7 @@ Portionen: 2, Stichwörter: Italien, ausprobieren
 .^| servieren mit: Tomatensoße + Basilikum
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.salsa_etrusca']
@@ -2081,7 +2081,7 @@ Portionen: 4, Stichwörter: Italien, schnell, ausprobieren
 .^| * rohes Gemüse
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tortellini']
@@ -2102,7 +2102,7 @@ Portionen: 0, Stichwörter: schnell
 .^| Fertig-Tortellini von REWE / Djafar
 |===
 
-None
+
 == Pizza & Co.
 
 [%always]
@@ -2138,7 +2138,7 @@ Portionen: 2, Stichwörter: Elsaß, Frankreich
 .^| auf Teig geben. Bei 🌡250℃ 5-10m backen.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kürbispizza_mit_pfifferlingen']
@@ -2186,7 +2186,7 @@ Portionen: 4, Stichwörter:
 .^| auf gebackener Pizza verteilen
 |===
 
-None
+
 == Eintöpfe
 
 [%always]
@@ -2203,7 +2203,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, TK, Mik
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.linsencurry_mit_spinat']
@@ -2278,7 +2278,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, Mikrowelle, schne
 .^| (5Z, S. 173)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pilztopf']
@@ -2341,7 +2341,7 @@ Portionen: 4, Stichwörter:
 .^| zugeben
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.sahara_chili']
@@ -2394,7 +2394,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch
 .^| zugeben und 30min köcheln
 |===
 
-None
+
 == Aufläufe
 
 [%always]
@@ -2470,7 +2470,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 .^| Tipp: Wer möchte, kann das Curry mit Basmati-Reis oder Couscous servieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kartoffelgratin']
@@ -2485,7 +2485,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.käsespätzle']
@@ -2500,7 +2500,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, Mikrowelle
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kürbischaos']
@@ -2557,7 +2557,7 @@ Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro
 .^| Hack und Käse auf Kürbisgemüse verteilen und weitere 5min backen.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.melanzane_al_parmigiana']
@@ -2622,7 +2622,7 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 .^| ¹besser eine große Form und nur zweimal schichten als kleine Form und mehrmals schichten
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.paprikaauflauf_mit_feta']
@@ -2654,7 +2654,7 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 .^| in Reine geben, vermengen. 40min backen.
 |===
 
-None
+
 == Ofengerichte
 
 [%always]
@@ -2672,7 +2672,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, schnell mit Aufhei
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.camemburger']
@@ -2687,7 +2687,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.feta_vom_grill']
@@ -2702,7 +2702,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, schnell mit Aufhei
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.raclette']
@@ -2717,7 +2717,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
 |===
 |===
 
-None
+
 == Reisgerichte
 
 [%always]
@@ -2811,7 +2811,7 @@ Portionen: 4, Stichwörter:
 .^| Risotto mit Ziegenkäse und Pfifferlingen: 200g Ziegenfrischkäse, 400g Pfifferlinge, 2 Zweige Rosmarin + Thymian
 |===
 
-None
+
 == Fleischgerichte
 
 [%always]
@@ -2841,7 +2841,7 @@ Portionen: 2, Stichwörter:
 .^| 10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.bifteki']
@@ -2856,7 +2856,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.bosna_semmel']
@@ -2871,7 +2871,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.brotkranz_mit_kürbis__schinken__oliven__kräutern']
@@ -2886,7 +2886,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.burger']
@@ -2941,7 +2941,7 @@ Portionen: 4, Stichwörter: schnell mit Garzeit
 .^| Burger, Pommes, Cole Slaw servieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.cevapcici']
@@ -2956,7 +2956,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch, Mikrowelle
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.croque_monsieur___madame']
@@ -3014,7 +3014,7 @@ Portionen: 4, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
 .^| Option "Croque Madam": Spiegelei auf Toasts legen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.currywurst']
@@ -3029,7 +3029,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.fleischpflanzerl']
@@ -3044,7 +3044,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.gulasch']
@@ -3087,7 +3087,7 @@ Portionen: 8, Stichwörter: Österreich, TK, Mikrowelle, Büro
 .^| zugeben, 3h köcheln lassen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.hackbraten']
@@ -3102,7 +3102,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.hot_dogs']
@@ -3117,7 +3117,7 @@ Portionen: 0, Stichwörter: Hauptgericht, schnell
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lammlachse_mit_zitronenkruste']
@@ -3192,7 +3192,7 @@ Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
 .^| Lammlachse mit Kartoffeln und Bohnen servieren.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lasagne']
@@ -3207,7 +3207,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle, Büro
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.leberkäs']
@@ -3222,7 +3222,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.maultaschen']
@@ -3237,7 +3237,7 @@ Portionen: 0, Stichwörter: schnell
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.münchner_schnitzel']
@@ -3252,7 +3252,7 @@ Portionen: 0, Stichwörter: Hauptgericht, ohne Beilage, Büro
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.nürnberger_bratwürste_mit_sauerkraut']
@@ -3267,7 +3267,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.ofenkartoffeln_mit_speck_und_kräuterquark___soure_cream']
@@ -3282,7 +3282,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_bolognese']
@@ -3291,13 +3291,13 @@ indexterm:[Pasta Bolognese]
 
 === Pasta Bolognese
 
-Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle, Büro, TK
+Portionen: 0, Stichwörter: 
 
 [%noheader, cols="1a,2", grid=rows]
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pelmeni']
@@ -3312,7 +3312,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rehpflanzerl']
@@ -3327,7 +3327,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Wild
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rouladen']
@@ -3342,7 +3342,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.schmorbraten']
@@ -3396,7 +3396,7 @@ Portionen: 4, Stichwörter:
 .^| Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.schmorfleisch']
@@ -3417,7 +3417,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 .^| (5Z, S.195)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.schnelles_italienisches_steak']
@@ -3463,7 +3463,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 .^| zusammen mit Pinienkernen auf Fleisch geben.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.souvlaki']
@@ -3478,7 +3478,7 @@ Portionen: 0, Stichwörter: Hauptgericht, ohne_Beilage, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.texas_jailhouse_chili']
@@ -3538,7 +3538,7 @@ Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro
 .^| getrennt servieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.toast_hawaii']
@@ -3553,7 +3553,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.weißwürste']
@@ -3568,7 +3568,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.what_the_hack_buletten']
@@ -3583,7 +3583,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.wiener']
@@ -3598,7 +3598,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.zucchini_mit_hack_und_linsen']
@@ -3613,7 +3613,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.zucchini_mit_ziegenkäse_füllung_und_thymian']
@@ -3628,7 +3628,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.zwiebelrostbraten']
@@ -3643,7 +3643,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fleisch
 |===
 |===
 
-None
+
 == Geflügel
 
 [%always]
@@ -3722,7 +3722,7 @@ Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
 .^| zu Soße geben, Fleisch dazu, 5m köcheln
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.halbes_hähnchen']
@@ -3737,7 +3737,7 @@ Portionen: 0, Stichwörter: Hauptgericht, schnell
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.harissa_hähnchen']
@@ -3752,7 +3752,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.knuspriges_erdnusshähnchen']
@@ -3767,7 +3767,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pesto_hähnchen_mit_blätterteig']
@@ -3788,7 +3788,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 .^| (5Z, S. 115)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.putenbrust_mit_maronenfüllung']
@@ -3803,7 +3803,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.putenschnitzel']
@@ -3818,7 +3818,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tikka_brathähnchen_im_ofen__5z__s__']
@@ -3833,7 +3833,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Geflügel
 |===
 |===
 
-None
+
 == Fisch
 
 [%always]
@@ -3856,7 +3856,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb
 .^| (5Z, S.147)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.dorade_vom_grill']
@@ -3890,7 +3890,7 @@ Portionen: 1, Stichwörter: leicht, Low Carb
 .^| Tipp: Fisch "aufrecht" grillen, halbe Kartoffel in Bauchhöhle dient als Ständer
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.forelle_aus_dem_ofen']
@@ -3905,7 +3905,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.forelle__gebraten']
@@ -3920,7 +3920,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch, Low Carb
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lachs_auf_bohnengemüse']
@@ -3935,7 +3935,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lachs_aus_der_holzplanke']
@@ -3950,7 +3950,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.lachs_mit_chorizo']
@@ -3959,19 +3959,13 @@ indexterm:[Lachs mit Chorizo]
 
 === Lachs mit Chorizo
 
-Portionen: 0, Stichwörter: Hauptgericht, Fisch
+Portionen: 4, Stichwörter: Hauptgericht, Fisch
 
 [%noheader, cols="1a,2", grid=rows]
 |===
-
-|[%noheader, cols=">30%,70%", frame=none, grid=none]
-!===
-
-!===
-.^| (5Z, S. 125)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.nizza_salat_mit_lachs']
@@ -4025,7 +4019,7 @@ Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro
 .^| mit Lachs und Eiervierteln auf Salat anrichten, pfeffern
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pasta_mit_garnelen__pesto___rosé']
@@ -4046,7 +4040,7 @@ Portionen: 0, Stichwörter: Hauptgericht, schnell
 .^| (5Z, S.73)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.steckerlfisch']
@@ -4061,7 +4055,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.sushi']
@@ -4076,7 +4070,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.thunfisch_mit_sesamkruste']
@@ -4091,7 +4085,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tintenfisch_vom_grill']
@@ -4106,7 +4100,7 @@ Portionen: 0, Stichwörter: Hauptgericht, Fisch
 |===
 |===
 
-None
+
 == Vegetarisches
 
 [%always]
@@ -4123,7 +4117,7 @@ Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons']
@@ -4186,7 +4180,7 @@ Sojamischung und Fleisch zugeben, aufkochen, salzen
 
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.halloumi_pilz_paprika_spieße']
@@ -4201,7 +4195,7 @@ Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, schnell
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kichererbsen_curry']
@@ -4216,7 +4210,7 @@ Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.omelett_mit_tomate_und_mozarella']
@@ -4270,7 +4264,7 @@ Portionen: 2, Stichwörter: Italien, Low Carb
 .^| garnieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rührei']
@@ -4285,7 +4279,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.shakshuka']
@@ -4326,7 +4320,7 @@ Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht
 .^| pfeffern
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.spargel_und_eier_mit_french_dressing']
@@ -4347,7 +4341,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 .^| (5Z, S.165)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.spinatknödel']
@@ -4368,7 +4362,7 @@ Portionen: 4, Stichwörter: Österreich
 .^| TODO: Rezept von Anne und mein <<sec.semmelknödel, Semmelknödelrezept>> abgleichen.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.süsskartoffeln_cajun_style']
@@ -4389,7 +4383,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
 .^| (5Z, S. 175)
 |===
 
-None
+
 == Desserts
 
 [%always]
@@ -4507,7 +4501,7 @@ Portionen: 4, Stichwörter:
 .^| ^1^ im Tupper-Shaker gründlich schütteln, um Klümpchen zu vermeiden
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.vanilleeis_mit_heißen_kirschen___himbeeren']
@@ -4551,7 +4545,7 @@ Portionen: 2, Stichwörter:
 .^| ^1^in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
 |===
 
-None
+
 == Mehlspeisen
 
 [%always]
@@ -4640,7 +4634,7 @@ Portionen: 4, Stichwörter:
 .^| 25min backen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.dampfnudeln']
@@ -4655,7 +4649,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.kaiserschmarrn']
@@ -4670,7 +4664,7 @@ Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, süß
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.marillenknödel']
@@ -4743,7 +4737,7 @@ Portionen: 3, Stichwörter: ausprobieren, vegetarisch
 .^| Vor dem Servieren werden die Marillenknödel mit Staubzucker (oder Zimtzucker) bestreut.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.naan']
@@ -4765,7 +4759,7 @@ Portionen: 0, Stichwörter:
 .^| https://www.youtube.com/watch?v=qnzBkCkv9gs
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pancakes']
@@ -4835,7 +4829,7 @@ Portionen: 2, Stichwörter: USA
 .^| Servieren mit Ahornsirup und ggf. griechischem Joghurt mit Vanille + Zucker
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pfannkuchen']
@@ -4860,7 +4854,7 @@ Portionen: 2, Stichwörter:
 .^| verrühren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.waffeln']
@@ -4900,7 +4894,7 @@ Portionen: 4, Stichwörter:
 .^| Waffeleisen mit Pinsel einölen und erhitzen. Pro Waffel ca 2 EL Teigmassen verwenden.
 |===
 
-None
+
 == Gebäck
 
 [%always]
@@ -4957,7 +4951,7 @@ Portionen: 0, Stichwörter: ausprobieren, Snacks
 .^| Kurz gehen lassen und im heißen Backofen 20 bis 30 Minuten knusprig abbacken.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pogácsa']
@@ -5025,7 +5019,7 @@ Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
 .^| nach dem Backen kurz abkühlen lassen und am besten lauwarm genießen.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.schoko_cookies_mit_m_m_s']
@@ -5085,7 +5079,7 @@ Portionen: 15, Stichwörter:
 .^| auf Cookies drücken. 15m backen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.schokoladencookies']
@@ -5171,7 +5165,7 @@ Portionen: 6, Stichwörter:
 .^| Anmerkung: für 6 große Cookies
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.zitronenkekse_mit_weißer_schokolade']
@@ -5233,7 +5227,7 @@ Portionen: 16, Stichwörter:
 .^| ^1^ Test: Doppelte Menge (300 g) oder gar 400 g ausprobieren.
 |===
 
-None
+
 == Kuchen
 
 [%always]
@@ -5295,7 +5289,7 @@ Portionen: 12, Stichwörter:
 .^| 1h backen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.zwiebelkuchen']
@@ -5356,7 +5350,7 @@ Portionen: 4, Stichwörter:
 .^| TODO und weiter?
 |===
 
-None
+
 == Basis
 
 [%always]
@@ -5379,7 +5373,7 @@ Portionen: 1, Stichwörter:
 .^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pastateig']
@@ -5410,7 +5404,7 @@ Portionen: 4, Stichwörter:
 .^| Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.pizzateig']
@@ -5461,7 +5455,7 @@ Portionen: 2, Stichwörter:
 .^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tomatensoße']
@@ -5494,7 +5488,7 @@ Portionen: 4, Stichwörter:
 .^| zugeben, köcheln, pürieren
 |===
 
-None
+
 == Beilagen
 
 [%always]
@@ -5540,7 +5534,7 @@ Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
 .^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.cole_slaw']
@@ -5561,7 +5555,7 @@ Portionen: 0, Stichwörter: Salat, vegetarisch, Beilage
 .^| Clow Slaw wie von Kugler (Meeretich?)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.frischkäse_aufstrich']
@@ -5594,7 +5588,7 @@ Portionen: 4, Stichwörter: Aufstrich
 .^| zugeben und verrühren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.grießglößchensuppe']
@@ -5615,7 +5609,7 @@ Portionen: 0, Stichwörter: vegetarisch
 .^| TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.grüne_bohnen']
@@ -5630,7 +5624,7 @@ Portionen: 0, Stichwörter: vegetarisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.hummus']
@@ -5664,7 +5658,7 @@ Portionen: 2, Stichwörter: Kichererbsen, Orient
 .^| im kleinen Philips-Mixer pürieren
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.obazda']
@@ -5722,7 +5716,7 @@ Portionen: 8, Stichwörter:
 .^| 1 TL Senf
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rahmwirsing']
@@ -5754,7 +5748,7 @@ Portionen: 2, Stichwörter:
 .^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.rispentomaten_aus_dem_ofen']
@@ -5769,7 +5763,7 @@ Portionen: 0, Stichwörter: vegetarisch, leicht
 |===
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.röstzwiebeln']
@@ -5816,7 +5810,7 @@ Portionen: 2, Stichwörter:
 .^| Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.semmelknödel']
@@ -5897,7 +5891,7 @@ Portionen: 4, Stichwörter: Österreich
 .^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tomatenreis']
@@ -5952,7 +5946,7 @@ Portionen: 2, Stichwörter:
 .^| Würzen. Reis unterheben.
 |===
 
-None
+
 [%always]
 <<<
 [id='sec.tsatsiki']
@@ -5986,7 +5980,7 @@ Portionen: 2, Stichwörter:
 .^| vermengen
 |===
 
-None
+
 == Rezepte nach Stichwort
 
 === leicht

@@ -37,8 +37,7 @@ basic_ingredients_regexes = [
     "Hefe",
     "Trockenhefe",
     "frische Hefe",
-    "Hefe (frisch)",
-    "Hefe (trocken)",
+    "Hefe",
     "Wasser",
     "Zucker",
     "Stärke",
@@ -61,14 +60,16 @@ basic_ingredients_regexes = [
     "Gemüsebrühe",
     "Hühnerbrühe",
     "Brühe"
-    ]
+]
 
 # ergänze Regex am ende mit ((\s*,.*)?(\s*\(.*\))?)*$
 # das Deckt folgende Zutatenerweiterungen ab:
 # Hefe (frisch)
 # Hefe, frisch
 # Mehl, Typ 405, Weizen
-basic_ingredients_regex = "(" + ")|(".join([f'{r}((\s*,.*)?(\s*\(.*\))?)*$' for r in basic_ingredients_regexes]) + ")"
+
+basic_ingredients_regexes = [f'{r}((\s*,.*)?(\s*\(.*\))?)*$' for r in basic_ingredients_regexes]
+basic_ingredients_regex = "(" + ")|(".join(basic_ingredients_regexes) + ")"
 
 def to_snake_case(s):
     # Replace all non-alphanumeric characters with underscores
@@ -351,7 +352,8 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    # args.source_files = glob.glob('src/rmd/*.rmd')
+
+    args.source_files = args.source_files if args.source_files else glob.glob('src/rmd/*.rmd')
     recipes = []
     for filename in args.source_files:
         with open(filename, 'r', encoding="utf-8") as f:
