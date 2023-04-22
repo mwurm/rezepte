@@ -115,7 +115,7 @@ if __name__ == '__main__':
         recipe_id = rudecode(to_snake_case(recipe.name))
         out_file_name = "src/rmd/" + recipe_id + ".rmd"
         print(f"Write recipe to {out_file_name}")
-        with open(out_file_name, 'w') as f:
+        with open(out_file_name, 'w', encoding="UTF-8") as f:
             sys.stdout = f # Change the standard output to the file we created.
             
             print(recipe.name)

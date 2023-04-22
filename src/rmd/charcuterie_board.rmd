@@ -1,0 +1,6 @@
+Charcuterie Board
+:yields: 4
+:category: Fleischgerichte
+:tags: kalt
+
+# siehe Notizen im Kochbuch wegen Mengen und möglichen Optionen

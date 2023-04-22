@@ -1,0 +1,19 @@
+Cookie Dough Eis
+:yields: 4
+:category: Desserts
+:tags: Eis; ausprobieren
+
+:source: Sally
+:url: https://sallys-blog.de/rezepte/ben-jerry-s-cookie-dough-nachgemacht-vanille-eis-mit-keksteig-stuckchen
+
+1 Fertig Cookie Dough Vanille^1,2^
+100g Butter
+60g Milch
+50g Schokoladendrops
+# TODO
+---
+^1^ mit hitzebehandeltem Mehl, z.B. https://www.discounto.de/Angebot/Kuechle-Cookie-Dough-Vanille-Geschmack-220g-3097582/
+^2^ oder essbaren Keksteig selber probieren, weitere Infos https://www.mein-mehl.de/mehlblog/nachricht/trend-cookie-dough-was-ihr-fuer-einen-sicheren-genuss-wissen-solltet
+
+
+

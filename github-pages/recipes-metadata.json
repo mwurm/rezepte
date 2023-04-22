@@ -567,6 +567,16 @@
             "source": null
         },
         {
+            "name": "Bayerische Cr\u00e8me",
+            "id": "bayerische_cr\u00e8me",
+            "yields": "4",
+            "category": "Desserts",
+            "ingredients": [],
+            "tags": [],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "Bayrischer Wurstsalat",
             "id": "bayrischer_wurstsalat",
             "yields": "2",
@@ -753,6 +763,12 @@
                     "unit": null,
                     "ingredient_name": "Zwiebel, rot",
                     "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Glas",
+                    "ingredient_name": "Gew\u00fcrzgurken (Burger-Gurken)",
+                    "preparation_notes": "in Scheiben"
                 },
                 {
                     "amount": 1.0,
@@ -955,6 +971,18 @@
             "source": null
         },
         {
+            "name": "Charcuterie Board",
+            "id": "charcuterie_board",
+            "yields": "4",
+            "category": "Fleischgerichte",
+            "ingredients": [],
+            "tags": [
+                "kalt"
+            ],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "Chicken Tikka Masala",
             "id": "chicken_tikka_masala",
             "yields": "4",
@@ -1102,6 +1130,44 @@
             ],
             "url": null,
             "source": null
+        },
+        {
+            "name": "Cookie Dough Eis",
+            "id": "cookie_dough_eis",
+            "yields": "4",
+            "category": "Desserts",
+            "ingredients": [
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Fertig Cookie Dough Vanille^1,2^",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": "g",
+                    "ingredient_name": "Butter",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 60.0,
+                    "unit": "g",
+                    "ingredient_name": "Milch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 50.0,
+                    "unit": "g",
+                    "ingredient_name": "Schokoladendrops",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [
+                "Eis",
+                "ausprobieren"
+            ],
+            "url": "https",
+            "source": "Sally"
         },
         {
             "name": "Croque Monsieur / Madame",
@@ -1276,6 +1342,16 @@
                     "preparation_notes": null
                 }
             ],
+            "tags": [],
+            "url": null,
+            "source": null
+        },
+        {
+            "name": "Italienischer Salat Dressing",
+            "id": "italienischer_salat_dressing",
+            "yields": "6",
+            "category": "Salate",
+            "ingredients": [],
             "tags": [],
             "url": null,
             "source": null
@@ -1921,6 +1997,148 @@
             ],
             "url": null,
             "source": null
+        },
+        {
+            "name": "Hirschgulasch mit Pfifferlingen",
+            "id": "hirschgulasch_mit_pfifferlingen",
+            "yields": "2",
+            "category": "Fleischgerichte",
+            "ingredients": [
+                {
+                    "amount": 150.0,
+                    "unit": " g",
+                    "ingredient_name": "Pfifferlinge , frisch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.5,
+                    "unit": null,
+                    "ingredient_name": "Zwiebel(n) , gew\u00fcrfelt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 2.0,
+                    "unit": " EL",
+                    "ingredient_name": "Petersilie , gehackt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Butter",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 500.0,
+                    "unit": " g",
+                    "ingredient_name": "Hirschfleisch (Keule), etwa 2 cm gro\u00df gew\u00fcrfelt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 50.0,
+                    "unit": " g",
+                    "ingredient_name": "D\u00f6rrfleisch , ger\u00e4uchert",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zwiebel(n) , gehackt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 2.0,
+                    "unit": " EL",
+                    "ingredient_name": "\u00d6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Butter",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 5.0,
+                    "unit": null,
+                    "ingredient_name": "Wacholderbeere(n) , angedr\u00fcckt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zweig/e Rosmarin",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Zweig/e Thymian",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 3.0,
+                    "unit": null,
+                    "ingredient_name": "Zweig/e Petersilie",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Gin",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 50.0,
+                    "unit": " ml",
+                    "ingredient_name": "Wein rot,, trocken und kr\u00e4ftig",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 125.0,
+                    "unit": " ml",
+                    "ingredient_name": "Wildfond oder Fleischbr\u00fche",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Oregano",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Pfeffer",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 2.0,
+                    "unit": " EL",
+                    "ingredient_name": "Cr\u00e8me fra\u00eeche",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 2.0,
+                    "unit": " EL",
+                    "ingredient_name": "Preiselbeeren , (nach Wunsch)",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [
+                "Wild",
+                "TK",
+                "Mikrowelle",
+                "B\u00fcro"
+            ],
+            "url": "https",
+            "source": "chefkoch.de"
         },
         {
             "name": "Hot Dogs",
@@ -3590,6 +3808,97 @@
             "source": "(5Z, S.19)"
         },
         {
+            "name": "Nusspalatschinken",
+            "id": "nusspalatschinken",
+            "yields": "2",
+            "category": "Mehlspeisen",
+            "ingredients": [
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "\u00d6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 125.0,
+                    "unit": " ml",
+                    "ingredient_name": "Milch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 60.0,
+                    "unit": " g",
+                    "ingredient_name": "Mehl",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Eier",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Prise",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": " g",
+                    "ingredient_name": "Waln\u00fcsse",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": " ml",
+                    "ingredient_name": "Milch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Pkg.",
+                    "ingredient_name": "Vanillezucker",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Zucker",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Prise",
+                    "ingredient_name": "Zimt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Prise",
+                    "ingredient_name": "Kardamom",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Schlagobers",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Staubzucker",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [
+                "ausprobieren"
+            ],
+            "url": "https",
+            "source": null
+        },
+        {
             "name": "N\u00fcrnberger Bratw\u00fcrste mit Sauerkraut",
             "id": "n\u00fcrnberger_bratw\u00fcrste_mit_sauerkraut",
             "yields": "0",
@@ -4014,6 +4323,20 @@
             "source": null
         },
         {
+            "name": "Pasta emiliana",
+            "id": "pasta_emiliana",
+            "yields": "3",
+            "category": "Pasta",
+            "ingredients": [],
+            "tags": [
+                "Hauptgericht",
+                "vegetarisch",
+                "vegan"
+            ],
+            "url": null,
+            "source": null
+        },
+        {
             "name": "Pasta mit cremige Auberginenso\u00dfe",
             "id": "pasta_mit_cremige_auberginenso\u00dfe",
             "yields": "0",
@@ -4387,6 +4710,35 @@
                 }
             ],
             "tags": [],
+            "url": null,
+            "source": null
+        },
+        {
+            "name": "Pimientos de Padr\u00f3n",
+            "id": "pimientos_de_padr\u00f3n",
+            "yields": "4",
+            "category": "Appetith\u00e4ppchen",
+            "ingredients": [
+                {
+                    "amount": 1.0,
+                    "unit": " Pkg",
+                    "ingredient_name": "Pimientos de Padon (Bratpaprika, REWE)",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.5,
+                    "unit": " TL",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [
+                "Spanien",
+                "Tapas",
+                "vegetarisch",
+                "vegan",
+                "schnell"
+            ],
             "url": null,
             "source": null
         },
@@ -4866,6 +5218,97 @@
             ],
             "url": "https",
             "source": "Gennaro"
+        },
+        {
+            "name": "Rinderschmorbraten",
+            "id": "rinderschmorbraten",
+            "yields": "4",
+            "category": "Fleischgerichte",
+            "ingredients": [
+                {
+                    "amount": 1.2,
+                    "unit": " kg",
+                    "ingredient_name": "Rinderbraten",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.0,
+                    "unit": null,
+                    "ingredient_name": "Pfeffer",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": " g",
+                    "ingredient_name": "Zwiebel",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 80.0,
+                    "unit": " g",
+                    "ingredient_name": "Karotte",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 80.0,
+                    "unit": " g",
+                    "ingredient_name": "Knollensellerie",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 80.0,
+                    "unit": " g",
+                    "ingredient_name": "Lauch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 100.0,
+                    "unit": " g",
+                    "ingredient_name": "Tomate",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 3.0,
+                    "unit": " EL",
+                    "ingredient_name": "Pflanzen\u00f6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " EL",
+                    "ingredient_name": "Tomatenmark",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": null,
+                    "ingredient_name": "Lorbeerblatt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 600.0,
+                    "unit": " ml",
+                    "ingredient_name": "Rinderfond",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " TL",
+                    "ingredient_name": "Saucenbinder, dunkel",
+                    "preparation_notes": null
+                }
+            ],
+            "tags": [
+                "ausprobieren"
+            ],
+            "url": "https",
+            "source": null
         },
         {
             "name": "Risotto",
@@ -6181,6 +6624,16 @@
                 "Hauptgericht",
                 "Fisch"
             ],
+            "url": null,
+            "source": null
+        },
+        {
+            "name": "Tiramisu",
+            "id": "tiramisu",
+            "yields": "4",
+            "category": "Desserts",
+            "ingredients": [],
+            "tags": [],
             "url": null,
             "source": null
         },
