@@ -2646,7 +2646,7 @@ Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
 !===
 !3!*Paprika bunt*; _würfeln_
 !1!Zwiebel; _grob würfeln_
-!200g!*Feta: zerkrümeln*
+!200g!*Feta*; _zerkrümeln_
 !3{nbsp}EL!*Piros Arany*
 !3{nbsp}EL!Olivenöl
 

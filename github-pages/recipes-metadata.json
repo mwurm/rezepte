@@ -3870,8 +3870,8 @@
                 {
                     "amount": 200.0,
                     "unit": "g",
-                    "ingredient_name": "Feta: zerkr\u00fcmeln",
-                    "preparation_notes": null
+                    "ingredient_name": "Feta",
+                    "preparation_notes": "zerkr\u00fcmeln"
                 },
                 {
                     "amount": 3.0,
