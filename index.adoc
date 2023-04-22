@@ -834,6 +834,22 @@ Portionen: 2, Stichwörter: ausprobieren
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!20ml!*Tahin*
+!2{nbsp}EL!*Petersilie*
+!0.5!*Frühlingszwiebel*; _gehackt_
+!0.5{nbsp}Zehen!Knoblauch; _zerdrückt_
+!5ml!*Soja-Soße*
+!8ml!*Essig*
+!8ml!*Zitronensaft*
+!15ml!Olivenöl
+!20ml!Milch
+!0.25{nbsp}TL!Salz
+
+!===
+.^| verrühren
 |===
 
 
@@ -849,6 +865,19 @@ Portionen: 2, Stichwörter: ausprobieren
 
 [%noheader, cols="1a,2", grid=rows]
 |===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Zitrone*; _Saft_
+!50g!*Joghurt*
+!25ml!*Tahin*
+!5ml!*???*
+!0.12{nbsp}TL!Paprikapulver
+!0.12{nbsp}TL!Cumin
+!1{nbsp}Msp!*Zimt (opt.)*
+
+!===
+.^| verrühren
 |===
 
 
@@ -860,7 +889,7 @@ indexterm:[Tahin-Dressing v3]
 
 ==== 💥Tahin-Dressing v3
 
-Portionen: 2, Stichwörter: ausprobieren
+Portionen: 4, Stichwörter: ausprobieren
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -884,6 +913,8 @@ Portionen: 2, Stichwörter: ausprobieren
 !===
 .^| Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
 |===
+
+ausprobiert am 22.4.23, Menge passt zu 4P
 
 
 [%always]

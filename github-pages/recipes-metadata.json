@@ -6301,7 +6301,68 @@
             "id": "tahin_dressing_v1",
             "yields": "2",
             "category": "Salate",
-            "ingredients": [],
+            "ingredients": [
+                {
+                    "amount": 20.0,
+                    "unit": "ml",
+                    "ingredient_name": "Tahin",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 2.0,
+                    "unit": " EL",
+                    "ingredient_name": "Petersilie",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.5,
+                    "unit": null,
+                    "ingredient_name": "Fr\u00fchlingszwiebel",
+                    "preparation_notes": "gehackt"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": " Zehen",
+                    "ingredient_name": "Knoblauch",
+                    "preparation_notes": "zerdr\u00fcckt"
+                },
+                {
+                    "amount": 5.0,
+                    "unit": "ml",
+                    "ingredient_name": "Soja-So\u00dfe",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 8.0,
+                    "unit": "ml",
+                    "ingredient_name": "Essig",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 8.0,
+                    "unit": "ml",
+                    "ingredient_name": "Zitronensaft",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 15.0,
+                    "unit": "ml",
+                    "ingredient_name": "Oliven\u00f6l",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 20.0,
+                    "unit": "ml",
+                    "ingredient_name": "Milch",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.25,
+                    "unit": " TL",
+                    "ingredient_name": "Salz",
+                    "preparation_notes": null
+                }
+            ],
             "tags": [
                 "ausprobieren"
             ],
@@ -6313,7 +6374,50 @@
             "id": "tahin_dressing_v2",
             "yields": "2",
             "category": "Salate",
-            "ingredients": [],
+            "ingredients": [
+                {
+                    "amount": 0.5,
+                    "unit": null,
+                    "ingredient_name": "Zitrone",
+                    "preparation_notes": "Saft"
+                },
+                {
+                    "amount": 50.0,
+                    "unit": "g",
+                    "ingredient_name": "Joghurt",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 25.0,
+                    "unit": "ml",
+                    "ingredient_name": "Tahin",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 5.0,
+                    "unit": "ml",
+                    "ingredient_name": "???",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.125,
+                    "unit": " TL",
+                    "ingredient_name": "Paprikapulver",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 0.125,
+                    "unit": " TL",
+                    "ingredient_name": "Cumin",
+                    "preparation_notes": null
+                },
+                {
+                    "amount": 1.0,
+                    "unit": " Msp",
+                    "ingredient_name": "Zimt (opt.)",
+                    "preparation_notes": null
+                }
+            ],
             "tags": [
                 "ausprobieren"
             ],
@@ -6323,7 +6427,7 @@
         {
             "name": "Tahin-Dressing v3",
             "id": "tahin_dressing_v3",
-            "yields": "2",
+            "yields": "4",
             "category": "Salate",
             "ingredients": [
                 {

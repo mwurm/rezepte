@@ -1,5 +1,5 @@
 Tahin-Dressing v3
-:yields: 2
+:yields: 4
 :category: Salate
 :subcategory: Dressing
 :tags: ausprobieren
@@ -13,3 +13,5 @@ Tahin-Dressing v3
 40ml Wasser
 # 
 # Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
+---
+ausprobiert am 22.4.23, Menge passt zu 4P
