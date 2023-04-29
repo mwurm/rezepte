@@ -37,7 +37,8 @@ jobs:
       - uses: reitzig/actions-asciidoctor@v2.0.1
         with:
           version: 2.0.18
-      - run: docbuild.sh
+      - run: ls -la
+      - run: ./docbuild.sh
       - name: Setup Pages
         uses: actions/configure-pages@v3
         
