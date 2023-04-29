@@ -1,4 +1,16 @@
 Bosna-Semmel
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch;schnell
+
+1 rote Zwiebel; fein würfeln
+2 EL Aceto balsamico
+0.5 TL Salz
+# 15min ziehen lassen (macht die Zwiebeln milder)
+4 kleine Bratwürste
+# grillen
+2 Semmeln
+0 Estragon-Senf
+0 Bosna-Gewürz
+# Semmeln mit Senf bestreichen, belegen und würzen
+
