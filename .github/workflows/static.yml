@@ -35,6 +35,7 @@ jobs:
         with:
           python-version: '3.10' 
           cache: 'pip' # caching pip dependencies
+      - run: pip install requirements.txt
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
