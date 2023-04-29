@@ -1,0 +1,4 @@
+Harissa-Hähnchen
+:yields: 0
+:category: Geflügel
+:tags: Hauptgericht;Geflügel

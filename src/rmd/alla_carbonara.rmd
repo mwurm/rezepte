@@ -1,0 +1,19 @@
+Pasta alla Carbonara
+:yields: 2
+:category: Pasta
+:tags: Italien;schnell
+:indexterms: Pasta, alla Carbonara; Carbonara
+
+
+100 g Bauchspeck; feine Streifen
+# langsam anbraten
+
+200g Pasta
+# kochen
+
+3 Eigelb
+100ml Sahne
+50g Parmesan
+# verquirlen
+# Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben
+# Modifikation: ohne Sahne, TODO

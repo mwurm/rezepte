@@ -2,5 +2,5 @@ build/*
 !build/index.html
 .bundle/
 vendor/
-*.html
 *.pdf
+*.pyc

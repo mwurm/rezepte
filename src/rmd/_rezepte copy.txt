@@ -1,0 +1,122 @@
+== Appetithäppchen
+
+=== Tramezzini
+==== Lachs, Gurke, Senf-Dill-Sauce
+==== Tomate, Mozzarelle, Pesto
+==== Artischocken-Creme, Salami
+==== Thunfisch-Sardrellen-Creme
+==== Salami, Gurke, Remoulade
+==== Avocado-Krabben-Creme
+==== Schinken, Eiercreme, Tomat
+==== Dillrahm-Shrimps
+==== Lachs, Gurke
+==== Pilzpaste, Parmaschinken
+
+== Suppe
+=== Gemüsesuppe
+=== Blumenkohlsuppe
+=== Sellerie-Suppe
+=== Fleischbrühe
+
+== Salat
+=== Kartoffelsalat
+
+== Pasta
+=== Lasagne
+
+== Fisch
+include::rezepte/fisch/curry_mango_garnelen.adoc[]
+
+== Vegetarisches
+include::rezepte/vegetarisches/linsencurry_mit_spinat.adoc[]
+
+=== Indisches Dal
+=== Halloumi-Pilz-Paprika-Spieße
+=== Auberginen-Pizza vom Grill
+
+
+
+== Mehlspeisen
+== Süßspeisen, warm
+
+== Süßspeisen, kalt
+=== Bayerische Creme
+=== Glühweinkirchen mit Zimtmousse
+=== Zimtmousse
+=== Pralinenmousse
+=== Schokoladenmousse
+
+== Kuchen, Torten, Cookies, Muffins
+=== Cookies
+==== Zitronenkekse mit weißer Schokolade
+==== Schokoladencookies
+
+=== Kuchen
+==== New York Cheesecake
+==== Triple Choc Muffins
+==== Träubleskuchen
+==== Schoko-Cookies mit M&Ms
+==== Rhabarberkuchen mit Baiser
+==== Zitronentarte (tb)
+==== Ferdinand-Krapferl
+==== Scones
+
+=== Cupcakes - Sponges
+==== Schoko-Schoko-Sponge
+==== Triple Pistachio Cupcake Sponge
+=== Cupcakes - Toppings
+==== Triple Pistachio Cupcake Topping
+==== Himbeer-Topping
+==== Italienische Meringe Buttercreme mit Sirup
+
+
+
+== Frühstück
+=== Eier-Schinken-Käse-Muffins (Frühstück aus dem Muffinblech)
+
+== Beilagen
+include::rezepte/beilagen/pesto.adoc[]
+=== Pommes Frites
+=== Kroketten
+=== Rösti
+
+include::rezepte/süße_beilagen/vanillesoße.adoc[]
+
+=== Himbeermark
+
+== Suppeneinlagen
+=== Schinkenschöberl
+=== Grießklößchen
+=== Kaspressknödel
+
+== Basis
+=== Pici-Nudeln
+=== Italienische Meringue
+
+== Dressing
+=== American Dressing
+=== Dressing mit Ahornsirup
+=== Dressing mit Preiselbeeren
+=== Casesar Dressing
+=== Granatapfeldressing
+=== Joghurt-Dressing
+=== Thousand-Island Dressing
+=== Öl und Essig
+=== Vinaigrette
+=== Honig-Rosmarin-Dressing (MM, side order salad)
+=== Himbeervinaigrette (Foto, MM)
+
+== Gewürze + Rubs
+=== Magic Dust
+=== Memphis Dust
+=== Arizona Rub
+=== Harissa
+
+
+
+
+
+== Saisonal
+=== Halloween
+==== Spinnen-Pizza (???)
+

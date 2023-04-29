@@ -1,0 +1,6 @@
+Grießglößchensuppe
+:yields: 0
+:category: Beilagen
+:tags: vegetarisch
+
+# TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)

@@ -65,3 +65,49 @@ After installing asciidoctor, run the build:
 bundle exec -- ./docbuild.sh
 ----
 The output of the build will be build/rezepte.html
+
+
+== Beliebiges Rezept in Mealie-JSON-Format umwandeln
+
+[source, bash]
+----
+./mealie.py -u <rezept_url>
+----
+
+
+= Workspace Setup
+
+Python
+```
+pip install rotunicode
+```
+
+Asciidoctor
+```
+gem install asciidoctor
+gem install asciidoctor-pdf
+```
+
+Executables
+
+```
+chmod u+x *.sh *.py
+```
+
+== Workflows
+
+=== Neues Rezept aus dem Internet hinzufügen:
+
+```
+./mealy.py -u <url>
+
+# Erzeugtes .rmd-File anpassen, unter src/rmd/ hinterlegen
+
+# Erzeuge index.adoc aus .rmd-Files
+./rmd_to_asciidoc.py src/rmd/*.rmd
+
+# Erzeuge index.html aus AsciiDoc-Files
+./docbuild.sh
+```
+
+

@@ -1,0 +1,4 @@
+Lachs aus der Holzplanke
+:yields: 0
+:category: Fisch
+:tags: Hauptgericht;Fisch;leicht

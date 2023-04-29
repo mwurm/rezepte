@@ -1,0 +1,4 @@
+Kartoffelgratin
+:yields: 0
+:category: Aufläufe
+:tags: Hauptgericht;Käse;vegetarisch

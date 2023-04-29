@@ -1,0 +1,4 @@
+Rührei
+:yields: 0
+:category: Vegetarisches
+:tags: Hauptgericht;vegetarisch

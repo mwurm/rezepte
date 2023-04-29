@@ -1,0 +1,18 @@
+Cacio e pepe
+:yields: 2
+:category: Pasta
+:tags: Italien;schnell
+:url: https://www.youtube.com/watch?v=UzhkMm7gV2w
+
+200g Spaghetti
+# kochen (mit halb soviel Wasser als üblich)^1^.
+
+8 EL Pecorino; gerieben
+1 TL Pfeffer; grob gemahlen
+# in Schüssel vermengen
+# Spaghetti direkt aus dem Topf in den Pecorino geben
+# vermengen
+4 EL Nudelwasser
+# portionsweise zugeben und zu cremiger Soße vermengen
+
+#^1^ statt 10-100-1000-Regel hier: 10-200-1000

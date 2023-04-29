@@ -1,0 +1,9 @@
+Pfannkuchen
+:yields: 2
+:category: Mehlspeisen
+
+150g Mehl
+1 Prise Salz
+125ml Wasser
+2 Eier
+# verrühren

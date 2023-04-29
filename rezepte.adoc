@@ -6,7 +6,9 @@
 
 = Rezepte
 :pdf-page-size: A5
-:toc:
+:toc: left
+:toclevels: 4
+:toc-title:
 
 Quelle: https://github.com/SUSE/recipebook.
 
@@ -24,28 +26,41 @@ include::rezepte/appetithäppchen/hackfleischtaschen.adoc[]
 <<<
 include::rezepte/appetithäppchen/käsegebäck.adoc[]
 
+=== Oliventapenade
+=== Pizza-Toast mit Sardellen
+=== Frischkäse-Aufstrich
+=== Obazda
+=== Tramezzini
+==== Lachs, Gurke, Senf-Dill-Sauce
+==== Tomate, Mozzarelle, Pesto
+==== Artischocken-Creme, Salami
+==== Thunfisch-Sardrellen-Creme
+==== Salami, Gurke, Remoulade
+==== Avocado-Krabben-Creme
+==== Schinken, Eiercreme, Tomat
+==== Dillrahm-Shrimps
+==== Lachs, Gurke
+==== Pilzpaste, Parmaschinken
 
-[%always]
-<<<
-[id='sec.beilagen']
-== Beilagen
+== Vorspeisen, kalt
+=== Antipasti
+=== Kohlrabi-Carpaccio
 
-[%always]
-<<<
-include::rezepte/beilagen/pesto.adoc[]
 
-[%always]
-<<<
-include::rezepte/beilagen/hummus.adoc[]
+== Suppe
+=== Artischockensuppe
+=== Käse-Lauch-Hackfleisch-Suppe
+=== Maronensuppe
+=== Kürbissuppe
+=== Serbische Bohnensuppe
+=== Gemüsesuppe
+=== Blumenkohlsuppe
+=== Sellerie-Suppe
+=== Fleischbrühe
+=== Artischockensuppe
+=== Kürbissuppe
+=== Gulaschsuppe
 
-[%always]
-<<<
-include::rezepte/beilagen/semmelknödel.adoc[]
-
-(((Reis, Tomatenreis)))
-(((Tomatenreis)))
-
-=== Tomatenreis
 
 [%always]
 <<<
@@ -56,6 +71,17 @@ include::rezepte/beilagen/semmelknödel.adoc[]
 <<<
 include::rezepte/salat/avocado_bulgur_salat.adoc[]
 
+=== Bayrischer Wurstsalat
+=== Falafelsalat mit Tahin-Dressing (telegram 21-9-13)
+=== Italienischer Salat
+=== Salat mit Maultaschen + Sauerrahmdressing
+=== Caesar Salad (JO 20m)
+=== Avocado-Bulgur-Salat
+=== Gurkensalat
+=== Mediterraner Nudelsalat
+=== Kartoffelsalat
+=== Karottensalat
+
 
 [%always]
 <<<
@@ -64,19 +90,98 @@ include::rezepte/salat/avocado_bulgur_salat.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/fettuccine_alfredo.adoc[]
+include::rezepte/pasta/fettuccine_alfredo.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/lemon_tagliatelle.adoc[]
+include::rezepte/pasta/lemon_tagliatelle.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/ragu_alla_bolognese.adoc[]
+include::rezepte/pasta/ragu_alla_bolognese.adoc[]
 
 [%always]
 <<<
-include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
+include::rezepte/pasta/tagliatelle_alla_emiliana.adoc[]
+
+=== Amatriciana
+=== Carbonara
+=== … mit Speck-Zwiebel-Ziegenkäse
+=== … mit Garnelen, Pesto + Roséwein (5Z, S.73)
+=== … mit Oliven und Ziegenkäse
+=== … mit Pilzen + Knoblauch (5Z, S.65)
+=== … mit Shrimps
+=== … mit Walnuss-Soße
+=== Lasagne
+=== Risotto
+
+[%always]
+<<<
+[id='sec.pizza_etc']
+== Pizza etc.
+=== Flammkuchen
+=== Kürbis-Pizza mit Pfifferlingen
+
+
+
+
+[%always]
+<<<
+[id='sec.rind_und_schwein']
+== Rind & Schwein
+
+[%always]
+<<<
+include::rezepte/rind_und_schwein/texas_jailhouse_chili.adoc[]
+
+=== Bifteki
+=== Bosna
+=== Cevapcici
+=== Croque Monsieur / Madame
+=== Currywurst
+=== Fleischpflanzerl
+=== Gulasch
+=== Hackbraten
+=== Hackfleisch-Taschen (Tupper)
+=== Hot Dog
+=== Leberkäs
+=== Nürnberger Bratwürste mit Sauerkraut (oR)
+=== Pelmeni
+=== Rouladen
+=== Sahara-Chili
+=== Schmorbraten
+=== Schmorfleisch (5Z, S.195)
+=== Schmorfleisch Jamie-Style
+=== Schweinefilet vom Grill
+=== Souvlaki
+=== Weißwürste
+=== What the hack-Buletten (MM)
+=== Wiener
+=== Zwiebelrostbraten
+
+(((Pilztopf)))
+
+=== Pilztopf
+
+=== Brotkranz mit Kürbis, Schinken, Oliven, Kräutern (Anne)
+=== Kürbischaos
+=== Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream (oR)
+=== Toast Hawaii (oR)
+=== Zuchhini mit Hack und Linsen (Anne)
+
+
+
+[%always]
+<<<
+[id='sec.gefluegel']
+== Geflügel
+
+=== Chicken Tikka Masala
+=== Halbes Hendl
+=== Pesto-Hähnchen mit Blätterteig (5Z, S. 115)
+=== Putenbrust mit Maronenfüllung
+=== Putenschnitzel
+=== Tikka Brathähnchen im Ofen (5Z, S?)
 
 
 [%always]
@@ -87,6 +192,19 @@ include::rezepte/nudeln/tagliatelle_alla_emiliana.adoc[]
 [%always]
 <<<
 include::rezepte/fisch/curry_mango_garnelen.adoc[]
+
+=== Dorade vom Grill
+=== Forelle aus dem Ofen
+=== Lachs auf Bohnengemüse (Anne)
+=== Lachs mit Chorizo (5Z, S. 125)
+=== Nizza Salat (5Z, S.19)
+=== Steckerlfisch
+=== Sushi
+=== Tintenfisch vom Grill
+
+
+
+
 
 [%always]
 <<<
@@ -102,10 +220,6 @@ include::rezepte/vegetarisches/linsencurry_mit_spinat.adoc[]
 === Spargel und Eier mit French Dressing
 
 <<_5Z>>, S. 165
-
-(((Pilztopf)))
-
-=== Pilztopf
 
 (((Paprikaauflauf mit Feta)))
 (((Auflauf, Paprikaauflauf mit Feta)))
@@ -213,6 +327,35 @@ Tipp: Wer möchte, kann das Curry mit Basmati-Reis oder Couscous servieren
 
 [%always]
 <<<
+[id='sec.kaese']
+== Käse
+
+(((Camemburger)))
+(((Camembert, Camemburger)))
+
+=== Camemburger
+
+(((Camembert, gebackener)))
+
+=== Gebackener Camembert
+
+=== Kartoffelgratin
+
+=== Käsespätzle
+
+=== Melanzane al Parmigiana
+
+=== Paprikaauflauf mit Feta
+
+=== Raclette
+
+
+
+
+
+
+[%always]
+<<<
 [id='sec.mehlspeisen']
 == Mehlspeisen
 
@@ -238,6 +381,135 @@ include::rezepte/mehlspeisen/waffeln.adoc[]
 [%always]
 <<<
 include::rezepte/kuchen/zwiebelkuchen.adoc[]
+
+
+== Süßspeisen, warm
+=== Kaiserschmarrn
+=== Pfannkuchen / Crêpe / Pancake
+=== Dampfnudeln
+
+== Süßspeisen, kalt
+=== Schokoladenpudding
+=== Vanilleeis mit heißen Kirschen / Himbeeren
+=== Bayerische Creme
+=== Glühweinkirchen mit Zimtmousse
+=== Zimtmousse
+=== Pralinenmousse
+=== Schokoladenmousse
+
+
+== Kuchen, Torten, Cookies, Muffins
+=== Cookies
+==== Zitronenkekse mit weißer Schokolade
+==== Schokoladencookies
+
+=== Kuchen
+==== New York Cheesecake
+==== Triple Choc Muffins
+==== Träubleskuchen
+==== Schoko-Cookies mit M&Ms
+==== Rhabarberkuchen mit Baiser
+==== Zitronentarte (tb)
+==== Ferdinand-Krapferl
+==== Scones
+
+=== Cupcakes - Sponges
+==== Schoko-Schoko-Sponge
+==== Triple Pistachio Cupcake Sponge
+=== Cupcakes - Toppings
+==== Triple Pistachio Cupcake Topping
+==== Himbeer-Topping
+==== Italienische Meringe Buttercreme mit Sirup
+
+
+
+== Frühstück
+=== Blaubeer-Joghurt-Pancakes
+=== Eier-Schinken-Käse-Muffins (Frühstück aus dem Muffinblech)
+
+
+[%always]
+<<<
+[id='sec.beilagen']
+== Beilagen
+
+[%always]
+<<<
+include::rezepte/beilagen/pesto.adoc[]
+
+[%always]
+<<<
+include::rezepte/beilagen/hummus.adoc[]
+
+[%always]
+<<<
+include::rezepte/beilagen/semmelknödel.adoc[]
+
+(((Reis, Tomatenreis)))
+(((Tomatenreis)))
+
+=== Tomatenreis
+
+=== Rahmwirsing
+=== Röstzwiebeln
+=== Tsatsiki
+=== Pommes Frites
+=== Kroketten
+=== Rösti
+=== Grüne Bohnen
+=== Rispentomaten aus dem Ofen
+
+
+== süße Beilagen
+=== Pflaumenröster
+
+[%always]
+<<<
+include::rezepte/süße_beilagen/vanillesoße.adoc[]
+
+=== Orangenscheiben, getrocknet
+=== Himbeermark
+
+== Suppeneinlagen
+=== Schinkenschöberl
+=== Grießklößchen
+=== Kaspressknödel
+
+== Basis
+=== Tomatensoße
+=== Pizzateig
+=== Tomatensoße
+=== Pici-Nudeln
+=== Nudelteig
+=== Italienische Meringue
+
+
+== Dressing
+=== American Dressing
+=== Dressing mit Ahornsirup
+=== Dressing mit Preiselbeeren
+=== Casesar Dressing
+=== Granatapfeldressing
+=== Joghurt-Dressing
+=== Thousand-Island Dressing
+=== Öl und Essig
+=== Vinaigrette
+=== Honig-Rosmarin-Dressing (MM, side order salad)
+=== Himbeervinaigrette (Foto, MM)
+
+== Gewürze + Rubs
+=== Magic Dust
+=== Memphis Dust
+=== Arizona Rub
+=== Harissa
+
+
+
+
+
+== Saisonal
+=== Halloween
+==== Spinnen-Pizza (???)
 
 
 [%always]

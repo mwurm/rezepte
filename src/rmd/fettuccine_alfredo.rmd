@@ -1,0 +1,15 @@
+Fettucine Alfredo
+:yields: 2
+:category: Pasta
+:tags: Italien;schnell
+
+200g Fettucine
+# kochen (mit halb soviel Wasser als üblich)^1^.
+# Nudelwasser abgießen, aber einen Teil behalten.
+# Pasta für den nächsten Schritt wieder in den noch heißen Topf geben.
+40g Butter
+80ml Nudelwasser
+60g Parmesan
+# Jeweils die Hälfte von Butter, Nudelwasser und Parmesan in die Pasta geben und zu cremiger Konsistenz verrühren. Dann wiederholen.
+# mit Pfeffer servieren
+#^1^ statt 10-100-1000-Regel hier: 10-200-1000

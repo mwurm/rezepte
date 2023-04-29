@@ -1,0 +1,5 @@
+Camembert, gebacken
+:yields: 0
+:category: Ofengerichte
+:tags: Hauptgericht;Käse;vegetarisch;schnell mit Aufheizzeit
+:indexterms: Gebackener Camembert

@@ -1,0 +1,6 @@
+Lachs mit Chorizo
+:yields: 4
+:category: Fisch
+:tags: Hauptgericht;Fisch
+:source: Jamie Oliver 5 Zutaten, S. 125
+

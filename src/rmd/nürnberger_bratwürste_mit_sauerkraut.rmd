@@ -1,0 +1,4 @@
+Nürnberger Bratwürste mit Sauerkraut
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;Fleisch

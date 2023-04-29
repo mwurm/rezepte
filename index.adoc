@@ -1,152 +1,6390 @@
-// Hardbreaks: Newline macht auch in Asciidoc neue Zeile
-:hardbreaks-option:
+:imagesdir: images
+:lang: DE
+:hyphens:
 
-Basis:::
-Tomatensoße
-Pizzateig
-Tomatensoße
-Pici-Nudeln
-Nudelteig
-Italienische Meringue
+:docinfo:
 
+= Rezepte
+:pdf-page-size: A5
+:toc: left
+:toclevels: 4
+:toc-title:
 
+Stichwörter: Aufstrich; ausprobieren; Bayern; Beilage; Büro; Deutschland; Eintopf; Eis; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; kalt; Kichererbsen; Käse; Lamm; leicht; Low Carb; Low Meat; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; Spanien; süß; Tapas; Thai; TK; Ungarn; USA; vegan; vegetarisch; Wild; Österreich
 
-Beilagen:::
-Rahmwirsing
-Röstzwiebeln
-Tsatsiki
-Tomatenreis
-Avocado-Bulgur-Salat
-Gurkensalat
-Mediterraner Nudelsalat
-Kartoffelsalat
-Pommes Frites
-Kroketten
-Rösti
-Grüne Bohnen
-Rispentomaten aus dem Ofen
-Karottensalat
+== Appetithäppchen
 
-Frühstück:::
-Blaubeer-Joghurt-Pancakes
-Eier-Schinken-Käse-Muffins (Frühstück aus dem Muffinblech)
+[%always]
+<<<
+[id='sec.hackfleischtaschen']
 
-süße Beilagen::
-Pflaumenröster
-Vanillesoße
-Orangenscheiben, getrocknet
-Himbeermark
-Suppeneinlagen::
-Schinkenschöberl
-Grießklößchen
-Kaspressknödel
+indexterm:[Hackfleischtaschen]
+indexterm:[Teigtaschen, Hackfleischtaschen]
 
-Dressing:::
-American Dressing
-Dressing mit Ahornsirup
-Dressing mit Preiselbeeren
-Casesar Dressing
-Granatapfeldressing
-Joghurt-Dressing
-Thousand-Island Dressing
-Öl und Essig
-Vinaigrette
-Honig-Rosmarin-Dressing (MM, side order salad)
-Himbeervinaigrette (Foto, MM)
+=== Hackfleischtaschen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| aus Tupper-Rezeptbuch
+|===
 
 
+[%always]
+<<<
+[id='sec.käsegebäck']
 
-Gewürze + Rubs:::
-Magic Dust
-Memphis Dust
-Arizona Rub
-Harissa
+indexterm:[Käsegebäck]
 
+=== Käsegebäck
 
+Portionen: 12, Stichwörter: 
 
-Häppchen:::
-Oliventapenade
-Pizza-Toast mit Sardellen
-Frischkäse-Aufstrich
-Obazda
-Tramezzini::
-Lachs, Gurke, Senf-Dill-Sauce
-Tomate, Mozzarelle, Pesto
-Artischocken-Creme, Salami
-Thunfisch-Sardrellen-Creme
-Salami, Gurke, Remoulade
-Avocado-Krabben-Creme
-Schinken, Eiercreme, Tomat
-Dillrahm-Shrimps
-Lachs, Gurke
-Pilzpaste, Parmaschinken
+[%noheader, cols="1a,2", grid=rows]
+|===
 
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Gruyere*
 
+!===
+.^| in kleiner KitchenAid-Schüssel reiben
 
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Eigelb
+!85g!Mehl
+!60g!Butter; _kalt, gewürfelt_
+!1{nbsp}Pr!Salz, Pfeffer, Cayennepfeffer
 
-Suppe:::
-Artischockensuppe
-Käse-Lauch-Hackfleisch-Suppe
-Maronensuppe
-Kürbissuppe
-Serbische Bohnensuppe
-Gemüsesuppe
-Blumenkohlsuppe
-Sellerie-Suppe
-Fleischbrühe
-Artischockensuppe
-Kürbissuppe
-Gulaschsuppe
+!===
+.^| zugeben, mit Maschine zu glattem Teig kneten, ab und zu mit Hand nachhelfen.
 
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
 
+!===
+.^| 30 min in Kühlschrank ruhen
 
-Süßspeisen:::
-warm::
-Kaiserschmarrn
-Pfannkuchen / Crêpe / Pancake
-Dampfnudeln
-kalt::
-Schokoladenpudding
-Vanilleeis mit heißen Kirschen / Himbeeren
-Bayerische Creme
-Glühweinkirchen mit Zimtmousse
-Zimtmousse
-Pralinenmousse
-Schokoladenmousse
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Eiklar
+!1!*Blüten / Cumin*
 
-Kuchen, Torten, Cookies, Muffins:::
-Cookies::
-Zitronenkekse mit weißer Schokolade
-Schokoladencookies
+!===
+.^| Teig ca. 3mm dick ausrollen, ausstechen, mit Eiklar bepinseln, mit Blüten und/oder Cumin bestreuen, nochmal mit Eiklar bepinseln.
 
-Kuchen::
-New York Cheesecake
-Triple Choc Muffins
-Träubleskuchen
-Schoko-Cookies mit M&Ms
-Rhabarberkuchen mit Baiser
-Zitronentarte (tb)
-Ferdinand-Krapferl
-Scones
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
 
-Cupcakes - Sponges:::
-Schoko-Schoko-Sponge
-Triple Pistachio Cupcake Sponge
-Cupcakes - Toppings:::
-Triple Pistachio Cupcake Topping
-Himbeer-Topping
-Italienische Meringe Buttercreme mit Sirup
+!===
+.^| Backofen auf 🌡180℃ vorheizen, Gebäck 30 min auf Blech ruhen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 7-8 min backen
+|===
 
 
+[%always]
+<<<
+[id='sec.oliventapenade']
+
+indexterm:[Oliventapenade]
+
+=== Oliventapenade
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!80g!*Oliven, schwarz, entsteint*
+!2!*Sardellenfilets*
+!4!Knoblauchzehen
+!1{nbsp}TL!*Kapern*
+!2{nbsp}EL!Olivenöl
+
+!===
+.^| in Zerkleinerer geben (Tupper Quick-Chef)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Sardellenpaste statt -filets
+|===
 
 
-Vorspeisen:::
-kalt::
-Antipasti
-Kohlrabi-Carpaccio
+[%always]
+<<<
+[id='sec.pfifferlinge_auf_weißbrot']
 
-Saisonal:::
-Halloween::
-Spinnen-Pizza (???)
+indexterm:[Pfifferlinge auf Weißbrot]
+
+=== Pfifferlinge auf Weißbrot
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
 
 
+[%always]
+<<<
+[id='sec.pimientos_de_padrón']
+
+indexterm:[Pimientos de Padrón]
+
+=== Pimientos de Padrón
+
+Portionen: 4, Stichwörter: Spanien, Tapas, vegetarisch, vegan, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Pkg!*Pimientos de Padon (Bratpaprika, REWE)*
+
+!===
+.^| in 1 EL Olivenöl bei mittlerer Hitze anbraten und regelmäßig schwenken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5{nbsp}TL!Salz
+
+!===
+.^| zugeben, sobald das Salz haften bleiben kann
+|===
+
+
+[%always]
+<<<
+[id='sec.pizza_toast_mit_sardellen']
+
+indexterm:[Pizza-Toast mit Sardellen]
+
+=== Pizza-Toast mit Sardellen
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6{nbsp}Scheiben!Toast; _toasten_
+!1{nbsp}Zehe!Knoblauch
+!1{nbsp}EL!Olivenöl
+
+!===
+.^| Toast mit Knoblauch einreiben und mit Öl bepinseln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6!*Käsescheiben (Gouda)*
+!200g!*Kirschtomaten (halbiert)*
+!12!*Sardellenfilets (in Öl)*
+!100g!*Oliven (schwarz)*; _halbieren_
+!0.25!*Zitrone (Saft)*
+!0!Salz, Pfeffer
+
+!===
+.^| Toast belegen, 5min überbacken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!18{nbsp}Blätter!*Basilikum*
+
+!===
+.^| Toast dekorieren
+|===
+
+
+== Salate
+
+[%always]
+<<<
+[id='sec.avocado_bulgur_salat']
+
+indexterm:[Avocado-Bulgur-Salat]
+
+=== Avocado-Bulgur-Salat
+
+Portionen: 2, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150{nbsp}g!*Bulgur*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch
+!2{nbsp}EL!Tomatenmark
+!2{nbsp}EL!Olivenöl
+!1{nbsp}EL!*Curry*
+
+!===
+.^| mit Bulgur vermischen, mit Salz und Pfeffer abschmecken, 20m abkühlen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Tomaten*; _gewürfelt (ohne Fruchtfleisch)_
+!1!*Avocado*
+!1!*Mozzarella*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}Zweige!*Basilikum*
+
+!===
+.^| schneiden, zugeben, abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.bayrischer_wurstsalat']
+
+indexterm:[Bayrischer Wurstsalat]
+
+=== Bayrischer Wurstsalat
+
+Portionen: 2, Stichwörter: Deutschland, Bayern
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Lyoner*; _Scheiben_
+!4!*Gewürzgurken*; _Scheiben_
+!2!*rote Zwiebeln*; _Scheiben_
+!4{nbsp}EL!Weißweinessig
+!4{nbsp}EL!*Rapsöl*
+!4{nbsp}EL!*Gurkenwasser*
+
+!===
+.^| vermengen, mit Salz und Pfeffer abschmecken und ziehen lassen
+|===
+
+
+[%always]
+<<<
+[id='sec.caesar_salad']
+
+indexterm:[Caesar Salad]
+
+=== Caesar Salad
+
+Portionen: 0, Stichwörter: Hauptgericht, Salat, leicht, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (JO 20m)
+|===
+
+
+[%always]
+<<<
+[id='sec.falafelsalat_mit_tahin_dressing']
+
+indexterm:[Falafelsalat mit Tahin-Dressing]
+
+=== Falafelsalat mit Tahin-Dressing
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Salat, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.gurkensalat_mit_schmand']
+
+indexterm:[Gurkensalat mit Schmand]
+
+=== Gurkensalat mit Schmand
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Essig*
+!1{nbsp}TL!Salz
+!1{nbsp}Bch!*Schmand*
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Salatgurke*; _gehobelt_
+!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
+
+!===
+.^| vermengen
+|===
+
+
+[%always]
+<<<
+[id='sec.italienischer_salat__']
+
+indexterm:[Italienischer Salat		]
+
+=== Italienischer Salat		
+
+Portionen: 4, Stichwörter: Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Pck Salatkrönung*; _mit Wasser vermengt_
+!2{nbsp}EL!Weinessig
+!2{nbsp}EL!Öl
+!1{nbsp}Bch!*Crème légère*
+!2{nbsp}EL!*Mayonnaise*
+!1{nbsp}Bch!*Sahne*
+!0!Pfeffer
+
+!===
+.^| zu Dressing verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Kopfsalat*
+!3!*Tomaten*; _achteln_
+!5!*Karotten*; _reiben_
+!1!*Frühlingszwiebel*; _Scheiben_
+!1{nbsp}Bd!*Radieschen*; _Scheiben_
+!1!*Gurke*; _Scheiben_
+!200g!*Kochschinken*; _Streifen_
+!200g!*Käse*; _Streifen_
+
+!===
+.^| mit Dressing zu Salat zubereiten
+|===
+
+
+[%always]
+<<<
+[id='sec.karotten_staudensellerie_salat']
+
+indexterm:[Karotten-Staudensellerie-Salat]
+
+=== Karotten-Staudensellerie-Salat
+
+Portionen: 3, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6!*Karotten*; _gerieben_
+!1!*Staudensellerie*; _schälen, Scheiben_
+!0.5{nbsp}TL!Zucker
+!1{nbsp}TL!Salz
+!3{nbsp}EL!*Essig*
+!1{nbsp}EL!Öl
+!1{nbsp}Bch!*Schmand*
+
+!===
+.^| vermischen, 2h ziehen lassen
+|===
+
+
+[%always]
+<<<
+[id='sec.karottensalat']
+
+indexterm:[Karottensalat]
+
+=== Karottensalat
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!9!*Karotten*; _gerieben_
+!0.5{nbsp}TL!Zucker
+!1{nbsp}TL!Salz
+!4{nbsp}EL!*Essig*
+!1{nbsp}EL!Öl
+
+!===
+.^| vermischen, 2h ziehen lassen
+|===
+
+
+[%always]
+<<<
+[id='sec.kohlrabi_carpaccio']
+
+indexterm:[Kohlrabi-Carpaccio]
+
+=== Kohlrabi-Carpaccio
+
+Portionen: 2, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Kohlrabi*; _gehobelt_
+
+!===
+.^| fächerförmig auf Teller anrichten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Zitrone (Saft)*
+!3{nbsp}EL!Olivenöl
+!30g!*Parmesan*
+!60g!*Parmaschinken*
+
+!===
+.^| auf Kohlrabi verteilen, salzen und pfeffern
+|===
+
+
+[%always]
+<<<
+[id='sec.mediterraner_nudelsalat']
+
+indexterm:[Mediterraner Nudelsalat]
+
+=== Mediterraner Nudelsalat
+
+Portionen: 4, Stichwörter: vegetarisch, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Nudeln*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Zucchini*; _Scheiben geviertelt_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5{nbsp}Glas!*Tomaten (getrocket)*; _würfeln_
+!1!*Mozzarella*; _würfeln_
+!1{nbsp}Bund!*Rucola*
+!50g!*Pinienkerne*
+
+!===
+.^| vermengen mit Nudeln und Zucchini
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6{nbsp}EL!Olivenöl
+!3{nbsp}EL!*Aceto balsamico*
+!1{nbsp}TL!Senf (scharf)
+!2{nbsp}EL!*Pesto*
+
+!===
+.^| Dressing zubereiten, mit Salz und Pfeffer abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Nudelsalat vermengen
+|===
+
+
+[%always]
+<<<
+[id='sec.salat_mit_maultaschen___sauerrahmdressing']
+
+indexterm:[Salat mit Maultaschen + Sauerrahmdressing]
+
+=== Salat mit Maultaschen + Sauerrahmdressing
+
+Portionen: 0, Stichwörter: Hauptgericht, Salat
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+=== Dressing
+
+[%always]
+<<<
+[id='sec.american_dressing']
+
+indexterm:[American Dressing]
+
+==== 💥American Dressing
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!60ml!*Salatmayonnaise*
+!60ml!*saure Sahne*
+!30ml!*Speisequark*
+
+!===
+.^| glatt rühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!45ml!Milch
+!45ml!*Ketchup*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!*Schnittlauch (opt.)*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!30g!*Sardellenfilets*; _gehackt_
+!1{nbsp}EL!*Parmesan*; _gerieben_
+!1{nbsp}TL!Senf
+!1!Eigelb
+!60ml!*Zitronensaft*
+!0.5{nbsp}TL!Zucker
+!1{nbsp}EL!Weißweinessig
+
+!===
+.^| mit Stabmixer pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125ml!*Sonnenblumenöl*
+
+!===
+.^| langsam zugeben und weiterpürieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.caesar_dressing']
+
+indexterm:[Caesar Dressing]
+
+==== 💥Caesar Dressing
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!30g!*Sardellenfilets*; _gehackt_
+!1{nbsp}EL!*Parmesan*; _gerieben_
+!1{nbsp}TL!Senf
+!1!Eigelb
+!60ml!*Zitronensaft*
+!0.5{nbsp}TL!Zucker
+!1{nbsp}EL!Weißweinessig
+
+!===
+.^| mit Stabmixer pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125ml!*Sonnenblumenöl*
+
+!===
+.^| langsam zugeben und weiterpürieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.dressing_mit_ahornsirup']
+
+indexterm:[Dressing mit Ahornsirup]
+
+==== Dressing mit Ahornsirup
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!1!*Zitrone (Saft)*
+!2{nbsp}EL!ÖL
+!2{nbsp}EL!*Aceto balsamico*
+!3{nbsp}EL!Ahornsirup
+!1{nbsp}TL!Senf
+!1{nbsp}TL!Salz
+
+!===
+.^| verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.dressing_mit_preiselbeeren']
+
+indexterm:[Dressing mit Preiselbeeren]
+
+==== Dressing mit Preiselbeeren
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Preiselbeeren*
+!2{nbsp}EL!ÖL
+!3{nbsp}EL!*Aceto balsamico*
+!1{nbsp}TL!Senf
+!1{nbsp}TL!Salz
+
+!===
+.^| verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.granatapfeldressing']
+
+indexterm:[Granatapfeldressing]
+
+==== Granatapfeldressing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Granatapfel*
+
+!===
+.^| eine Hälfte: auspressen, andere Hälfte: Kerne lösen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!15ml!*Zitronensaft*
+!15ml!Senf, mittelscharf
+!15ml!Ahornsirup
+!3{nbsp}EL!Öl
+!0!Salz, Pfeffer
+
+!===
+.^| verrühen (mit Granatapfelsaft)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| servieren: Kerne später auf Salat geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Mod: + Petersilie / + Rosmarin / Honig statt Zucker
+|===
+
+
+[%always]
+<<<
+[id='sec.italienischer_salat_dressing']
+
+indexterm:[Italienischer Salat Dressing]
+
+==== Italienischer Salat Dressing
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.joghurt_dressing']
+
+indexterm:[Joghurt-Dressing]
+
+==== Joghurt-Dressing
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!*Joghurt*
+!1{nbsp}EL!*Zitronensaft*
+!1{nbsp}EL!Olivenöl
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Schnittlauch*; _gehackt_
+!0!Salz, Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.tahin_dressing_v1']
+
+indexterm:[Tahin-Dressing v1]
+
+==== 💥Tahin-Dressing v1
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!20ml!*Tahin*
+!2{nbsp}EL!*Petersilie*
+!0.5!*Frühlingszwiebel*; _gehackt_
+!0.5{nbsp}Zehen!Knoblauch; _zerdrückt_
+!5ml!*Soja-Soße*
+!8ml!*Essig*
+!8ml!*Zitronensaft*
+!15ml!Olivenöl
+!20ml!Milch
+!0.25{nbsp}TL!Salz
+
+!===
+.^| verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.tahin_dressing_v2']
+
+indexterm:[Tahin-Dressing v2]
+
+==== 💥Tahin-Dressing v2
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Zitrone*; _Saft_
+!50g!*Joghurt*
+!25ml!*Tahin*
+!5ml!*???*
+!0.12{nbsp}TL!Paprikapulver
+!0.12{nbsp}TL!Cumin
+!1{nbsp}Msp!*Zimt (opt.)*
+
+!===
+.^| verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.tahin_dressing_v3']
+
+indexterm:[Tahin-Dressing v3]
+
+==== 💥Tahin-Dressing v3
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!60g!*Tahin*
+!30ml!*Zitronensaft*
+!10ml!Ahornsirup
+!5ml!*Dijon-Senf*
+!1{nbsp}Zehe!Knoblauch; _zerdrückt_
+!0.5{nbsp}TL!Salz
+!40ml!Wasser
+
+!===
+.^| 
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten: Zwiebelpulver, Cumin, Pfeffer, Paprikapulver
+|===
+
+ausprobiert am 22.4.23, Menge passt zu 4P
+
+
+[%always]
+<<<
+[id='sec.thousand_islands_dressing']
+
+indexterm:[Thousand Islands Dressing]
+
+==== Thousand Islands Dressing
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _hartgekocht, würfeln_
+!1!*Schalotte*; _würfeln_
+!1!*Gewürzgurke (klein)*; _würfeln_
+!120g!*Salatmayonnaise*
+
+!===
+.^| vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5{nbsp}TL!Tomatenmark
+!2{nbsp}EL!*Ketchup*
+!1{nbsp}EL!Weißweinessig
+!2{nbsp}EL!*Gewürzgurkenwasser*
+!1{nbsp}TL!*Worcester-Soße*
+
+!===
+.^| zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz, Pfeffer
+!0.5{nbsp}TL!*Chiliflocken*
+
+!===
+.^| abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.vinaigrette']
+
+indexterm:[Vinaigrette]
+
+==== Vinaigrette
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.öl_essig_dressing']
+
+indexterm:[Öl-Essig-Dressing]
+
+==== Öl-Essig-Dressing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+== Suppen
+
+[%always]
+<<<
+[id='sec.artischockensuppe']
+
+indexterm:[Artischockensuppe]
+
+=== Artischockensuppe
+
+Portionen: 4, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+
+!===
+.^| andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Artischocken*
+
+!===
+.^| abwaschen¹, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}ml!*Weißwein*
+!0.75l!Gemüsebrühe
+!2!*Kartoffeln*; _grob gewürfelt_
+
+!===
+.^| 30min köcheln, am Ende pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}ml!*Sahne*
+
+!===
+.^| zugeben, aufköcheln, mit Salz abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ¹der Eigengeschmack der Lake muss weg
+|===
+
+
+[%always]
+<<<
+[id='sec.gulaschsuppe']
+
+indexterm:[Gulaschsuppe]
+
+=== Gulaschsuppe
+
+Portionen: 6, Stichwörter: TK, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!700g!*Rindergulasch*; _klein würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Zwiebeln; _würfeln_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Paprikapulver (edelsüß)
+!2{nbsp}EL!Tomatenmark
+!2{nbsp}TL!*Majoran*
+!1{nbsp}TL!Salz
+!1{nbsp}TL!*Worcestershire-Soße*
+!0.5{nbsp}TL!*Cayennepfeffer*
+!0.5{nbsp}TL!*Piment*
+!0.5{nbsp}TL!Cumin
+
+!===
+.^| zugeben, kurz weiter andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500ml!*Rotwein*
+!2{nbsp}Blätter!Lorbeer
+!1{nbsp}TL!Stärke (opt.)
+
+!===
+.^| ablöschen, einkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!*Tomaten (gehackt)*
+!900ml!Rinderbrühe
+
+!===
+.^| zugeben, 45min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!700g!*Kartoffeln*; _klein würfeln_
+!3!*Paprika (rot)*; _würfeln_
+!4{nbsp}Zehen!*Koblauch*; _gepresst_
+
+!===
+.^| zugeben, 45min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Salz
+!1{nbsp}TL!Pfeffer
+
+!===
+.^| abschmecken
+|===
+
+
+[%always]
+<<<
+[id='sec.käse_lauch_hackfleisch_suppe']
+
+indexterm:[Käse-Lauch-Hackfleisch-Suppe]
+
+=== Käse-Lauch-Hackfleisch-Suppe
+
+Portionen: 3, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Rinderhackfleisch*
+!3{nbsp}Stangen!*Lauch*
+!3{nbsp}EL!Olivenöl
+!1{nbsp}Zehe!Knoblauch
+!3{nbsp}TL!*Rindfleischbrühe*
+!700ml!Wasser
+!200g!*Schmelzkäse*
+!0.5{nbsp}Bch!*Creme Fraiche*
+!1{nbsp}Pr!Muskat
+!0!*Salz und Pfeffer*
+
+!===
+.^| Wasche den Lauch und schneide ihn in schmale Ringe schneiden. Erhitze das Öl im Topf und brate das Hackfleisch darin heiß an bis es krümelig ist.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Gib den Knoblauch durch eine Presse und dünste dieses kurz mit. Gib nun auch die Lauchringe zum Hackfleisch dazu und dünste diese ca. 5 Minuten mit an. Nun kannst du ca. 700 ml Brühe hinzu geben. Es sollte alles gerade so bedeckt sein. Koche die Suppe anschließend kurz auf.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nun kannst du den Schmelzkäse in die warme Suppe geben. Rühre so lange, bis er vollständig geschmolzen ist. Gib nun auch Creme Fraiche hinzu und koche die Suppe noch einmal kurz auf. Schmecke die Hackfleisch Lauch Suppe mit Salz, Pfeffer und Muskat ab.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Dazu passt frisches Baguette. Besonders lecker ist dieses, wenn es noch einmal kurz in den Backofen geschoben wird. Dann kannst du das knusprige Baguette mit etwas Butter zur Suppe servieren.
+|===
+
+
+[%always]
+<<<
+[id='sec.kürbissuppe']
+
+indexterm:[Kürbissuppe]
+
+=== Kürbissuppe
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1kg!*Kürbis*
+!2!*Kartoffeln*
+!1!*Lauch*
+
+!===
+.^| schneiden, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Kreuzkümmel, Koriander, Salz, Pfeffer
+
+!===
+.^| würzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1l!Gemüsebrühe
+
+!===
+.^| aufgießen; nach 20min pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml!*Sahne*
+
+!===
+.^| zugeben
+|===
+
+
+[%always]
+<<<
+[id='sec.maronensuppe']
+
+indexterm:[Maronensuppe]
+
+=== Maronensuppe
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+!30g!*Speck*
+
+!===
+.^| in 1 EL Olivenöl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*Maronen*
+!450ml!Wasser
+!2{nbsp}EL!*Weißwein*
+!1!*Lorbeerblatt*
+
+!===
+.^| zugeben, 20min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4{nbsp}EL!*Sahne*
+!4{nbsp}EL!*Aceto balsamico*
+
+!===
+.^| Lorbeerblatt entfernen, pürieren, Sahne zugeben, mit Salz und Pfeffer abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+!30g!*Speck*
+
+!===
+.^| für das Topping: in 1 EL Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Trockenpflaumen*
+!2{nbsp}TL!*Aceto balsamico*
+!1{nbsp}EL!*Petersilie*; _gehackt_
+
+!===
+.^| zugeben
+|===
+
+
+[%always]
+<<<
+[id='sec.rote_thai_hühnersuppe']
+
+indexterm:[Rote Thai Hühnersuppe]
+
+=== 💥Rote Thai Hühnersuppe
+
+Portionen: 6, Stichwörter: Geflügel, Thai, Low Carb, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1600g!*Hähnchen*
+!1200g!*Butternut-Kürbis*; _würfeln_
+!1{nbsp}Bd!*Koriandergrün (Stiele)*; _gehackt_
+!100g!*rote Thai-Currypaste*
+!400g!*Kokosmilch (fettreduziert)*
+!1l!Wasser
+
+!===
+.^| 1h20min im Topf garen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hähnchen aus Topf nehmen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| wirklich? Fett von der Suppe aschöpfen und das Hähnchen damit überziehen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Bd!*Koriandergrün (Blätter)*
+
+!===
+.^| Suppe garnieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hähnchen am Tisch mit zwei Gabeln zerteilen
+|===
+
+
+[%always]
+<<<
+[id='sec.serbische_bohnensuppe']
+
+indexterm:[Serbische Bohnensuppe]
+
+=== Serbische Bohnensuppe
+
+Portionen: 8, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Riesenbohnen (weiß)*
+
+!===
+.^| 24h in Wasser aufquellen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Bauchspeck*; _würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Tomaten*; _schälen_
+!2{nbsp}Stangen!*Lauch*; _würfeln_
+!3!*Paprika (rot)*; _würfeln_
+
+!===
+.^| mit Riesenbohnen zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}TL!*Bohnenkraut*
+!1{nbsp}EL!Paprikapulver
+!1{nbsp}TL!Paprikapulver (scharf)
+!0!Pfeffer, Salz
+!2l!Wasser
+
+!===
+.^| würzen, Wasser zugeben, 1h köcheln
+|===
+
+
+== Pasta
+
+[%always]
+<<<
+[id='sec.cacio_e_pepe']
+
+indexterm:[Cacio e pepe]
+
+=== Cacio e pepe
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Spaghetti*
+
+!===
+.^| kochen (mit halb soviel Wasser als üblich)^1^.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!8{nbsp}EL!*Pecorino*; _gerieben_
+!1{nbsp}TL!Pfeffer; _grob gemahlen_
+
+!===
+.^| in Schüssel vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Spaghetti direkt aus dem Topf in den Pecorino geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4{nbsp}EL!*Nudelwasser*
+
+!===
+.^| portionsweise zugeben und zu cremiger Soße vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
+|===
+
+
+[%always]
+<<<
+[id='sec.fettucine_alfredo']
+
+indexterm:[Fettucine Alfredo]
+
+=== Fettucine Alfredo
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Fettucine*
+
+!===
+.^| kochen (mit halb soviel Wasser als üblich)^1^.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nudelwasser abgießen, aber einen Teil behalten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta für den nächsten Schritt wieder in den noch heißen Topf geben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!40g!Butter
+!80ml!*Nudelwasser*
+!60g!*Parmesan*
+
+!===
+.^| Jeweils die Hälfte von Butter, Nudelwasser und Parmesan in die Pasta geben und zu cremiger Konsistenz verrühren. Dann wiederholen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Pfeffer servieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ statt 10-100-1000-Regel hier: 10-200-1000
+|===
+
+
+[%always]
+<<<
+[id='sec.lemon_tagliatelle']
+
+indexterm:[Lemon Tagliatelle]
+
+=== Lemon Tagliatelle
+
+Portionen: 2, Stichwörter: Italien, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Tagliatelle*
+
+!===
+.^| kochen, Nudelwasser behalten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}Zehen!Knoblauch; _Scheiben_
+!1{nbsp}TL!*Chili*; _gehackt_
+
+!===
+.^| in Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml!*Nudelwasser*
+!50g!*Butter *
+
+!===
+.^| zugeben, auch die Nudeln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Zitrone*; _Saft_
+!1{nbsp}EL!*Petersilie*; _gehackt_
+!4{nbsp}EL!*Parmesan*
+
+!===
+.^| zugeben und verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Zitronenschale*; _Abrieb_
+!1{nbsp}EL!*Parmesan*
+
+!===
+.^| pro Teller: mit fertigen Nudeln servieren
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_alfredo']
+
+indexterm:[Pasta Alfredo]
+
+=== Pasta Alfredo
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, Käse, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_all_amatriciana']
+
+indexterm:[Pasta all'amatriciana]
+
+=== Pasta all'amatriciana
+
+Portionen: 4, Stichwörter: Italien
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}g!*Bauchspeck*; _kleine Streifen_
+
+!===
+.^| mit 1 EL Olivenöl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50{nbsp}ml!*Weißwein*
+
+!===
+.^| mit Weißwein ablöschen, Speck zur Seite nehmen (soll knusprig bleiben), Teil des Fettes entfernen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+
+!===
+.^| mit restlichem Fett andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.75{nbsp}Dose!*Tomaten*; _gehackt_
+
+!===
+.^| zugeben, köcheln, mit Salz abschmecken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Speck und Nudeln zugeben und vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tip: in gusseiserner Pfanne zubereiten +++ mit geriebenem Pecorino reichen
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_alla_carbonara']
+
+indexterm:[Pasta alla Carbonara]
+indexterm:[Pasta, alla Carbonara]
+indexterm:[ Carbonara]
+
+=== Pasta alla Carbonara
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}g!*Bauchspeck*; _feine Streifen_
+
+!===
+.^| langsam anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!Eigelb
+!100ml!*Sahne*
+!50g!*Parmesan*
+
+!===
+.^| verquirlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Modifikation: ohne Sahne, TODO
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_alla_carbonara__klassisch']
+
+indexterm:[Pasta alla Carbonara, klassisch]
+indexterm:[Pasta, alla Carbonara klassisch]
+indexterm:[ Carbonara klassisch]
+
+=== Pasta alla Carbonara, klassisch
+
+Portionen: 2, Stichwörter: Italien, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}g!*Bauchspeck^1^*; _feine Streifen_
+
+!===
+.^| langsam anbraten. ^1^ Originalrezept: Pacetta / Guanciale
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Eier*
+!1!Eigelb
+!40g!*Parmesan*
+
+!===
+.^| verquirlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!*Parmesan*
+!0!Pfeffer
+
+!===
+.^| bestreuen, servieren
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_emiliana']
+
+indexterm:[Pasta emiliana]
+
+=== Pasta emiliana
+
+Portionen: 3, Stichwörter: Hauptgericht, schnell, Low Meat
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Pasta*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml!*Sahne*
+
+!===
+.^| ablöschen, kurz aufkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!*Kochschinken*; _feine Streifen_
+!150g!*Erbsen (TK)*
+!0!Salz, Pfeffer
+
+!===
+.^| zugeben, abschmecken, ziehen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!70g!*Parmesan*
+
+!===
+.^| einrühren, Pasta unterheben
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_emiliana']
+
+indexterm:[Pasta emiliana]
+
+=== Pasta emiliana
+
+Portionen: 3, Stichwörter: Hauptgericht, vegetarisch, vegan
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO Rezept suchen https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen ?
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_oliven_und_ziegenkäse']
+
+indexterm:[Pasta mit Oliven und Ziegenkäse]
+
+=== Pasta mit Oliven und Ziegenkäse
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_pesto']
+
+indexterm:[Pasta mit Pesto]
+
+=== Pasta mit Pesto
+
+Portionen: 0, Stichwörter: vegetarisch, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pesto siehe <<sec.pesto, Pesto-Rezept>>, oder Fertig-Pesto nehmen
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_pilzen_und_knoblauch']
+
+indexterm:[Pasta mit Pilzen und Knoblauch]
+
+=== Pasta mit Pilzen und Knoblauch
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.65)
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_shrimps']
+
+indexterm:[Pasta mit Shrimps]
+
+=== Pasta mit Shrimps
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Pkg!*Shrimps*
+!1{nbsp}TL!*Currypaste (rot)*
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml!*Sahne*
+!200g!*Pasta*
+
+!===
+.^| Sahne zugeben, mit Pasta vermengen
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_speck_zwiebel_ziegenkäse']
+
+indexterm:[Pasta mit Speck-Zwiebel-Ziegenkäse]
+
+=== Pasta mit Speck-Zwiebel-Ziegenkäse
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_walnuss_soße_für_nudeln']
+
+indexterm:[Pasta mit Walnuss-Soße für Nudeln]
+
+=== Pasta mit Walnuss-Soße für Nudeln
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}Zehen!Knoblauch; _gehackt_
+!2!Zwiebeln; _würfeln_
+
+!===
+.^| in Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml!*Sahne*
+!150ml!Gemüsebrühe
+!100ml!*Weißwein*
+
+!===
+.^| dazugießen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Thymian, Majoran, Rosmarin, Salz, Pfeffer*
+
+!===
+.^| würzen, 8min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Walnüsse (gehackt)*
+
+!===
+.^| unterrühren, 4min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Parmesan*
+
+!===
+.^| unterrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_cremige_auberginensoße']
+
+indexterm:[Pasta mit cremige Auberginensoße]
+
+=== Pasta mit cremige Auberginensoße
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, TK, Mikrowelle,Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pici_nudeln']
+
+indexterm:[Pici-Nudeln]
+
+=== 💥Pici-Nudeln
+
+Portionen: 4, Stichwörter: Italien, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Hartweizengrieß*
+!150ml!Wasser
+!50ml!Olivenöl
+
+!===
+.^| aus Grieß Mulde bilden, zu Teig vermengen, kneten, 30min ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig 5mm hoch ausrollen, zusammenklappen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1cm breite Streifen schneiden
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| per Hand zu Pici-Nudeln zu 30cm Länge ausrollen
+|===
+
+
+[%always]
+<<<
+[id='sec.ragù_alla_bolognese']
+
+indexterm:[Ragù alla Bolognese]
+indexterm:[Bolognese]
+
+=== Ragù alla Bolognese
+
+Portionen: 4, Stichwörter: Italien, schnell, Hauptgericht, Mikrowelle, Büro, TK
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Pancetta*; _klein hacken_
+
+!===
+.^| in 2 EL Öl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Selleriestange*; _fein gehackt_
+
+!===
+.^| zugeben, 5min anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Karotten*; _fein gehackt_
+
+!===
+.^| zugeben, andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Hackfleisch (gemischt)*
+
+!===
+.^| zugeben, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Tomatenmark
+!100ml!Wasser, warm
+
+!===
+.^| Mark und Wasser verrühren und zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50ml!Milch
+
+!===
+.^| zugeben, 2h köcheln
+|===
+
+
+[%always]
+<<<
+[id='sec.ricotta_dumplings']
+
+indexterm:[Ricotta Dumplings]
+
+=== 💥Ricotta Dumplings
+
+Portionen: 2, Stichwörter: Italien, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!220g!*Ricotta*
+!3!Eigelb
+!20g!*Parmesan*; _gerieben_
+!0!Muskat, Salz, Pfeffer
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Mehl
+
+!===
+.^| zugeben, kneten. Zu kleinen Würsten rollen, Dumplings ausschneiden
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 3-4min kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| servieren mit: Tomatensoße + Basilikum
+|===
+
+
+[%always]
+<<<
+[id='sec.salsa_etrusca']
+
+indexterm:[Salsa Etrusca]
+
+=== 💥Salsa Etrusca
+
+Portionen: 4, Stichwörter: Italien, schnell, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _hartgekocht_
+!80g!*Pecorino*
+!120g!*getrocknete Tomaten (in Öl)*
+!60g!*schwarze Oliven (entsteint)*
+!30g!*Petersilie*
+!2{nbsp}Zehen!Knoblauch
+!1!*Chilischote*
+
+!===
+.^| zerkleinern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!180ml!Olivenöl
+
+!===
+.^| portionsweise zugeben und weiter zerkleinern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| passt zu:
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * Pasta (Salsa mit Nudelwasser strecken)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * Crostini
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| * rohes Gemüse
+|===
+
+
+[%always]
+<<<
+[id='sec.tortellini']
+
+indexterm:[Tortellini]
+
+=== Tortellini
+
+Portionen: 0, Stichwörter: schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Fertig-Tortellini von REWE / Djafar
+|===
+
+
+== Pizza & Co.
+
+[%always]
+<<<
+[id='sec.flammkuchen']
+
+indexterm:[Flammkuchen]
+
+=== Flammkuchen
+
+Portionen: 2, Stichwörter: Elsaß, Frankreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!Mehl
+!1{nbsp}TL!Salz
+!2{nbsp}TL!Olivenöl
+!100ml!Wasser
+
+!===
+.^| kneten, ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Bch!*Crème fraîche mit Kräutern*
+!150g!*Speck*; _gewürfelt_
+!1!Zwiebel; _gewürfelt_
+
+!===
+.^| auf Teig geben. Bei 🌡250℃ 5-10m backen.
+|===
+
+
+[%always]
+<<<
+[id='sec.kürbispizza_mit_pfifferlingen']
+
+indexterm:[Kürbispizza mit Pfifferlingen]
+
+=== Kürbispizza mit Pfifferlingen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Pizzateig*
+
+!===
+.^| ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Ziegenfrischkäse*
+!1{nbsp}Becher!*Crème fraîche*
+!2{nbsp}EL!*Dijon-Senf*
+
+!===
+.^| verrühren, salzen, pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Käse*; _gerieben_
+!100g!*Hokkaidokürbis*
+!100g!*Pfifferlinge*
+!100g!*Speck*; _gewürfelt_
+
+!===
+.^| mit Crème bestreichen, Zutaten verteilen. Bei 🌡230℃ backen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Kräuter der Provence*
+
+!===
+.^| auf gebackener Pizza verteilen
+|===
+
+
+== Eintöpfe
+
+[%always]
+<<<
+[id='sec.indischer_eintopf']
+
+indexterm:[Indischer Eintopf]
+
+=== Indischer Eintopf
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, TK, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.linsencurry_mit_spinat']
+
+indexterm:[Linsencurry mit Spinat]
+
+=== Linsencurry mit Spinat
+
+Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel
+!1{nbsp}Zehe!Knoblauch
+!1{nbsp}Stk!*Ingwer, daumengroß*
+!1{nbsp}Bd!*Koriander (Stiele)*
+!1!*rote Paprika*
+
+!===
+.^| pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Curry*
+!1{nbsp}TL!*Senfsamen*
+
+!===
+.^| in Öl andünsten, Gemüsepürree zugeben und 1min andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*rote Linsen*
+!200g!*Kokosmilch, fettarm*
+!350ml!Wasser; _kochend_
+
+!===
+.^| zugeben, 5min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Blattspinat (TK)*
+
+!===
+.^| zugeben, 5min köcheln
+|===
+
+Beilagen:
+* Naan-Broot
+* Joghurt
+
+
+[%always]
+<<<
+[id='sec.pappa_al_pomodoro']
+
+indexterm:[Pappa al Pomodoro]
+
+=== Pappa al Pomodoro
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht, Mikrowelle, schnell mit Garzeit, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 173)
+|===
+
+
+[%always]
+<<<
+[id='sec.pilztopf']
+
+indexterm:[Pilztopf]
+
+=== Pilztopf
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!175g!*Speck*; _würfeln_
+!2!Zwiebeln
+!1!Knoblauchzehen
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten (gehackt)*
+!100ml!Wasser
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Lorbeerblatt*
+!1{nbsp}EL!*Majoran*
+!0!*Salz + Pfeffer*
+
+!===
+.^| zugeben, 30min schmoren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Paprika*; _würfeln_
+!250g!*Champignons*
+
+!===
+.^| zugeben, 10min schmoren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!*Schmand*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Petersilie*
+
+!===
+.^| zugeben
+|===
+
+
+[%always]
+<<<
+[id='sec.sahara_chili']
+
+indexterm:[Sahara-Chili]
+
+=== Sahara-Chili
+
+Portionen: 4, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!900g!*Rinderhackfleisch*
+!2{nbsp}TL!*Zwiebelpulver*
+
+!===
+.^| in 1 TL Öl anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!240ml!*Tomatensoße*
+!450ml!Rinderbrühe
+
+!===
+.^| zugeben und 30min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3{nbsp}EL!*Chilipulver*
+!0.5{nbsp}EL!Cumin
+!1{nbsp}TL!*Knoblauchgranulat*
+!1{nbsp}TL!*Hühnerbrühpulver*
+!0.5{nbsp}TL!Salz
+!0.5{nbsp}TL!*Cayennepfeffer*
+!0.5{nbsp}TL!Pfeffer
+
+!===
+.^| zugeben und 1h köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!*Chilipulver*
+!0.5{nbsp}EL!Cumin
+!1{nbsp}TL!Paprikapulver
+
+!===
+.^| zugeben und 30min köcheln
+|===
+
+
+== Aufläufe
+
+[%always]
+<<<
+[id='sec.kartoffel_curry']
+
+indexterm:[Kartoffel-Curry]
+
+=== Kartoffel-Curry
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2.5{nbsp}TL!*gem. Koriander*
+!1{nbsp}TL!*gem. Kreuzkümmel*
+!2{nbsp}TL!*gem. Kurkuma*
+!1{nbsp}Prise!*gem. Nelken*
+!1{nbsp}Prise!*frisch gem. Muskatnuss*
+!4{nbsp}EL!Olivenöl
+!1!Zwiebel, gehackt
+!4!Knoblauchzehen, fein gehackt
+!1!*1/2 EL Ingwer, fein gehackt*
+!1!*rote Chili, fein geschnitten*
+!1{nbsp}Prise!*Meersalz*
+!1!*Zimtstange*
+!2!*Sternanis*
+!400ml!*Kokosmilch*
+!300g!*Kartoffeln*; _geschält und in Würfel (2 cm) geschnitten_
+!800g!*Kichererbsen (aus der Dose mit Flüssigkeit)*
+!4{nbsp}EL!*Korianderblätter*; _gehackt_
+
+!===
+.^| TODO Zutaten einsortieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In einer kleinen Schüssel den Koriander, den Kreuzkümmel, die Kurkuma, die Nelken und die Muskatnuss mischen und mit 3 EL Wasser vermengen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Das Olivenöl in einem Topf erhitzen. Dann die Zwiebel, den Knoblauch, den Ingwer, den Chili und das Salz hinzufügen und alles ca. 5 Minuten dünsten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Wenn die Zutaten anfangen sich gold zu färben, die Gewürzmischung, die Zimtstange und den Sternanis hinzufügen. Alles 1 Minute aufkochen lassen und dann für ca. 30 Minuten ruhen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Danach die Kokosmilch, die Kartoffeln und die Kichererbsen (inklusive Flüssigkeit) unterrühren. Das Salz und den Zucker hinzufügen und alles für 15-20 Minuten bei mittlerer Hitze köcheln lassen. Falls die Kartoffeln noch nicht gar sind, die Kochzeit verlängern.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zum Schluss das Curry noch einmal abschmecken und mit dem Koriander bestreuen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Wer möchte, kann das Curry mit Basmati-Reis oder Couscous servieren
+|===
+
+
+[%always]
+<<<
+[id='sec.kartoffelgratin']
+
+indexterm:[Kartoffelgratin]
+
+=== Kartoffelgratin
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.käsespätzle']
+
+indexterm:[Käsespätzle]
+
+=== Käsespätzle
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, Mikrowelle
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.kürbischaos']
+
+indexterm:[Kürbischaos]
+
+=== Kürbischaos
+
+Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!Zwiebeln (rot); _Spalten_
+!4!Knoblauchzehen; _hacken_
+!1kg!*Hokkaidokürbis*; _würfeln_
+!2{nbsp}Zweige!*Rosmarin*; _grob hacken_
+!2{nbsp}EL!Honig
+!4{nbsp}EL!Olivenöl
+
+!===
+.^| in Schüssel vermengen, salzen und pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Kürbiskerne*
+
+!===
+.^| Zutaten in Reine geben, mit Kürbiskernen bestreuen, ca. 30m backen (🌡180℃).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Hackfleisch*
+!2{nbsp}EL!Tomatenmark
+!1!*rote Chilischote*
+
+!===
+.^| anbraten, salzen und pfeffern
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*cremiger Feta*
+!150g!*Crème fraîche*
+
+!===
+.^| in Schüssel glatt rühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hack und Käse auf Kürbisgemüse verteilen und weitere 5min backen.
+|===
+
+
+[%always]
+<<<
+[id='sec.melanzane_al_parmigiana']
+
+indexterm:[Melanzane al Parmigiana]
+
+=== Melanzane al Parmigiana
+
+Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 🌡190℃ heizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+!1!Knoblauchzehe; _gepresst_
+
+!===
+.^| mit Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten*; _gehackt_
+!1{nbsp}EL!*Aceto balsamico*
+!1{nbsp}TL!Oregano
+
+!===
+.^| zugeben, salzen und pfeffern. 15min köcheln.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Aubergine*
+
+!===
+.^| längs in Scheiben schneiden, grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Mozarella*
+!20g!*Semmelbrösel*
+
+!===
+.^| Gratinform¹ aufschichten mit (unten nach oben): Aubergine / Parmesan / Tomatensoße / wdh. / ganz oben: Mozarella / Semmelbrösel / Parmesa.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 30min backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ¹besser eine große Form und nur zweimal schichten als kleine Form und mehrmals schichten
+|===
+
+
+[%always]
+<<<
+[id='sec.paprikaauflauf_mit_feta']
+
+indexterm:[Paprikaauflauf mit Feta]
+
+=== Paprikaauflauf mit Feta
+
+Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ofen auf 🌡220℃ (OUH) vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Paprika bunt*; _würfeln_
+!1!Zwiebel; _grob würfeln_
+!200g!*Feta*; _zerkrümeln_
+!3{nbsp}EL!*Piros Arany*
+!3{nbsp}EL!Olivenöl
+
+!===
+.^| in Reine geben, vermengen. 40min backen.
+|===
+
+
+== Ofengerichte
+
+[%always]
+<<<
+[id='sec.camembert__gebacken']
+
+indexterm:[Camembert, gebacken]
+indexterm:[Gebackener Camembert]
+
+=== Camembert, gebacken
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, schnell mit Aufheizzeit
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.camemburger']
+
+indexterm:[Camemburger]
+
+=== Camemburger
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.feta_vom_grill']
+
+indexterm:[Feta vom Grill]
+
+=== Feta vom Grill
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch, schnell mit Aufheizzeit
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.raclette']
+
+indexterm:[Raclette]
+
+=== Raclette
+
+Portionen: 0, Stichwörter: Hauptgericht, Käse, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+== Reisgerichte
+
+[%always]
+<<<
+[id='sec.risotto']
+
+indexterm:[Risotto]
+
+=== Risotto
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+
+!===
+.^| in Butter andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Risotto*
+
+!===
+.^| dazugeben, anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1.5l!Brühe
+!4{nbsp}EL!*Parmesan*
+!0!Salz, Pfeffer
+
+!===
+.^| nach und nach zuzugeben, ca. 20m garen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kürbisrisotto:500g Kürbis
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Pilzrisotto: 300g Champignons, 150g Erbsen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Spargelrisotto:1-2 Bund grüner Spargel
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zitronenrisotto mit Shrimps: 2 Zitronen (Saft + Abrieb), 2 EL Senf, 200g Shrimps, Thymian
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Gorgonzolarisotto: 200g Gorgonzola, 400g Spinat
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Artischockenrisotto: 1 Dose Artischocken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Radicchiorisotto: 200g Radicchio
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Risotto mit Ziegenkäse und Pfifferlingen: 200g Ziegenfrischkäse, 400g Pfifferlinge, 2 Zweige Rosmarin + Thymian
+|===
+
+
+== Fleischgerichte
+
+[%always]
+<<<
+[id='sec._schweinefilet_vom_grill']
+
+indexterm:[ Schweinefilet vom Grill]
+
+===  Schweinefilet vom Grill
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Schweinefilet*
+
+!===
+.^| Salzen + pfeffern.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
+|===
+
+
+[%always]
+<<<
+[id='sec.bifteki']
+
+indexterm:[Bifteki]
+
+=== Bifteki
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.bosna_semmel']
+
+indexterm:[Bosna-Semmel]
+
+=== Bosna-Semmel
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.brotkranz_mit_kürbis__schinken__oliven__kräutern']
+
+indexterm:[Brotkranz mit Kürbis, Schinken, Oliven, Kräutern]
+
+=== Brotkranz mit Kürbis, Schinken, Oliven, Kräutern
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.burger']
+
+indexterm:[Burger]
+
+=== Burger
+
+Portionen: 4, Stichwörter: schnell mit Garzeit
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Pommes frites (opt.)*
+
+!===
+.^| backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Speck*
+!4!*Burger-Patties*
+
+!===
+.^| braten / grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Brioche Burger-Buns (REWE)*
+!2!*Tomaten*
+!1!Zwiebel, rot
+!1{nbsp}Glas!*Gewürzgurken (Burger-Gurken)*; _in Scheiben_
+!1!*Römersalat*
+!1!*Burger-Sauce / Tomatenketchup / Mayonnaise*
+!4{nbsp}Scheiben!*Cheddar*
+
+!===
+.^| zubereiten (oder selber machen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Cole-Slaw*
+
+!===
+.^| 
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Burger, Pommes, Cole Slaw servieren
+|===
+
+
+[%always]
+<<<
+[id='sec.cevapcici']
+
+indexterm:[Cevapcici]
+
+=== Cevapcici
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch, Mikrowelle
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.charcuterie_board']
+
+indexterm:[Charcuterie Board]
+
+=== Charcuterie Board
+
+Portionen: 4, Stichwörter: kalt
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| siehe Notizen im Kochbuch wegen Mengen und möglichen Optionen
+|===
+
+
+[%always]
+<<<
+[id='sec.croque_monsieur___madame']
+
+indexterm:[Croque Monsieur / Madame]
+
+=== Croque Monsieur / Madame
+
+Portionen: 4, Stichwörter: Hauptgericht, Fleisch, schnell mit Aufheizzeit
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 🌡180℃ vorheizen (⎇ alternative: Toasts in Butter anbraten)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50ml!*Sahne*
+
+!===
+.^| aufkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!120g!*Appenzeller*; _gerieben_
+
+!===
+.^| mit Sahne verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Butter # erhitzen*
+!8{nbsp}Scheiben!Toast; _ungetoastet_
+!8{nbsp}Scheiben!*Emmentaler*
+!8{nbsp}Scheiben!*Kochschinken*
+
+!===
+.^| auf 4 Portionen verteilen: Appenzeller-Schmelze auf Toastscheibe verteilen. jew. zwei Emmentaler und Schinken auflegen, mit Toastscheibe schließen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Toasts mit geschmolzener Butter bestreichen und 8min? backen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Eier*
+
+!===
+.^| Option "Croque Madam": Spiegelei auf Toasts legen
+|===
+
+
+[%always]
+<<<
+[id='sec.currywurst']
+
+indexterm:[Currywurst]
+
+=== Currywurst
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.fleischpflanzerl']
+
+indexterm:[Fleischpflanzerl]
+
+=== Fleischpflanzerl
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.gulasch']
+
+indexterm:[Gulasch]
+
+=== Gulasch
+
+Portionen: 8, Stichwörter: Österreich, TK, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!Zwiebeln; _gewürfelt_
+!2!Knoblauchzehe; _gepresst_
+
+!===
+.^| in Butterschmalz anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5l!*Bier*
+!400ml!Gemüsebrühe
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!*Rindsgulasch*
+!2{nbsp}TL!Kreuzkümmel
+!4{nbsp}EL!Tomatenmark
+!4{nbsp}EL!Paprikapulver
+!4{nbsp}TL!Salz
+!2{nbsp}TL!*Cayennepfeffer*
+
+!===
+.^| zugeben, 3h köcheln lassen
+|===
+
+
+[%always]
+<<<
+[id='sec.hackbraten']
+
+indexterm:[Hackbraten]
+
+=== Hackbraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.hirschgulasch_mit_pfifferlingen']
+
+indexterm:[Hirschgulasch mit Pfifferlingen]
+
+=== Hirschgulasch mit Pfifferlingen
+
+Portionen: 2, Stichwörter: Wild, TK, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150{nbsp}g!*Pfifferlinge , frisch*
+!0.5!Zwiebel(n) , gewürfelt
+!2{nbsp}EL!*Petersilie , gehackt*
+!1{nbsp}EL!Butter
+!500{nbsp}g!*Hirschfleisch (Keule), etwa 2 cm groß gewürfelt*
+!50{nbsp}g!*Dörrfleisch , geräuchert*
+!1!Zwiebel(n) , gehackt
+!2{nbsp}EL!Öl
+!1{nbsp}EL!Butter
+!5!*Wacholderbeere(n) , angedrückt*
+!1!*Zweig/e Rosmarin*
+!1!*Zweig/e Thymian*
+!3!*Zweig/e Petersilie*
+!1{nbsp}EL!*Gin*
+!50{nbsp}ml!*Wein rot,, trocken und kräftig*
+!125{nbsp}ml!*Wildfond oder Fleischbrühe*
+!0!Oregano
+!0!Pfeffer
+!0!Salz
+!2{nbsp}EL!*Crème fraîche*
+!2{nbsp}EL!*Preiselbeeren , (nach Wunsch)*
+
+!===
+.^| 2 EL Öl und 1 EL Butter erhitzen, Dörrfleisch und Würfel einer Zwiebel darin anschwitzen. Das Fleisch zugeben und kräftig rundum anbraten. Mit Rotwein und Gin ablöschen, Wacholderbeeren etwas zerdrücken und zugeben. Die Kräuterzweige zu einem Strauß zusammenbinden und zugeben. Noch etwas Wildfond oder Brühe zugeben. Zugedeckt etwa 1 Stunde auf kleiner Flamme schmoren, öfter umrühren und den Fond oder die Brühe nach und nach zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nach der Garzeit den Kräuterstrauß und die Wacholderbeeren herausnehmen, Mit Creme fraiche, Oregano, Pfeffer, eventuell Salz und Preiselbeeren abschmecken. (Die Preiselbeeren kann man auch getrennt servieren)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In der Zwischenzeit die Pfifferlinge putzen und zusammen mit den Würfeln einer halben Zwiebel in 1 EL Butter etwa 10 - 15 Minuten anschwitzen. Zum Schluss die gehackte Petersilie zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Die Pfifferlinge auf das Hirschgulasch geben und servieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Dazu passen Bandnudeln, Spätzle oder Knödel.
+|===
+
+
+[%always]
+<<<
+[id='sec.hot_dogs']
+
+indexterm:[Hot Dogs]
+
+=== Hot Dogs
+
+Portionen: 0, Stichwörter: Hauptgericht, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.lammlachse_mit_zitronenkruste']
+
+indexterm:[Lammlachse mit Zitronenkruste]
+
+=== Lammlachse mit Zitronenkruste
+
+Portionen: 4, Stichwörter: Lamm, Frühling, Ostern
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!*Kartoffeln (klein / Drillinge)*
+
+!===
+.^| In kochendem Salzwasser 10m vorgaren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!800g!*grüne Bohnen*
+
+!===
+.^| Bohnen putzen und waschen und in kochendem Salzwasser etwa 8 Minuten garen abgießen und kalt abschrecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Den Backofen auf 120 Grad Celsius (Ober-/Unterhitze) vorheizen. Backblech mit Backpapier vorbereiten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}Scheibe!Toast; _fein gewürfelt_
+!1!Knoblauchzehe; _gehackt_
+!2{nbsp}EL!*Pinienkerne*; _gehackt_
+!3{nbsp}Zweig!*Thymian*; _gehackt_
+!3{nbsp}Zweig!*Rosmarin*; _gehackt_
+!0.5{nbsp}Bd.!*glatte Petersilie*; _gehackt_
+!1{nbsp}EL!*Zitronenabrieb*
+!2{nbsp}EL!Butter; _flüssig erhitzt_
+
+!===
+.^| Vermengen und durchkneten bis eine feste Masse entsteht. Mit Salz und Pfeffer abschmecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Lammlachs (je 125 g)*
+
+!===
+.^| In 1 EL Rapsöl ca. 1m scharf anbraten. Auf Backblech legen und die Mischung darauf verteilen. Ca. 15m fertig garen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vorgegarte Kartoffeln halbieren, in 1 EL Rapsöl 10m knusprig braten. Mit Salz und Pfeffer würzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Schalotten*; _fein gewürfelt_
+
+!===
+.^| Glasig dünsten. Bohnen dazugeben und erhitzen. Mit Salz und Pfeffer abschmecken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Lammlachse mit Kartoffeln und Bohnen servieren.
+|===
+
+
+[%always]
+<<<
+[id='sec.lasagne']
+
+indexterm:[Lasagne]
+
+=== Lasagne
+
+Portionen: 0, Stichwörter: Hauptgericht, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.leberkäs']
+
+indexterm:[Leberkäs]
+
+=== Leberkäs
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.maultaschen']
+
+indexterm:[Maultaschen]
+
+=== Maultaschen
+
+Portionen: 0, Stichwörter: schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.münchner_schnitzel']
+
+indexterm:[Münchner Schnitzel]
+
+=== Münchner Schnitzel
+
+Portionen: 0, Stichwörter: Hauptgericht, ohne Beilage, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.nürnberger_bratwürste_mit_sauerkraut']
+
+indexterm:[Nürnberger Bratwürste mit Sauerkraut]
+
+=== Nürnberger Bratwürste mit Sauerkraut
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.ofenkartoffeln_mit_speck_und_kräuterquark___soure_cream']
+
+indexterm:[Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream]
+
+=== Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_bolognese']
+
+indexterm:[Pasta Bolognese]
+
+=== Pasta Bolognese
+
+Portionen: 0, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pelmeni']
+
+indexterm:[Pelmeni]
+
+=== Pelmeni
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.rehpflanzerl']
+
+indexterm:[Rehpflanzerl]
+
+=== Rehpflanzerl
+
+Portionen: 0, Stichwörter: Hauptgericht, Wild
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.rinderschmorbraten']
+
+indexterm:[Rinderschmorbraten]
+
+=== 💥Rinderschmorbraten
+
+Portionen: 4, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1.2{nbsp}kg!*Rinderbraten*
+!0!Salz
+!0!Pfeffer
+!100{nbsp}g!Zwiebel
+!80{nbsp}g!*Karotte*
+!80{nbsp}g!*Knollensellerie*
+!80{nbsp}g!*Lauch*
+!100{nbsp}g!*Tomate*
+!3{nbsp}EL!*Pflanzenöl*
+!1{nbsp}EL!Tomatenmark
+!1!*Lorbeerblatt*
+!600{nbsp}ml!*Rinderfond*
+!1{nbsp}TL!*Saucenbinder, dunkel*
+
+!===
+.^| Rindfleisch parieren, das heißt von Haut und Sehnen befreien und die Fleischabschnitte beiseite stellen. Fleisch salzen und pfeffern.Zwiebeln, Karotte, Knollensellerie und Lauch putzen oder schälen und alles klein würfeln. Tomate vierteln, dabei Stielansatz entfernen.In einem großen Schmortopf Öl erhitzen, den Braten darin rundherum anbraten und herausnehmen. Zwiebeln, Karotte, Knollensellerie und Lauch mit den Fleischabschnitten in den Topf geben und anbraten, Tomatenmark einrühren und mit anrösten. Tomatenviertel, sowie Lorbeerblatt einlegen und die Hälfte des Rinderfonds angießen. Den Braten auf das Gemüse legen und zugedeckt bei 180 Grad Ober-/Unterhitze (Umluft 160 Grad) im vorgeheizten Ofen ca. 1,5 Stunden schmoren. Restlichen Fond auf einmal zugießen und das Fleisch immer wieder mit der Schmorflüssigkeit beträufeln.Braten aus dem Ofen nehmen, in Folie wickeln und warm halten. Sauce durch ein Sieb gießen, dabei das Gemüse leicht ausdrücken, abschmecken und mit Saucenbinder binden. Wie Sie ganz einfach Bratensoße in 3 Varianten selber machen können, zeigen wir Ihnen in unserem 'Gewusst wie!'-Video.Braten in Scheiben schneiden und auf einer Platte anrichten. Ausgetretender Bratensaft zur Sauce geben. Sauce separat zum Braten reichen.Reichen Sie dazu Kartoffelknödel und leckeren Apfelrotkohl.
+|===
+
+weiteres Schmorbratenrezept zum abgleichen: http://www.feinschmecker.com/anleitung/die-vorbereitung-fuer-einen-schmackhaften-schmorbraten/
+
+
+[%always]
+<<<
+[id='sec.rouladen']
+
+indexterm:[Rouladen]
+
+=== Rouladen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.schmorbraten']
+
+indexterm:[Schmorbraten]
+
+=== Schmorbraten
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1kg!*Rindfleisch (Bürgermeisterstück / falsches Filet)*
+
+!===
+.^| scharf anbraten, zur Seite legen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Tomatenmark
+!2!*Möhren*; _5cm-Stücke halbieren_
+!1!*Petersilienwurzel*; _würfeln_
+!100g!*Knollensellerie*; _würfeln_
+!4!*Schalotten*; _vierteln_
+!2{nbsp}Zehen!Knoblauch; _in Scheiben_
+
+!===
+.^| Tomatenmark anschwitzen und mit Gemüse anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500ml!Fleischbrühe
+
+!===
+.^| ablöschen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Blatt!Lorbeer
+
+!===
+.^| zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen
+|===
+
+
+[%always]
+<<<
+[id='sec.schmorfleisch']
+
+indexterm:[Schmorfleisch]
+
+=== Schmorfleisch
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.195)
+|===
+
+
+[%always]
+<<<
+[id='sec.schnelles_italienisches_steak']
+
+indexterm:[Schnelles italienisches Steak]
+
+=== Schnelles italienisches Steak
+
+Portionen: 2, Stichwörter: Italien, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}EL!*Pinienkerne*
+
+!===
+.^| Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Entrecôte*
+
+!===
+.^| Fett abschneiden und fein schneiden und in Pfanne knusprig braten. Fleisch auf 1cm flachklopfen und 1min pro Seite braten (außen brau, innnen rosa).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}TL!*Pesto*
+!1!*Entrecôte-Fettstücke (opt.)*
+!1{nbsp}EL!Olivenöl
+
+!===
+.^| servieren: Dünne Entrecôte-Scheiben auf Pesto anrichten, ggf. auch Fettstücke. Fleischaft in Pfanne mit Öl vermischen und auf die Teller geben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!40g!*Rucola*
+!15g!*Parmesan*
+
+!===
+.^| zusammen mit Pinienkernen auf Fleisch geben.
+|===
+
+
+[%always]
+<<<
+[id='sec.souvlaki']
+
+indexterm:[Souvlaki]
+
+=== Souvlaki
+
+Portionen: 0, Stichwörter: Hauptgericht, ohne_Beilage, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.texas_jailhouse_chili']
+
+indexterm:[Texas Jailhouse Chili]
+indexterm:[Chili, Texas Jailhouse Chili]
+
+=== Texas Jailhouse Chili
+
+Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Zwiebeln; _gewürfelt_
+
+!===
+.^| glasig andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Hackfleisch (gemischt)*
+!500g!*Rindfleisch*
+!500g!*Chorizo*; _Scheiben_
+!200g!*Tomaten*; _gehackt_
+!0.33l!*Bier*
+!100g!Tomatenmark
+!1{nbsp}TL!*Worcester-Soße*
+!1{nbsp}EL!*Essig*
+!1{nbsp}Zehe!Knoblauch
+!1!*Habanero 🌶️*
+!2{nbsp}EL!*Petersilie*
+!1{nbsp}EL!Oregano
+!1{nbsp}TL!Cumin
+!1{nbsp}TL!Estragon
+!2{nbsp}TL!Zucker
+!2{nbsp}TL!Salz
+
+!===
+.^| zugeben, ca. 2h köcheln lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!25g!*Schokolade*
+!2{nbsp}TL!Pfeffer
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Pinto-Bohnen*
+
+!===
+.^| getrennt servieren
+|===
+
+
+[%always]
+<<<
+[id='sec.toast_hawaii']
+
+indexterm:[Toast Hawaii]
+
+=== Toast Hawaii
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.weißwürste']
+
+indexterm:[Weißwürste]
+
+=== Weißwürste
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.what_the_hack_buletten']
+
+indexterm:[What the hack-Buletten]
+
+=== What the hack-Buletten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.wiener']
+
+indexterm:[Wiener]
+
+=== Wiener
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.zucchini_mit_hack_und_linsen']
+
+indexterm:[Zucchini mit Hack und Linsen]
+
+=== Zucchini mit Hack und Linsen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.zucchini_mit_ziegenkäse_füllung_und_thymian']
+
+indexterm:[Zucchini mit Ziegenkäse-Füllung und Thymian]
+
+=== Zucchini mit Ziegenkäse-Füllung und Thymian
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.zwiebelrostbraten']
+
+indexterm:[Zwiebelrostbraten]
+
+=== Zwiebelrostbraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fleisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+== Geflügel
+
+[%always]
+<<<
+[id='sec.chicken_tikka_masala']
+
+indexterm:[Chicken Tikka Masala]
+
+=== Chicken Tikka Masala
+
+Portionen: 4, Stichwörter: Indien, Mikrowelle, TK
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150{nbsp}g!*Joghurt*
+!3{nbsp}Zehen!Knoblauch
+!1.5cm!*Ingwerknolle*; _fein gewürfelt_
+!1!*Zitrone (Saft)*
+!1{nbsp}EL!Kreuzkümmel
+!1{nbsp}EL!*Garam Masala*
+!1{nbsp}EL!Paprikapulver
+!1{nbsp}EL!Öl
+!1{nbsp}TL!Salz
+
+!===
+.^| zu Marinade verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!750g!*Hähnchenbrustfilet*
+
+!===
+.^| 3h oder länger marinieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| in Auflaufform 30m backen (🌡200℃)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Reis*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Zwiebeln; _gewürfelt_
+
+!===
+.^| in Butterschmalz ca. 10min andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Kardamompulver*
+!0.5{nbsp}TL!*Zimt*
+!1{nbsp}TL!*Kurkuma*
+!1{nbsp}Dose!*Tomate (Stücke)*
+!300ml!Wasser
+!1{nbsp}TL!Salz
+
+!===
+.^| zu Zwiebeln geben, 15min köcheln, pürieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50{nbsp}ml!*Sahne*
+!2{nbsp}TL!Honig
+
+!===
+.^| zu Soße geben, Fleisch dazu, 5m köcheln
+|===
+
+
+[%always]
+<<<
+[id='sec.halbes_hähnchen']
+
+indexterm:[Halbes Hähnchen]
+
+=== Halbes Hähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.harissa_hähnchen']
+
+indexterm:[Harissa-Hähnchen]
+
+=== Harissa-Hähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.knuspriges_erdnusshähnchen']
+
+indexterm:[Knuspriges Erdnusshähnchen]
+
+=== Knuspriges Erdnusshähnchen
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.pesto_hähnchen_mit_blätterteig']
+
+indexterm:[Pesto-Hähnchen mit Blätterteig]
+
+=== Pesto-Hähnchen mit Blätterteig
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 115)
+|===
+
+
+[%always]
+<<<
+[id='sec.putenbrust_mit_maronenfüllung']
+
+indexterm:[Putenbrust mit Maronenfüllung]
+
+=== Putenbrust mit Maronenfüllung
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.putenschnitzel']
+
+indexterm:[Putenschnitzel]
+
+=== Putenschnitzel
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.tikka_brathähnchen_im_ofen__5z__s__']
+
+indexterm:[Tikka Brathähnchen im Ofen (5Z, S?)]
+
+=== Tikka Brathähnchen im Ofen (5Z, S?)
+
+Portionen: 0, Stichwörter: Hauptgericht, Geflügel
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+== Fisch
+
+[%always]
+<<<
+[id='sec.curry_mango_garnelen']
+
+indexterm:[Curry-Mango-Garnelen]
+
+=== Curry-Mango-Garnelen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.147)
+|===
+
+
+[%always]
+<<<
+[id='sec.dorade_vom_grill']
+
+indexterm:[Dorade vom Grill]
+
+=== Dorade vom Grill
+
+Portionen: 1, Stichwörter: leicht, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Dorade Royal*
+
+!===
+.^| Fisch außen und in Bachhöhle salzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1h grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Fisch "aufrecht" grillen, halbe Kartoffel in Bauchhöhle dient als Ständer
+|===
+
+
+[%always]
+<<<
+[id='sec.forelle_aus_dem_ofen']
+
+indexterm:[Forelle aus dem Ofen]
+
+=== Forelle aus dem Ofen
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.forelle__gebraten']
+
+indexterm:[Forelle, gebraten]
+
+=== Forelle, gebraten
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.lachs_auf_bohnengemüse']
+
+indexterm:[Lachs auf Bohnengemüse]
+
+=== Lachs auf Bohnengemüse
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.lachs_aus_der_holzplanke']
+
+indexterm:[Lachs aus der Holzplanke]
+
+=== Lachs aus der Holzplanke
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.lachs_mit_chorizo']
+
+indexterm:[Lachs mit Chorizo]
+
+=== Lachs mit Chorizo
+
+Portionen: 4, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.nizza_salat_mit_lachs']
+
+indexterm:[Nizza Salat mit Lachs]
+
+=== Nizza Salat mit Lachs
+
+Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Lachsfilets (mit Haut, à 120g)*; _geschuppt und entgrätet_
+
+!===
+.^| 8min über Salzwasser dämpfen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*grüne Bohnen*
+
+!===
+.^| 6min unter dem Lachs 6 min blanchieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Eier*
+
+!===
+.^| 5.5 min unter dem Lachs mit den Bohnen kochen, dann vierteln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*schwarze Oliven (entsteint)*; _gehackt_
+!2{nbsp}EL!*griechischer Joghurt*
+!1{nbsp}EL!Rotweinessig
+!0!Salz, Pfeffer
+
+!===
+.^| Dressing zubereiten, mit Bohnen vermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*schwarze Oliven (entsteint)*; _gehackt_
+!0!Pfeffer
+
+!===
+.^| mit Lachs und Eiervierteln auf Salat anrichten, pfeffern
+|===
+
+
+[%always]
+<<<
+[id='sec.pasta_mit_garnelen__pesto___rosé']
+
+indexterm:[Pasta mit Garnelen, Pesto + Rosé]
+
+=== Pasta mit Garnelen, Pesto + Rosé
+
+Portionen: 0, Stichwörter: Hauptgericht, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.73)
+|===
+
+
+[%always]
+<<<
+[id='sec.steckerlfisch']
+
+indexterm:[Steckerlfisch]
+
+=== Steckerlfisch
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.sushi']
+
+indexterm:[Sushi]
+
+=== Sushi
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.thunfisch_mit_sesamkruste']
+
+indexterm:[Thunfisch mit Sesamkruste]
+
+=== Thunfisch mit Sesamkruste
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.tintenfisch_vom_grill']
+
+indexterm:[Tintenfisch vom Grill]
+
+=== Tintenfisch vom Grill
+
+Portionen: 0, Stichwörter: Hauptgericht, Fisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+== Vegetarisches
+
+[%always]
+<<<
+[id='sec.asiatische_gemüsepfanne']
+
+indexterm:[Asiatische Gemüsepfanne]
+
+=== Asiatische Gemüsepfanne
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons']
+
+indexterm:[Asiatisches Rindfleisch mit Zuckerschoten und Champignons]
+
+=== Asiatisches Rindfleisch mit Zuckerschoten und Champignons
+
+Portionen: 4, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!6{nbsp}EL!*Sojasoße*
+!3{nbsp}EL!*Limettensaft*
+!1{nbsp}EL!*brauner Zucker*
+!1{nbsp}TL!Stärke
+!4{nbsp}EL!Wasser
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Reis*
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!400g!*Rinderfilet*; _schnetzeln_
+!1{nbsp}EL!*rote Currypaste*
+
+!===
+.^| in Gefrierbeutel durchkneten, dann in 2 EL Öl 4 min scharf anbraten, herausnehmen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!500g!*Zuckerschoten*
+!250g!*Champignons*; _halbieren_
+!2!Knoblauchzehen; _fein hacken_
+!20g!*Ingwer*
+!0!Salz
+
+!===
+.^| in 2 EL Öl 8 min bissfest anbraten
+
+Sojamischung und Fleisch zugeben, aufkochen, salzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!80g!*Erdnüsse (geröstet, gesalzen)*; _grob hacken_
+
+!===
+.^| auf Reis und Fleisch servieren
+
+
+|===
+
+
+[%always]
+<<<
+[id='sec.halloumi_pilz_paprika_spieße']
+
+indexterm:[Halloumi-Pilz-Paprika-Spieße]
+
+=== Halloumi-Pilz-Paprika-Spieße
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, schnell
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.kichererbsen_curry']
+
+indexterm:[Kichererbsen-Curry]
+
+=== Kichererbsen-Curry
+
+Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.omelett_mit_tomate_und_mozarella']
+
+indexterm:[Omelett mit Tomate und Mozarella]
+
+=== Omelett mit Tomate und Mozarella
+
+Portionen: 2, Stichwörter: Italien, Low Carb
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!350g!*Tomaten (bunte)*; _in dünnen Scheiben_
+!1{nbsp}EL!Olivenöl
+!1{nbsp}EL!Rotweinessig
+!0!Salz, Pfeffer
+
+!===
+.^| auf Teller anrichten und anmachen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Eier*; _verquirlt_
+
+!===
+.^| in Pfanne erhitzen und umrühren, bis cremig
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Mozarella*; _würfeln_
+!1{nbsp}TL!*Pesto*
+
+!===
+.^| in Mitte des Omelett verteilen. Weiter stocken lassen und Omelett über Mozarella zuklappen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Omelett auf Tomaten anrichten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Chilischote*; _dünne Ringe_
+!10{nbsp}Blätter!*Basilikim*
+
+!===
+.^| garnieren
+|===
+
+
+[%always]
+<<<
+[id='sec.rührei']
+
+indexterm:[Rührei]
+
+=== Rührei
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.shakshuka']
+
+indexterm:[Shakshuka]
+
+=== Shakshuka
+
+Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+!1!Zwiebel; _fein gewürfelt_
+!3!*rote Paprika*; _fein gewürfelt_
+
+!===
+.^| anschwitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten (stückig)*
+!1{nbsp}TL!Salz
+!1{nbsp}EL!*Harissa-Pulver*
+!4!*Eier*
+
+!===
+.^| zugeben, 10min köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Pfeffer
+
+!===
+.^| pfeffern
+|===
+
+
+[%always]
+<<<
+[id='sec.spargel_und_eier_mit_french_dressing']
+
+indexterm:[Spargel und Eier mit French Dressing]
+
+=== Spargel und Eier mit French Dressing
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S.165)
+|===
+
+
+[%always]
+<<<
+[id='sec.spinatknödel']
+
+indexterm:[Spinatknödel]
+
+=== Spinatknödel
+
+Portionen: 4, Stichwörter: Österreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Rezept von Anne und mein <<sec.semmelknödel, Semmelknödelrezept>> abgleichen.
+|===
+
+
+[%always]
+<<<
+[id='sec.süsskartoffeln_cajun_style']
+
+indexterm:[Süsskartoffeln Cajun-Style]
+
+=== Süsskartoffeln Cajun-Style
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| (5Z, S. 175)
+|===
+
+
+== Desserts
+
+[%always]
+<<<
+[id='sec.bayerische_crème']
+
+indexterm:[Bayerische Crème]
+
+=== Bayerische Crème
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kochbuchordner
+|===
+
+
+[%always]
+<<<
+[id='sec.cookie_dough_eis']
+
+indexterm:[Cookie Dough Eis]
+
+=== 💥Cookie Dough Eis
+
+Portionen: 4, Stichwörter: Eis, ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Fertig Cookie Dough Vanille^1,2^*
+!100g!Butter
+!60g!Milch
+!50g!*Schokoladendrops*
+
+!===
+.^| TODO
+|===
+
+^1^ mit hitzebehandeltem Mehl, z.B. https://www.discounto.de/Angebot/Kuechle-Cookie-Dough-Vanille-Geschmack-220g-3097582/
+^2^ oder essbaren Keksteig selber probieren, weitere Infos https://www.mein-mehl.de/mehlblog/nachricht/trend-cookie-dough-was-ihr-fuer-einen-sicheren-genuss-wissen-solltet
+
+
+
+
+
+[%always]
+<<<
+[id='sec.schokoladenmousse']
+
+indexterm:[Schokoladenmousse]
+
+=== Schokoladenmousse
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!90g!*Kuvertüre^1^*
+
+!===
+.^| im Wasserbad schmelzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!45g!*Sahne*
+
+!===
+.^| kurz aufkochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!Eigelb; _zimmerwarm_
+
+!===
+.^| mit Sahne + Kuvertüre verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!Eiklar
+!30g!Zucker
+
+!===
+.^| Zucker portionsweise beim Eischnee schlagen zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Etwas Schnee unter Schmokasse heben. Schokomasse dann komplett in Schüssel mit restlichem Schnee geben, unterheben^2^.
+
+Auf Gläser verteilen, 2h kühl stellen.
+|===
+
+_Modifikation:_ 1 Blatt Gelatine in heiße Sahne rühren für festere Masse
+
+^1^ z.B. Lindt 70% Kakao (wichtig ist: hoher Kakao-, niedriger Zuckeranteil) +
+^2^ nicht zu stark verrühren, es können auch Schneeklumpen sichtbar bleiben (wer's mag).
+
+
+[%always]
+<<<
+[id='sec.schokoladenpudding']
+
+indexterm:[Schokoladenpudding]
+
+=== Schokoladenpudding
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150ml!Milch
+!250ml!*Sahne*
+
+!===
+.^| erhitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!130g!*Schokolade*; _stückeln_
+
+!===
+.^| in Sahne-Milch schmelzen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100ml!Milch
+!1{nbsp}Pkg!Vanillezucker
+!35g!Stärke
+!1{nbsp}EL!Kakaopulver
+
+!===
+.^| zusammenrühren^1^, zugeben und unter ständigem rühren aufkochen (1 min kochen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!*Rum (optional)*
+
+!===
+.^| zugeben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| auf Gläser verteilen, erkalten lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ im Tupper-Shaker gründlich schütteln, um Klümpchen zu vermeiden
+|===
+
+
+[%always]
+<<<
+[id='sec.tiramisu']
+
+indexterm:[Tiramisu]
+
+=== Tiramisu
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kochbuchordner
+|===
+
+
+[%always]
+<<<
+[id='sec.vanilleeis_mit_heißen_kirschen___himbeeren']
+
+indexterm:[Vanilleeis mit heißen Kirschen / Himbeeren]
+
+=== Vanilleeis mit heißen Kirschen / Himbeeren
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Schattenmorellen / Himbeeren (aus Glas)*
+
+!===
+.^| erhitzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!*Saft (aus Glas)*
+!1{nbsp}EL!Puderzucker
+!2{nbsp}TL!*Speisestärke ^1^*
+
+!===
+.^| verrühren, eindicken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!*Kugeln p.P. Vanilleeis*
+
+!===
+.^| mit Kirschen / Himbeeren servieren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
+|===
+
+
+== Mehlspeisen
+
+[%always]
+<<<
+[id='sec.brioche']
+
+indexterm:[Brioche]
+
+=== Brioche
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Butter aus Kühlschrank nehmen (siehe unten)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Mehl .4+.^*
+!25g!Zucker
+!3.5g!Trockenhefe
+!0.5{nbsp}TL!Salz
+
+!===
+.^| in Küchenmaschine mit Knethaken verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Eier (M)*
+
+!===
+.^| Stück für Stück zugeben, weiter kneten bis Teig nicht mehr am Finger klebt
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Butter; _weich_
+
+!===
+.^| Stück für Stück zugeben, weiter kneten (kann bis dahin 20min dauern, beim Anheben des Knethakens soll sich Teig lösen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1-2h bei Zimmertemperatur ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig zusammendrücken/klopfen, mit Frischhaltefolie abgedeckt 1h15min in Kühlschrank ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen auf 🌡180℃ (Umluft) aufheizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig in 3 Teile teilen, Kugeln form und in Backform legen (einfetten + Backpapier)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 20 min ruhen lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit geschlagenem Ei bepinseln, in jede Kugel mit Schere Kreuzschnitt durchführen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 25min backen
+|===
+
+
+[%always]
+<<<
+[id='sec.dampfnudeln']
+
+indexterm:[Dampfnudeln]
+
+=== Dampfnudeln
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.kaiserschmarrn']
+
+indexterm:[Kaiserschmarrn]
+
+=== Kaiserschmarrn
+
+Portionen: 0, Stichwörter: Hauptgericht, vegetarisch, süß
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.marillenknödel']
+
+indexterm:[Marillenknödel]
+
+=== 💥Marillenknödel
+
+Portionen: 3, Stichwörter: ausprobieren, vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei
+!130g!*glattes Mehl*
+!250g!*Magertopfen*
+!70g!*Margarine oder Butter*
+!1{nbsp}Prise!Salz
+!5{nbsp}EL!*Staubzucker zum Bestreuen*
+!6!*Marillen*
+!6!*Würfelzucker*
+!1{nbsp}EL!Butter
+!140g!*Semmelbrösel*
+
+!===
+.^| Für den Topfenteig die Margarine (oder Butter) und das Ei flaumig in einer Schüssel verrühren (=abtreiben). Danach den Topfen, Mehl und Salz hinzugeben und gut durchkneten bis ein Teig entsteht.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Den Teig in 6 gleich große Stücke aufteilen und mit bemehlten Händen die einzelnen Teigteile zu einer flachen runden Teigscheibe drücken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Die Marillen gut waschen, abtrocknen und halbieren - dabei den Kern entfernen. Anstelle des Kernes ein Stück Würfelzucker geben und die beiden Marillenhälften wieder zusammensetzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nun jeweils die beiden Marillenhälften, mit dem Würfelzucker in der Mitte, auf die runden, flachgedrückten Teigstücke geben und mit dem Teig zu einem Knödel formen - die Marillenstücke sollten komplett vom Teig umhüllt sein.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In einen Topf Salzwasser zum Kochen bringen, die Marillenknödel ins Wasser geben und schwach siedend für ca. 10 - 12 Minuten gar kochen - das merkt man wenn die Knödel an der Wasseroberfläche schwimmen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In der Zwischenzeit kann man in einer Pfanne mit einem EL Butter die Semmelbröseln kurz anrösten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zum Schluss die fertig gekochten Topfenknödel in der Pfanne mit den Semmelbröseln wälzen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vor dem Servieren werden die Marillenknödel mit Staubzucker (oder Zimtzucker) bestreut.
+|===
+
+
+[%always]
+<<<
+[id='sec.naan']
+
+indexterm:[Naan]
+indexterm:[Brot, Naan]
+
+=== Naan
+
+Portionen: 0, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| https://www.youtube.com/watch?v=qnzBkCkv9gs
+|===
+
+
+[%always]
+<<<
+[id='sec.nusspalatschinken']
+
+indexterm:[Nusspalatschinken]
+
+=== 💥Nusspalatschinken
+
+Portionen: 2, Stichwörter: ausprobieren
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0!Öl
+!125{nbsp}ml!Milch
+!60{nbsp}g!Mehl
+!1!*Eier*
+!1{nbsp}Prise!Salz
+!100{nbsp}g!*Walnüsse*
+!100{nbsp}ml!Milch
+!1{nbsp}Pkg.!Vanillezucker
+!1{nbsp}EL!Zucker
+!1{nbsp}Prise!*Zimt*
+!1{nbsp}Prise!*Kardamom*
+!0!*Schlagobers*
+!0!Staubzucker
+
+!===
+.^| Zunächst alle Zutaten für den Teig vermischen und zu einem glatten Teig rühren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Für die Nussfülle die Milch langsam gemeinsam mit dem Zucker und dem Vanillezucker aufkochen lassen und danach die Nüsse einrühren. Nach Belieben mit etwas Zimt und etwas Kardamom abschmecken. Die Nussfüllung warm stellen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| In einer Pfanne wenig Öl erhitzen und gerade so viel Teig eingießen, bis der Pfannenboden bedeckt ist. Die Palatschinke fest werden lassen und wenden. Sobald die Palatschinke auf beiden Seiten goldbraun ist, herausnehmen und warmstellen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Weiter so verfahren, bis der Teig aufgebraucht ist und alle Palatschinken fertig sind.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Nun die Palatschinken mit der Nussfülle bestreichen und einrollen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Die Nusspalatschinken am besten mit geschlagenem Schlagobers und mit Staubzucker bestreut servieren.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Sind keine Kinder unter den Essern, so können Sie den Nussgeschmack der Nusspalatschinken noch mit einem Schuss Nusslikör oder Nussschnaps in der Füllung intensivieren.
+|===
+
+
+[%always]
+<<<
+[id='sec.pancakes']
+
+indexterm:[Pancakes]
+
+=== Pancakes
+
+Portionen: 2, Stichwörter: USA
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Eiweiß
+
+!===
+.^| zu Schnee schlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2!Eigelb
+!2{nbsp}EL!Zucker
+
+!===
+.^| aufschlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!Milch
+
+!===
+.^| zugeben und verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Mehl
+!1{nbsp}TL!*Backpulver*
+!1{nbsp}Pr!Salz
+
+!===
+.^| zugeben und verrühren (optional: 15m ruhen lassen)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Eischnee untermengen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| mit Butterschmal anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Modifikationen: beim Backen Apfelschnitze / Bananenscheiben / Blaubeeren in Teig geben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Servieren mit Ahornsirup und ggf. griechischem Joghurt mit Vanille + Zucker
+|===
+
+
+[%always]
+<<<
+[id='sec.pfannkuchen']
+
+indexterm:[Pfannkuchen]
+
+=== Pfannkuchen
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!Mehl
+!1{nbsp}Prise!Salz
+!125ml!Wasser
+!2!*Eier*
+
+!===
+.^| verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.waffeln']
+
+indexterm:[Waffeln]
+
+=== Waffeln
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!Butter; _weich_
+!100g!Zucker
+!1!Ei
+!1{nbsp}Pkg!Vanillezucker
+
+!===
+.^| in Rührschüssel verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250ml!Milch
+!250g!Mehl
+!0.5{nbsp}Pkg!*Backpulver*
+
+!===
+.^| Milch komplett und Rest portionsweise zugeben, weiterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Waffeleisen mit Pinsel einölen und erhitzen. Pro Waffel ca 2 EL Teigmassen verwenden.
+|===
+
+
+== Gebäck
+
+[%always]
+<<<
+[id='sec.pizzakordeln']
+
+indexterm:[Pizzakordeln]
+
+=== 💥Pizzakordeln
+
+Portionen: 0, Stichwörter: ausprobieren, Snacks
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250{nbsp}g!Mehl
+!0.5{nbsp}Pkg!Trockenhefe
+!2{nbsp}EL!Olivenöl
+!1{nbsp}TL!*Kräuter der Provence*
+!2{nbsp}Prisen!Salz
+!160{nbsp}ml!Wasser
+
+!===
+.^| Für den Teig alle Zutaten in eine Schüssel geben und mit den Knethaken des Handrührgerätes oder der Küchenmaschine so lange verkneten, bis sich der Teig aus der Topfschüssel löst, eventuell noch einmal vorsichtig etwas Wasser oder Mehl nachgeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Den Teig zugedeckt etwa 30 Minuten in der Schüssel ruhen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ein Backblech mit Backpapier auslegen. Den Back­ofen auf 🌡180℃ Ober- und Unterhitze vorheizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!5{nbsp}EL!Tomatenmark
+!100{nbsp}g!*Reibekäse*
+!0!Salz
+!0!Olivenöl
+
+!===
+.^| Auf der bemehlten Arbeitsfläche den Teig zu einem Rechteck (ca. 35 x 20 cm) ausrollen. Mit Tomatenmark bestreichen, etwas salzen, mit Käse bestreuen. Nun mit einem Pizzaschneider oder einem scharfen Messer den Teig entlang der kurzen Seite in 2 bis 3 cm breite Streifen schneiden. Die Streifen von unten nach oben einklappen − dabei darauf achten, dass der Käse nicht herausfällt. Die gefalteten Teigstücke zu einer Kordel drehen und auf das Backblech legen. Mit Olivenöl bestreichen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kurz gehen lassen und im heißen Backofen 20 bis 30 Minuten knusprig abbacken.
+|===
+
+
+[%always]
+<<<
+[id='sec.pogácsa']
+
+indexterm:[Pogácsa]
+
+=== 💥Pogácsa
+
+Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100{nbsp}ml!*lauwarme Milch*
+!20{nbsp}g!frische Hefe
+!1{nbsp}EL!Mehl
+
+!===
+.^| lauwarme Milch mit Hefe, Zucker und 1 EL Mehl verrühren und abgedeckt 15 Minuten stehen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5{nbsp}TL!Zucker
+!500{nbsp}g!*Mehl Type 405 oder 550*
+!11{nbsp}g!Salz
+!200{nbsp}ml!*Creme Fraiche*
+!2!*Eier*
+!170{nbsp}g!*geraspelter Käse z.B. Gouda*
+
+!===
+.^| in die Schüssel der Küchenmaschine geben, die aufgelöste Hefe zugeben und alles mit der Küchenmaschine verkneten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| den Teig in eine Schüssel mit Deckel geben und bis zum nächsten Tag in den Kühlschrank stellen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| den Backofen auf 🌡180℃ Ober-/Unterhitze vorheizen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| den Teig auf eine leicht bemehlte Arbeitsfläche ca. 1 cm dick ausrollen und runde Kreise Ø 4,5-5 cm ausstechen. Die Teigkreise auf ein mit Backpapier ausgelegtes Backblech legen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3{nbsp}EL!Milch
+!80{nbsp}g!*geraspelter Käse z.B. Gouda*
+
+!===
+.^| Die Teiglinge mit Milch bestreichen und geraspelten Käse bestreuen, anschließend in den vorgeheizten Backofen geben und 25-30 Minuten je nach Backofen backen. Der Käse sollte leicht gebräunt sein.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| nach dem Backen kurz abkühlen lassen und am besten lauwarm genießen.
+|===
+
+
+[%always]
+<<<
+[id='sec.schoko_cookies_mit_m_m_s']
+
+indexterm:[Schoko-Cookies mit M&M's]
+indexterm:[M&M-Cookies, Schoko-Cookies mit M&M's]
+
+=== Schoko-Cookies mit M&M's
+
+Portionen: 15, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ofen auf 🌡175℃ O/U-Hitze
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!Butter
+!160g!Zucker
+!10g!*Melasse / Grafschafter Goldsaft*
+
+!===
+.^| cremig aufschlagen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei
+!1{nbsp}TL!*Vanilleextrakt*
+
+!===
+.^| einrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Mehl
+
+!===
+.^| zugeben, verkneten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!40{nbsp}g!*Schokodrops*
+
+!===
+.^| zugeben, kurz verkneten. 15 Cookies formen (ein leicht gehäufter EL pro Portion)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*M&M's (Erdnuss)*
+
+!===
+.^| auf Cookies drücken. 15m backen
+|===
+
+
+[%always]
+<<<
+[id='sec.schokoladencookies']
+
+indexterm:[Schokoladencookies]
+
+=== Schokoladencookies
+
+Portionen: 6, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!280g!Mehl
+!1.5{nbsp}TL!Stärke
+!1{nbsp}TL!Natron
+!0.5{nbsp}TL!Salz
+!170g!Butter, zimmerwarm
+!150g!Zucker, braun
+!100g!Zucker, weiß
+!1!Ei, zimmerwarm
+!1!Eigelb, zimmerwarm
+!2{nbsp}TL!*Vanilleextrakt*
+!270g!*Schokodrops, groß (selber machen)*
+
+!===
+.^| 🌡163℃ vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| trockene Zutaten verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Butter + Zucker separat 2m verrühren, bis cremig
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann Ei + Vanille zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann trockene Zutaten unterheben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| dann Schokodrops unterheben (Teig wird dick)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Hügelchen mit flacher Spitze formen  (jeder wird ca. 170g haben)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 20m-25m backen. Mitte wird noch weich sein, aber das festigt sich beim abkühlen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Beim Abkühlen ggf. noch weitere Schokodrops auf Oberseite reindrücken
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Anmerkung: für 6 große Cookies
+|===
+
+
+[%always]
+<<<
+[id='sec.zitronenkekse_mit_weißer_schokolade']
+
+indexterm:[Zitronenkekse mit weißer Schokolade]
+
+=== Zitronenkekse mit weißer Schokolade
+
+Portionen: 16, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!Butter (weich)
+!150g!Zucker
+!1!*Pck. Vanillezucker*
+!1{nbsp}Prise!Salz
+
+!===
+.^| rühren (Flexi-Rührer)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei
+!1!*Zitrone (Abrieb)*
+!100g!*Frischkäse (Joghurt)*
+!225g!Mehl
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*weiße Schokolade^1^*; _Stücke vierteln_
+
+!===
+.^| in Teigmasse unterheben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ca. 16 Cookies auf zwei Backbleche formen. 10min backen (🌡160℃).
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Zitrone (Saft)*
+!100g!Puderzucker
+
+!===
+.^| Zuckerguss rühren, Kekse nach abkühlen damit bestreichen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| ^1^ Test: Doppelte Menge (300 g) oder gar 400 g ausprobieren.
+|===
+
+
+== Kuchen
+
+[%always]
+<<<
+[id='sec.new_york_cheesecake']
+
+indexterm:[New York Cheesecake]
+
+=== New York Cheesecake
+
+Portionen: 12, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Backofen 🌡180℃ Ober- Unterhitze vorheizen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!125g!Butter; _schmelzen_
+!200g!*Hafervollkornkekse*; _zerbröseln_
+
+!===
+.^| vermischen. In Springform geben, Boden flachdrücken. 30m kühlen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!Zucker
+!2{nbsp}Pkg!Vanillezucker
+!3{nbsp}EL!Speisestärke
+!900g!*Frischkäse (Doppelrahmstufe)*
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!3!*Eier*
+
+!===
+.^| nacheinander unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!*Vanillepaste*
+!175g!*Sahne*
+
+!===
+.^| unterrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1h backen
+|===
+
+
+[%always]
+<<<
+[id='sec.zwiebelkuchen']
+
+indexterm:[Zwiebelkuchen]
+
+=== Zwiebelkuchen
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| für die Le Creuset Tarte-Form
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0{nbsp}ml!Milch (3/4)
+!0g!Trockenhefe
+!0{nbsp}TL!Zucker
+
+!===
+.^| in Teigschüssel geben, auflösen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0{nbsp}ml!Milch (1/4)
+!250g!Mehl
+!250g!Salz
+!50g!Butter (weich)
+
+!===
+.^| Mehl zugegeben und kneten. Salz und Rest der Milch zugeben und weiter kneten, dabei portionsweise Butter zugeben.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!75g!*Speck*; _gewürfelt_
+
+!===
+.^| anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!25g!Butter
+!750g!Zwiebel; _fein gewürfelt_
+
+!===
+.^| zugeben, glasig dünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO und weiter?
+|===
+
+
+== Basis
+
+[%always]
+<<<
+[id='sec.brauner_us_zucker']
+
+indexterm:[Brauner US-Zucker]
+
+=== Brauner US-Zucker
+
+Portionen: 1, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Vermische weißen Zucker mit Melasse / Grafschafter Goldsaft im Verhältnis 9:1.
+|===
+
+
+[%always]
+<<<
+[id='sec.pastateig']
+
+indexterm:[Pastateig]
+
+=== Pastateig
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!Mehl (405)
+!3!*Eier*
+!1{nbsp}EL!Olivenöl
+!0.5{nbsp}TL!Salz
+
+!===
+.^| TODO. Blogartikel lesen: https://goo.gl/Vq2mRL
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Ravioliteig: 1 Ei und 5 Eigelb statt 3 Eier
+|===
+
+
+[%always]
+<<<
+[id='sec.pizzateig']
+
+indexterm:[Pizzateig]
+
+=== Pizzateig
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!Mehl
+!0.5!*Würfel Hefe (frisch)*
+!1{nbsp}TL!Zucker
+
+!===
+.^| Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Salz
+!2{nbsp}EL!Olivenöl
+!120ml!Wasser
+
+!===
+.^| Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Teig nochmal durchkneten, ausrollen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
+|===
+
+
+[%always]
+<<<
+[id='sec.tomatensoße']
+
+indexterm:[Tomatensoße]
+
+=== Tomatensoße
+
+Portionen: 4, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+
+!===
+.^| in 2 EL Olivenöl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Dose!*Tomaten (gehackt)*
+!20g!Tomatenmark
+!1{nbsp}TL!Salz
+!0.5{nbsp}TL!Zucker, Pfeffer, Paprikapulver
+!1{nbsp}EL!Oregano
+
+!===
+.^| zugeben, köcheln, pürieren
+|===
+
+
+== Beilagen
+
+[%always]
+<<<
+[id='sec.antipasti']
+
+indexterm:[Antipasti]
+
+=== Antipasti
+
+Portionen: 8, Stichwörter: Italien, vegetarisch, vegan
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!*Zucchini*; _Scheiben_
+!1!*Aubergine*; _Scheiben_
+!6!*Paprika, gegrillt, aus Glas*
+!800g!*Pilze*; _ganz oder geviertelt_
+!1!Zwiebel; _geviertelt_
+
+!===
+.^| grillen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!70ml!Weinessig
+!1!*Zitrone (Saft)*
+!70ml!*Aceto balsamico*
+!100ml!Olivenöl
+
+!===
+.^| Marinade zubereiten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Glas!*Tomaten, getrocknet, in Öl*
+!2{nbsp}Zweig!*Rosmarin*
+
+!===
+.^| zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen
+|===
+
+
+[%always]
+<<<
+[id='sec.cole_slaw']
+
+indexterm:[Cole Slaw]
+
+=== Cole Slaw
+
+Portionen: 0, Stichwörter: Salat, vegetarisch, Beilage
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Clow Slaw wie von Kugler (Meeretich?)
+|===
+
+
+[%always]
+<<<
+[id='sec.frischkäse_aufstrich']
+
+indexterm:[Frischkäse-Aufstrich]
+
+=== Frischkäse-Aufstrich
+
+Portionen: 4, Stichwörter: Aufstrich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!300g!*Frischkäse*
+!50g!Butter
+
+!===
+.^| verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!100g!*Kochschinken*; _fein gewürfelt_
+!2!*Gewürzgurken*; _fein gewürfelt_
+!1{nbsp}Bd!*Schnittlauch*; _geschnitten_
+!0!Salz, Pfeffer, Fondor
+
+!===
+.^| zugeben und verrühren
+|===
+
+
+[%always]
+<<<
+[id='sec.grießglößchensuppe']
+
+indexterm:[Grießglößchensuppe]
+
+=== Grießglößchensuppe
+
+Portionen: 0, Stichwörter: vegetarisch
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| TODO: Grießkößchen beschreiben (Hartweizengrieß wie zubereiten?)
+|===
+
+
+[%always]
+<<<
+[id='sec.grüne_bohnen']
+
+indexterm:[Grüne Bohnen]
+
+=== Grüne Bohnen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.hummus']
+
+indexterm:[Hummus]
+
+=== Hummus
+
+Portionen: 2, Stichwörter: Kichererbsen, Orient
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!50g!*Kichererbsen (trockene)*
+
+!===
+.^| trockene Kichererbsen 24h einweichen, dann in 200ml kochendes Wasser geben und 1h köcheln
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}Zehe!Knoblauch; _grepresst_
+!13ml!*Zitronensaft*
+!24g!*Tahin*
+!0.33{nbsp}TL!Salz
+!0.33{nbsp}TL!Cumin
+!50ml!Wasser
+
+!===
+.^| im kleinen Philips-Mixer pürieren
+|===
+
+
+[%always]
+<<<
+[id='sec.obazda']
+
+indexterm:[Obazda]
+
+=== Obazda
+
+Portionen: 8, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!600g!*Camembert*; _Rinde entfernen_
+!125g!Butter
+
+!===
+.^| in Schüssel geben, 1h bei Zimmertemperatur weich werden lassen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200g!*Frischkäse*
+!4{nbsp}EL!Paprikapulver
+!1{nbsp}EL!*Kümmel (gemahlen)*
+!0!Salz, Pfeffer
+
+!===
+.^| zugeben, verrühren
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!2{nbsp}EL!Zwiebeln; _würfeln_
+
+!===
+.^| unterheben
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Variation:
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1/3 des Camembert durch Limburger ersetzen (nicht mehr, da Limburger fester ist als Camembert)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| 1 TL Senf
+|===
+
+
+[%always]
+<<<
+[id='sec.rahmwirsing']
+
+indexterm:[Rahmwirsing]
+
+=== Rahmwirsing
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Wirsingkohl*
+
+!===
+.^| Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!*Sahne*
+!1{nbsp}TL!*Brühpulver*
+!0.5!Muskat
+!2{nbsp}TL!Salz
+
+!===
+.^| erhitzen, mit Wirsing vermengen. 10m in Topf köcheln.
+|===
+
+
+[%always]
+<<<
+[id='sec.rispentomaten_aus_dem_ofen']
+
+indexterm:[Rispentomaten aus dem Ofen]
+
+=== Rispentomaten aus dem Ofen
+
+Portionen: 0, Stichwörter: vegetarisch, leicht
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+|===
+
+
+[%always]
+<<<
+[id='sec.röstzwiebeln']
+
+indexterm:[Röstzwiebeln]
+
+=== Röstzwiebeln
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!4!Zwiebeln; _Ringe_
+
+!===
+.^| salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Zwiebeln in Mehl wenden (Tablett mit Mehl bestäuben, Zwiebeln auflegen, Zwiebeln bestäuben)
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!200ml!*Rapsöl*
+
+!===
+.^| erhitzen, Zwiebeln goldbraun rösten.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Achtung: Zwiebeln gehen schnell von goldbraun in schwarz über! Wenn die Zwiebeln portionsweise aus dem Öl geschöpft werden, sind am Ende ein paar schon bitter.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Trick: Nudeleinsatz zum frittieren verwenden. Damit können alle Zwiebeln auf einmal aus dem Öl genommen werden, wenn sie fertig sind.
+|===
+
+
+[%always]
+<<<
+[id='sec.semmelknödel']
+
+indexterm:[Semmelknödel]
+
+=== Semmelknödel
+
+Portionen: 4, Stichwörter: Österreich
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _gewürfelt_
+!150ml!Milch
+!1{nbsp}Prise!Muskat
+
+!===
+.^| glasieren, mit Milch ablöschen und erwärmen, würzen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!250g!*Knödelbrot*
+
+!===
+.^| mit Zwiebelmasse vermengen, abdecken, 30min ruhen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Ei; _geschlagen_
+!2{nbsp}EL!*Petersilie*
+
+!===
+.^| zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 🌡70℃ Umluft 10-15min in Ofen antrocknen lassen.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Tipp: Hände feucht halten beim Knödel formen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Varianten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Bratknödel: 7-10min pro Seite auf mittlerer Hitze anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kaspressknödel: Zur Knödelmasse noch 200g Bergkäse verkneten und wie Bratknödel anbraten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Rührei und gebratene Knödelwürfel
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+
+!===
+.^| Kastenform einfetten, darin Knödelmasse 30-35min in 🌡180℃ Umluft backen
+|===
+
+
+[%always]
+<<<
+[id='sec.tomatenreis']
+
+indexterm:[Tomatenreis]
+
+=== Tomatenreis
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*Reis*
+!225ml!Brühe
+
+!===
+.^| kochen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!Zwiebel; _würfeln_
+!1{nbsp}Zehe!Knoblauch; _gehackt_
+
+!===
+.^| in Öl andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1!*Tomate*; _gehackt_
+!80g!Tomatenmark
+!1!*Paprika gelb*; _würfeln_
+
+!===
+.^| zugeben und andünsten
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150ml!Milch
+
+!===
+.^| Portionsweise mit Milch ablöschen und eindicken.
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!1{nbsp}TL!Paprikapulver
+!0!Salz, Pfeffer
+
+!===
+.^| Würzen. Reis unterheben.
+|===
+
+
+[%always]
+<<<
+[id='sec.tsatsiki']
+
+indexterm:[Tsatsiki]
+
+=== Tsatsiki
+
+Portionen: 2, Stichwörter: 
+
+[%noheader, cols="1a,2", grid=rows]
+|===
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!0.5!*Gurke*
+
+!===
+.^| aushöhlen, grob raspeln, in Küchentuch auspressen
+
+|[%noheader, cols=">30%,70%", frame=none, grid=none]
+!===
+!150g!*griechischer Joghurt*
+!1!Knoblauchzehe (gepresst)
+!0.5{nbsp}TL!*Zitronenabrieb*
+!2{nbsp}TL!Olivenöl
+!0!Salz, Pfeffer
+!1!*Dill / Minze (optional)*
+
+!===
+.^| vermengen
+|===
+
+
+== Rezepte nach Stichwort
+
+=== leicht
+
+* <<sec.asiatische_gemüsepfanne, Asiatische Gemüsepfanne>>
+* <<sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons, Asiatisches Rindfleisch mit Zuckerschoten und Champignons>>
+* <<sec.caesar_salad, Caesar Salad>>
+* <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
+* <<sec.dorade_vom_grill, Dorade vom Grill>>
+* <<sec.falafelsalat_mit_tahin_dressing, Falafelsalat mit Tahin-Dressing>>
+* <<sec.grüne_bohnen, Grüne Bohnen>>
+* <<sec.halloumi_pilz_paprika_spieße, Halloumi-Pilz-Paprika-Spieße>>
+* <<sec.indischer_eintopf, Indischer Eintopf>>
+* <<sec.kartoffel_curry, Kartoffel-Curry>>
+* <<sec.kichererbsen_curry, Kichererbsen-Curry>>
+* <<sec.lachs_auf_bohnengemüse, Lachs auf Bohnengemüse>>
+* <<sec.lachs_aus_der_holzplanke, Lachs aus der Holzplanke>>
+* <<sec.linsencurry_mit_spinat, Linsencurry mit Spinat>>
+* <<sec.melanzane_al_parmigiana, Melanzane al Parmigiana>>
+* <<sec.nizza_salat_mit_lachs, Nizza Salat mit Lachs>>
+* <<sec.pappa_al_pomodoro, Pappa al Pomodoro>>
+* <<sec.paprikaauflauf_mit_feta, Paprikaauflauf mit Feta>>
+* <<sec.pasta_mit_cremige_auberginensoße, Pasta mit cremige Auberginensoße>>
+* <<sec.rispentomaten_aus_dem_ofen, Rispentomaten aus dem Ofen>>
+* <<sec.shakshuka, Shakshuka>>
+* <<sec.spargel_und_eier_mit_french_dressing, Spargel und Eier mit French Dressing>>
+* <<sec.sushi, Sushi>>
+* <<sec.süsskartoffeln_cajun_style, Süsskartoffeln Cajun-Style>>
+* <<sec.zucchini_mit_hack_und_linsen, Zucchini mit Hack und Linsen>>
+
+
+ifdef::backend-pdf[]
+[%always]
+
+<<<
+[index]
+== Index
+endif::[]

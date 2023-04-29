@@ -1,0 +1,6 @@
+Spinatknödel
+:yields: 4
+:category: Vegetarisches
+:tags: Österreich
+
+# TODO: Rezept von Anne und mein <<sec.semmelknödel, Semmelknödelrezept>> abgleichen. 

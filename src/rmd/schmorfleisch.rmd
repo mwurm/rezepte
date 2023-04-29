@@ -1,0 +1,5 @@
+Schmorfleisch
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;Fleisch
+# (5Z, S.195)

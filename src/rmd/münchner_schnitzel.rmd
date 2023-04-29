@@ -1,0 +1,4 @@
+Münchner Schnitzel
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;ohne Beilage; Büro

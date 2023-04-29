@@ -6,5 +6,8 @@ then
     exit
 fi
 
-asciidoctor -D build rezepte.adoc
-cp -r images build/
+./rmd_to_asciidoc.py src/rmd/*.rmd
+asciidoctor -D github-pages index.adoc
+mv recipes-metadata.json github-pages/
+# cp -r images github-pages/
+# asciidoctor-pdf -D github-pages index.adoc

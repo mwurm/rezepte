@@ -1,0 +1,4 @@
+Bifteki
+:yields: 0
+:category: Fleischgerichte
+:tags: Hauptgericht;Fleisch

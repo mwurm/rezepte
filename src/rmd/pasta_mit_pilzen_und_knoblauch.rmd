@@ -1,0 +1,5 @@
+Pasta mit Pilzen und Knoblauch
+:yields: 0
+:category: Pasta
+:tags: Hauptgericht;vegetarisch
+# (5Z, S.65)
