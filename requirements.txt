@@ -1,0 +1,1 @@
+rotunicode==2.3.0
