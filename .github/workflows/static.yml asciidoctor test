@@ -31,8 +31,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - uses: reitzig/actions-asciidoctor@v2.0.1
+        with:
+          version: 2.0.18
+      - run: asciidoctor --version
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
