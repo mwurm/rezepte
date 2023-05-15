@@ -1,6 +1,22 @@
 Cole Slaw
-:yields: 0
-:category: Beilagen
-:tags: Salat;vegetarisch;Beilage
+:category: Salate
+:tags: ausprobieren
+:yields: 4
+:url: https://www.servicebund.de/rezepte/bayerischer-cole-slaw-meerrettich-dressing-rodeo-filetstreifen.html
 
-# Clow Slaw wie von Kugler (Meeretich?)
+24g Zucker
+50g Mayonnaise
+80ml Buttermilch
+30g Sahnemeerrettich
+24ml Weißweinessig
+20g Petersilie, gehackt
+# verrühren
+400g Weißkraut; geraspelt
+120g Karotten; geraspelt
+0 Salz, Pfeffer
+# zugeben, abeschmecken
+  1h ziehen lassen
+  Cole Slaw in Weckgläser mit weiter Öffnung abfüllen.
+
+
+
