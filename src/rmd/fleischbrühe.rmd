@@ -1,0 +1,14 @@
+Fleischbrühe
+:yields: 6
+:category: Suppen
+:tags: TK
+
+500g Rindfleisch
+300g Knochen
+400g Suppengrün; gewürfelt
+1.5l Wasser (kalt)
+# langsam erhitzen und ca. 2.5h köcheln lassen
+0 Salz
+# erst jetzt salzen und abschmecken
+
+

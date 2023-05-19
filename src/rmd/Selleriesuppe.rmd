@@ -1,0 +1,19 @@
+Selleriesuppe
+:yields: 6
+:category: Suppen
+:tags: TK; Mikrowelle
+
+
+1 Zwiebel; gewürfelt
+900g Sellerieknolle; gewürfelt
+# andünsten
+
+1 Bund Selleriegrün
+1l Gemüsebrühe
+# zugeben, 15min köcheln
+
+50ml Sahne
+0 Salz, Pfeffer
+# zugeben, pürieren, abschmecken
+  servieren: mit Olivenöl beträufeln
+

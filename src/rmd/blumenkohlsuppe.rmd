@@ -1,0 +1,11 @@
+Blumenkohlsuppe
+:yields: 6
+:category: Suppen
+:tags: TK; Mikrowelle
+
+400g Blumekohl (TK)
+# in Öl anbraten
+400ml Gemüsebrühe
+# zugeben, 20 min köcheln lassen
+80ml Sahne
+# zugeben, pürieren
