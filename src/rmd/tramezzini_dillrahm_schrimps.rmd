@@ -2,7 +2,7 @@ Tramezzini mit Dillrahm-Shrimps
 :yields: 4 Portionen
 :category: Appetithäppchen
 :subcategory: Tramezzini
-:tag: ausprobieren
+:tags: ausprobieren
 
 
 160g Shrimps
