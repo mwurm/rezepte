@@ -1,8 +1,0 @@
- Schweinefilet vom Grill
-:yields: 2
-:category: Fleischgerichte
-
-1 Schweinefilet
-# Salzen + pfeffern.
-# 10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
-

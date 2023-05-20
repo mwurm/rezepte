@@ -1,4 +1,15 @@
 Tintenfisch vom Grill
-:yields: 0
+:yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch
+
+4 EL Olivenöl
+0.5 Zitrone (Saft)
+0 Thymian
+1 TL Salz
+2 Zehen Knoblauch; gepresst
+# zu Marinade zubereiten
+
+4 Tintenfisch-Tuben; halbiert
+# 1h marinieren
+ von beiden Seiten 2min grillen

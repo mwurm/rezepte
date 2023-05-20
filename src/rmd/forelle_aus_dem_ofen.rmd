@@ -1,4 +1,16 @@
 Forelle aus dem Ofen
-:yields: 0
+:yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch
+
+350g Forelle
+50g Butter
+# Butter in Alufolie und Bauch verteilen
+0.25 Zwiebel; Ringe
+0.5 Karotte; Stifte
+0 Petersilie
+# befüllen
+40ml Weißwein
+
+
+

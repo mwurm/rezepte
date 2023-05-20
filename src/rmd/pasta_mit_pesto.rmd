@@ -1,5 +1,0 @@
-Pasta mit Pesto
-:yields: 0
-:category: Pasta
-:tags: vegetarisch;schnell
-# Pesto siehe <<sec.pesto, Pesto-Rezept>>, oder Fertig-Pesto nehmen

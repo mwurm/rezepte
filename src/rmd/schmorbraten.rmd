@@ -3,7 +3,8 @@ Schmorbraten
 :category: Fleischgerichte
 
 1kg Rindfleisch (Bürgermeisterstück / falsches Filet)
-# scharf anbraten, zur Seite legen
+0 Salz, Peffer
+# würzen, scharf anbraten, zur Seite legen
 
 2 EL Tomatenmark
 2 Möhren; 5cm-Stücke halbieren
@@ -16,5 +17,5 @@ Schmorbraten
 # ablöschen
 1 Blatt Lorbeer
 # zugeben.
-# Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen
+# Fleisch dazugeben, 2.5h schmoren bei 180°C Ober-/Unterhitze, jede 0.5h wenden, ggf. Brühe zugießen
 
