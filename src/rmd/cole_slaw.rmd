@@ -4,13 +4,13 @@ Cole Slaw
 :yields: 4
 :url: https://www.servicebund.de/rezepte/bayerischer-cole-slaw-meerrettich-dressing-rodeo-filetstreifen.html
 
-75g Mayonnaise
-120ml Buttermilch^1^
-45g Sahnemeerrettich
-35ml Weißweinessig
-2 TL Zucker
-2 TL Salz
-1 TL Pfeffer
+50g Mayonnaise
+80ml Buttermilch^1^
+30g Sahnemeerrettich
+20ml Weißweinessig
+1 TL Zucker
+1 TL Salz
+0.5 TL Pfeffer
 # verrühren
 400g Weißkraut^2^; geraspelt
 120g Karotten; geraspelt
