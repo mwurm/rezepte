@@ -109,5 +109,3 @@ chmod u+x *.sh *.py
 # Erzeuge index.html aus AsciiDoc-Files
 ./docbuild.sh
 ```
-
-
