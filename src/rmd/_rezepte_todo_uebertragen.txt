@@ -94,15 +94,6 @@ include::rezepte/süße_beilagen/vanillesoße.adoc[]
 === Italienische Meringue
 
 == Dressing
-=== American Dressing
-=== Dressing mit Ahornsirup
-=== Dressing mit Preiselbeeren
-=== Casesar Dressing
-=== Granatapfeldressing
-=== Joghurt-Dressing
-=== Thousand-Island Dressing
-=== Öl und Essig
-=== Vinaigrette
 === Honig-Rosmarin-Dressing (MM, side order salad)
 === Himbeervinaigrette (Foto, MM)
 
