@@ -1,7 +1,7 @@
 Brioche
 :yields: 4
 :category: Mehlspeisen
-:source: https://www.youtube.com/watch?v=jYg0rpwpAp4
+:url: https://www.youtube.com/watch?v=jYg0rpwpAp4
 
 # Butter aus Kühlschrank nehmen (siehe unten)
 250g Mehl .4+.^

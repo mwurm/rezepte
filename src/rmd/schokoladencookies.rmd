@@ -1,7 +1,7 @@
 Schokoladencookies
 :yields: 6
 :category: Gebäck
-:source: https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/
+:url: https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/
 
 280g Mehl
 1.5 TL Stärke

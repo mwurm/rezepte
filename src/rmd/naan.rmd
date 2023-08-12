@@ -2,6 +2,5 @@ Naan
 :yields: 0
 :indexterms: Brot, Naan
 :category: Mehlspeisen
-:source: https://www.youtube.com/watch?v=qnzBkCkv9gs
+:url: https://www.youtube.com/watch?v=qnzBkCkv9gs
 
-# https://www.youtube.com/watch?v=qnzBkCkv9gs

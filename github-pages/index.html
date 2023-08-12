@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.18">
+<meta name="generator" content="Asciidoctor 2.0.16">
 <title>Rezepte</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
@@ -84,10 +84,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
-ul.square{list-style-type:square}
-ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -193,8 +193,7 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
 details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
 details{margin-left:1.25rem}
-details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
-details>summary::-webkit-details-marker{display:none}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
 details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
 details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
 details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
@@ -236,8 +235,9 @@ pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
 table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
 table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
 table.linenotable td.code{padding-left:.75em}
-table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
 .quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
 .quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
@@ -274,7 +274,7 @@ table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-c
 table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
 table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
 table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
-table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -290,11 +290,10 @@ ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
-li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
 ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
 ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
 ul.unstyled,ol.unstyled{margin-left:0}
-li>p:empty:only-child::before{content:"";display:inline-block}
 ul.checklist>li>p:first-child{margin-left:-1em}
 ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
 ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
@@ -337,6 +336,8 @@ sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
 div.unbreakable{page-break-inside:avoid}
 .big{font-size:larger}
 .small{font-size:smaller}
@@ -450,6 +451,20 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_pfifferlinge_auf_weißbrot">Pfifferlinge auf Weißbrot</a></li>
 <li><a href="#_pimientos_de_padrón">Pimientos de Padrón</a></li>
 <li><a href="#_pizza_toast_mit_sardellen">Pizza-Toast mit Sardellen</a></li>
+<li><a href="#_spiralkartoffeln">Spiralkartoffeln</a></li>
+<li><a href="#_tramezzini">Tramezzini</a>
+<ul class="sectlevel3">
+<li><a href="#_tramezzini_mit_artischockencreme_und_salami">Tramezzini mit Artischockencreme und Salami</a></li>
+<li><a href="#_tramezzini_mit_avocado_krabben_creme">Tramezzini mit Avocado-Krabben-Creme</a></li>
+<li><a href="#_tramezzini_mit_dillrahm_shrimps">💥Tramezzini mit Dillrahm-Shrimps</a></li>
+<li><a href="#_tramezzini_mit_lachs_und_gurke">Tramezzini mit Lachs und Gurke</a></li>
+<li><a href="#_tramezzini_mit_pilzpaste_und_parmaschinken">Tramezzini mit Pilzpaste und Parmaschinken</a></li>
+<li><a href="#_tramezzini_mit_salami_gurke_remoulade">Tramezzini mit Salami, Gurke, Remoulade</a></li>
+<li><a href="#_tramezzini_mit_schinken_eiercreme_und_tomate">💥Tramezzini mit Schinken-Eiercreme und Tomate</a></li>
+<li><a href="#_tramezzini_mit_tomate_mozzarella">Tramezzini mit Tomate-Mozzarella</a></li>
+<li><a href="#_tramezzini_mit_tunfisch_sardellen_creme">Tramezzini mit Tunfisch-Sardellen-Creme</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#_salate">Salate</a>
@@ -457,7 +472,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_avocado_bulgur_salat">Avocado-Bulgur-Salat</a></li>
 <li><a href="#_bayrischer_wurstsalat">Bayrischer Wurstsalat</a></li>
 <li><a href="#_caesar_salad">Caesar Salad</a></li>
+<li><a href="#_cole_slaw">Cole Slaw</a></li>
 <li><a href="#_falafelsalat_mit_tahin_dressing">Falafelsalat mit Tahin-Dressing</a></li>
+<li><a href="#_geflügelsalat">Geflügelsalat</a></li>
 <li><a href="#_gurkensalat_mit_schmand">Gurkensalat mit Schmand</a></li>
 <li><a href="#_italienischer_salat">Italienischer Salat</a></li>
 <li><a href="#_karotten_staudensellerie_salat">Karotten-Staudensellerie-Salat</a></li>
@@ -465,6 +482,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_kohlrabi_carpaccio">Kohlrabi-Carpaccio</a></li>
 <li><a href="#_mediterraner_nudelsalat">Mediterraner Nudelsalat</a></li>
 <li><a href="#_salat_mit_maultaschen_sauerrahmdressing">Salat mit Maultaschen + Sauerrahmdressing</a></li>
+<li><a href="#_tortellini_gemüse_salat">💥Tortellini-Gemüse-Salat</a></li>
+<li><a href="#_tortellini_salat_mit_pesto_und_tomaten">💥Tortellini-Salat mit Pesto und Tomaten</a></li>
+<li><a href="#_wurstsalat">Wurstsalat</a></li>
 <li><a href="#_dressing">Dressing</a>
 <ul class="sectlevel3">
 <li><a href="#_american_dressing">💥American Dressing</a></li>
@@ -474,9 +494,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_granatapfeldressing">Granatapfeldressing</a></li>
 <li><a href="#_italienischer_salat_dressing">Italienischer Salat Dressing</a></li>
 <li><a href="#_joghurt_dressing">Joghurt-Dressing</a></li>
-<li><a href="#_tahin_dressing_v1">💥Tahin-Dressing v1</a></li>
-<li><a href="#_tahin_dressing_v2">💥Tahin-Dressing v2</a></li>
-<li><a href="#_tahin_dressing_v3">💥Tahin-Dressing v3</a></li>
+<li><a href="#_tahin_dressing">Tahin-Dressing</a></li>
 <li><a href="#_thousand_islands_dressing">Thousand Islands Dressing</a></li>
 <li><a href="#_vinaigrette">Vinaigrette</a></li>
 <li><a href="#_öl_essig_dressing">Öl-Essig-Dressing</a></li>
@@ -487,11 +505,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_suppen">Suppen</a>
 <ul class="sectlevel2">
 <li><a href="#_artischockensuppe">Artischockensuppe</a></li>
+<li><a href="#_blumenkohlsuppe">Blumenkohlsuppe</a></li>
+<li><a href="#_fleischbrühe">Fleischbrühe</a></li>
+<li><a href="#_gemüsesuppe">Gemüsesuppe</a></li>
 <li><a href="#_gulaschsuppe">Gulaschsuppe</a></li>
 <li><a href="#_käse_lauch_hackfleisch_suppe">Käse-Lauch-Hackfleisch-Suppe</a></li>
 <li><a href="#_kürbissuppe">Kürbissuppe</a></li>
 <li><a href="#_maronensuppe">Maronensuppe</a></li>
 <li><a href="#_rote_thai_hühnersuppe">💥Rote Thai Hühnersuppe</a></li>
+<li><a href="#_selleriesuppe">Selleriesuppe</a></li>
 <li><a href="#_serbische_bohnensuppe">Serbische Bohnensuppe</a></li>
 </ul>
 </li>
@@ -504,10 +526,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_pasta_allamatriciana">Pasta all&#8217;amatriciana</a></li>
 <li><a href="#_pasta_alla_carbonara">Pasta alla Carbonara</a></li>
 <li><a href="#_pasta_alla_carbonara_klassisch">Pasta alla Carbonara, klassisch</a></li>
+<li><a href="#_pasta_e_ceci">Pasta e Ceci</a></li>
 <li><a href="#_pasta_emiliana">Pasta emiliana</a></li>
-<li><a href="#_pasta_emiliana_2">Pasta emiliana</a></li>
 <li><a href="#_pasta_mit_oliven_und_ziegenkäse">Pasta mit Oliven und Ziegenkäse</a></li>
-<li><a href="#_pasta_mit_pesto">Pasta mit Pesto</a></li>
+<li><a href="#_pasta_mit_pesto_rosso">Pasta mit Pesto Rosso</a></li>
+<li><a href="#_pasta_mit_pesto_verde">Pasta mit Pesto Verde</a>
+<ul class="sectlevel3">
+<li><a href="#_pesto_rosso">Pesto Rosso</a></li>
+</ul>
+</li>
 <li><a href="#_pasta_mit_pilzen_und_knoblauch">Pasta mit Pilzen und Knoblauch</a></li>
 <li><a href="#_pasta_mit_shrimps">Pasta mit Shrimps</a></li>
 <li><a href="#_pasta_mit_speck_zwiebel_ziegenkäse">Pasta mit Speck-Zwiebel-Ziegenkäse</a></li>
@@ -560,7 +587,8 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </li>
 <li><a href="#_fleischgerichte">Fleischgerichte</a>
 <ul class="sectlevel2">
-<li><a href="#_schweinefilet_vom_grill">Schweinefilet vom Grill</a></li>
+<li><a href="#_schweinefilet_mit_pfefferkruste_vom_grill">Schweinefilet mit Pfefferkruste vom Grill</a></li>
+<li><a href="#_schweinefilet_mit_senfkruste">Schweinefilet mit Senfkruste</a></li>
 <li><a href="#_bifteki">Bifteki</a></li>
 <li><a href="#_bosna_semmel">Bosna-Semmel</a></li>
 <li><a href="#_brotkranz_mit_kürbis_schinken_oliven_kräutern">Brotkranz mit Kürbis, Schinken, Oliven, Kräutern</a></li>
@@ -568,7 +596,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_cevapcici">Cevapcici</a></li>
 <li><a href="#_charcuterie_board">Charcuterie Board</a></li>
 <li><a href="#_croque_monsieur_madame">Croque Monsieur / Madame</a></li>
-<li><a href="#_currywurst">Currywurst</a></li>
+<li><a href="#_currywurst_soße">Currywurst-Soße</a></li>
 <li><a href="#_fleischpflanzerl">Fleischpflanzerl</a></li>
 <li><a href="#_gulasch">Gulasch</a></li>
 <li><a href="#_hackbraten">Hackbraten</a></li>
@@ -584,7 +612,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_pasta_bolognese">Pasta Bolognese</a></li>
 <li><a href="#_pelmeni">Pelmeni</a></li>
 <li><a href="#_rehpflanzerl">Rehpflanzerl</a></li>
-<li><a href="#_rinderschmorbraten">💥Rinderschmorbraten</a></li>
 <li><a href="#_rouladen">Rouladen</a></li>
 <li><a href="#_schmorbraten">Schmorbraten</a></li>
 <li><a href="#_schmorfleisch">Schmorfleisch</a></li>
@@ -647,6 +674,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <ul class="sectlevel2">
 <li><a href="#_bayerische_crème">Bayerische Crème</a></li>
 <li><a href="#_cookie_dough_eis">💥Cookie Dough Eis</a></li>
+<li><a href="#_lemon_curd_joghurt_mit_baiser">Lemon Curd Joghurt mit Baiser</a></li>
 <li><a href="#_schokoladenmousse">Schokoladenmousse</a></li>
 <li><a href="#_schokoladenpudding">Schokoladenpudding</a></li>
 <li><a href="#_tiramisu">Tiramisu</a></li>
@@ -692,7 +720,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li><a href="#_beilagen">Beilagen</a>
 <ul class="sectlevel2">
 <li><a href="#_antipasti">Antipasti</a></li>
-<li><a href="#_cole_slaw">Cole Slaw</a></li>
 <li><a href="#_frischkäse_aufstrich">Frischkäse-Aufstrich</a></li>
 <li><a href="#_grießglößchensuppe">Grießglößchensuppe</a></li>
 <li><a href="#_grüne_bohnen">Grüne Bohnen</a></li>
@@ -718,7 +745,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p>Stichwörter: Aufstrich; ausprobieren; Bayern; Beilage; Büro; Deutschland; Eintopf; Eis; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; kalt; Kichererbsen; Käse; Lamm; leicht; Low Carb; Low Meat; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; Spanien; süß; Tapas; Thai; TK; Ungarn; USA; vegan; vegetarisch; Wild; Österreich</p>
+<p>Stichwörter: Aufstrich; ausprobieren; Bayern; Büro; Deutschland; Eintopf; Eis; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Geflügel; Hauptgericht; Indien; Italien; kalt; Kichererbsen; Käse; Lamm; leicht; Low Carb; Low Meat; Mikrowelle; Mikrowelle,Büro; ohne Beilage; ohne_Beilage; Orient; Ostern; salat; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; Snack; Snacks; Spanien; süß; Tapas; Thai; TK; todo; Ungarn; USA; vegan; vegetarisch; Wild; Österreich</p>
 </div>
 </div>
 </div>
@@ -733,7 +760,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_hackfleischtaschen">Hackfleischtaschen</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -756,7 +783,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_käsegebäck">Käsegebäck</h3>
 <div class="paragraph">
-<p>Portionen: 12, Stichwörter:</p>
+<p>Portionen: 12, URL: Theresa</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -850,7 +877,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_oliventapenade">Oliventapenade</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: Tupperware</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -964,7 +991,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pizza_toast_mit_sardellen">Pizza-Toast mit Sardellen</h3>
 <div class="paragraph">
-<p>Portionen: 6, Stichwörter:</p>
+<p>Portionen: 6, Quelle: Edeka</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1047,6 +1074,793 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tr>
 </tbody>
 </table>
+<div style="page-break-after: always;"></div>
+<div id="sec.spiralkartoffeln" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_spiralkartoffeln">Spiralkartoffeln</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: vegetarisch, todo, Quelle: Jamie Oliver</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">todo</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_tramezzini">Tramezzini</h3>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_artischockencreme_und_salami" class="paragraph">
+<p></p>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_artischockencreme_und_salami">Tramezzini mit Artischockencreme und Salami</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">200g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Artischocken</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Magerquark</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zu Creme verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salami (Mailänder)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">125g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mozzarella</strong>; <em>Scheiben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomaten, dünne Scheiben</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Unterseite bestreichen und belegen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Butter / Oliventapenade</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Obeseite bestreichen und auflegen, zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_avocado_krabben_creme" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_avocado_krabben_creme">Tramezzini mit Avocado-Krabben-Creme</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Avocado</strong>; <em>würfeln</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitronensaft</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">vermengen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Frischkäse</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Joghurt</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Grönlandkrabben</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Stange</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Staudensellerie</strong>; <em>feine Streifen</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">alle Zutaten vermengen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Frischkäse</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;Blätter</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salat</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">bestreichen und belegen</p>
+<p class="tableblock">Creme verteilen</p>
+<p class="tableblock">Kresse verteilen</p>
+<p class="tableblock">mit Tramezzini-Oberseite belegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_dillrahm_shrimps" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_dillrahm_shrimps">💥Tramezzini mit Dillrahm-Shrimps</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen, Stichwörter: ausprobieren</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">160g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Shrimps</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sauerrahm</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Dill</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tabascosoße</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">vermengen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Unterseite bestreichen</p>
+<p class="tableblock">mit Oberseite belegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_lachs_und_gurke" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_lachs_und_gurke">Tramezzini mit Lachs und Gurke</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Butter</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Ober-und Unterseite bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">150g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Räucherlachs</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Senf-Dill-Soße</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">belegen und Lachs bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.25</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salatgurke</strong>; <em>dünne Scheiben</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">belegen</p>
+<p class="tableblock">Oberseite auflegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_pilzpaste_und_parmaschinken" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_pilzpaste_und_parmaschinken">Tramezzini mit Pilzpaste und Parmaschinken</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">300g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>gemischte Pilze</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schalotten</strong>; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Zehe</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Gin</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Thymian</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Öl anbraten, ablöschen</p>
+<p class="tableblock">abkühlen lassen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Creme fraiche (gehaäuft)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">unterrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Parmaschinken</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Creme bestreichen und belegen</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_salami<em>gurke</em>remoulade" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_salami_gurke_remoulade">Tramezzini mit Salami, Gurke, Remoulade</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Remoulade</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Unterseite mit Remoulade bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rucola-Salat</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salami (Mailänder)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">90g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salatgurke</strong>; <em>Scheiben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">belegen</p>
+<p class="tableblock">mit Oberseite belegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_schinken_eiercreme_und_tomate" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_schinken_eiercreme_und_tomate">💥Tramezzini mit Schinken-Eiercreme und Tomate</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen, Stichwörter: ausprobieren</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Eier (hartgekocht)</strong>; <em>schneiden und zerdrücken</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1.5&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mayonnaise</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schafsmilchjoghurt (6% Fett)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitronensaft</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">10&#160;Blätter</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong>; <em>gehackt</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zu Creme verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Butter (weich)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>mittelscharfer Senf</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Unterseite bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomaten</strong>; <em>dünne Scheiben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;Scheiben</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Kochschinken</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;Blätter</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salat</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">belegen: Tomate - Eiercreme - Schinken - Eiercreme - Salat</p>
+<p class="tableblock">mit Tramezzini-Oberseite belegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_tomate_mozzarella" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_tomate_mozzarella">Tramezzini mit Tomate-Mozzarella</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Pesto</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Ober-und Unterseite bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomaten</strong>; <em>dünne Scheiben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mozzarella</strong>; <em>dünne Scheiben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Balsamico-Creme</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Trammezzini belegen, würzen</p>
+<p class="tableblock">Oberseite auflegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.tramezzini_mit_tunfisch_sardellen_creme" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_tramezzini_mit_tunfisch_sardellen_creme">Tramezzini mit Tunfisch-Sardellen-Creme</h4>
+<div class="paragraph">
+<p>Portionen: 4 Portionen</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Dose</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Thunfisch</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sardellenfilets</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">5</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Oliven</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Kapern</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mayonnaise</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">vermengen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Salat</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tramezzini-Scheiben (lang)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Unterseite mit Salat belegen, mit Creme bestreichen, mit Oberseite belegen und zu Dreiecken zuschneiden</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>1 Portion = 2 Tramezzini-Dreiecke (belegt)</p>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -1227,6 +2041,94 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
+<div id="sec.cole_slaw" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_cole_slaw">Cole Slaw</h3>
+<div class="paragraph">
+<p>Portionen: 4, Stichwörter: vegetarisch, URL: <a href="https://www.servicebund.de/rezepte/bayerischer-cole-slaw-meerrettich-dressing-rodeo-filetstreifen.html" class="bare">https://www.servicebund.de/rezepte/bayerischer-cole-slaw-meerrettich-dressing-rodeo-filetstreifen.html</a></p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mayonnaise</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">80ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Buttermilch<sup>1</sup></strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sahnemeerrettich</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Weißweinessig</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zucker</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Weißkraut<sup>2</sup></strong>; <em>geraspelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">120g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Karotten</strong>; <em>geraspelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie (optional), gehackt</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, abeschmecken</p>
+<p class="tableblock">1h ziehen lassen</p>
+<p class="tableblock">Cole Slaw in Weckgläser mit weiter Öffnung abfüllen.</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><sup>1</sup> alternativ: Joghurt / griechischer Joghurt / Schmand / Sauerrahm</p>
+</div>
+<div class="paragraph">
+<p><sup>2</sup> alternativ: Spitzkohl</p>
+</div>
+<div style="page-break-after: always;"></div>
 <div id="sec.falafelsalat_mit_tahin_dressing" class="paragraph">
 <p></p>
 </div>
@@ -1239,6 +2141,86 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <table class="tableblock frame-all grid-rows stretch">
 </table>
 <div style="page-break-after: always;"></div>
+<div id="sec.geflügelsalat" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_geflügelsalat">Geflügelsalat</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: Geflügel, Frankreich, Quelle: Erzsi, Salate-Buch</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Mayonnaise</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sahne</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Meerettich</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Ketchup</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Orange (Saft)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2cl</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Cognac</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Marinade zubereiten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Hüherbrust</strong>; <em>in Streifen schneiden</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Ananas-Scheiben (Dose)</strong>; <em>Würfel</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben und vermengen</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
 <div id="sec.gurkensalat_mit_schmand" class="paragraph">
 <p></p>
 </div>
@@ -1246,7 +2228,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_gurkensalat_mit_schmand">Gurkensalat mit Schmand</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1306,7 +2288,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_italienischer_salat">Italienischer Salat</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: Low Carb</p>
+<p>Portionen: 4, Stichwörter: Low Carb, Quelle: Erzsi</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1406,7 +2388,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_karotten_staudensellerie_salat">Karotten-Staudensellerie-Salat</h3>
 <div class="paragraph">
-<p>Portionen: 3, Stichwörter:</p>
+<p>Portionen: 3</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1463,7 +2445,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_karottensalat">Karottensalat</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1572,7 +2554,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_mediterraner_nudelsalat">Mediterraner Nudelsalat</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: vegetarisch, Büro</p>
+<p>Portionen: 4, Stichwörter: vegetarisch, Büro, Quelle: Waldenberger</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -1682,6 +2664,251 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>Portionen: 0, Stichwörter: Hauptgericht, Salat</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.tortellini_gemüse_salat" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_tortellini_gemüse_salat">💥Tortellini-Gemüse-Salat</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: ausprobieren, Büro, URL: <a href="https://www.lecker.de/tortellini-gemuese-salat-72129.html" class="bare">https://www.lecker.de/tortellini-gemuese-salat-72129.html</a></p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">333&#160;kg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tortellini Ricotta &amp; Spinat</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">80g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zuckerschoten</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Erbsen</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.33&#160;Bund</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lauchzwiebeln</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">80g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Radieschen</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">25g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Spinat</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Agavendicksaft</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.67</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Limetten</strong>; <em>Saft</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Tortellini in kochendem Salzwasser nach Packungsanweisung zubereiten, abgießen und abkühlen lassen. Zuckerschoten gründlich waschen. Zuckerschoten und Erbsen in kochendem Salzwasser ca. 2 Minuten köcheln lassen, abgießen und abkühlen lassen.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Radieschen waschen, putzen und vierteln. Spinat waschen, trocken tupfen und grob hacken. Agavendicksaft und Limettensaft verrühren, Öl darunterrühren, mit Salz und Pfeffer würzen.</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Tortellini, Erbsen, Zuckerschoten, Lauchzwiebeln, Radieschen und Spinat in eine Schüssel geben. Mit Dressing vermengen.</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.tortellini_salat_mit_pesto_und_tomaten" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_tortellini_salat_mit_pesto_und_tomaten">💥Tortellini-Salat mit Pesto und Tomaten</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: ausprobieren, salat, Büro, URL: <a href="https://www.lecker.de/tortellini-salat-mit-pesto-und-tomaten-44955.html" class="bare">https://www.lecker.de/tortellini-salat-mit-pesto-und-tomaten-44955.html</a></p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">250g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>g Tortellini</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">kochen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lauchzwiebeln</strong>; <em>dünne Ringe</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Weißwein-Essig</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum-Pesto</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1.5&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Vinaigrette zubereiten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">175g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>kleine Tomaten</strong>; <em>vierteln</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">37.5g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Oliven</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Tortellini und Pesto-Vinaigrette vermengen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">6&#160;Blätter</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong>; <em>dünne Streifen</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">garnieren</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.wurstsalat" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wurstsalat">Wurstsalat</h3>
+<div class="paragraph">
+<p>Portionen: 3, Stichwörter: Deutschland, Quelle: Erzsi / Erika</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Rotweinessig</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sonnenblumenöl</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Gurkenwasser</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Marinade vorbereiten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">300g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lyoner</strong>; <em>Streifen</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rote Paprika</strong>; <em>Würfel</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Gewürzgurken</strong>; <em>Würfel</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Frühlingszwiebel</strong>; <em>Ringe</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomate</strong>; <em>Würfel</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Marinadevermengen, mit Salz und Pfeffer abschmecken und ziehen lassen</p></td>
+</tr>
+</tbody>
 </table>
 </div>
 <div class="sect2">
@@ -1947,7 +3174,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_dressing_mit_ahornsirup">Dressing mit Ahornsirup</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2008,7 +3235,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_dressing_mit_preiselbeeren">Dressing mit Preiselbeeren</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2057,7 +3284,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_granatapfeldressing">Granatapfeldressing</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: ?</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2131,9 +3358,58 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_italienischer_salat_dressing">Italienischer Salat Dressing</h4>
 <div class="paragraph">
-<p>Portionen: 6, Stichwörter:</p>
+<p>Portionen: 6</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Miracel Whip (stark gehäuft)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">200ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Crème fraîche</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">200ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sahne</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Wasser</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2.5&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Öl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Aceto balsamico</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
+</tr>
+</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.joghurt_dressing" class="paragraph">
@@ -2143,7 +3419,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_joghurt_dressing">Joghurt-Dressing</h4>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2196,14 +3472,14 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
-<div id="sec.tahin_dressing_v1" class="paragraph">
+<div id="sec.tahin_dressing" class="paragraph">
 <p></p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_tahin_dressing_v1">💥Tahin-Dressing v1</h4>
+<h4 id="_tahin_dressing">Tahin-Dressing</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: ausprobieren</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2219,141 +3495,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </colgroup>
 <tbody>
 <tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">20ml</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30g</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tahin</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Frühlingszwiebel</strong>; <em>gehackt</em></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;Zehen</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>zerdrückt</em></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">5ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Soja-Soße</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">8ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Essig</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">8ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitronensaft</strong></p></td>
 </tr>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">15ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">20ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Milch</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.25&#160;TL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
-</tr>
-</tbody>
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
-</tr>
-</tbody>
-</table>
-<div style="page-break-after: always;"></div>
-<div id="sec.tahin_dressing_v2" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_tahin_dressing_v2">💥Tahin-Dressing v2</h4>
-<div class="paragraph">
-<p>Portionen: 2, Stichwörter: ausprobieren</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-<colgroup>
-<col style="width: 30%;">
-<col style="width: 70%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitrone</strong>; <em>Saft</em></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Joghurt</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">25ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tahin</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">5ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>???</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.12&#160;TL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Paprikapulver</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.12&#160;TL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Cumin</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Msp</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zimt (opt.)</strong></p></td>
-</tr>
-</tbody>
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">verrühren</p></td>
-</tr>
-</tbody>
-</table>
-<div style="page-break-after: always;"></div>
-<div id="sec.tahin_dressing_v3" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_tahin_dressing_v3">💥Tahin-Dressing v3</h4>
-<div class="paragraph">
-<p>Portionen: 4, Stichwörter: ausprobieren</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-<colgroup>
-<col style="width: 30%;">
-<col style="width: 70%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">60g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tahin</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">30ml</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitronensaft</strong></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">10ml</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">5ml</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Ahornsirup</p></td>
 </tr>
 <tr>
@@ -2369,7 +3519,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">40ml</p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20ml</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Wasser</p></td>
 </tr>
 </tbody>
@@ -2383,9 +3533,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tr>
 </tbody>
 </table>
-<div class="paragraph">
-<p>ausprobiert am 22.4.23, Menge passt zu 4P</p>
-</div>
 <div style="page-break-after: always;"></div>
 <div id="sec.thousand_islands_dressing" class="paragraph">
 <p></p>
@@ -2394,7 +3541,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_thousand_islands_dressing">Thousand Islands Dressing</h4>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: ?</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2489,7 +3636,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_vinaigrette">Vinaigrette</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -2501,7 +3648,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect3">
 <h4 id="_öl_essig_dressing">Öl-Essig-Dressing</h4>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -2599,6 +3746,220 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
 </table></div></td>
 <td class="tableblock halign-left valign-middle"><p class="tableblock">¹der Eigengeschmack der Lake muss weg</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.blumenkohlsuppe" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_blumenkohlsuppe">Blumenkohlsuppe</h3>
+<div class="paragraph">
+<p>Portionen: 6, Stichwörter: TK, Mikrowelle</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Blumekohl (TK)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Öl anbraten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Gemüsebrühe</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, 20 min köcheln lassen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">80ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sahne</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, pürieren</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.fleischbrühe" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_fleischbrühe">Fleischbrühe</h3>
+<div class="paragraph">
+<p>Portionen: 6, Stichwörter: TK</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">500g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rindfleisch</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">300g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Knochen</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Suppengrün</strong>; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1.5l</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Wasser (kalt)</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">langsam erhitzen und ca. 2.5h köcheln lassen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">erst jetzt salzen und abschmecken</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.gemüsesuppe" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_gemüsesuppe">Gemüsesuppe</h3>
+<div class="paragraph">
+<p>Portionen: 4, Quelle: Erzsi</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Karotten (große)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilienwurzeln</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Kartoffel</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Selleriegrün</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;Stiele</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Öl andünsten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Paprikapulver</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Suppengewürz</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Wasser</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Wasser auffüllen, bis es ca. knapp über dem Gemüse steht</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1.5&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Piros Arany</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">dazugeben, 15min kochen</p></td>
 </tr>
 </tbody>
 </table>
@@ -2785,7 +4146,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_käse_lauch_hackfleisch_suppe">Käse-Lauch-Hackfleisch-Suppe</h3>
 <div class="paragraph">
-<p>Portionen: 3, Stichwörter:</p>
+<p>Portionen: 3, URL: <a href="https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/" class="bare">https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2793,11 +4154,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <col style="width: 66.6667%;">
 </colgroup>
 <tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">TODO <a href="https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/" class="bare">https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/</a></p></td>
-</tr>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
 <colgroup>
@@ -2811,32 +4167,57 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tr>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;Stangen</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lauch</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lauch</strong>; <em>dünne Scheiben</em></p></td>
 </tr>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Zehe</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gepresst</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Olivenöl anbraten</p></td>
 </tr>
 <tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;TL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rindfleischbrühe</strong></p></td>
-</tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">700ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Wasser</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rinfleischbrühe</strong></p></td>
 </tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, aufkochen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">200g</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schmelzkäse</strong></p></td>
 </tr>
 <tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;Bch</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Creme Fraiche</strong></p></td>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Crème fraîche</strong></p></td>
 </tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, schmelzen lassen, aufkochen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Pr</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Muskat</p></td>
@@ -2847,22 +4228,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tr>
 </tbody>
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Wasche den Lauch und schneide ihn in schmale Ringe schneiden. Erhitze das Öl im Topf und brate das Hackfleisch darin heiß an bis es krümelig ist.</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Gib den Knoblauch durch eine Presse und dünste dieses kurz mit. Gib nun auch die Lauchringe zum Hackfleisch dazu und dünste diese ca. 5 Minuten mit an. Nun kannst du ca. 700 ml Brühe hinzu geben. Es sollte alles gerade so bedeckt sein. Koche die Suppe anschließend kurz auf.</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Nun kannst du den Schmelzkäse in die warme Suppe geben. Rühre so lange, bis er vollständig geschmolzen ist. Gib nun auch Creme Fraiche hinzu und koche die Suppe noch einmal kurz auf. Schmecke die Hackfleisch Lauch Suppe mit Salz, Pfeffer und Muskat ab.</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Dazu passt frisches Baguette. Besonders lecker ist dieses, wenn es noch einmal kurz in den Backofen geschoben wird. Dann kannst du das knusprige Baguette mit etwas Butter zur Suppe servieren.</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">abschmecken</p></td>
 </tr>
 </tbody>
 </table>
@@ -2874,7 +4240,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_kürbissuppe">Kürbissuppe</h3>
 <div class="paragraph">
-<p>Portionen: 6, Stichwörter:</p>
+<p>Portionen: 6, Quelle: chefkoch.de (Badische Kürbissuppe)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -2960,7 +4326,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_maronensuppe">Maronensuppe</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: Theresa Baumgärtner</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -3161,6 +4527,82 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
+<div id="sec.selleriesuppe" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_selleriesuppe">Selleriesuppe</h3>
+<div class="paragraph">
+<p>Portionen: 6, Stichwörter: TK, Mikrowelle</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">900g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sellerieknolle</strong>; <em>gewürfelt</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">andünsten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Bund</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Selleriegrün</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1l</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Gemüsebrühe</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, 15min köcheln</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sahne</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, pürieren, abschmecken</p>
+<p class="tableblock">servieren: mit Olivenöl beträufeln</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
 <div id="sec.serbische_bohnensuppe" class="paragraph">
 <p></p>
 </div>
@@ -3168,7 +4610,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_serbische_bohnensuppe">Serbische Bohnensuppe</h3>
 <div class="paragraph">
-<p>Portionen: 8, Stichwörter:</p>
+<p>Portionen: 8, Quelle: Erzsi</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -3275,7 +4717,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_cacio_e_pepe">Cacio e pepe</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Italien, schnell</p>
+<p>Portionen: 2, Stichwörter: Italien, schnell, URL: <a href="https://www.youtube.com/watch?v=UzhkMm7gV2w" class="bare">https://www.youtube.com/watch?v=UzhkMm7gV2w</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -3819,6 +5261,29 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
+<div id="sec.pasta_e_ceci" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_pasta_e_ceci">Pasta e Ceci</h3>
+<div class="paragraph">
+<p>Portionen: 3, Stichwörter: Hauptgericht, vegetarisch, vegan</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">TODO Rezept suchen <a href="https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen" class="bare">https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen</a> ?</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
 <div id="sec.pasta_emiliana" class="paragraph">
 <p></p>
 </div>
@@ -3920,29 +5385,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
-<div id="sec.pasta_emiliana" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_pasta_emiliana_2">Pasta emiliana</h3>
-<div class="paragraph">
-<p>Portionen: 3, Stichwörter: Hauptgericht, vegetarisch, vegan</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">TODO Rezept suchen <a href="https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen" class="bare">https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen</a> ?</p></td>
-</tr>
-</tbody>
-</table>
-<div style="page-break-after: always;"></div>
 <div id="sec.pasta_mit_oliven_und_ziegenkäse" class="paragraph">
 <p></p>
 </div>
@@ -3955,14 +5397,14 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <table class="tableblock frame-all grid-rows stretch">
 </table>
 <div style="page-break-after: always;"></div>
-<div id="sec.pasta_mit_pesto" class="paragraph">
+<div id="sec.pasta_mit_pesto_rosso" class="paragraph">
 <p></p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_pasta_mit_pesto">Pasta mit Pesto</h3>
+<h3 id="_pasta_mit_pesto_rosso">Pasta mit Pesto Rosso</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: vegetarisch, schnell</p>
+<p>Portionen: 2, Stichwörter: vegetarisch, schnell</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -3972,14 +5414,181 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">40g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomaten (getrocknet, ohne Öl)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+</tbody>
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Pesto siehe <a href="#sec.pesto">Pesto-Rezept</a>, oder Fertig-Pesto nehmen</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">über Nacht einweichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Pinienkerne</strong>; <em>geröstet</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">6g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Tomaten und Öl im Zerkleinerer grob pürieren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Parmesan</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Pr</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">*Salz *</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">unterrühren und würzen</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.pasta_mit_pesto_verde" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_pasta_mit_pesto_verde">Pasta mit Pesto Verde</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: vegetarisch, schnell, URL: <a href="https://www.lecker.de/basilikum-pesto-29673.html" class="bare">https://www.lecker.de/basilikum-pesto-29673.html</a></p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Pinienkerne</strong>; <em>geröstet</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;Zehe</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Basilikum</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">60ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">im Zerkleinerer grob pürieren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">25g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Parmesan</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">*Salz *</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">unterrühren und würzen</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p><em>Testen</em>: Eiswürfel soll oxidieren des Pestos verhindern (bei 2 Portionen Eiswürfeln vorher zerkleinern)</p>
+</div>
+<div class="paragraph">
+<p>Bärlauch-Pesto: Bärlauch statt Basilikum</p>
+</div>
+<div class="paragraph">
+<p>Bärlauch-Petersilie-Pesto: 1:1 Bärlauch:Petersilie statt Basilikum</p>
+</div>
+<div class="sect3">
+<h4 id="_pesto_rosso">Pesto Rosso</h4>
+<div class="paragraph">
+<p>2 Portionen?</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 30%;">
+<col style="width: 50%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">40g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Tomaten <em>(getrocknet, ohne Öl)</em></p></td>
+<td class="tableblock halign-left valign-top" rowspan="2"><p class="tableblock">über Nacht einweichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pinienkerne <em>(geröstet)</em></p></td>
+<td class="tableblock halign-left valign-top" rowspan="2"><p class="tableblock">mit Tomaten und Öl im Zerkleinerer grob pürieren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">6g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Basilikum</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">30g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Parmesan</p></td>
+<td class="tableblock halign-left valign-top" rowspan="2"><p class="tableblock">unterrühren und würzen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1 Pr.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
 </tr>
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.pasta_mit_pilzen_und_knoblauch" class="paragraph">
 <p></p>
+</div>
 </div>
 </div>
 <div class="sect2">
@@ -4008,7 +5617,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pasta_mit_shrimps">Pasta mit Shrimps</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -4076,7 +5685,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pasta_mit_walnuss_soße_für_nudeln">Pasta mit Walnuss-Soße für Nudeln</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: chefkoch / grüner Ordner</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -4377,7 +5986,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_ricotta_dumplings">💥Ricotta Dumplings</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Italien, ausprobieren</p>
+<p>Portionen: 2, Stichwörter: Italien, ausprobieren, Quelle: Gennaro , URL: <a href="https://www.youtube.com/watch?v=LP0J7cI9YIQ" class="bare">https://www.youtube.com/watch?v=LP0J7cI9YIQ</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -4635,7 +6244,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_kürbispizza_mit_pfifferlingen">Kürbispizza mit Pfifferlingen</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: Daniela Hüls</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -4750,7 +6359,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_linsencurry_mit_spinat">Linsencurry mit Spinat</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, vegetarisch, leicht, Low Carb, Mikrowelle, Büro, Quelle: Jamie Oliver 15-Minuten-Küche, S.240</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -4884,7 +6493,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pilztopf">Pilztopf</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -5290,7 +6899,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_kürbischaos">Kürbischaos</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 4, Stichwörter: Low Carb, Mikrowelle, Büro, Quelle: Mutti-Magazin <a href="https://goo.gl/fsvFpn" class="bare">https://goo.gl/fsvFpn</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -5514,7 +7123,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_paprikaauflauf_mit_feta">Paprikaauflauf mit Feta</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 2, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro, Quelle: QQQQQQ</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -5627,7 +7236,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_risotto">Risotto</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -5742,13 +7351,264 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h2 id="_fleischgerichte">Fleischgerichte</h2>
 <div class="sectionbody">
 <div style="page-break-after: always;"></div>
-<div id="sec._schweinefilet_vom_grill" class="paragraph">
+<div id="sec._schweinefilet_mit_pfefferkruste_vom_grill" class="paragraph">
 <p></p>
 </div>
 <div class="sect2">
-<h3 id="_schweinefilet_vom_grill">Schweinefilet vom Grill</h3>
+<h3 id="_schweinefilet_mit_pfefferkruste_vom_grill">Schweinefilet mit Pfefferkruste vom Grill</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>grüner Pfeffer</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rote Beeren</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">mit Mörser grob vermahlen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schweinefilet</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>süßer Senf</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Pfeffer-Rub auf Senf einreiben</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec._schweinefilet_mit_senfkruste" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_schweinefilet_mit_senfkruste">Schweinefilet mit Senfkruste</h3>
+<div class="paragraph">
+<p>Portionen: 2</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">40g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Butter (zimmerwarm)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Paniermehl</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Dijon-Senf, grob</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Zehe</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gepresst</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Estragon</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zu Paste mixen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schweinefilet</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">von allen Seiten 1min scharf anbraten</p>
+<p class="tableblock">Filet auf Oberseite 2x längs leicht aufschneiden</p>
+<p class="tableblock">Past auf Filet verteilen</p>
+<p class="tableblock">30min indirekt grillen bei ca. 🌡130℃</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<div id="sec.bifteki" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_bifteki">Bifteki</h3>
+<div class="paragraph">
+<p>Portionen: 0, Stichwörter: Hauptgericht, Fleisch</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">800g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rinderhackfleisch</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomate</strong>; <em>gehackt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Smoking Zeus</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Ei</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitrone (Saft)</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verkneten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rote Peperoni</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Feta</strong>; <em>halbiert, in Scheiben</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zu 6 Bifteki rollen, flachdrücken</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Smoking Zeus:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>2 EL Petersilie; gehackt</p>
+</li>
+<li>
+<p>1 TL Rosmarin; gehackt</p>
+</li>
+<li>
+<p>2 Zehen Knoblauch; gepresst</p>
+</li>
+<li>
+<p>1 TL Oregano</p>
+</li>
+<li>
+<p>1 TL Minze</p>
+</li>
+<li>
+<p>1 EL Fleischgewürz ??</p>
+</li>
+<li>
+<p>1 TL Thymian</p>
+</li>
+<li>
+<p>1 TL Cayennepfeffer</p>
+</li>
+</ul>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="sec.bosna_semmel" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_bosna_semmel">Bosna-Semmel</h3>
+<div class="paragraph">
+<p>Portionen: 2, Stichwörter: Hauptgericht, Fleisch, schnell</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -5765,42 +7625,59 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tbody>
 <tr>
 <td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Schweinefilet</strong></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>rote Zwiebel</strong>; <em>fein würfeln</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Aceto balsamico</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
 </tr>
 </tbody>
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Salzen + pfeffern.</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">15min ziehen lassen (macht die Zwiebeln milder)</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen</p></td>
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>kleine Bratwürste</strong></p></td>
 </tr>
 </tbody>
-</table>
-<div style="page-break-after: always;"></div>
-<div id="sec.bifteki" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_bifteki">Bifteki</h3>
-<div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fleisch</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-</table>
-<div style="page-break-after: always;"></div>
-<div id="sec.bosna_semmel" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_bosna_semmel">Bosna-Semmel</h3>
-<div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fleisch</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">grillen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Semmeln</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Estragon-Senf</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Bosna-Gewürz</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Semmeln mit Senf bestreichen, belegen und würzen</p></td>
+</tr>
+</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.brotkranz_mit_kürbis<em>schinken</em>oliven__kräutern" class="paragraph">
@@ -5936,6 +7813,91 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>Portionen: 0, Stichwörter: Hauptgericht, Fleisch, Mikrowelle</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">500g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Hackfleisch (gemischt)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>gewürfelt</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;Zehen</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gepresst</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Paprikapulver</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Natron</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">verkneten, in kleine dicke Würste rollen (ca. 30g pro Stück)</p>
+<p class="tableblock">Ca. 2h im Kühlschrank ziehen lassen</p>
+<p class="tableblock">8min grillen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>Ringe, mit Paprikapulver</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Paprika, grün</strong>; <em>Ringe</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomate</strong>; <em>Scheiben</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">servieren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Ajvar</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">als Beilage</p></td>
+</tr>
+</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.charcuterie_board" class="paragraph">
@@ -6061,16 +8023,134 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
-<div id="sec.currywurst" class="paragraph">
+<div id="sec.currywurst_soße" class="paragraph">
 <p></p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_currywurst">Currywurst</h3>
+<h3 id="_currywurst_soße">Currywurst-Soße</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fleisch</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, Fleisch</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>Halbringe</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Zehe</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>Scheiben</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Öl andünsten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">20g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zucker</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zugeben, karamellisieren lassen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50ml</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Apfelessig</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">ablöschen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">400g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomaten, gestückelt</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Ingwer</strong>; <em>gerieben</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Senfkörner</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;Stück</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Sternanis</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zimt</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Piment</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Chilischote</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.75&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">40g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Tomatenmark</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Currypulver</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitronensaft</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Worcestershire-Soße</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">45min köcheln lassen, passieren</p></td>
+</tr>
+</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.fleischpflanzerl" class="paragraph">
@@ -6195,7 +8275,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_hirschgulasch_mit_pfifferlingen">Hirschgulasch mit Pfifferlingen</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Wild, TK, Mikrowelle, Büro</p>
+<p>Portionen: 2, Stichwörter: Wild, TK, Mikrowelle, Büro, Quelle: chefkoch.de, URL: <a href="https://www.chefkoch.de/rezepte/237061096469256/Hirschgulasch-mit-frischen-Pfifferlingen.html" class="bare">https://www.chefkoch.de/rezepte/237061096469256/Hirschgulasch-mit-frischen-Pfifferlingen.html</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -6340,7 +8420,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_lammlachse_mit_zitronenkruste">Lammlachse mit Zitronenkruste</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: Lamm, Frühling, Ostern</p>
+<p>Portionen: 4, Stichwörter: Lamm, Frühling, Ostern, URL: <a href="https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen" class="bare">https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -6548,7 +8628,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pasta_bolognese">Pasta Bolognese</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter:</p>
+<p>Portionen: 0</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -6577,90 +8657,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <table class="tableblock frame-all grid-rows stretch">
 </table>
 <div style="page-break-after: always;"></div>
-<div id="sec.rinderschmorbraten" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_rinderschmorbraten">💥Rinderschmorbraten</h3>
-<div class="paragraph">
-<p>Portionen: 4, Stichwörter: ausprobieren</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-<colgroup>
-<col style="width: 30%;">
-<col style="width: 70%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">1.2&#160;kg</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rinderbraten</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Pfeffer</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">100&#160;g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">80&#160;g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Karotte</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">80&#160;g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Knollensellerie</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">80&#160;g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lauch</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">100&#160;g</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tomate</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">3&#160;EL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Pflanzenöl</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;EL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Tomatenmark</p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lorbeerblatt</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">600&#160;ml</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rinderfond</strong></p></td>
-</tr>
-<tr>
-<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Saucenbinder, dunkel</strong></p></td>
-</tr>
-</tbody>
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Rindfleisch parieren, das heißt von Haut und Sehnen befreien und die Fleischabschnitte beiseite stellen. Fleisch salzen und pfeffern.Zwiebeln, Karotte, Knollensellerie und Lauch putzen oder schälen und alles klein würfeln. Tomate vierteln, dabei Stielansatz entfernen.In einem großen Schmortopf Öl erhitzen, den Braten darin rundherum anbraten und herausnehmen. Zwiebeln, Karotte, Knollensellerie und Lauch mit den Fleischabschnitten in den Topf geben und anbraten, Tomatenmark einrühren und mit anrösten. Tomatenviertel, sowie Lorbeerblatt einlegen und die Hälfte des Rinderfonds angießen. Den Braten auf das Gemüse legen und zugedeckt bei 180 Grad Ober-/Unterhitze (Umluft 160 Grad) im vorgeheizten Ofen ca. 1,5 Stunden schmoren. Restlichen Fond auf einmal zugießen und das Fleisch immer wieder mit der Schmorflüssigkeit beträufeln.Braten aus dem Ofen nehmen, in Folie wickeln und warm halten. Sauce durch ein Sieb gießen, dabei das Gemüse leicht ausdrücken, abschmecken und mit Saucenbinder binden. Wie Sie ganz einfach Bratensoße in 3 Varianten selber machen können, zeigen wir Ihnen in unserem 'Gewusst wie!'-Video.Braten in Scheiben schneiden und auf einer Platte anrichten. Ausgetretender Bratensaft zur Sauce geben. Sauce separat zum Braten reichen.Reichen Sie dazu Kartoffelknödel und leckeren Apfelrotkohl.</p></td>
-</tr>
-</tbody>
-</table>
-<div class="paragraph">
-<p>weiteres Schmorbratenrezept zum abgleichen: <a href="http://www.feinschmecker.com/anleitung/die-vorbereitung-fuer-einen-schmackhaften-schmorbraten/" class="bare">http://www.feinschmecker.com/anleitung/die-vorbereitung-fuer-einen-schmackhaften-schmorbraten/</a></p>
-</div>
-<div style="page-break-after: always;"></div>
 <div id="sec.rouladen" class="paragraph">
 <p></p>
 </div>
@@ -6680,7 +8676,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schmorbraten">Schmorbraten</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -6699,9 +8695,13 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <td class="tableblock halign-right valign-top"><p class="tableblock">1kg</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Rindfleisch (Bürgermeisterstück / falsches Filet)</strong></p></td>
 </tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz, Peffer</p></td>
+</tr>
 </tbody>
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">scharf anbraten, zur Seite legen</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">würzen, scharf anbraten, zur Seite legen</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
@@ -6771,7 +8771,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Fleisch dazugeben, 2.5h schmoren, jede 0.5h wenden, ggf. Brühe zugießen</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Fleisch dazugeben, 2.5h schmoren bei 🌡180℃ Ober-/Unterhitze, jede 0.5h wenden, ggf. Brühe zugießen</p></td>
 </tr>
 </tbody>
 </table>
@@ -6806,7 +8806,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schnelles_italienisches_steak">Schnelles italienisches Steak</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Italien, Low Carb</p>
+<p>Portionen: 2, Stichwörter: Italien, Low Carb, Quelle: 5Z</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -6909,7 +8909,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_texas_jailhouse_chili">Texas Jailhouse Chili</h3>
 <div class="paragraph">
-<p>Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro</p>
+<p>Portionen: 8, Stichwörter: Eintopf, USA, Mikrowelle, Büro, URL: <a href="https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen" class="bare">https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -7345,7 +9345,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pesto_hähnchen_mit_blätterteig">Pesto-Hähnchen mit Blätterteig</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Geflügel</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, Geflügel, Quelle: (5Z, S. 115)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -7355,11 +9355,44 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tbody>
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Hähnchenbrust-Filets</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Pesto</strong></p></td>
+</tr>
+</tbody>
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">(5Z, S. 115)</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">flach drücken, in Reine legen, mit Pesto bestreichen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Blätterteig</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Filets bedecken, mit Öl beträufeln</p>
+<p class="tableblock">20min backen</p></td>
 </tr>
 </tbody>
 </table>
+<div class="paragraph">
+<p>Beilagen: grüne Bohnen, Ofen-Rispentomaten</p>
+</div>
 <div style="page-break-after: always;"></div>
 <div id="sec.putenbrust_mit_maronenfüllung" class="paragraph">
 <p></p>
@@ -7409,7 +9442,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_curry_mango_garnelen">Curry-Mango-Garnelen</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb</p>
+<p>Portionen: 0, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Quelle: Jamie Oliver, 5 Zutaten Küche, S.147</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -7420,7 +9453,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tr>
 <td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
 </table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">(5Z, S.147)</p></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Jamie Oliver, 5 Zutaten Küche, S.147</p></td>
 </tr>
 </tbody>
 </table>
@@ -7475,9 +9508,57 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_forelle_aus_dem_ofen">Forelle aus dem Ofen</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fisch</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, Fisch</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">350g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Forelle</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">50g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Butter</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">Butter in Alufolie und Bauch verteilen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.25</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Zwiebel; <em>Ringe</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Karotte</strong>; <em>Stifte</em></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Petersilie</strong></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">befüllen</p></td>
+</tr>
+</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.forelle__gebraten" class="paragraph">
@@ -7491,6 +9572,22 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
+<div class="paragraph">
+<p>Grill:</p>
+</div>
+<div class="paragraph">
+<p>Rost mit Öl bestreichen</p>
+</div>
+<div class="paragraph">
+<p>Eine Forellenseite mit Mayonnaise bestreichen, ca. 4min direkt grillen.
+Andere Forellenseite ebenfalls mit Mayonnaise bestreichen, weiter 4min direkt grillen.</p>
+</div>
+<div class="paragraph">
+<p>Dann 20min indirekt grillen.</p>
+</div>
+<div class="paragraph">
+<p>Quellen: Metro, Fischgut Grubmühle (Nähe Aschbach), Bruckmühl</p>
+</div>
 <div style="page-break-after: always;"></div>
 <div id="sec.lachs_auf_bohnengemüse" class="paragraph">
 <p></p>
@@ -7523,7 +9620,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_lachs_mit_chorizo">Lachs mit Chorizo</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: Hauptgericht, Fisch</p>
+<p>Portionen: 4, Stichwörter: Hauptgericht, Fisch, Quelle: Jamie Oliver 5 Zutaten, S. 125</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -7535,7 +9632,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_nizza_salat_mit_lachs">Nizza Salat mit Lachs</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, Fisch, leicht, Low Carb, Büro, Quelle: (5Z, S.19)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -7703,9 +9800,62 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_tintenfisch_vom_grill">Tintenfisch vom Grill</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: Hauptgericht, Fisch</p>
+<p>Portionen: 2, Stichwörter: Hauptgericht, Fisch</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4&#160;EL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Olivenöl</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0.5</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Zitrone (Saft)</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">0</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Thymian</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1&#160;TL</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Salz</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">2&#160;Zehen</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Knoblauch; <em>gepresst</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">zu Marinade zubereiten</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">4</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Tintenfisch-Tuben</strong>; <em>halbiert</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">1h marinieren</p>
+<p class="tableblock">von beiden Seiten 2min grillen</p></td>
+</tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -7720,7 +9870,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_asiatische_gemüsepfanne">Asiatische Gemüsepfanne</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro, Quelle: Weight Watchers (Anne)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -7732,7 +9882,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_asiatisches_rindfleisch_mit_zuckerschoten_und_champignons">Asiatisches Rindfleisch mit Zuckerschoten und Champignons</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 4, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro, Quelle: EDEKA</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -7874,7 +10024,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_kichererbsen_curry">Kichererbsen-Curry</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro</p>
+<p>Portionen: 0, Stichwörter: vegetarisch, leicht, Low Carb, Mikrowelle, Büro, Quelle: Bild der Frau (Anne)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 </table>
@@ -7886,7 +10036,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_omelett_mit_tomate_und_mozarella">Omelett mit Tomate und Mozarella</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: Italien, Low Carb</p>
+<p>Portionen: 2, Stichwörter: Italien, Low Carb, Quelle: 5Z S. 77 "gerührtes Omelett"</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8158,7 +10308,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_bayerische_crème">Bayerische Crème</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8181,7 +10331,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_cookie_dough_eis">💥Cookie Dough Eis</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter: Eis, ausprobieren</p>
+<p>Portionen: 4, Stichwörter: Eis, ausprobieren, Quelle: Sally, URL: <a href="https://sallys-blog.de/rezepte/ben-jerry-s-cookie-dough-nachgemacht-vanille-eis-mit-keksteig-stuckchen" class="bare">https://sallys-blog.de/rezepte/ben-jerry-s-cookie-dough-nachgemacht-vanille-eis-mit-keksteig-stuckchen</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8223,6 +10373,62 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <sup>2</sup> oder essbaren Keksteig selber probieren, weitere Infos <a href="https://www.mein-mehl.de/mehlblog/nachricht/trend-cookie-dough-was-ihr-fuer-einen-sicheren-genuss-wissen-solltet" class="bare">https://www.mein-mehl.de/mehlblog/nachricht/trend-cookie-dough-was-ihr-fuer-einen-sicheren-genuss-wissen-solltet</a></p>
 </div>
 <div style="page-break-after: always;"></div>
+<div id="sec.lemon_curd_joghurt_mit_baiser" class="paragraph">
+<p></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_lemon_curd_joghurt_mit_baiser">Lemon Curd Joghurt mit Baiser</h3>
+<div class="paragraph">
+<p>Portionen: 2</p>
+</div>
+<table class="tableblock frame-all grid-rows stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 66.6667%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">300g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>griechischer Joghurt</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">10g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Honig</p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">in Schüssel verrühren</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
+<colgroup>
+<col style="width: 30%;">
+<col style="width: 70%;">
+</colgroup>
+<tbody>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">100g</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Lemon Curd</strong></p></td>
+</tr>
+<tr>
+<td class="tableblock halign-right valign-top"><p class="tableblock">1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Baiser</strong>; <em>zerbröselt, nach Belieben</em></p></td>
+</tr>
+</tbody>
+</table></div></td>
+<td class="tableblock halign-left valign-middle"><p class="tableblock">auf Gläser verteilen und schichten: Joghurt - Lemon Curd - Baiser und wiederholen, bis das Glas voll ist</p></td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
 <div id="sec.schokoladenmousse" class="paragraph">
 <p></p>
 </div>
@@ -8230,7 +10436,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schokoladenmousse">Schokoladenmousse</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: YouTube, frenchapprentice, URL: <a href="https://www.youtube.com/watch?v=bs2prVvabkE" class="bare">https://www.youtube.com/watch?v=bs2prVvabkE</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8325,7 +10531,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schokoladenpudding">Schokoladenpudding</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: chefkoch.de</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8429,7 +10635,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_tiramisu">Tiramisu</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8452,7 +10658,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_vanilleeis_mit_heißen_kirschen_himbeeren">Vanilleeis mit heißen Kirschen / Himbeeren</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: Schuhbeck (modifiziert)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8533,7 +10739,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_brioche">Brioche</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, URL: <a href="https://www.youtube.com/watch?v=jYg0rpwpAp4" class="bare">https://www.youtube.com/watch?v=jYg0rpwpAp4</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8672,7 +10878,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_marillenknödel">💥Marillenknödel</h3>
 <div class="paragraph">
-<p>Portionen: 3, Stichwörter: ausprobieren, vegetarisch</p>
+<p>Portionen: 3, Stichwörter: ausprobieren, vegetarisch, URL: <a href="https://www.gutekueche.at/marillenknoedel-mit-topfenteig-rezept-784" class="bare">https://www.gutekueche.at/marillenknoedel-mit-topfenteig-rezept-784</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -8777,20 +10983,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_naan">Naan</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter:</p>
+<p>Portionen: 0, URL: <a href="https://www.youtube.com/watch?v=qnzBkCkv9gs" class="bare">https://www.youtube.com/watch?v=qnzBkCkv9gs</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock"><a href="https://www.youtube.com/watch?v=qnzBkCkv9gs" class="bare">https://www.youtube.com/watch?v=qnzBkCkv9gs</a></p></td>
-</tr>
-</tbody>
 </table>
 <div style="page-break-after: always;"></div>
 <div id="sec.nusspalatschinken" class="paragraph">
@@ -8800,7 +10995,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_nusspalatschinken">💥Nusspalatschinken</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter: ausprobieren</p>
+<p>Portionen: 2, Stichwörter: ausprobieren, URL: <a href="https://www.ichkoche.at/nusspalatschinken-rezept-1418" class="bare">https://www.ichkoche.at/nusspalatschinken-rezept-1418</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9026,7 +11221,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pfannkuchen">Pfannkuchen</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9071,7 +11266,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_waffeln">Waffeln</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9149,7 +11344,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pizzakordeln">💥Pizzakordeln</h3>
 <div class="paragraph">
-<p>Portionen: 0, Stichwörter: ausprobieren, Snacks</p>
+<p>Portionen: 0, Stichwörter: ausprobieren, Snacks, URL: <a href="https://www.wochenblatt.com/rezepte/pizzakordeln-fuer-das-picknick-11590472.html" class="bare">https://www.wochenblatt.com/rezepte/pizzakordeln-fuer-das-picknick-11590472.html</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9244,7 +11439,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pogácsa">💥Pogácsa</h3>
 <div class="paragraph">
-<p>Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack</p>
+<p>Portionen: 60, Stichwörter: Ungarn, ausprobieren, Snack, URL: <a href="https://backmaedchen1967.de/pogacsa-ungarisches-gebaeck/" class="bare">https://backmaedchen1967.de/pogacsa-ungarisches-gebaeck/</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9360,7 +11555,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schoko_cookies_mit_mms">Schoko-Cookies mit M&amp;M&#8217;s</h3>
 <div class="paragraph">
-<p>Portionen: 15, Stichwörter:</p>
+<p>Portionen: 15</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9470,7 +11665,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_schokoladencookies">Schokoladencookies</h3>
 <div class="paragraph">
-<p>Portionen: 6, Stichwörter:</p>
+<p>Portionen: 6, URL: <a href="https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/" class="bare">https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9588,7 +11783,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_zitronenkekse_mit_weißer_schokolade">Zitronenkekse mit weißer Schokolade</h3>
 <div class="paragraph">
-<p>Portionen: 16, Stichwörter:</p>
+<p>Portionen: 16, Quelle: Mutti 2016 - N° 2,  S. 99</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9709,7 +11904,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_new_york_cheesecake">New York Cheesecake</h3>
 <div class="paragraph">
-<p>Portionen: 12, Stichwörter:</p>
+<p>Portionen: 12, Quelle: Mutti Magazin</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9817,7 +12012,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_zwiebelkuchen">Zwiebelkuchen</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9934,7 +12129,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_brauner_us_zucker">Brauner US-Zucker</h3>
 <div class="paragraph">
-<p>Portionen: 1, Stichwörter:</p>
+<p>Portionen: 1</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -9957,7 +12152,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pastateig">Pastateig</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: Blog <a href="https://goo.gl/Vq2mRL" class="bare">https://goo.gl/Vq2mRL</a></p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10007,7 +12202,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_pizzateig">Pizzateig</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10086,7 +12281,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_tomatensoße">Tomatensoße</h3>
 <div class="paragraph">
-<p>Portionen: 4, Stichwörter:</p>
+<p>Portionen: 4, Quelle: Melli Schuh</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10239,29 +12434,6 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </tbody>
 </table></div></td>
 <td class="tableblock halign-left valign-middle"><p class="tableblock">zu Grillgemüse geben, marinieren, ca. 2h ziehen lassen</p></td>
-</tr>
-</tbody>
-</table>
-<div style="page-break-after: always;"></div>
-<div id="sec.cole_slaw" class="paragraph">
-<p></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_cole_slaw">Cole Slaw</h3>
-<div class="paragraph">
-<p>Portionen: 0, Stichwörter: Salat, vegetarisch, Beilage</p>
-</div>
-<table class="tableblock frame-all grid-rows stretch">
-<colgroup>
-<col style="width: 33.3333%;">
-<col style="width: 66.6667%;">
-</colgroup>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><div class="content"><table class="tableblock frame-none grid-none stretch">
-</table></div></td>
-<td class="tableblock halign-left valign-middle"><p class="tableblock">Clow Slaw wie von Kugler (Meeretich?)</p></td>
 </tr>
 </tbody>
 </table>
@@ -10440,7 +12612,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_obazda">Obazda</h3>
 <div class="paragraph">
-<p>Portionen: 8, Stichwörter:</p>
+<p>Portionen: 8</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10534,7 +12706,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_rahmwirsing">Rahmwirsing</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: Schuhbeck (modifiziert)</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10606,7 +12778,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_röstzwiebeln">Röstzwiebeln</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10779,7 +12951,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_tomatenreis">Tomatenreis</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: -</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -10892,7 +13064,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="sect2">
 <h3 id="_tsatsiki">Tsatsiki</h3>
 <div class="paragraph">
-<p>Portionen: 2, Stichwörter:</p>
+<p>Portionen: 2, Quelle: -</p>
 </div>
 <table class="tableblock frame-all grid-rows stretch">
 <colgroup>
@@ -11045,7 +13217,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2023-04-22 21:51:06 +0200
+Last updated 2023-08-12 08:01:17 +0200
 </div>
 </div>
 </body>

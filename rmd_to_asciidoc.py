@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import argparse
 import re
 import os
@@ -198,7 +198,7 @@ indexterm:[{self.name}]
         out_str += f"""
 {caption} {"💥" if "ausprobieren" in self.tags else ""}{self.name}
 
-Portionen: {self.yields}, Stichwörter: {', '.join(self.tags)}
+Portionen: {self.yields}{f", Stichwörter: {', '.join(self.tags)}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
 
 [%noheader, cols="1a,2", grid=rows]
 |===
@@ -323,8 +323,11 @@ def parse_recipe(input_str):
                 ingredients = []
             elif line.startswith(":"):
                 # attributes :yields: 4
-                split_line = line.split(":")
-                attributes[split_line[1].strip()] = split_line[2].strip()
+                match = re.match(r':(\w+):\s*(.+)', line)
+                if match:
+                    # If a match was found, extract the key and value
+                    key, value = match.groups()
+                    attributes[key] = value
             elif line.startswith("---"):
                 read_asciidoc_footer = True
                 asciidoc_footer = ""
