@@ -1,4 +1,24 @@
-Kaiserschmarrn
-:yields: 0
-:category: Mehlspeisen
-:tags: Hauptgericht;vegetarisch;süß
+Champigon-Rahmsoße
+:yields: 2
+:category: Basis
+:tags: Soße; vegetarisch
+
+300g Champignons; geviertelt
+# anbraten
+1 kleine Zwiebel; gewürfelt
+# andünsten
+0.5 TL Salz
+0.5 TL Muskat
+1 Pr Pfeffer
+# würzen
+1 EL Mehl
+# anschwitzen
+150ml Gemüsebrühe
+100ml Sahne
+1 EL Petersilie
+# zugießen, aufkochen, 3 min köcheln
+# passt zu: Knödel Gnocchi
+# Mod: Crème fraîche (säuerlich, 'leichter')
+
+
+
