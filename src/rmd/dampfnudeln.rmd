@@ -1,4 +1,24 @@
 Dampfnudeln
-:yields: 0
+:yields: 4
 :category: Mehlspeisen
 :tags: Hauptgericht;vegetarisch
+
+250g Mehl
+10g Hefe
+100ml Milch
+40g Zucker
+1 Eigelb
+40g Butter; weich
+0.5 TL Zitronenabrieb
+0.5 TL Salz
+# verkneten, 8 Nudeln abstechen, auf bemehltem Brett gehen lassen
+
+150ml Wasser; warm (50°C)
+1 TL Salz
+30g Butter; weich
+# in flachen Topf / hohe Pfanne geben, Butter zergehen lassen. Nudeln zugeben. Deckel auflegen.
+# Zum Kochen bringen. Bei anfangs mittlerer, dann geringer Hizte 30min garen, bis sich Kruste bildet (hörbares Zischen).
+# Deckel nie abnehmen!
+# Topf an Herdseite noch2min stehen lassen, dann Deckel öffnen.
+
+
