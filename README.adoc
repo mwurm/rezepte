@@ -110,3 +110,9 @@ chmod u+x *.sh *.py
 ./docbuild.sh
 ```
 
+= GitHub Workspace
+Initialisierung
+```
+sudo apt-get update
+sudo apt-get install asciidoctor
+```
