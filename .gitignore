@@ -5,4 +5,5 @@ vendor/
 *.pdf
 *.pyc
 index.adoc
+github-pages/
 
