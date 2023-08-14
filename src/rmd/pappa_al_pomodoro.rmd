@@ -2,4 +2,22 @@ Pappa al Pomodoro
 :yields: 0
 :category: Eintöpfe
 :tags: Hauptgericht;vegetarisch;leicht;Mikrowelle;schnell mit Garzeit;Büro
-# (5Z, S. 173)
+:source: (5Z, S. 173)
+
+2 Zehen Knoblauch
+# anbraten
+
+1 Dose Tomaten; gestückelt
+200ml Wasser
+1 Salz+Pfeffer
+# zugeben, zum Kochen bringen
+
+150g Ciabatta; gestückelt
+# zugeben, ca. 5 Minuten köcheln (bis eingedickt)
+
+20g Parmesan
+# unterrühren
+2 EL Olivenöl
+8 Blätter Basilikum
+# auf Teller servieren
+
