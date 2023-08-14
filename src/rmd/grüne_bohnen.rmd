@@ -1,4 +1,12 @@
 Grüne Bohnen
-:yields: 0
+:yields: 2
 :category: Beilagen
 :tags: vegetarisch; leicht
+
+1 kleine Zwiebel; gewürfelt
+# in Öl andünsten
+400g grüne Bohnen (TK)
+2 TL Salz
+2 TL Bohnenkraut
+# zugeben, würzen. Pfanne abdecken, 20min köcheln.
+
