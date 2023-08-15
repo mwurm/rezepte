@@ -114,5 +114,5 @@ chmod u+x *.sh *.py
 Initialisierung
 ```
 sudo apt-get update
-sudo apt-get install asciidoctor
+sudo apt-get -y install asciidoctor
 ```
