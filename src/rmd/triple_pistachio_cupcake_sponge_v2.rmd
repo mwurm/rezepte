@@ -1,0 +1,24 @@
+Triple Pistachio Cupcage Sponge v2
+:yields: 12
+:category: Kuchen
+:info: für 12 Cupcake-Sponges, Ofen auf 180°C Ober-/Unterhitze vorheizen
+
+150g Butter
+50g Pistazienöl
+1 TL Vanillepaste
+# 5min rühren
+
+2 Eier (M) 
+75g Mehl
+50g Stärke
+1 TL Backpulver
+60g Pistazien; gemahlen
+50g weiße Schokolade; gehackt
+40g Eierlikör
+# vermischen, löffelweise unterheben
+# 15-20min backen
+---
+Mögliche Toppings:
+- <<sec.triple_pistachio_cupcake_topping,Triple Pistachio Topping>>
+
+

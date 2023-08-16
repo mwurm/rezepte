@@ -1,0 +1,22 @@
+Triple Pistachio Cupcage Topping
+:yields: 12
+:category: Kuchen
+
+200g Butter; weich
+180g Puderzucker
+# cremig schlagen
+
+100g Pistazienmus
+30g Pistazienöl
+600g Frischkäse
+# zugeben, 30min kühlen
+
+2 EL Pistazien; gehackt
+# Servieren: Topping bestreuen
+
+---
+Mögliche Sponges:
+- <<sec.triple_pistachio_cupcake_sponge,Triple Pistachio Sponge>>
+- <<sec.triple_pistachio_cupcake_sponge_v2,Triple Pistachio Sponge v2>>
+
+
