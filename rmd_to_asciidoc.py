@@ -200,8 +200,13 @@ indexterm:[{self.name}]
 {caption} {"💥" if "ausprobieren" in self.tags else ""}{self.name}
 
 Portionen: {self.yields}{f", Stichwörter: {', '.join(self.tags)}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
-{f"""
-Info: {self.info}""" if self.info else ""}
+"""
+        if self.info:
+            out_str += f"""
+🛈 {self.info}
+"""
+
+        out_str += f"""
 [%noheader, cols="1a,2", grid=rows]
 |===
 """
