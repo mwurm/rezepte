@@ -16,6 +16,7 @@ Triple Pistachio Cupcage Topping
 
 ---
 Mögliche Sponges:
+
 - <<sec.triple_pistachio_cupcake_sponge,Triple Pistachio Sponge>>
 - <<sec.triple_pistachio_cupcake_sponge_v2,Triple Pistachio Sponge v2>>
 
