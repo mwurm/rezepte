@@ -201,7 +201,7 @@ indexterm:[{self.name}]
             out_str += f"indexterm:[{indexterm}]\n"
 
         out_str += f"""
-{caption} {"💥" if "ausprobieren" in self.tags else ""}{self.name}
+{caption} {"💥" if "ausprobieren" in self.tags else ""}{"☐" if "TODO" in self.tags else ""}{self.name}
 
 Portionen: {self.yields}{f", Stichwörter: {', '.join(self.tags)}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
 """
