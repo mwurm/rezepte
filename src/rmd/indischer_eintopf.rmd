@@ -1,4 +1,4 @@
 Indischer Eintopf
 :yields: 0
 :category: Eintöpfe
-:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro
+:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro;TODO

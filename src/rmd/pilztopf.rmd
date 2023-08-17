@@ -1,6 +1,7 @@
 Pilztopf
 :yields: 4
 :category: Eintöpfe
+:tags: Low Meat
 
 175g Speck; würfeln
 2 Zwiebeln
