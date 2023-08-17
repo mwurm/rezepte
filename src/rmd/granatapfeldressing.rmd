@@ -12,5 +12,6 @@ Granatapfeldressing
 3 EL Öl
 0 Salz, Pfeffer
 # verrühen (mit Granatapfelsaft)
-# servieren: Kerne später auf Salat geben
-# Mod: + Petersilie / + Rosmarin / Honig statt Zucker
+  servieren: Kerne später auf Salat geben
+---
+Mod: + Petersilie / + Rosmarin / Honig statt Zucker

@@ -15,5 +15,4 @@ Pasta alla Carbonara
 100ml Sahne
 50g Parmesan
 # verquirlen
-# Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben
-# Modifikation: ohne Sahne, TODO
+  Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben

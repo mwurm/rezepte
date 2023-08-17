@@ -11,7 +11,7 @@ Käsespätzle
 # verrühren
 1 Wasser
 # zugeben und Rühren, bis zäher Teig entsteht
-# Spätzle kochen
+  Spätzle kochen
 
 150g Emmentaler
 150g Gouda
@@ -19,7 +19,7 @@ Käsespätzle
 # reiben
 20g Butter
 # in Reine oder Schüssel geben
-# Spätzle und Käse schichten, alle zwei Lagen salzen und pfeffern
+  Spätzle und Käse schichten, alle zwei Lagen salzen und pfeffern
 1 EL Weißweinessig
 # zugeben und Käsespätzle durchrühren
 1 Röstzwiebel

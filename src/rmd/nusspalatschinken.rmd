@@ -1,6 +1,6 @@
 Nusspalatschinken
 :category: Mehlspeisen
-:tags: ausprobieren
+:tags: ausprobieren;TODO
 :yields: 2
 :url: https://www.ichkoche.at/nusspalatschinken-rezept-1418
 

@@ -21,5 +21,6 @@ Indisches Dal
 1 TL Salz
 100ml Wasser
 # 30min köcheln, regelmäßig Wasser nachgießen nach Bedarf
-# Beilagen: Joghurt, Reis, Paneer-Käse
+--- 
+Beilagen: Joghurt, Reis, Paneer-Käse
 

@@ -6,11 +6,12 @@ Artischockensuppe
 1 Zwiebel; gewürfelt
 # andünsten
 1 Dose Artischocken
-# abwaschen¹, anbraten
+# abwaschen^1^, anbraten
 100 ml Weißwein
 3/4l Gemüsebrühe
 2 Kartoffeln; grob gewürfelt
 # 30min köcheln, am Ende pürieren
 100 ml Sahne
 # zugeben, aufköcheln, mit Salz abschmecken
-# ¹der Eigengeschmack der Lake muss weg
+---
+^1^der Eigengeschmack der Lake muss weg

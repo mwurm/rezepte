@@ -17,8 +17,10 @@ Champigon-Rahmsoße
 100ml Sahne
 1 EL Petersilie
 # zugießen, aufkochen, 3 min köcheln
-# passt zu: Knödel, Gnocchi
-# Mod: Crème fraîche (säuerlich, 'leichter')
+---
+passt zu: Knödel, Gnocchi
+
+Mod: Crème fraîche (säuerlich, 'leichter')
 
 
 

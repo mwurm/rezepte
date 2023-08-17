@@ -14,7 +14,7 @@ Pasta alla Carbonara, klassisch
 1 Eigelb
 40g Parmesan
 # verquirlen
-# Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
+  Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
 0 Parmesan
 0 Pfeffer
 # bestreuen, servieren

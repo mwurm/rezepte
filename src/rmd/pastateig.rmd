@@ -9,10 +9,8 @@ Pastateig
 1 EL Olivenöl
 0.5 TL Salz
 # Mit Küchenmaschine: zu Beginn 90% der Eier oder des Eigelb zuzugeben, geduldig alles zu einer krümeligen Masse zu verkneten, das kann 5-10 Minuten dauern. Gegen Schluss gibt man dann soviel weitere Eimasse in kleinen Portionen zu, bis der Teig zu klumpen beginnt. Dann ist er richtig. Anschliessend zu einem Ballen zusammendrücken, mit Folie abgedeckt ruhen (über Nach möglich, im Kühlschrank). 
-# Mit Hand: Man bildet mit dem Mehl einen Kranz, drückt in der Mitte eine Mulde ein, gibt Eigelbe/Eier (nie Wasser, ausser bei dem eifreien Teig) und Salz hinein und vermischt vom Mehlrand her alles locker und knetet daraus per Hand einen Teig.
-# Mit Nudelmaschine walzen: Folgende Walzdicken haben sich bei mir bewährt: Taglierini 5/9, Fettucine 7/9, Ravioli 8/9 bis 9/9. Ist der Teig zu feucht (wenn er klebt), zieht man den Streifen über Hartweizendunst und walzt ihn nochmals aus. Die mechanische Beanspruchung des Teiges führt dazu, dass sich der Kleber im Teig zusammenzieht, der Teig nach dem Walzen also wieder dicker wird. Nach 5 Minuten Ruhezeit, die Platten bemehlt übereinander lagern, einfach nochmals auf der gewünschten Endstufe ausrollen. Ist der Teig zu trocken, hilft kurzzeitiges überdecken mit einem feuchten, ausgewringten Tuch.
-# *Wichtig:* Die Teigplatten nie mit Weissmehl bemehlen, immer mit Hartweizendunst. Beim Kochen verklebt sich Weissmehl an der Nudel, Dunst fällt im Kochwasser ab.
-# Ravioliteig:
-1 Ei
-5 Eigelb
-# statt 3 Eier
+  Mit Hand: Man bildet mit dem Mehl einen Kranz, drückt in der Mitte eine Mulde ein, gibt Eigelbe/Eier (nie Wasser, ausser bei dem eifreien Teig) und Salz hinein und vermischt vom Mehlrand her alles locker und knetet daraus per Hand einen Teig.
+  Mit Nudelmaschine walzen: Folgende Walzdicken haben sich bei mir bewährt: Taglierini 5/9, Fettucine 7/9, Ravioli 8/9 bis 9/9. Ist der Teig zu feucht (wenn er klebt), zieht man den Streifen über Hartweizendunst und walzt ihn nochmals aus. Die mechanische Beanspruchung des Teiges führt dazu, dass sich der Kleber im Teig zusammenzieht, der Teig nach dem Walzen also wieder dicker wird. Nach 5 Minuten Ruhezeit, die Platten bemehlt übereinander lagern, einfach nochmals auf der gewünschten Endstufe ausrollen. Ist der Teig zu trocken, hilft kurzzeitiges überdecken mit einem feuchten, ausgewringten Tuch.
+  *Wichtig:* Die Teigplatten nie mit Weissmehl bemehlen, immer mit Hartweizendunst. Beim Kochen verklebt sich Weissmehl an der Nudel, Dunst fällt im Kochwasser ab.
+---
+Ravioliteig: 1 Ei, 5 Eigelb statt 3 Eier

@@ -20,5 +20,4 @@ Burger
 # zubereiten (oder selber machen lassen)
 
 4 Cole-Slaw
-#  
 # Burger, Pommes, Cole Slaw servieren

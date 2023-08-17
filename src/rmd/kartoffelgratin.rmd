@@ -22,4 +22,5 @@ Kartoffelgratin
 
 100g Käse; gerieben
 # auf Gratin streuen, 40min backen
-# Anmerkung: für die blaue Reine
+--- 
+_Anmerkung:_ für die blaue Reine

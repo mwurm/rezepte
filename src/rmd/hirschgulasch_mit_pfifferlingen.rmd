@@ -1,7 +1,7 @@
 Hirschgulasch mit Pfifferlingen
 :yields: 2
 :category: Fleischgerichte
-:tags: Wild; TK; Mikrowelle; Büro
+:tags: Wild; TK; Mikrowelle; Büro;TODO
 :source: chefkoch.de
 :url: https://www.chefkoch.de/rezepte/237061096469256/Hirschgulasch-mit-frischen-Pfifferlingen.html
 
@@ -27,8 +27,10 @@ Hirschgulasch mit Pfifferlingen
 2 EL Crème fraîche
 2 EL Preiselbeeren , (nach Wunsch)
 
-# 2 EL Öl und 1 EL Butter erhitzen, Dörrfleisch und Würfel einer Zwiebel darin anschwitzen. Das Fleisch zugeben und kräftig rundum anbraten. Mit Rotwein und Gin ablöschen, Wacholderbeeren etwas zerdrücken und zugeben. Die Kräuterzweige zu einem Strauß zusammenbinden und zugeben. Noch etwas Wildfond oder Brühe zugeben. Zugedeckt etwa 1 Stunde auf kleiner Flamme schmoren, öfter umrühren und den Fond oder die Brühe nach und nach zugeben.
-# Nach der Garzeit den Kräuterstrauß und die Wacholderbeeren herausnehmen, Mit Creme fraiche, Oregano, Pfeffer, eventuell Salz und Preiselbeeren abschmecken. (Die Preiselbeeren kann man auch getrennt servieren)
+2 EL Öl
+1 EL Butter
+# erhitzen, Dörrfleisch und Würfel einer Zwiebel darin anschwitzen. Das Fleisch zugeben und kräftig rundum anbraten. Mit Rotwein und Gin ablöschen, Wacholderbeeren etwas zerdrücken und zugeben. Die Kräuterzweige zu einem Strauß zusammenbinden und zugeben. Noch etwas Wildfond oder Brühe zugeben. Zugedeckt etwa 1 Stunde auf kleiner Flamme schmoren, öfter umrühren und den Fond oder die Brühe nach und nach zugeben.
+  Nach der Garzeit den Kräuterstrauß und die Wacholderbeeren herausnehmen, Mit Creme fraiche, Oregano, Pfeffer, eventuell Salz und Preiselbeeren abschmecken. (Die Preiselbeeren kann man auch getrennt servieren)
 # In der Zwischenzeit die Pfifferlinge putzen und zusammen mit den Würfeln einer halben Zwiebel in 1 EL Butter etwa 10 - 15 Minuten anschwitzen. Zum Schluss die gehackte Petersilie zugeben.
-# Die Pfifferlinge auf das Hirschgulasch geben und servieren.
-# Dazu passen Bandnudeln, Spätzle oder Knödel.
+  Die Pfifferlinge auf das Hirschgulasch geben und servieren.
+  Dazu passen Bandnudeln, Spätzle oder Knödel.

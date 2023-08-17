@@ -7,7 +7,6 @@ Pici-Nudeln
 150ml Wasser
 50ml Olivenöl
 # aus Grieß Mulde bilden, zu Teig vermengen, kneten, 30min ruhen lassen
-
-# Teig 5mm hoch ausrollen, zusammenklappen
-# 1cm breite Streifen schneiden
-# per Hand zu Pici-Nudeln zu 30cm Länge ausrollen
+  Teig 5mm hoch ausrollen, zusammenklappen
+  1cm breite Streifen schneiden
+  per Hand zu Pici-Nudeln zu 30cm Länge ausrollen

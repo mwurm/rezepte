@@ -1,7 +1,7 @@
 Kartoffel-Curry
 :yields: 0
 :category: Aufläufe
-:tags: Hauptgericht;vegetarisch;leicht
+:tags: Hauptgericht;vegetarisch;leicht;TODO
 
 2.5 TL gem. Koriander
 1 TL gem. Kreuzkümmel

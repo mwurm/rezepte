@@ -10,8 +10,8 @@ Cacio e pepe
 8 EL Pecorino; gerieben
 1 TL Pfeffer; grob gemahlen
 # in Schüssel vermengen
-# Spaghetti direkt aus dem Topf in den Pecorino geben
-# vermengen
+  Spaghetti direkt aus dem Topf in den Pecorino geben
+  vermengen
 4 EL Nudelwasser
 # portionsweise zugeben und zu cremiger Soße vermengen
 ---

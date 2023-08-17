@@ -13,12 +13,12 @@ Himbeer-Topping
 25g Stärke
 1 Eigelb
 # glatt rühren, in Sahnemischung geben, weiterkochen und kräftig rühren bis Pudding eingedickt ist.
-# abkühlen
+  abkühlen
 
 120g Himbeeren (TK); aufgetaut
 # pürieren, durch Sieb streichen
-# _Himbeer-Pudding_ 30sek cremig rühren
-# _Himbeer-Püree_ beimengen, weiterrühren
+  _Himbeer-Pudding_ 30sek cremig rühren
+  _Himbeer-Püree_ beimengen, weiterrühren
 60g Puderzucker
 250g Mascarpone
 250g Quark
