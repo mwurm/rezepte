@@ -20,7 +20,7 @@ _ Salz+Pfeffer
 4 Blätter Salat
 # bestreichen und belegen
   Creme verteilen
-0 Kresse
+_ Kresse
 # Kresse verteilen
   mit Tramezzini-Oberseite belegen und zu Dreiecken zuschneiden
 ---

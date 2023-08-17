@@ -15,7 +15,7 @@ Semmelknödel
 1 Ei; geschlagen
 2 EL Petersilie
 # zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
-  _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 70 °C Umluft 10-15min in Ofen antrocknen lassen.
+  _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 70°C Umluft 10-15min in Ofen antrocknen lassen.
   Tipp: Hände feucht halten beim Knödel formen
 ---
 Varianten:
