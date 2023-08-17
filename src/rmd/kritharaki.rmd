@@ -11,7 +11,7 @@ Kritharaki (griechische Nudeln)
 1 EL Tomatenmark
 # andünsten
 
-0 Smoking Zeus
-0 Salz + Pfeffer
+_ Smoking Zeus
+_ Salz + Pfeffer
 1 Pr Zitronenabrieb
 # abschmecken, mit Nudeln verrühren

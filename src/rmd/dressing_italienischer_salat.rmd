@@ -9,7 +9,6 @@ Italienischer Salat Dressing
 50ml Wasser
 2.5 EL Öl
 3 EL Aceto balsamico
-0 Pfeffer
-0 Salz
+_ Salz+Pfeffer
 # verrühren
 

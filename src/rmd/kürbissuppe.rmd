@@ -7,7 +7,9 @@ Kürbissuppe
 2 Kartoffeln
 1 Lauch
 # schneiden, anbraten
-1 Kreuzkümmel, Koriander, Salz, Pfeffer
+_ Kreuzkümmel
+_ Koriander
+_ Salz+Pfeffer
 # würzen
 1l Gemüsebrühe
 # aufgießen; nach 20min pürieren

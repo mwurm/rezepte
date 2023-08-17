@@ -10,7 +10,7 @@ Bosna-Semmel
 4 kleine Bratwürste
 # grillen
 2 Semmeln
-0 Estragon-Senf
-0 Bosna-Gewürz
+_ Estragon-Senf
+_ Bosna-Gewürz
 # Semmeln mit Senf bestreichen, belegen und würzen
 

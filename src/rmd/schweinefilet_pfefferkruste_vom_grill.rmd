@@ -6,7 +6,7 @@
 2 EL rote Beeren
 # mit Mörser grob vermahlen
 1 Schweinefilet
-0 süßer Senf
+_ süßer Senf
 # Pfeffer-Rub auf Senf einreiben
   10m direkt grillen (4x wenden für Grillmuster). Dann 20m indirekt grillen
 

@@ -6,7 +6,7 @@ Cevapcici
 500g Hackfleisch (gemischt)
 100g Zwiebel; gewürfelt
 2 Zehen Knoblauch; gepresst
-1 TL Salz, Pfeffer
+1 TL Salz+Pfeffer
 2 TL Paprikapulver
 1 EL Olivenöl
 0.5 TL Natron
@@ -17,6 +17,6 @@ Cevapcici
 1 Paprika, grün; Ringe
 1 Tomate; Scheiben
 # servieren
-0 Ajvar
+_ Ajvar
 # als Beilage
 

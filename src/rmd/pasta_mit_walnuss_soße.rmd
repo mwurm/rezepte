@@ -10,7 +10,10 @@ Pasta mit Walnuss-Soße für Nudeln
 150ml Gemüsebrühe
 100ml Weißwein
 # dazugießen
-1 Thymian, Majoran, Rosmarin, Salz, Pfeffer
+_ Thymian
+_ Majoran
+_ Rosmarin
+_ Salz+Pfeffer
 # würzen, 8min köcheln
 
 100g Walnüsse (gehackt)

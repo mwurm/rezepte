@@ -8,7 +8,7 @@
 3 EL Dijon-Senf, grob
 1 Zehe Knoblauch; gepresst
 1 TL Estragon
-0.5 TL Salz, Pfeffer
+0.5 TL Salz+Pfeffer
 # zu Paste mixen
 
 1 Schweinefilet

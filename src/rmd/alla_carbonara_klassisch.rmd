@@ -4,7 +4,7 @@ Pasta alla Carbonara, klassisch
 :tags: Italien;schnell
 :indexterms: Pasta, alla Carbonara klassisch; Carbonara klassisch
 
-100 g Bauchspeck^1^; feine Streifen
+100g Bauchspeck^1^; feine Streifen
 # langsam anbraten. ^1^ Originalrezept: Pacetta / Guanciale
 
 200g Pasta
@@ -15,6 +15,6 @@ Pasta alla Carbonara, klassisch
 40g Parmesan
 # verquirlen
   Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
-0 Parmesan
-0 Pfeffer
+_ Parmesan
+_ Pfeffer
 # bestreuen, servieren

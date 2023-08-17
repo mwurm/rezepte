@@ -32,7 +32,7 @@ Gulaschsuppe
 4 Zehen Koblauch; gepresst
 # zugeben, 45min köcheln
 
-0 Salz
+_ Salz
 1 TL Pfeffer
 # abschmecken
 

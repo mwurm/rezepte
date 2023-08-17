@@ -8,7 +8,7 @@ Tramezzini mit Artischockencreme und Salami
 4 EL Magerquark
 2 EL Petersilie; gehackt
 2 EL Basilikum; gehackt
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # zu Creme verrühren
 
 4 Tramezzini-Scheiben (lang)
@@ -16,7 +16,9 @@ Tramezzini mit Artischockencreme und Salami
 125g Mozzarella; Scheiben
 2 Tomaten, dünne Scheiben
 # Unterseite bestreichen und belegen
-0 Butter / Oliventapenade
+_ Butter
 # Obeseite bestreichen und auflegen, zuschneiden
 ---
 1 Portion = 2 Tramezzini-Dreiecke (belegt)
+
+Alternative: Oliventapenade statt Butter

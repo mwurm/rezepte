@@ -13,7 +13,7 @@ Selleriesuppe
 # zugeben, 15min köcheln
 
 50ml Sahne
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # zugeben, pürieren, abschmecken
   servieren: mit Olivenöl beträufeln
 

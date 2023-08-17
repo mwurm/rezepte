@@ -14,10 +14,10 @@ Nizza Salat mit Lachs
 4 schwarze Oliven (entsteint); gehackt
 2 EL griechischer Joghurt
 1 EL Rotweinessig
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # Dressing zubereiten, mit Bohnen vermengen
 
 4 schwarze Oliven (entsteint); gehackt
-0 Pfeffer
+_ Pfeffer
 # mit Lachs und Eiervierteln auf Salat anrichten, pfeffern
 

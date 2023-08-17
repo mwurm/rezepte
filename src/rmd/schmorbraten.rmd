@@ -3,7 +3,7 @@ Schmorbraten
 :category: Fleischgerichte
 
 1kg Rindfleisch (Bürgermeisterstück / falsches Filet)
-0 Salz, Peffer
+_ Salz+Peffer
 # würzen, scharf anbraten, zur Seite legen
 
 2 EL Tomatenmark

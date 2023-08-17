@@ -8,7 +8,8 @@ Ricotta Dumplings
 220g Ricotta
 3 Eigelb
 20g Parmesan; gerieben
-0 Muskat, Salz, Pfeffer
+_ Muskat
+_ Salz+Pfeffer
 # verrühren
 
 200g Mehl

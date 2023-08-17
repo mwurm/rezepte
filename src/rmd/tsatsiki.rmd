@@ -10,7 +10,7 @@ Tsatsiki
 1 Knoblauchzehe (gepresst)
 1/2 TL Zitronenabrieb
 2 TL Olivenöl
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 1 Dill / Minze (optional)
 # vermengen
 

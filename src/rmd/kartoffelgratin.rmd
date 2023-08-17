@@ -13,7 +13,7 @@ Kartoffelgratin
 # in Sahne geben, 5min ziehen lassen, entfernen
 
 1 Zwg Thymian
-1 Salz+Pfeffer
+_ Salz+Pfeffer
 1 Pr Muskat
 # würzen
 

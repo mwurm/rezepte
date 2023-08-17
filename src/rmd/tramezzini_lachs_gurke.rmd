@@ -5,7 +5,7 @@ Tramezzini mit Lachs und Gurke
 
 
 4 Tramezzini-Scheiben (lang)
-0 Butter
+_ Butter
 # Ober-und Unterseite bestreichen
 
 150g Räucherlachs

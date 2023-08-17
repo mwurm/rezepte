@@ -4,19 +4,19 @@ Nusspalatschinken
 :yields: 2
 :url: https://www.ichkoche.at/nusspalatschinken-rezept-1418
 
-0 Öl
+_ Öl
 125 ml Milch
-60 g Mehl
+60g Mehl
 1 Eier
 1 Prise Salz
-100 g Walnüsse
-100 ml Milch
+100g Walnüsse
+100ml Milch
 1 Pkg. Vanillezucker
 1 EL Zucker
 1 Prise Zimt
 1 Prise Kardamom
-0 Schlagobers
-0 Staubzucker
+_ Schlagobers
+_ Staubzucker
 
 # Zunächst alle Zutaten für den Teig vermischen und zu einem glatten Teig rühren.
 # Für die Nussfülle die Milch langsam gemeinsam mit dem Zucker und dem Vanillezucker aufkochen lassen und danach die Nüsse einrühren. Nach Belieben mit etwas Zimt und etwas Kardamom abschmecken. Die Nussfüllung warm stellen.

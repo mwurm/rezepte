@@ -3,7 +3,7 @@ Chicken Tikka Masala
 :category: Geflügel
 :tags: Indien;Mikrowelle;TK
 
-150 g Joghurt
+150g Joghurt
 3 Zehen Knoblauch
 1.5cm Ingwerknolle; fein gewürfelt
 1 Zitrone (Saft)
@@ -16,7 +16,7 @@ Chicken Tikka Masala
 
 750g Hähnchenbrustfilet
 # 3h oder länger marinieren
-  in Auflaufform 30m backen (200 °C)
+  in Auflaufform 30m backen (200°C)
 
 400g Reis
 # kochen
@@ -32,7 +32,7 @@ Chicken Tikka Masala
 1 TL Salz
 # zu Zwiebeln geben, 15min köcheln, pürieren
 
-50 ml Sahne
+50ml Sahne
 2 TL Honig
 # zu Soße geben, Fleisch dazu, 5m köcheln
 

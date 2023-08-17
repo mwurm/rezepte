@@ -5,7 +5,7 @@ Tramezzini mit Avocado-Krabben-Creme
 
 1 Avocado; würfeln
 3 TL Zitronensaft
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # vermengen
 100g Frischkäse
 3 EL Joghurt

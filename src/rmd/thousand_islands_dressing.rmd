@@ -17,6 +17,6 @@ Thousand Islands Dressing
 1 TL Worcester-Soße
 # zugeben, verrühren
 
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 1/2 TL Chiliflocken
 # abschmecken

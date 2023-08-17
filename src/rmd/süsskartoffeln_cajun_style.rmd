@@ -10,7 +10,7 @@ Süsskartoffeln Cajun-Style
 2 TL Olivenöl
 2 TL Rotweinessig
 2 TL Cajun-Gewürz
-1 Pr Salz+Pfeffer
+_ Salz+Pfeffer
 # In Reine geben, alles vermischen
   1h rösten
 

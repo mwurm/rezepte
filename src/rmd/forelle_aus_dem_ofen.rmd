@@ -8,7 +8,7 @@ Forelle aus dem Ofen
 # Butter in Alufolie und Bauch verteilen
 0.25 Zwiebel; Ringe
 0.5 Karotte; Stifte
-0 Petersilie
+_ Petersilie
 # befüllen
 40ml Weißwein
 

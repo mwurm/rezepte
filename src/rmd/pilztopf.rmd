@@ -12,7 +12,7 @@ Pilztopf
 # ablöschen
 1 Lorbeerblatt
 1 EL Majoran
-0 Salz + Pfeffer
+_ Salz + Pfeffer
 # zugeben, 30min schmoren
 1 Paprika; würfeln
 250g Champignons

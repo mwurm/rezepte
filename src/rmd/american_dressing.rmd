@@ -11,9 +11,9 @@ American Dressing
 45ml Milch
 45ml Ketchup
 # unterrühren
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # abschmecken
-0 Schnittlauch (opt.)
+_ Schnittlauch (opt.)
 # zugeben
 
 1 Zehe Knoblauch; gehackt
@@ -28,5 +28,5 @@ American Dressing
 
 125ml Sonnenblumenöl
 # langsam zugeben und weiterpürieren.
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # abschmecken

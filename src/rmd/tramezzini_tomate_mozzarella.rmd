@@ -10,8 +10,8 @@ Tramezzini mit Tomate-Mozzarella
 
 2 Tomaten; dünne Scheiben
 1 Mozzarella; dünne Scheiben
-0 Salz, Pfeffer
-0 Balsamico-Creme
+_ Salz+Pfeffer
+_ Balsamico-Creme
 # Trammezzini belegen, würzen
   Oberseite auflegen und zu Dreiecken zuschneiden
 ---

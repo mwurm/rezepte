@@ -106,7 +106,7 @@ class Ingredient:
 class IngredientFactory:
     def get_ingredient(self, ingredient):
         # Define regular expression patterns to match amounts, units, and ingredients
-        amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+'  # Matches numeric amounts, fractions, and common non-numeric amounts
+        amount_pattern = r'\d+|\d+\.\d+|\d+\/\d+|_|etwas'  # Matches numeric amounts, fractions, and common non-numeric amounts
         unit_pattern = r'[a-zA-Z]+'  # Matches zero or more letters
         unit_pattern += r'|\s+[cmk]?[glm]|\s+TL|\s+EL|\s+Glas|\s+Prisen?|\s+Pr\.?|\s+Zweige?|\s+Zehen?|\s+Scheiben?|\s+Stücke?|\s+Stk?\.?|\s+Bund|\s+Bd\.?|\s+Bn\.?|\s+Pkg\.?|\s+Packung|\s+Msp\.?|\s+Dosen?|\s+Becher|\s+Bch\.?|\s+Be\.?|\s+Beutel|\s+Btl\.?|\s+Stangen?|\s+Stg\.?|\s+Stiele?|\s+Blatt|\s+Blätter|\s+Bl\.?'  # Matches common non-standard units of measurement
         ingredient_pattern = r'[^;]+'  # Matches anything but ; (which is use to separate preparation notes)
@@ -124,16 +124,20 @@ class IngredientFactory:
             unit = match.group(2)
             ingredient = match.group(3)
             preparation_notes = None if match.group(5) is None else match.group(5).strip()
-            
             # Convert the amount to a float if it exists
             if amount:
-                if '/' in amount:
+                if '_' in amount or 'etwas' in amount:
+                    amount = None
+                elif '/' in amount:
                     numerator, denominator = amount.split('/')
                     amount = float(numerator) / float(denominator)
                 elif amount.lower() == 'eine' or amount.lower() == 'ein':
                     amount = 1.0
                 else:
                     amount = float(amount)
+            else:
+                amount = None
+
             
             # Return a tuple containing the amount, unit, and ingredient
             return Ingredient(amount, unit, ingredient, preparation_notes)

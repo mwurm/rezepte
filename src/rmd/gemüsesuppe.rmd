@@ -7,13 +7,13 @@ Gemüsesuppe
 3 Petersilienwurzeln
 1 Kartoffel
 1 Zwiebel
-0 Selleriegrün
+_ Selleriegrün
 3 Stiele Petersilie
 # in Öl andünsten
 
 1 TL Paprikapulver
 1 EL Suppengewürz
-0 Wasser
+_ Wasser
 # mit Wasser auffüllen, bis es ca. knapp über dem Gemüse steht
 1.5 EL Piros Arany
 # dazugeben, 15min kochen

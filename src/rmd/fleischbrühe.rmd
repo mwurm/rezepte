@@ -8,7 +8,7 @@ Fleischbrühe
 400g Suppengrün; gewürfelt
 1.5l Wasser (kalt)
 # langsam erhitzen und ca. 2.5h köcheln lassen
-0 Salz
+_ Salz
 # erst jetzt salzen und abschmecken
 
 

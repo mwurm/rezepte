@@ -5,7 +5,7 @@ Tintenfisch vom Grill
 
 4 EL Olivenöl
 0.5 Zitrone; Saft
-0 Thymian
+_ Thymian
 1 TL Salz
 2 Zehen Knoblauch; gepresst
 # zu Marinade zubereiten

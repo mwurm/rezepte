@@ -8,7 +8,7 @@ Tramezzini mit Schinken-Eiercreme und Tomate
 1.5 EL Mayonnaise
 1 EL Schafsmilchjoghurt (6% Fett)
 1 TL Zitronensaft
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 10 Blätter Basilikum; gehackt
 # zu Creme verrühren
 

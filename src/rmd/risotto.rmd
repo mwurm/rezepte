@@ -8,7 +8,7 @@ Risotto
 # dazugeben, anbraten
 1.5l Brühe
 4 EL Parmesan
-0 Salz, Pfeffer
+_ Salz+Pfeffer
 # nach und nach zuzugeben, ca. 20m garen
 
 ---

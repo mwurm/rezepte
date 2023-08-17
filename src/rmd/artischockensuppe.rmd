@@ -7,11 +7,11 @@ Artischockensuppe
 # andünsten
 1 Dose Artischocken
 # abwaschen^1^, anbraten
-100 ml Weißwein
+100ml Weißwein
 3/4l Gemüsebrühe
 2 Kartoffeln; grob gewürfelt
 # 30min köcheln, am Ende pürieren
-100 ml Sahne
+100ml Sahne
 # zugeben, aufköcheln, mit Salz abschmecken
 ---
 ^1^der Eigengeschmack der Lake muss weg
