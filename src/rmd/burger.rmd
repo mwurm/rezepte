@@ -15,7 +15,7 @@ Burger
 1 Zwiebel, rot
 1 Glas Gewürzgurken (Burger-Gurken); in Scheiben
 1 Römersalat
-1 Burger-Sauce / Tomatenketchup / Mayonnaise
+1 Burger-Soße / Tomatenketchup / Mayonnaise
 4 Scheiben Cheddar
 # zubereiten (oder selber machen lassen)
 
