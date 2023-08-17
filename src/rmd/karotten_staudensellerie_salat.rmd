@@ -1,6 +1,7 @@
 Karotten-Staudensellerie-Salat
 :yields: 3
 :category: Salate
+:tags: Salat
 
 6 Karotten; gerieben
 1 Staudensellerie; schälen, Scheiben

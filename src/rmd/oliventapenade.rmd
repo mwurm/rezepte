@@ -2,6 +2,7 @@ Oliventapenade
 :yields: 4
 :category: Appetithäppchen
 :source: Tupperware
+:tags: Snack; vegetarisch
 
 80g Oliven, schwarz, entsteint
 2 Sardellenfilets

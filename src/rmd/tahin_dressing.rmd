@@ -2,6 +2,7 @@ Tahin-Dressing
 :yields: 2
 :category: Salate
 :subcategory: Dressing
+:tags: Dressing
 
 30g Tahin
 15ml Zitronensaft

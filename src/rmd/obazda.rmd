@@ -1,6 +1,7 @@
 Obazda
 :yields: 8
 :category: Beilagen
+:tags: Bayern; vegetarisch; Käse; Biergarten
 
 600g Camembert; Rinde entfernen
 125g Butter

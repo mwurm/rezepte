@@ -1,6 +1,8 @@
 Schmorbraten
 :yields: 4
 :category: Fleischgerichte
+:tags: Rind; Anlass; Deutschland
+
 
 1kg Rindfleisch (Bürgermeisterstück / falsches Filet)
 _ Salz+Peffer

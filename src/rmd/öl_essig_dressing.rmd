@@ -2,6 +2,7 @@
 :yields: 2
 :category: Salate
 :subcategory: Dressing
+:tags: Dressing
 
 1.5 EL Essig
 3 EL Öl

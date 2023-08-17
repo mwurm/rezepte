@@ -2,6 +2,7 @@ Schokoladenpudding
 :yields: 4
 :category: Desserts
 :source: chefkoch.de
+:tags: Schokolade; süß
 
 150ml Milch
 250ml Sahne

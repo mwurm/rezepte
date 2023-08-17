@@ -2,6 +2,7 @@ Maronensuppe
 :yields: 2
 :category: Suppen
 :source: Theresa Baumgärtner
+:tags: Low Meat
 
 1 Zwiebel; gewürfelt
 30g Speck

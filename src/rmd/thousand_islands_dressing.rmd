@@ -3,6 +3,7 @@ Thousand Islands Dressing
 :category: Salate
 :subcategory: Dressing
 :source: ?
+:tags: Dressing
 
 1 Ei; hartgekocht, würfeln
 1 Schalotte; würfeln

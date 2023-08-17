@@ -2,6 +2,7 @@ Joghurt-Dressing
 :yields: 4
 :category: Salate
 :subcategory: Dressing
+:tags: Dressing
 
 125g Joghurt
 1 EL Zitronensaft

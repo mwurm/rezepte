@@ -2,6 +2,7 @@ Dressing mit Preiselbeeren
 :yields: 2
 :category: Salate
 :subcategory: Dressing
+:tags: Dressing
 
 1 EL Preiselbeeren
 2 EL ÖL

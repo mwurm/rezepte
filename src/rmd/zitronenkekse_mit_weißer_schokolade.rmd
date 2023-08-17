@@ -2,6 +2,7 @@ Zitronenkekse mit weißer Schokolade
 :yields: 16
 :category: Gebäck
 :source: Mutti-Magazin 2016 - N° 2,  S. 99
+:tags: süß; Cookie
 
 150g Butter; weich
 150g Zucker

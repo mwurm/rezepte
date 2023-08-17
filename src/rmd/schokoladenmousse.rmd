@@ -3,7 +3,7 @@ Schokoladenmousse
 :category: Desserts
 :source: YouTube, frenchapprentice
 :url: https://www.youtube.com/watch?v=bs2prVvabkE
-
+:tags: Schokolade; süß
 90g Kuvertüre^1^
 # im Wasserbad schmelzen
 45g Sahne

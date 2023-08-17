@@ -1,6 +1,6 @@
 Pizzakordeln
 :category: Gebäck
-:tags: ausprobieren; Snacks
+:tags: ausprobieren; Snack
 :yields: 0
 :url: https://www.wochenblatt.com/rezepte/pizzakordeln-fuer-das-picknick-11590472.html
 

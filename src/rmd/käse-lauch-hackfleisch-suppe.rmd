@@ -2,13 +2,14 @@ Käse-Lauch-Hackfleisch-Suppe
 :yields: 3
 :category: Suppen
 :url: https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/
+:tags: Rind; Deutschland; Büro; Mikrowelle
 
 500g Rinderhackfleisch
 3 Stangen Lauch; dünne Scheiben
 1 Zehe Knoblauch; gepresst
 # in Olivenöl anbraten
 
-700ml Rinfleischbrühe
+700ml Rindfleischbrühe
 # zugeben, aufkochen
 
 200g Schmelzkäse

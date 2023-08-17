@@ -2,6 +2,7 @@ Italienischer Salat Dressing
 :yields: 6
 :category: Salate
 :subcategory: Dressing
+:tags: Dressing
 
 4 EL Miracel Whip (stark gehäuft)
 200ml Crème fraîche
