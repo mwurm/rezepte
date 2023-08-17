@@ -1,6 +1,7 @@
  Schweinefilet mit Pfefferkruste vom Grill
 :yields: 2
 :category: Fleischgerichte
+:tags: Schwein; Grill; leicht; schnell mit Garzeit
 
 2 EL grüner Pfeffer
 2 EL rote Beeren

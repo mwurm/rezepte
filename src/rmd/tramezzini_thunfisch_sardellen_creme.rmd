@@ -2,6 +2,7 @@ Tramezzini mit Tunfisch-Sardellen-Creme
 :yields: 4 Portionen
 :category: Appetithäppchen
 :subcategory: Tramezzini
+:tags: Snack; Fisch
 
 1 Dose Thunfisch
 2 EL Basilikum; gehackt

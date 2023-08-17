@@ -1,7 +1,8 @@
 Serbische Bohnensuppe
 :yields: 8
-:category: Suppen
+:category: Eintöpfe
 :source: Erzsi
+:tags: Low Meat; Büro; Mikrowelle
 
 500g Riesenbohnen (weiß)
 # 24h in Wasser aufquellen lassen

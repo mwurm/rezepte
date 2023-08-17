@@ -2,6 +2,7 @@ Kürbispizza mit Pfifferlingen
 :yields: 4
 :category: Pizza & Co.
 :source: Daniela Hüls
+:tags: Low Meat; Käse
 
 1 Pizzateig
 # ausrollen

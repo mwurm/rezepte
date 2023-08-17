@@ -1,6 +1,7 @@
 Gurkensalat mit Schmand
 :yields: 4
 :category: Salate
+:tags: Salat; Beilage
 
 1 EL Essig
 1 TL Salz

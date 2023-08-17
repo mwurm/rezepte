@@ -2,6 +2,7 @@ Käsegebäck
 :yields: 12
 :category: Appetithäppchen
 :url: Theresa
+:tags: Snack; Käse
 
 100g Gruyere
 # in kleiner KitchenAid-Schüssel reiben

@@ -2,6 +2,7 @@ Gemüsesuppe
 :yields: 4
 :category: Suppen
 :source: Erzsi
+:tags: Suppe; vegan
 
 3 Karotten (große)
 3 Petersilienwurzeln
