@@ -1,6 +1,6 @@
 Tortellini-Gemüse-Salat
 :category: Salate
-:tags: ausprobieren; Büro
+:tags: ausprobieren; Büro; TODO
 :yields: 2
 :url: https://www.lecker.de/tortellini-gemuese-salat-72129.html
 
@@ -14,7 +14,6 @@ Tortellini-Gemüse-Salat
 2/3 Limetten; Saft
 1 EL Olivenöl
 0 Pfeffer
-
 # Tortellini in kochendem Salzwasser nach Packungsanweisung zubereiten, abgießen und abkühlen lassen. Zuckerschoten gründlich waschen. Zuckerschoten und Erbsen in kochendem Salzwasser ca. 2 Minuten köcheln lassen, abgießen und abkühlen lassen.
-# Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Radieschen waschen, putzen und vierteln. Spinat waschen, trocken tupfen und grob hacken. Agavendicksaft und Limettensaft verrühren, Öl darunterrühren, mit Salz und Pfeffer würzen.
-# Tortellini, Erbsen, Zuckerschoten, Lauchzwiebeln, Radieschen und Spinat in eine Schüssel geben. Mit Dressing vermengen.
+  Lauchzwiebeln putzen, waschen und in feine Ringe schneiden. Radieschen waschen, putzen und vierteln. Spinat waschen, trocken tupfen und grob hacken. Agavendicksaft und Limettensaft verrühren, Öl darunterrühren, mit Salz und Pfeffer würzen.
+  Tortellini, Erbsen, Zuckerschoten, Lauchzwiebeln, Radieschen und Spinat in eine Schüssel geben. Mit Dressing vermengen.

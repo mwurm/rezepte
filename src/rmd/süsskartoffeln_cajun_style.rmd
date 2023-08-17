@@ -12,11 +12,11 @@ Süsskartoffeln Cajun-Style
 2 TL Cajun-Gewürz
 1 Pr Salz+Pfeffer
 # In Reine geben, alles vermischen
-# 1h rösten
+  1h rösten
 
 200g gr. Joghurt
 # gerösteten Knoblauch zerdrücken
-# mit Joghurt vermischen, salzen+pfeffern
+  mit Joghurt vermischen, salzen+pfeffern
 
 # Servieren: Joghurt auf Teller verstreichen; Kartoffeln stapeln
 1 EL Olivenöl

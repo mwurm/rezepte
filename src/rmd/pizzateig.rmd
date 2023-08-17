@@ -1,6 +1,7 @@
 Pizzateig
 :yields: 2
 :category: Basis
+:tags: TODO
 
 300g Mehl
 1/2 Würfel Hefe (frisch)
@@ -11,6 +12,8 @@ Pizzateig
 2 EL Olivenöl
 120ml Wasser
 # Vorteig mit Mehl verrühren, Rest zugeben, kneten. 45min gehen lassen.
-# Teig nochmal durchkneten, ausrollen
-# Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
-# Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.
+  Teig nochmal durchkneten, ausrollen
+---
+Variation für dicken Teig: +200g Mehl / + 1/2 Würfel Hefe / +2 EL Olivenöl / + 100ml Wasser
+
+Tipp: bei dickerem Teig nicht so lange backen, dann wird die Pizza fluffig.

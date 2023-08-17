@@ -2,6 +2,7 @@ Schokoladencookies
 :yields: 6
 :category: Gebäck
 :url: https://sallysbakingaddiction.com/giant-chocolate-chip-cookies/
+:info: für 6 große Cookies
 
 280g Mehl
 1.5 TL Stärke
@@ -15,13 +16,12 @@ Schokoladencookies
 2 TL Vanilleextrakt
 270g Schokodrops, groß (selber machen)
 # 163°C vorheizen
-# trockene Zutaten verrühren
-# Butter + Zucker separat 2m verrühren, bis cremig
-# dann Ei + Vanille zugeben, verrühren
-# dann trockene Zutaten unterheben
-# dann Schokodrops unterheben (Teig wird dick)
-# Hügelchen mit flacher Spitze formen  (jeder wird ca. 170g haben)
-# 20m-25m backen. Mitte wird noch weich sein, aber das festigt sich beim abkühlen
-# Beim Abkühlen ggf. noch weitere Schokodrops auf Oberseite reindrücken
-# Anmerkung: für 6 große Cookies
+  trockene Zutaten verrühren
+  Butter + Zucker separat 2m verrühren, bis cremig
+  dann Ei + Vanille zugeben, verrühren
+  dann trockene Zutaten unterheben
+  dann Schokodrops unterheben (Teig wird dick)
+  Hügelchen mit flacher Spitze formen  (jeder wird ca. 170g haben)
+  20m-25m backen. Mitte wird noch weich sein, aber das festigt sich beim abkühlen
+  Beim Abkühlen ggf. noch weitere Schokodrops auf Oberseite reindrücken
 

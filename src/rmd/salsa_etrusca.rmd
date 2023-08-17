@@ -13,7 +13,9 @@ Salsa Etrusca
 # zerkleinern
 180ml Olivenöl
 # portionsweise zugeben und weiter zerkleinern
-# passt zu:
-# * Pasta (Salsa mit Nudelwasser strecken)
-# * Crostini
-# * rohes Gemüse
+---
+passt zu:
+
+* Pasta (Salsa mit Nudelwasser strecken)
+* Crostini
+* rohes Gemüse

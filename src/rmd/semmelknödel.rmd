@@ -15,10 +15,12 @@ Semmelknödel
 1 Ei; geschlagen
 2 EL Petersilie
 # zu Knödelmasse zugeben, vermischen bis die Masse klebrig wird, zu Knödel formen.
-# _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 70 °C Umluft 10-15min in Ofen antrocknen lassen.
-# Tipp: Hände feucht halten beim Knödel formen
-# Varianten
-# Bratknödel: 7-10min pro Seite auf mittlerer Hitze anbraten
-# Kaspressknödel: Zur Knödelmasse noch 200g Bergkäse verkneten und wie Bratknödel anbraten
-# Rührei und gebratene Knödelwürfel
-# Kastenform einfetten, darin Knödelmasse 30-35min in 180°C Umluft backen
+  _Entweder_ 1min kochen + 15min ziehen lassen _oder_ 20min dämpfen. Dann lufttrocknen, oder bei 70 °C Umluft 10-15min in Ofen antrocknen lassen.
+  Tipp: Hände feucht halten beim Knödel formen
+---
+Varianten:
+
+* Bratknödel: 7-10min pro Seite auf mittlerer Hitze anbraten
+* Kaspressknödel: Zur Knödelmasse noch 200g Bergkäse verkneten und wie Bratknödel anbraten
+* Rührei und gebratene Knödelwürfel
+* Kastenform einfetten, darin Knödelmasse 30-35min in 180°C Umluft backen

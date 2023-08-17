@@ -17,5 +17,5 @@ Schokoladenstreuselkuchen
 200g Haselnüsse; gemahlen
 100g Schokostreusel
 # unterziehen
-# 60min - 70min backen
+  60min - 70min backen
 

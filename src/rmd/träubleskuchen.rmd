@@ -11,8 +11,8 @@ Träubleskuchen
 200g Mehl
 1 TL Backpulver
 # zugeben, zu Mürbteig verrühren
-# 30min kühl ruhen, dann ausrollen und auf Springform auslegen
-# 25min goldgelb backen
+  30min kühl ruhen, dann ausrollen und auf Springform auslegen
+  25min goldgelb backen
 
 2 Eiklar
 # zu Schnee schlagen
@@ -23,4 +23,4 @@ Träubleskuchen
 
 500g Johannisbeeren
 # unter die Eischneemasse heben, auf Kuchenboden verteilen
-# bei 180°C ca. 15min backen
+  bei 180°C ca. 15min backen

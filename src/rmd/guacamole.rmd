@@ -11,9 +11,10 @@ Guacamole
 
 1 Limette; Saft
 # über Avocadomasse geben
-# Varianten:
-1 Tomate; geschält, entkernt, gewürfelt
-# in Guacamole verrühren
-1 Petersilie; gehackt
-1 Koriander; gehackt
+---
+Varianten:
+
+* 1 Tomate; _geschält, entkernt, gewürfelt_
+* 1 Petersilie; _gehackt_
+* 1 Koriander; _gehackt_
 

@@ -16,6 +16,6 @@ Schmorbraten
 500ml Fleischbrühe
 # ablöschen
 1 Blatt Lorbeer
-# zugeben.
-# Fleisch dazugeben, 2.5h schmoren bei 180°C Ober-/Unterhitze, jede 0.5h wenden, ggf. Brühe zugießen
+# zugeben
+  Fleisch dazugeben, 2.5h schmoren bei 180°C Ober-/Unterhitze, jede 0.5h wenden, ggf. Brühe zugießen
 
