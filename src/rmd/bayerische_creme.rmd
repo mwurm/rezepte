@@ -2,4 +2,17 @@ Bayerische Crème
 :yields: 4
 :category: Desserts
 
-# Kochbuchordner
+2 Blatt Gelatine
+# in kaltem Wasser einreichen
+300g Sahne
+# halb steif schlagen
+3 Eigelb
+40g Puderzucker
+2 Vanilleschoten (Mark)
+# schaumig schlagen
+2cl Kirschwasser
+# erhitzen, darin Gelatine auflösen, unter Eigelbmasse rühren
+# 1/3 der Sahne mit Schneebesen einrühren, 2/3 unterheben
+# 2h im Kühlschrank fest werden lassen
+---
+dazu: <<sec.himbeermark,Himbeermark>>
