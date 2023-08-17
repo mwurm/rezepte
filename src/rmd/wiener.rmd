@@ -1,4 +1,7 @@
 Wiener
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;TODO
+:tags: Hauptgericht;Fleisch
+
+_ Wiener
+#

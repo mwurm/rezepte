@@ -1,4 +1,7 @@
 Maultaschen
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: schnell;TODO
+:tags: schnell
+
+1 Pkg Maultaschen
+#

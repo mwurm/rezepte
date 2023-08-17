@@ -2,7 +2,7 @@ Pizza-Toast mit Sardellen
 :yields: 6
 :category: Appetithäppchen
 :source: Edeka
-:tags: Snack; leicht; schnell mit Aufheizzeit; Fisch; Käse
+:tags: Snack; schnell mit Aufheizzeit; Fisch; Käse
 
 6 Scheiben Toast; toasten
 1 Zehe Knoblauch

@@ -1,4 +1,7 @@
 Sushi
-:yields: 0
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht;TODO
+:tags: Hauptgericht;Fisch;leicht
+
+2 Pkg Sushi
+#

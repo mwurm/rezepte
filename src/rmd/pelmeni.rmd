@@ -1,4 +1,10 @@
 Pelmeni
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;TODO
+:tags: Hauptgericht;Fleisch;Schwein;schnell
+
+400g Pelmeni
+# kochen
+200g Schmand
+_ Dill
+# verrühren, als Beilage reichen

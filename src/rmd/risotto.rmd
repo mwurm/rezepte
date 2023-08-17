@@ -1,7 +1,7 @@
 Risotto
 :yields: 4
 :category: Reisgerichte
-:tags: Italien; leicht
+:tags: Italien
 
 1 Zwiebel; würfeln
 # in Butter andünsten

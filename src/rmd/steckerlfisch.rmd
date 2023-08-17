@@ -1,4 +1,7 @@
 Steckerlfisch
-:yields: 0
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;TODO
+:tags: Hauptgericht;Fisch
+
+_ Steckerlfisch
+# vom Imbiss / Biergarten holen
