@@ -1,7 +1,7 @@
 Spiralkartoffeln
 :yields: 2
 :category: Appetithäppchen
-:tags: vegetarisch; todo
+:tags: vegetarisch;TODO
 :source: Jamie Oliver
 
 # todo
