@@ -2,7 +2,7 @@ Pappa al Pomodoro
 :yields: 0
 :category: Eintöpfe
 :tags: Hauptgericht;vegetarisch;leicht;Mikrowelle;schnell mit Garzeit;Büro
-:source: (5Z, S. 173)
+:source: Jamie Oliver, _5-Zutaten-Küche_, S. 173
 
 2 Zehen Knoblauch
 # anbraten

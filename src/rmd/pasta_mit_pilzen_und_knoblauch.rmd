@@ -2,4 +2,4 @@ Pasta mit Pilzen und Knoblauch
 :yields: 0
 :category: Pasta
 :tags: Hauptgericht;vegetarisch;TODO
-# (5Z, S.65)
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.65

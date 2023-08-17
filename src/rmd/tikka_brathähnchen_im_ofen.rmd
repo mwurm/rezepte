@@ -1,4 +1,5 @@
-Tikka Brathähnchen im Ofen (5Z, S?)
+Tikka Brathähnchen im Ofen 
 :yields: 0
 :category: Geflügel
 :tags: Hauptgericht;Geflügel;TODO
+:source: Jamie Oliver, _5-Zutaten-Küche_

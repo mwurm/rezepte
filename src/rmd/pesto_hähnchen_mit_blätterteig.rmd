@@ -2,7 +2,8 @@ Pesto-Hähnchen mit Blätterteig
 :yields: 2
 :category: Geflügel
 :tags: Hauptgericht;Geflügel
-:source: (5Z, S. 115)
+:source: Jamie Oliver, _5-Zutaten-Küche_, S. 115
+
 2 Hähnchenbrust-Filets
 4 TL Pesto
 # flach drücken, in Reine legen, mit Pesto bestreichen

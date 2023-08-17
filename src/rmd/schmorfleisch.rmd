@@ -2,4 +2,4 @@ Schmorfleisch
 :yields: 0
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;TODO
-# (5Z, S.195)
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.195

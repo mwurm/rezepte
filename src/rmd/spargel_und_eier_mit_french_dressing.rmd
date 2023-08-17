@@ -2,4 +2,4 @@ Spargel und Eier mit French Dressing
 :yields: 0
 :category: Vegetarisches
 :tags: Hauptgericht;vegetarisch;leicht;TODO
-# (5Z, S.165)
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.165

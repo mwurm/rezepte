@@ -2,6 +2,6 @@ Curry-Mango-Garnelen
 :yields: 0
 :category: Fisch
 :tags: Hauptgericht;Fisch;leicht;Low Carb;TODO
-:source: Jamie Oliver, 5 Zutaten Küche, S.147
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.147
 
-# Jamie Oliver, 5 Zutaten Küche, S.147
+# Jamie Oliver, 5-Zutaten-Küche, S.147
