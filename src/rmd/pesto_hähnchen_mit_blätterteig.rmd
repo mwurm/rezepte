@@ -4,14 +4,16 @@ Pesto-Hähnchen mit Blätterteig
 :tags: Hauptgericht;Geflügel
 :source: Jamie Oliver, _5-Zutaten-Küche_, S. 115
 
-2 Hähnchenbrust-Filets
+2 Hähnchenbrust-Filets; flach gedrückt
+# in Reine legen
+
 4 TL Pesto
-# flach drücken, in Reine legen, mit Pesto bestreichen
+# Filets bestreichen
 
 _ Blätterteig
 # Filets bedecken, mit Öl beträufeln
   20min backen
 
 ---
-Beilagen: grüne Bohnen, Ofen-Rispentomaten
+Beilagen: <<sec.grüne_bohnen,grüne Bohnen>>, <<sec.ofen-rispentomaten,Ofen-Rispentomaten>>
 

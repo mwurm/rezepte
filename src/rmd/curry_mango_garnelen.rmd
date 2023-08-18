@@ -1,7 +1,25 @@
 Curry-Mango-Garnelen
-:yields: 0
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht;Low Carb;TODO
+:tags: Hauptgericht;Fisch;leicht;Low Carb
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.147
 
-# Jamie Oliver, 5-Zutaten-Küche, S.147
+6 Zehen Knoblauch; feine Scheiben
+1 EL Olivenöl
+# knusprig braten, Knoblauch beiseitelegen, Öl behalten
+
+1 TL Currypulver
+# in Öl rühren
+300g Riesengarnelen (geschält^1^)
+# 4min anbraten
+1 EL Mangochutney
+# dazugeben, 30sek unterrühren
+_ Salz+Pfeffer
+# abschmecken
+1 Limette
+# Servieren:
+  Garnelen auf Teller verteilen, Knoblauch und Abrieb der Limette darüber.
+  Limettenspalten zugeben.
+
+---
+^1^ ungeschält ca. 400g

@@ -1,6 +1,29 @@
 Lachs mit Chorizo
-:yields: 4
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;TODO
+:tags: Hauptgericht;Fisch
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.125
+
+300g Lachsfilet mit Haut
+# mit Haut nach oben ca. 3min braten (bis Lachs zu brutzeln beginnt).
+  wenden und von Hautseite ca. 5min braten (bis Haut knusprig ist und Lachs gar)
+
+300g Kirschtomaten (verschiedenfarbig); halbiert
+12 Blätter Basilikum
+1 EL Rotweinessig
+_ Salz+Pfeffer
+# in Schüssel vermischen
+
+30g Chorizo; dünne Scheiben
+# in Pfanne geben und braten
+  Tomaten zugeben und 30sek mitgaren
+
+4 Blätter Basilikum
+8 schwarze Oliven; entsteint, gehackt
+# Lachs, Chorizo und Tomate anrichten und garnieren
+
+  
+    
+
+
 

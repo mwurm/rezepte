@@ -1,5 +1,20 @@
 Pasta mit Pilzen und Knoblauch
-:yields: 0
+:yields: 2
 :category: Pasta
-:tags: Hauptgericht;vegetarisch;TODO
+:tags: Hauptgericht;vegetarisch
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.65
+
+150g Pasta^1^
+# kochen, etwas Wasser behalten
+
+2 Zehen Knoblauch; feine Scheiben
+# in 1/2 EL Olivenöl 1min anbraten
+250g gemischte Pilze; ggf. geteilt
+_ Salz+Pfeffer
+# zugeben und 8min braten
+25g Parmesan
+2 geh. EL Crème fraîche (fettreduziert)
+# mit Pasta und ggf. etwas Pastawasser zugeben, verrühren
+
+---
+^1^ Orignialrezept: Trofie oder Fusilli

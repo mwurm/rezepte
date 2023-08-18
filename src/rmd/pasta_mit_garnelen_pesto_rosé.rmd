@@ -1,5 +1,28 @@
 Pasta mit Garnelen, Pesto + Rosé
-:yields: 0
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;schnell;TODO
+:tags: Hauptgericht;schnell;
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.73
+
+150g Pasta^1^
+# kochen, etwas Nudelwasser behalten
+
+250g Riesengarnelen; geschält
+# Zwei Garnelen pro Person ganz lesen, Rest würfeln
+  Ganze Garnelen ca. 2min in Olivenöl anbraten
+4 Zehen Knoblauch; feine Scheiben
+# mit Garnelenwürfeln zugeben 1min weiterbraten
+
+2 geh. TL rotes Pesto
+# einrühren
+
+150ml Roséwein
+# ablöschen, 1min einkochen
+_ Pastawasser
+_ Salz+Pfeffer
+# Pasta und ggf. etwas Pastawasser mit den Garnelen vermischen, ca. 1min erhitzen, abschmecken
+
+
+
+---
+^1^ Orignialrezept: Taglierini oder Capellini
