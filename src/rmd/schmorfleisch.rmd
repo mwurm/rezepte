@@ -1,5 +1,28 @@
 Schmorfleisch
-:yields: 0
+:yields: 4
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;TODO
+:tags: Hauptgericht;Fleisch;schnell mit Garzeit;Mikrowell;Büro
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.195
+:info: Backofen auf 160°C vorheizen
+
+4 Paprika (bunt); breite Streifen
+1 geh. TL Piment; gemahlen
+1 Pr Salz+Pfeffer
+600g Rind (mager)
+10 Lorbeerblätter
+8 Zehen Knoblauch; ungeschält
+# mit 1 EL Olivenöl in erhitzen Schmortopf geben, 2min anbraten
+
+2 EL Rotweinessig
+500ml Wasser
+# in Schmortopf geben, abdecken, 2h in Ofen garen.
+  ggf. Wasser zugeben
+
+_ Salz+Pfeffer
+# abschmecken, servieren
+
+
+
+
+
+
