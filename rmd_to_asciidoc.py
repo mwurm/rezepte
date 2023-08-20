@@ -274,7 +274,7 @@ class Cookbook:
 :docinfo:
 
 = Rezepte
-:pdf-page-size: A5
+:pdf-page-size: A4
 :toc: left
 :toclevels: 4
 :toc-title:
@@ -335,7 +335,7 @@ endif::[]""")
 :docinfo:
 
 = Rezepte nach Stichwörtern
-:pdf-page-size: A5
+:pdf-page-size: A4
 :toc: left
 :toclevels: 4
 :toc-title:

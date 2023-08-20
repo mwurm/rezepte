@@ -11,4 +11,5 @@ asciidoctor -D github-pages index.adoc
 asciidoctor -D github-pages tagbook.adoc
 mv recipes-metadata.json github-pages/
 # cp -r images github-pages/
-# asciidoctor-pdf -D github-pages index.adoc
+asciidoctor-pdf -D github-pages index.adoc
+asciidoctor-pdf -D github-pages tagbook.adoc
