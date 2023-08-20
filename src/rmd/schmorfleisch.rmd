@@ -1,7 +1,7 @@
 Schmorfleisch
 :yields: 4
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell mit Garzeit;Mikrowell;Büro
+:tags: Hauptgericht;Fleisch;schnell mit Garzeit;Mikrowelle;Büro
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.195
 :info: Backofen auf 160°C vorheizen
 

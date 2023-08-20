@@ -168,11 +168,20 @@ class Recipe:
         # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
         self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
         self.tags = () if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]
+        self.add_autotags_and_sort()
         self.url = None if 'url' not in attributes else attributes['url'] 
         self.source = None if 'source' not in attributes else attributes['source'] 
         self.instructions_with_ingredients = instructions_with_ingredients
         self.asciidoc_footer = asciidoc_footer
         self.info = None if 'info' not in attributes else attributes['info']
+
+    def add_autotags_and_sort(self):
+        if ('Mikrowelle' in self.tags or 'Aufwärmen' in self.tags) and self.category != 'Pasta':
+            self.tags.append('nur noch aufwärmen')
+        if ('Mikrowelle' in self.tags or 'Aufwärmen' in self.tags) and self.category == 'Pasta':
+            self.tags.append('nur noch garen')
+        self.tags = sorted(self.tags)
+
 
     def to_id(self):
         return rudecode(to_snake_case(self.name))
@@ -313,6 +322,65 @@ endif::[]""")
 
         f.close()
 
+    def write_tagbook_to_adoc(self, directory, filename):
+        if not os.path.exists(directory):
+           os.makedirs(directory)
+
+        f = open(f"{directory}/{filename}", "w", encoding="utf-8")
+
+        f.write(f""":imagesdir: images
+:lang: DE
+:hyphens:
+
+:docinfo:
+
+= Rezepte nach Stichwörtern
+:pdf-page-size: A5
+:toc: left
+:toclevels: 4
+:toc-title:
+
+""")
+
+        config = [
+            ['nur noch aus dem Kühlschrank holen', ['nur noch aus dem Kühlschrank holen'], []],
+            ['nur noch aufwärmen', ['nur noch aufwärmen'], []],
+            ['nur noch anrichten', ['nur noch anrichten'], []],
+            ['nur noch garen', ['nur noch garen'], []],
+            ['schnell', ['schnell'], []],
+            ['leicht', ['leicht'], []],
+            ['schnell+leicht', ['schnell', 'leicht'], []],
+            ['!(schnell+leicht)', [], ['schnell', 'leicht']],
+            ['vegan', ['vegan'], []],
+            ['vegetarisch', ['vegetarisch'], []],
+            ['vegetarisch, wenig Käse', ['vegetarisch'], ['Käse']],
+            ['Low Meat', ['Low Meat'], []]
+        ]
+
+        tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
+        f.write(f"Stichwörter: {'; '.join(list(tags))}\n\n")
+
+        for c in config:
+            gefilterte_rezepte = [recipe for recipe in filter(lambda rec: all(item in rec. tags for item in c[1]) and not set(c[2]).intersection(set(rec. tags)) , self.recipes)]
+
+            f.write(f"\n== {c[0]}\n\n")
+            for recipe in gefilterte_rezepte:
+                # * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
+                f.write(f"* https://mwurm.github.io/rezepte/#{recipe.sec_id()}[{recipe.name}] ^{(',{sp}'.join(recipe.tags)).replace(' ', '{sp}')}^\n")
+
+        f.write("""
+
+ifdef::backend-pdf[]
+[%always]
+
+<<<
+[index]
+== Index
+endif::[]""")
+
+        f.close()
+
+
 
 def parse_recipe(input_str):
     ingredient_factory = IngredientFactory()
@@ -380,5 +448,6 @@ if __name__ == '__main__':
     cookbook = Cookbook(recipes)
     
     cookbook.write_to_adoc(".", "index.adoc")
+    cookbook.write_tagbook_to_adoc(".", "tagbook.adoc")
     cookbook.write_json_metadata(".", "recipes-metadata.json")
 

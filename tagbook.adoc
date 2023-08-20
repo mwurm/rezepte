@@ -1,0 +1,420 @@
+:imagesdir: images
+:lang: DE
+:hyphens:
+
+:docinfo:
+
+= Rezepte nach Stichwörtern
+:pdf-page-size: A5
+:toc: left
+:toclevels: 4
+:toc-title:
+
+Stichwörter: ; Anlass; Aufstrich; ausprobieren; Bayern; Beilage; Biergarten; Büro; Cookie; Deutschland; Dressing; Eintopf; Eis; Elsaß; Fisch; Fleisch; Frankreich; Frühling; Frühstück; Geflügel; Griechenland; Grill; Hauptgericht; Indien; Italien; kalt; Kichererbsen; Käse; Lamm; leicht; Low Carb; Low Meat; Meeresfrüchte; Mikrowelle; nur noch aufwärmen; nur noch garen; ohne Beilage; Orient; Ostern; Pasta; Rind; Salat; schnell; schnell mit Aufheizzeit; schnell mit Garzeit; schnell mit Vorheizzeit; Schokolade; Schwein; Snack; Soße; Spanien; Suppe; süß; Tapas; Thai; TK; TODO; Ungarn; USA; vegan; vegetarisch; Wild; Österreich
+
+
+== nur noch aus dem Kühlschrank holen
+
+
+== nur noch aufwärmen
+
+* https://mwurm.github.io/rezepte/#sec.selleriesuppe[Selleriesuppe] ^Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.asiatische_gemüsepfanne[Asiatische Gemüsepfanne] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons[Asiatisches Rindfleisch mit Zuckerschoten und Champignons] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.blumenkohlsuppe[Blumenkohlsuppe] ^Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.cevapcici[Cevapcici] ^Fleisch,{sp}Hauptgericht,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.chicken_tikka_masala[Chicken Tikka Masala] ^Indien,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.gulasch[Gulasch] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen,{sp}Österreich^
+* https://mwurm.github.io/rezepte/#sec.gulaschsuppe[Gulaschsuppe] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.hackbraten[Hackbraten] ^Hauptgericht,{sp}Mikrowelle,{sp}TODO,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.hirschgulasch_mit_pfifferlingen[Hirschgulasch mit Pfifferlingen] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}Wild,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.indischer_eintopf[Indischer Eintopf] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indisches_dal[Indisches Dal] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kichererbsen_curry[Kichererbsen-Curry] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.käse_lauch_hackfleisch_suppe[Käse-Lauch-Hackfleisch-Suppe] ^Büro,{sp}Deutschland,{sp}Mikrowelle,{sp}Rind,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.käsespätzle[Käsespätzle] ^Hauptgericht,{sp}Käse,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kürbischaos[Kürbischaos] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.lasagne[Lasagne] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TODO,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.linsencurry_mit_spinat[Linsencurry mit Spinat] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.melanzane_al_parmigiana[Melanzane al Parmigiana] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pappa_al_pomodoro[Pappa al Pomodoro] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.paprikaauflauf_mit_feta[Paprikaauflauf mit Feta] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.schmorfleisch[Schmorfleisch] ^Büro,{sp}Fleisch,{sp}Hauptgericht,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit^
+* https://mwurm.github.io/rezepte/#sec.serbische_bohnensuppe[Serbische Bohnensuppe] ^Büro,{sp}Low{sp}Meat,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.texas_jailhouse_chili[Texas Jailhouse Chili] ^Büro,{sp}Eintopf,{sp}Mikrowelle,{sp}USA,{sp}nur{sp}noch{sp}aufwärmen^
+
+== nur noch anrichten
+
+
+== nur noch garen
+
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_cremige_auberginensoße[Pasta mit cremige Auberginensoße] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}garen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.ragù_alla_bolognese[Ragù alla Bolognese] ^Büro,{sp}Hauptgericht,{sp}Italien,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}garen,{sp}schnell^
+
+== schnell
+
+* https://mwurm.github.io/rezepte/#sec.pasta_alla_carbonara[Pasta alla Carbonara] ^Italien,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_alla_carbonara__klassisch[Pasta alla Carbonara, klassisch] ^Italien,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.bosna_semmel[Bosna-Semmel] ^Fleisch,{sp}Hauptgericht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.cacio_e_pepe[Cacio e pepe] ^Italien,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.fettucine_alfredo[Fettucine Alfredo] ^Italien,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.halbes_hähnchen[Halbes Hähnchen] ^Hauptgericht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.halloumi_pilz_paprika_spieße[Halloumi-Pilz-Paprika-Spieße] ^Low{sp}Carb,{sp}TODO,{sp}leicht,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.hot_dogs[Hot Dogs] ^Hauptgericht,{sp}TODO,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.maultaschen[Maultaschen] ^schnell^
+* https://mwurm.github.io/rezepte/#sec.nürnberger_bratwürste_mit_sauerkraut[Nürnberger Bratwürste mit Sauerkraut] ^Fleisch,{sp}Hauptgericht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_alfredo[Pasta Alfredo] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_emiliana[Pasta emiliana] ^Hauptgericht,{sp}Low{sp}Meat,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_garnelen__pesto_und_rosé[Pasta mit Garnelen, Pesto und Rosé] ^,{sp}Hauptgericht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_rosso[Pasta mit Pesto Rosso] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_verde[Pasta mit Pesto Verde] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_shrimps[Pasta mit Shrimps] ^Meeresfrüchte,{sp}Pasta,{sp}leicht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_walnuss_soße_für_nudeln[Pasta mit Walnuss-Soße für Nudeln] ^Pasta,{sp}leicht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pelmeni[Pelmeni] ^Fleisch,{sp}Hauptgericht,{sp}Schwein,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pimientos_de_padrón[Pimientos de Padrón] ^Spanien,{sp}Tapas,{sp}schnell,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.ragù_alla_bolognese[Ragù alla Bolognese] ^Büro,{sp}Hauptgericht,{sp}Italien,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}garen,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.salsa_etrusca[Salsa Etrusca] ^Italien,{sp}ausprobieren,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.tortellini[Tortellini] ^Pasta,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.waffeln[Waffeln] ^schnell,{sp}süß^
+
+== leicht
+
+* https://mwurm.github.io/rezepte/#sec.asiatische_gemüsepfanne[Asiatische Gemüsepfanne] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons[Asiatisches Rindfleisch mit Zuckerschoten und Champignons] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.caesar_salad[Caesar Salad] ^Hauptgericht,{sp}Low{sp}Carb,{sp}Salat,{sp}TODO,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.curry_mango_garnelen[Curry-Mango-Garnelen] ^Fisch,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.dorade_vom_grill[Dorade vom Grill] ^Low{sp}Carb,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.falafelsalat_mit_tahin_dressing[Falafelsalat mit Tahin-Dressing] ^Hauptgericht,{sp}Salat,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.grüne_bohnen[Grüne Bohnen] ^leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.halloumi_pilz_paprika_spieße[Halloumi-Pilz-Paprika-Spieße] ^Low{sp}Carb,{sp}TODO,{sp}leicht,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indischer_eintopf[Indischer Eintopf] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indisches_dal[Indisches Dal] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kartoffel_curry[Kartoffel-Curry] ^Hauptgericht,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kichererbsen_curry[Kichererbsen-Curry] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.lachs_auf_bohnengemüse[Lachs auf Bohnengemüse] ^Fisch,{sp}Hauptgericht,{sp}TODO,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.lachs_aus_der_holzplanke[Lachs aus der Holzplanke] ^Fisch,{sp}Hauptgericht,{sp}TODO,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.linsencurry_mit_spinat[Linsencurry mit Spinat] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.melanzane_al_parmigiana[Melanzane al Parmigiana] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.nizza_salat_mit_lachs[Nizza Salat mit Lachs] ^Büro,{sp}Fisch,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.pappa_al_pomodoro[Pappa al Pomodoro] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.paprikaauflauf_mit_feta[Paprikaauflauf mit Feta] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_cremige_auberginensoße[Pasta mit cremige Auberginensoße] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}garen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_shrimps[Pasta mit Shrimps] ^Meeresfrüchte,{sp}Pasta,{sp}leicht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_walnuss_soße_für_nudeln[Pasta mit Walnuss-Soße für Nudeln] ^Pasta,{sp}leicht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.rispentomaten_aus_dem_ofen[Rispentomaten aus dem Ofen] ^TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.shakshuka[Shakshuka] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.spargel_und_eier_mit_french_dressing[Spargel und Eier mit French Dressing] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.sushi[Sushi] ^Fisch,{sp}Hauptgericht,{sp}leicht^
+* https://mwurm.github.io/rezepte/#sec.süsskartoffeln_cajun_style[Süsskartoffeln Cajun-Style] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.zucchini_mit_hack_und_linsen[Zucchini mit Hack und Linsen] ^Fleisch,{sp}Hauptgericht,{sp}TODO,{sp}leicht^
+
+== schnell+leicht
+
+* https://mwurm.github.io/rezepte/#sec.halloumi_pilz_paprika_spieße[Halloumi-Pilz-Paprika-Spieße] ^Low{sp}Carb,{sp}TODO,{sp}leicht,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_shrimps[Pasta mit Shrimps] ^Meeresfrüchte,{sp}Pasta,{sp}leicht,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_walnuss_soße_für_nudeln[Pasta mit Walnuss-Soße für Nudeln] ^Pasta,{sp}leicht,{sp}schnell^
+
+== !(schnell+leicht)
+
+* https://mwurm.github.io/rezepte/#sec.selleriesuppe[Selleriesuppe] ^Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.pasta_all_amatriciana[Pasta all'amatriciana] ^Italien^
+* https://mwurm.github.io/rezepte/#sec.american_dressing[American Dressing] ^ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.antipasti[Antipasti] ^Italien,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.artischockensuppe[Artischockensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.avocado_bulgur_salat[Avocado-Bulgur-Salat] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.bayerische_crème[Bayerische Crème] ^^
+* https://mwurm.github.io/rezepte/#sec.bayrischer_wurstsalat[Bayrischer Wurstsalat] ^Bayern,{sp}Deutschland^
+* https://mwurm.github.io/rezepte/#sec.bifteki[Bifteki] ^Fleisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.blumenkohlsuppe[Blumenkohlsuppe] ^Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.brauner_us_zucker[Brauner US-Zucker] ^^
+* https://mwurm.github.io/rezepte/#sec.brioche[Brioche] ^Frankreich,{sp}Frühstück,{sp}süß^
+* https://mwurm.github.io/rezepte/#sec.brotkranz_mit_kürbis__schinken__oliven__kräutern[Brotkranz mit Kürbis, Schinken, Oliven, Kräutern] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.burger[Burger] ^schnell{sp}mit{sp}Garzeit^
+* https://mwurm.github.io/rezepte/#sec.caesar_dressing[Caesar Dressing] ^ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.camembert__gebacken[Camembert, gebacken] ^Hauptgericht,{sp}Käse,{sp}schnell{sp}mit{sp}Aufheizzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.camemburger[Camemburger] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.cevapcici[Cevapcici] ^Fleisch,{sp}Hauptgericht,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.champigon_rahmsoße[Champigon-Rahmsoße] ^Soße,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.charcuterie_board[Charcuterie Board] ^TODO,{sp}kalt^
+* https://mwurm.github.io/rezepte/#sec.chicken_tikka_masala[Chicken Tikka Masala] ^Indien,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.cole_slaw[Cole Slaw] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.cookie_dough_eis[Cookie Dough Eis] ^Eis,{sp}TODO,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.croque_monsieur___madame[Croque Monsieur / Madame] ^Fleisch,{sp}Hauptgericht,{sp}schnell{sp}mit{sp}Aufheizzeit^
+* https://mwurm.github.io/rezepte/#sec.currywurst_soße[Currywurst-Soße] ^Fleisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.dampfnudeln[Dampfnudeln] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.dressing_mit_ahornsirup[Dressing mit Ahornsirup] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.italienischer_salat_dressing[Italienischer Salat Dressing] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.dressing_mit_preiselbeeren[Dressing mit Preiselbeeren] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.feta_vom_grill[Feta vom Grill] ^Grill,{sp}Hauptgericht,{sp}Käse,{sp}TODO,{sp}schnell{sp}mit{sp}Aufheizzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.flammkuchen[Flammkuchen] ^Elsaß,{sp}Frankreich^
+* https://mwurm.github.io/rezepte/#sec.flammkuchenteig[Flammkuchenteig] ^^
+* https://mwurm.github.io/rezepte/#sec.fleischbrühe[Fleischbrühe] ^TK^
+* https://mwurm.github.io/rezepte/#sec.fleischpflanzerl[Fleischpflanzerl] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.forelle_aus_dem_ofen[Forelle aus dem Ofen] ^Fisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.forelle__gebraten[Forelle, gebraten] ^Fisch,{sp}Hauptgericht,{sp}Low{sp}Carb^
+* https://mwurm.github.io/rezepte/#sec.frischkäse_aufstrich[Frischkäse-Aufstrich] ^Aufstrich^
+* https://mwurm.github.io/rezepte/#sec.frittata_mit_räucherlachs[Frittata mit Räucherlachs] ^Fisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.geflügelsalat[Geflügelsalat] ^Frankreich,{sp}Geflügel^
+* https://mwurm.github.io/rezepte/#sec.gemüsesuppe[Gemüsesuppe] ^Suppe,{sp}vegan^
+* https://mwurm.github.io/rezepte/#sec.glühweinkirschen_mit_zimtmousse[Glühweinkirschen mit Zimtmousse] ^Anlass,{sp}Schokolade,{sp}süß^
+* https://mwurm.github.io/rezepte/#sec.granatapfeldressing[Granatapfeldressing] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.grießglößchensuppe[Grießglößchensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.guacamole[Guacamole] ^^
+* https://mwurm.github.io/rezepte/#sec.gulasch[Gulasch] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen,{sp}Österreich^
+* https://mwurm.github.io/rezepte/#sec.gulaschsuppe[Gulaschsuppe] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.gurkensalat_mit_schmand[Gurkensalat mit Schmand] ^Beilage,{sp}Salat^
+* https://mwurm.github.io/rezepte/#sec.hackbraten[Hackbraten] ^Hauptgericht,{sp}Mikrowelle,{sp}TODO,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.hackfleischtaschen[Hackfleischtaschen] ^TODO^
+* https://mwurm.github.io/rezepte/#sec.harissa_hähnchen[Harissa-Hähnchen] ^Geflügel,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.himbeer_topping[Himbeer-Topping] ^^
+* https://mwurm.github.io/rezepte/#sec.himbeermark[Himbeermark] ^^
+* https://mwurm.github.io/rezepte/#sec.hirschgulasch_mit_pfifferlingen[Hirschgulasch mit Pfifferlingen] ^Büro,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}Wild,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.hummus[Hummus] ^Kichererbsen,{sp}Orient^
+* https://mwurm.github.io/rezepte/#sec.italienische_meringue[Italienische Meringue] ^^
+* https://mwurm.github.io/rezepte/#sec.italienischer_salat__[Italienischer Salat		] ^Low{sp}Carb^
+* https://mwurm.github.io/rezepte/#sec.joghurt_dressing[Joghurt-Dressing] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.kaiserschmarrn[Kaiserschmarrn] ^Hauptgericht,{sp}TODO,{sp}süß,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.karotten_staudensellerie_salat[Karotten-Staudensellerie-Salat] ^Salat^
+* https://mwurm.github.io/rezepte/#sec.karottensalat[Karottensalat] ^Salat^
+* https://mwurm.github.io/rezepte/#sec.kartoffelgratin[Kartoffelgratin] ^Hauptgericht,{sp}Käse,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.knuspriges_erdnusshähnchen[Knuspriges Erdnusshähnchen] ^Geflügel,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.kohlrabi_carpaccio[Kohlrabi-Carpaccio] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kritharaki__griechische_nudeln_[Kritharaki (griechische Nudeln)] ^Griechenland^
+* https://mwurm.github.io/rezepte/#sec.käse_lauch_hackfleisch_suppe[Käse-Lauch-Hackfleisch-Suppe] ^Büro,{sp}Deutschland,{sp}Mikrowelle,{sp}Rind,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.käsegebäck[Käsegebäck] ^Käse,{sp}Snack^
+* https://mwurm.github.io/rezepte/#sec.käsekuchen[Käsekuchen] ^^
+* https://mwurm.github.io/rezepte/#sec.käsespätzle[Käsespätzle] ^Hauptgericht,{sp}Käse,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kürbischaos[Kürbischaos] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.kürbispizza_mit_pfifferlingen[Kürbispizza mit Pfifferlingen] ^Käse,{sp}Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.kürbissuppe[Kürbissuppe] ^Suppe,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.lachs_mit_chorizo[Lachs mit Chorizo] ^Fisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.lammlachse_mit_zitronenkruste[Lammlachse mit Zitronenkruste] ^Frühling,{sp}Lamm,{sp}Ostern^
+* https://mwurm.github.io/rezepte/#sec.lasagne[Lasagne] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TODO,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.leberkäs[Leberkäs] ^Fleisch,{sp}Hauptgericht,{sp}schnell{sp}mit{sp}Garzeit^
+* https://mwurm.github.io/rezepte/#sec.lemon_curd_joghurt_mit_baiser[Lemon Curd Joghurt mit Baiser] ^^
+* https://mwurm.github.io/rezepte/#sec.lemon_tagliatelle[Lemon Tagliatelle] ^Italien,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.marillenknödel[Marillenknödel] ^TODO,{sp}ausprobieren,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.maronensuppe[Maronensuppe] ^Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.mediterraner_nudelsalat[Mediterraner Nudelsalat] ^Büro,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.münchner_schnitzel[Münchner Schnitzel] ^Büro,{sp}Hauptgericht,{sp}TODO,{sp}ohne{sp}Beilage^
+* https://mwurm.github.io/rezepte/#sec.naan[Naan] ^TODO^
+* https://mwurm.github.io/rezepte/#sec.new_york_cheesecake[New York Cheesecake] ^^
+* https://mwurm.github.io/rezepte/#sec.nusspalatschinken[Nusspalatschinken] ^TODO,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.obazda[Obazda] ^Bayern,{sp}Biergarten,{sp}Käse,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.ofen_rispentomaten[Ofen-Rispentomaten] ^vegan^
+* https://mwurm.github.io/rezepte/#sec.ofenkartoffeln_mit_speck_und_kräuterquark___soure_cream[Ofenkartoffeln mit Speck und Kräuterquark / Soure Cream] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.oliventapenade[Oliventapenade] ^Snack,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.omelett_mit_tomate_und_mozarella[Omelett mit Tomate und Mozarella] ^Italien,{sp}Low{sp}Carb^
+* https://mwurm.github.io/rezepte/#sec.pancakes[Pancakes] ^USA^
+* https://mwurm.github.io/rezepte/#sec.pasta_e_ceci[Pasta e Ceci] ^Hauptgericht,{sp}TODO,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_oliven_und_ziegenkäse[Pasta mit Oliven und Ziegenkäse] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pilzen_und_knoblauch[Pasta mit Pilzen und Knoblauch] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_speck_zwiebel_ziegenkäse[Pasta mit Speck-Zwiebel-Ziegenkäse] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.pastateig[Pastateig] ^Pasta^
+* https://mwurm.github.io/rezepte/#sec.pesto_hähnchen_mit_blätterteig[Pesto-Hähnchen mit Blätterteig] ^Geflügel,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.pfannkuchen[Pfannkuchen] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pfifferlinge_auf_weißbrot[Pfifferlinge auf Weißbrot] ^Hauptgericht,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pflaumenröster[Pflaumenröster] ^^
+* https://mwurm.github.io/rezepte/#sec.pici_nudeln[Pici-Nudeln] ^Italien,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.pilztopf[Pilztopf] ^Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.pizza_toast_mit_sardellen[Pizza-Toast mit Sardellen] ^Fisch,{sp}Käse,{sp}Snack,{sp}schnell{sp}mit{sp}Aufheizzeit^
+* https://mwurm.github.io/rezepte/#sec.pizzakordeln[Pizzakordeln] ^Snack,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.pizzateig[Pizzateig] ^TODO^
+* https://mwurm.github.io/rezepte/#sec.pogácsa[Pogácsa] ^Snack,{sp}Ungarn,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.pralinenmousse[Pralinenmousse] ^^
+* https://mwurm.github.io/rezepte/#sec.putenbrust_mit_maronenfüllung[Putenbrust mit Maronenfüllung] ^Geflügel,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.putenschnitzel[Putenschnitzel] ^Geflügel,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.raclette[Raclette] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.rahmwirsing[Rahmwirsing] ^^
+* https://mwurm.github.io/rezepte/#sec.rehpflanzerl[Rehpflanzerl] ^Hauptgericht,{sp}TODO,{sp}Wild^
+* https://mwurm.github.io/rezepte/#sec.rhabarberkuchen_mit_baiser[Rhabarberkuchen mit Baiser] ^^
+* https://mwurm.github.io/rezepte/#sec.ricotta_dumplings[Ricotta Dumplings] ^Italien,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.risotto[Risotto] ^Italien^
+* https://mwurm.github.io/rezepte/#sec.rote_thai_hühnersuppe[Rote Thai Hühnersuppe] ^Geflügel,{sp}Low{sp}Carb,{sp}Thai,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.rouladen[Rouladen] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.röstzwiebeln[Röstzwiebeln] ^^
+* https://mwurm.github.io/rezepte/#sec.rührei[Rührei] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.sahara_chili[Sahara-Chili] ^Fleisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.salat_mit_maultaschen___sauerrahmdressing[Salat mit Maultaschen + Sauerrahmdressing] ^Hauptgericht,{sp}Salat,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.sauce_hollandaise[Sauce Hollandaise] ^Soße^
+* https://mwurm.github.io/rezepte/#sec.schmorbraten[Schmorbraten] ^Anlass,{sp}Deutschland,{sp}Rind^
+* https://mwurm.github.io/rezepte/#sec.schmorfleisch[Schmorfleisch] ^Büro,{sp}Fleisch,{sp}Hauptgericht,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit^
+* https://mwurm.github.io/rezepte/#sec.schnelles_italienisches_steak[Schnelles italienisches Steak] ^Italien,{sp}Low{sp}Carb^
+* https://mwurm.github.io/rezepte/#sec.schoko_schoko_sponge[Schoko-Schoko-Sponge] ^^
+* https://mwurm.github.io/rezepte/#sec.schoko_cookies_mit_m_m_s[Schoko-Cookies mit M&M's] ^^
+* https://mwurm.github.io/rezepte/#sec.schokoladencookies[Schokoladencookies] ^^
+* https://mwurm.github.io/rezepte/#sec.schokoladenmousse[Schokoladenmousse] ^Schokolade,{sp}süß^
+* https://mwurm.github.io/rezepte/#sec.schokoladenpudding[Schokoladenpudding] ^Schokolade,{sp}süß^
+* https://mwurm.github.io/rezepte/#sec.schokoladenstreuselkuchen[Schokoladenstreuselkuchen] ^^
+* https://mwurm.github.io/rezepte/#sec._schweinefilet_mit_senfkruste[ Schweinefilet mit Senfkruste] ^Grill,{sp}Schwein^
+* https://mwurm.github.io/rezepte/#sec._schweinefilet_mit_pfefferkruste_vom_grill[ Schweinefilet mit Pfefferkruste vom Grill] ^Grill,{sp}Schwein,{sp}schnell{sp}mit{sp}Garzeit^
+* https://mwurm.github.io/rezepte/#sec.semmelknödel[Semmelknödel] ^Österreich^
+* https://mwurm.github.io/rezepte/#sec.serbische_bohnensuppe[Serbische Bohnensuppe] ^Büro,{sp}Low{sp}Meat,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.souvlaki[Souvlaki] ^Fleisch,{sp}Hauptgericht,{sp}TODO,{sp}ohne{sp}Beilage^
+* https://mwurm.github.io/rezepte/#sec.spare_ribs[Spare Ribs] ^^
+* https://mwurm.github.io/rezepte/#sec.spinatknödel[Spinatknödel] ^TODO,{sp}Österreich^
+* https://mwurm.github.io/rezepte/#sec.spiralkartoffeln[Spiralkartoffeln] ^TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.steckerlfisch[Steckerlfisch] ^Fisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.tahin_dressing[Tahin-Dressing] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.texas_jailhouse_chili[Texas Jailhouse Chili] ^Büro,{sp}Eintopf,{sp}Mikrowelle,{sp}USA,{sp}nur{sp}noch{sp}aufwärmen^
+* https://mwurm.github.io/rezepte/#sec.thousand_islands_dressing[Thousand Islands Dressing] ^Dressing^
+* https://mwurm.github.io/rezepte/#sec.thunfisch_mit_sesamkruste[Thunfisch mit Sesamkruste] ^Fisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.tikka_brathähnchen_im_ofen_[Tikka Brathähnchen im Ofen ] ^Geflügel,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.tintenfisch_vom_grill[Tintenfisch vom Grill] ^Fisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.tiramisu[Tiramisu] ^TODO^
+* https://mwurm.github.io/rezepte/#sec.toast_hawaii[Toast Hawaii] ^Fleisch,{sp}Hauptgericht,{sp}Schwein,{sp}schnell{sp}mit{sp}Vorheizzeit^
+* https://mwurm.github.io/rezepte/#sec.tomatenreis[Tomatenreis] ^^
+* https://mwurm.github.io/rezepte/#sec.tomatensoße[Tomatensoße] ^^
+* https://mwurm.github.io/rezepte/#sec.tortellini_gemüse_salat[Tortellini-Gemüse-Salat] ^Büro,{sp}TODO,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.tortellini_salat_mit_pesto_und_tomaten[Tortellini-Salat mit Pesto und Tomaten] ^Büro,{sp}Salat,{sp}ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_artischockencreme_und_salami[Tramezzini mit Artischockencreme und Salami] ^Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_avocado_krabben_creme[Tramezzini mit Avocado-Krabben-Creme] ^Meeresfrüchte,{sp}Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_dillrahm_shrimps[Tramezzini mit Dillrahm-Shrimps] ^ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_lachs_und_gurke[Tramezzini mit Lachs und Gurke] ^Fisch,{sp}Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_pilzpaste_und_parmaschinken[Tramezzini mit Pilzpaste und Parmaschinken] ^Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_salami__gurke__remoulade[Tramezzini mit Salami, Gurke, Remoulade] ^Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_schinken_eiercreme_und_tomate[Tramezzini mit Schinken-Eiercreme und Tomate] ^ausprobieren^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_tunfisch_sardellen_creme[Tramezzini mit Tunfisch-Sardellen-Creme] ^Fisch,{sp}Snack^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_tomate_mozzarella[Tramezzini mit Tomate-Mozzarella] ^Snack,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.triple_choc_muffins[Triple Choc Muffins] ^^
+* https://mwurm.github.io/rezepte/#sec.triple_pistachio_cupcage_sponge[Triple Pistachio Cupcage Sponge] ^^
+* https://mwurm.github.io/rezepte/#sec.triple_pistachio_cupcage_sponge_v2[Triple Pistachio Cupcage Sponge v2] ^^
+* https://mwurm.github.io/rezepte/#sec.triple_pistachio_cupcage_topping[Triple Pistachio Cupcage Topping] ^^
+* https://mwurm.github.io/rezepte/#sec.träubleskuchen[Träubleskuchen] ^^
+* https://mwurm.github.io/rezepte/#sec.tsatsiki[Tsatsiki] ^^
+* https://mwurm.github.io/rezepte/#sec.vanilleeis_mit_heißen_kirschen___himbeeren[Vanilleeis mit heißen Kirschen / Himbeeren] ^^
+* https://mwurm.github.io/rezepte/#sec.vanillesoße[Vanillesoße] ^^
+* https://mwurm.github.io/rezepte/#sec.vinaigrette[Vinaigrette] ^^
+* https://mwurm.github.io/rezepte/#sec.weißwürste[Weißwürste] ^Fleisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.what_the_hack_buletten[What the hack-Buletten] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.wiener[Wiener] ^Fleisch,{sp}Hauptgericht^
+* https://mwurm.github.io/rezepte/#sec.wurstsalat[Wurstsalat] ^Deutschland^
+* https://mwurm.github.io/rezepte/#sec.zitronenkekse_mit_weißer_schokolade[Zitronenkekse mit weißer Schokolade] ^Cookie,{sp}süß^
+* https://mwurm.github.io/rezepte/#sec.zucchini_mit_ziegenkäse_füllung_und_thymian[Zucchini mit Ziegenkäse-Füllung und Thymian] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.zwiebelkuchen[Zwiebelkuchen] ^TODO^
+* https://mwurm.github.io/rezepte/#sec.zwiebelrostbraten[Zwiebelrostbraten] ^Fleisch,{sp}Hauptgericht,{sp}TODO^
+* https://mwurm.github.io/rezepte/#sec.öl_essig_dressing[Öl-Essig-Dressing] ^Dressing^
+
+== vegan
+
+* https://mwurm.github.io/rezepte/#sec.antipasti[Antipasti] ^Italien,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.gemüsesuppe[Gemüsesuppe] ^Suppe,{sp}vegan^
+* https://mwurm.github.io/rezepte/#sec.ofen_rispentomaten[Ofen-Rispentomaten] ^vegan^
+* https://mwurm.github.io/rezepte/#sec.pasta_e_ceci[Pasta e Ceci] ^Hauptgericht,{sp}TODO,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pimientos_de_padrón[Pimientos de Padrón] ^Spanien,{sp}Tapas,{sp}schnell,{sp}vegan,{sp}vegetarisch^
+
+== vegetarisch
+
+* https://mwurm.github.io/rezepte/#sec.antipasti[Antipasti] ^Italien,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.artischockensuppe[Artischockensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatische_gemüsepfanne[Asiatische Gemüsepfanne] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons[Asiatisches Rindfleisch mit Zuckerschoten und Champignons] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.avocado_bulgur_salat[Avocado-Bulgur-Salat] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.camembert__gebacken[Camembert, gebacken] ^Hauptgericht,{sp}Käse,{sp}schnell{sp}mit{sp}Aufheizzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.camemburger[Camemburger] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.champigon_rahmsoße[Champigon-Rahmsoße] ^Soße,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.cole_slaw[Cole Slaw] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.dampfnudeln[Dampfnudeln] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.falafelsalat_mit_tahin_dressing[Falafelsalat mit Tahin-Dressing] ^Hauptgericht,{sp}Salat,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.feta_vom_grill[Feta vom Grill] ^Grill,{sp}Hauptgericht,{sp}Käse,{sp}TODO,{sp}schnell{sp}mit{sp}Aufheizzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.grießglößchensuppe[Grießglößchensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.grüne_bohnen[Grüne Bohnen] ^leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.halloumi_pilz_paprika_spieße[Halloumi-Pilz-Paprika-Spieße] ^Low{sp}Carb,{sp}TODO,{sp}leicht,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indischer_eintopf[Indischer Eintopf] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indisches_dal[Indisches Dal] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kaiserschmarrn[Kaiserschmarrn] ^Hauptgericht,{sp}TODO,{sp}süß,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kartoffel_curry[Kartoffel-Curry] ^Hauptgericht,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kartoffelgratin[Kartoffelgratin] ^Hauptgericht,{sp}Käse,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kichererbsen_curry[Kichererbsen-Curry] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kohlrabi_carpaccio[Kohlrabi-Carpaccio] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.käsespätzle[Käsespätzle] ^Hauptgericht,{sp}Käse,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kürbissuppe[Kürbissuppe] ^Suppe,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.lemon_tagliatelle[Lemon Tagliatelle] ^Italien,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.linsencurry_mit_spinat[Linsencurry mit Spinat] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.marillenknödel[Marillenknödel] ^TODO,{sp}ausprobieren,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.mediterraner_nudelsalat[Mediterraner Nudelsalat] ^Büro,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.melanzane_al_parmigiana[Melanzane al Parmigiana] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.obazda[Obazda] ^Bayern,{sp}Biergarten,{sp}Käse,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.oliventapenade[Oliventapenade] ^Snack,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pappa_al_pomodoro[Pappa al Pomodoro] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.paprikaauflauf_mit_feta[Paprikaauflauf mit Feta] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_alfredo[Pasta Alfredo] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_e_ceci[Pasta e Ceci] ^Hauptgericht,{sp}TODO,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_cremige_auberginensoße[Pasta mit cremige Auberginensoße] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}garen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_oliven_und_ziegenkäse[Pasta mit Oliven und Ziegenkäse] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_rosso[Pasta mit Pesto Rosso] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_verde[Pasta mit Pesto Verde] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pilzen_und_knoblauch[Pasta mit Pilzen und Knoblauch] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pfannkuchen[Pfannkuchen] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pfifferlinge_auf_weißbrot[Pfifferlinge auf Weißbrot] ^Hauptgericht,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pimientos_de_padrón[Pimientos de Padrón] ^Spanien,{sp}Tapas,{sp}schnell,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.raclette[Raclette] ^Hauptgericht,{sp}Käse,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.rispentomaten_aus_dem_ofen[Rispentomaten aus dem Ofen] ^TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.rührei[Rührei] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.shakshuka[Shakshuka] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.spargel_und_eier_mit_french_dressing[Spargel und Eier mit French Dressing] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.spiralkartoffeln[Spiralkartoffeln] ^TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.süsskartoffeln_cajun_style[Süsskartoffeln Cajun-Style] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_tomate_mozzarella[Tramezzini mit Tomate-Mozzarella] ^Snack,{sp}vegetarisch^
+
+== vegetarisch, wenig Käse
+
+* https://mwurm.github.io/rezepte/#sec.antipasti[Antipasti] ^Italien,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.artischockensuppe[Artischockensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatische_gemüsepfanne[Asiatische Gemüsepfanne] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.asiatisches_rindfleisch_mit_zuckerschoten_und_champignons[Asiatisches Rindfleisch mit Zuckerschoten und Champignons] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.avocado_bulgur_salat[Avocado-Bulgur-Salat] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.champigon_rahmsoße[Champigon-Rahmsoße] ^Soße,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.cole_slaw[Cole Slaw] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.dampfnudeln[Dampfnudeln] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.falafelsalat_mit_tahin_dressing[Falafelsalat mit Tahin-Dressing] ^Hauptgericht,{sp}Salat,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.grießglößchensuppe[Grießglößchensuppe] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.grüne_bohnen[Grüne Bohnen] ^leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.halloumi_pilz_paprika_spieße[Halloumi-Pilz-Paprika-Spieße] ^Low{sp}Carb,{sp}TODO,{sp}leicht,{sp}schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indischer_eintopf[Indischer Eintopf] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.indisches_dal[Indisches Dal] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TK,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kaiserschmarrn[Kaiserschmarrn] ^Hauptgericht,{sp}TODO,{sp}süß,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kartoffel_curry[Kartoffel-Curry] ^Hauptgericht,{sp}TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kichererbsen_curry[Kichererbsen-Curry] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kohlrabi_carpaccio[Kohlrabi-Carpaccio] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.kürbissuppe[Kürbissuppe] ^Suppe,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.lemon_tagliatelle[Lemon Tagliatelle] ^Italien,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.linsencurry_mit_spinat[Linsencurry mit Spinat] ^Büro,{sp}Hauptgericht,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.marillenknödel[Marillenknödel] ^TODO,{sp}ausprobieren,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.mediterraner_nudelsalat[Mediterraner Nudelsalat] ^Büro,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.melanzane_al_parmigiana[Melanzane al Parmigiana] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.oliventapenade[Oliventapenade] ^Snack,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pappa_al_pomodoro[Pappa al Pomodoro] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}schnell{sp}mit{sp}Garzeit,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.paprikaauflauf_mit_feta[Paprikaauflauf mit Feta] ^Büro,{sp}Low{sp}Carb,{sp}Mikrowelle,{sp}leicht,{sp}nur{sp}noch{sp}aufwärmen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_e_ceci[Pasta e Ceci] ^Hauptgericht,{sp}TODO,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_cremige_auberginensoße[Pasta mit cremige Auberginensoße] ^Büro,{sp}Hauptgericht,{sp}Mikrowelle,{sp}TK,{sp}TODO,{sp}leicht,{sp}nur{sp}noch{sp}garen,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_rosso[Pasta mit Pesto Rosso] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pesto_verde[Pasta mit Pesto Verde] ^schnell,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pasta_mit_pilzen_und_knoblauch[Pasta mit Pilzen und Knoblauch] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pfannkuchen[Pfannkuchen] ^vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pfifferlinge_auf_weißbrot[Pfifferlinge auf Weißbrot] ^Hauptgericht,{sp}TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.pimientos_de_padrón[Pimientos de Padrón] ^Spanien,{sp}Tapas,{sp}schnell,{sp}vegan,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.rispentomaten_aus_dem_ofen[Rispentomaten aus dem Ofen] ^TODO,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.rührei[Rührei] ^Hauptgericht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.shakshuka[Shakshuka] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.spargel_und_eier_mit_french_dressing[Spargel und Eier mit French Dressing] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.spiralkartoffeln[Spiralkartoffeln] ^TODO,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.süsskartoffeln_cajun_style[Süsskartoffeln Cajun-Style] ^Hauptgericht,{sp}leicht,{sp}vegetarisch^
+* https://mwurm.github.io/rezepte/#sec.tramezzini_mit_tomate_mozzarella[Tramezzini mit Tomate-Mozzarella] ^Snack,{sp}vegetarisch^
+
+== Low Meat
+
+* https://mwurm.github.io/rezepte/#sec.kürbispizza_mit_pfifferlingen[Kürbispizza mit Pfifferlingen] ^Käse,{sp}Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.maronensuppe[Maronensuppe] ^Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.pasta_emiliana[Pasta emiliana] ^Hauptgericht,{sp}Low{sp}Meat,{sp}schnell^
+* https://mwurm.github.io/rezepte/#sec.pilztopf[Pilztopf] ^Low{sp}Meat^
+* https://mwurm.github.io/rezepte/#sec.serbische_bohnensuppe[Serbische Bohnensuppe] ^Büro,{sp}Low{sp}Meat,{sp}Mikrowelle,{sp}nur{sp}noch{sp}aufwärmen^
+
+
+ifdef::backend-pdf[]
+[%always]
+
+<<<
+[index]
+== Index
+endif::[]
