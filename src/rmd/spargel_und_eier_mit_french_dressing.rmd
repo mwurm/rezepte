@@ -1,5 +1,25 @@
 Spargel und Eier mit French Dressing
-:yields: 0
+:yields: 2
 :category: Vegetarisches
-:tags: Hauptgericht;vegetarisch;leicht;TODO
+:tags: Hauptgericht;vegetarisch;leicht
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.165
+
+0.5 kleine rote Zwiebel; fein gewürfelt
+4 EL Rotweinessig
+0.5 TL Salz
+# vermischen
+
+350g grüner Spargel; ganz
+# in Sieb über Topf mit kochendem Wasser 5min dämpfen
+
+4 Eier
+# in Topf unter Sieb 5.5min kochen, Spargel weiter dämpfen
+
+2 geh. TL Dijon-Senf
+6 EL Olivenöl
+_ Pfeffer
+# verrühren und den Essig aus der Zwiebelmischung unterrühren, pfeffern
+
+15g Estragon (frisch)
+_ Pfeffer
+# Anrichten: Spargen und halbierte Eier mit Estragon und Zwiebelwürfeln bestreuen. Dressing dazu, pfeffern.

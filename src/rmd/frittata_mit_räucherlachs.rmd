@@ -1,0 +1,23 @@
+Frittata mit Räucherlachs
+:yields: 2
+:category: Fisch
+:tags: Hauptgericht;Fisch
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.86
+:info: Ofen auf Grillfunktion vorheizen
+
+125g Stremellachs; zerteilt
+# in ofenfester Pfanne anbraten
+
+1 Bd Frühlingszwiebeln; feine Scheiben
+_ Pfeffer
+# zugeben, pfeffern, 5min garen
+
+4 Eier; verquirlt
+40g Cheddar^1^
+# in separate Schüssel geben, Pfanneninhalt zugeben und vermischen
+  zurück in die Pfanne unde 5min in Ofen goldbraun grillen.
+  in Pfanne servieren
+
+
+---
+^1^ Originalrezept: alternativ Red Leicester

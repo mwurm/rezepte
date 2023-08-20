@@ -1,5 +1,24 @@
 Tikka Brathähnchen im Ofen 
-:yields: 0
+:yields: 4
 :category: Geflügel
-:tags: Hauptgericht;Geflügel;TODO
-:source: Jamie Oliver, _5-Zutaten-Küche_
+:tags: Hauptgericht;Geflügel
+:source: Jamie Oliver, _5-Zutaten-Küche_, S.98
+:info: Ofen auf 180°C vorheizen
+
+1 Bd Koriander
+# Stiele klein schneiden, Blätter in kaltes Wasser legen
+
+800g Kartoffeln; 3-cm-Stücke
+1 EL Olivenöl
+_ Salz+Pfeffer
+# in 30x40cm-Reine verteilen, Korianderstiele dazu (ohne Blätter)
+
+1 Hähnchen (1,2kg)
+2 EL Tikka-Currypaste
+# Hähnchen rundum mit Currypaste bestreichen, auf Ofengitter direkt über Reine in Ofen setzen (damit Bratensaft in die Reine tropft)
+  1h braten, zur Hälfte der Garzeit Gemüsen wenden
+  Am Ende (letzte 5min) Hähnchen direkt auf Gemüsebett legen
+  Anrichten und Garnieren: in Reine mit Korianderblättern servieren
+
+
+
