@@ -368,7 +368,7 @@ endif::[]""")
         tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
         f.write(f"Stichwörter: {'; '.join(list(tags))}\n\n")
 
-        hauptgerichte = [recipe for recipe in filter(lambda rec: rec.category not in ['Appetithäppchen', 'Suppen', 'Desserts', 'Basis', 'Beilagen'] and rec.subcategory not in ['Dressing'], self.recipes)]
+        hauptgerichte = [recipe for recipe in filter(lambda rec: 'Hauptgericht' in rec.tags, self.recipes)]
 
         for c in config:
             gefilterte_rezepte = [recipe for recipe in filter(lambda rec: all(item in rec.tags for item in c[1]) and not set(c[2]).intersection(set(rec. tags)) , hauptgerichte)]
