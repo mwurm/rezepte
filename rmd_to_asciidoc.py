@@ -191,6 +191,8 @@ class Recipe:
             self.tags.append('nur noch aufwärmen')
         if ('Mikrowelle' in self.tags or 'Aufwärmen' in self.tags) and self.category == 'Pasta':
             self.tags.append('nur noch garen')
+        if ('vegetarisch' in self.tags or 'vegan' in self.tags or 'Low Meat' in self.tags):
+            self.tags.append('veg+')
         self.tags = sorted(self.tags)
 
 
@@ -355,17 +357,17 @@ endif::[]""")
 
         config = [
             ['nur noch aus dem Kühlschrank holen', ['nur noch aus dem Kühlschrank holen'], []],
-            ['nur noch aufwärmen', ['nur noch aufwärmen'], []],
+            ['nur noch aufwärmen: veg+', ['nur noch aufwärmen', 'veg+'], []],
+            ['nur noch aufwärmen', ['nur noch aufwärmen'], ['veg+']],
             ['nur noch anrichten', ['nur noch anrichten'], []],
-            ['nur noch garen', ['nur noch garen'], []],
-            ['schnell', ['schnell'], []],
+            ['nur noch garen: veg+', ['nur noch garen', 'veg+'], []],
+            ['nur noch garen', ['nur noch garen'], ['veg+']],
+            ['schnell: veg+', ['schnell', 'veg+'], []],
+            ['schnell', ['schnell'], ['veg+']],
             ['leicht', ['leicht'], []],
             ['schnell+leicht', ['schnell', 'leicht'], []],
             ['!(schnell+leicht)', [], ['schnell', 'leicht']],
-            ['vegan', ['vegan'], []],
-            ['vegetarisch', ['vegetarisch'], []],
-            ['vegetarisch, wenig Käse', ['vegetarisch'], ['Käse']],
-            ['Low Meat', ['Low Meat'], []]
+            ['vegetarisch, wenig Käse', ['vegetarisch'], ['Käse']]
         ]
 
         tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
