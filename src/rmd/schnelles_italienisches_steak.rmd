@@ -2,7 +2,7 @@ Schnelles italienisches Steak
 :yields: 2
 :category: Fleischgerichte
 :tags: IT; Low Carb; Hauptgericht; schnell
-:source: Jamie Oliver, _5-Zutaten-Küche_
+:source: J.O., _5-Z-K_
 
 1 EL Pinienkerne
 # Pfanne bei hoher Temperatur erhitzen und währenddessen Kerne rösten, dann beiseite legen.

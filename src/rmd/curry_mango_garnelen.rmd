@@ -2,7 +2,7 @@ Curry-Mango-Garnelen
 :yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch;leicht;Low Carb;Vorspeise;nur noch garen; nur frisch; Asien; schnell
-:source: Jamie Oliver, _5-Zutaten-Küche_, S.147
+:source: J.O., _5-Z-K_, S.147
 
 6 Zehen Knoblauch; feine Scheiben
 1 EL Olivenöl

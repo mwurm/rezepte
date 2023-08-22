@@ -2,7 +2,7 @@ Schmorfleisch
 :yields: 4
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;schnell+Wartezeit;Mikrowelle;Büro;skalierbar
-:source: Jamie Oliver, _5-Zutaten-Küche_, S.195
+:source: J.O., _5-Z-K_, S.195
 :info: Backofen auf 160°C vorheizen
 
 4 Paprika (bunt); breite Streifen

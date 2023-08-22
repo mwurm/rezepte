@@ -2,7 +2,7 @@ Pappa al Pomodoro
 :yields: 0
 :category: Eintöpfe
 :tags: Hauptgericht;vegetarisch;leicht;Mikrowelle;schnell;Büro;Vorspeise; Italien; skalierbar
-:source: Jamie Oliver, _5-Zutaten-Küche_, S. 173
+:source: J.O., _5-Z-K_, S. 173
 
 2 Zehen Knoblauch
 # anbraten

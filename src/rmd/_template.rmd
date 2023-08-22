@@ -1,0 +1,16 @@
+TITEL
+:yields: 2
+:category: CAT
+:subcategory: ???
+:tags: Hauptgericht; Vorspeise; Beilage; Grill; skalierbar; TK; nur frisch; nur noch aus dem Kühlschrank holen / aufwärmen / anrichten / garen; schnell+Wartezeit; vegan; vegetarisch; Low Meat; Low Carb; Käse
+:source: ???
+:url: ???
+:info: ???
+
+100g XXX; Zubereitung
+1 geh. EL YYY; Zubereitung
+# Anweisung
+  mehrzeilige Anweisung
+
+---
+weitere Infos AsciiDoc-Format

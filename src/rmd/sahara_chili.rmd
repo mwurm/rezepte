@@ -2,6 +2,7 @@ Sahara-Chili
 :yields: 4
 :category: Eintöpfe
 :tags: Hauptgericht;Fleisch; Mikrowelle; Büro; US; skalierbar
+:url: https://gquebbq.com/margaret-nadeaus-red-chili-recipe/
 
 900g Rinderhackfleisch
 2 TL Zwiebelpulver

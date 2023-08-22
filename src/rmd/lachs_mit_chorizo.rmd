@@ -2,7 +2,7 @@ Lachs mit Chorizo
 :yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch; nur frisch; schnell; nur noch garen; Rind; Low Carb
-:source: Jamie Oliver, _5-Zutaten-Küche_, S.125
+:source: J.O., _5-Z-K_, S.125
 
 300g Lachsfilet mit Haut
 # mit Haut nach oben ca. 3min braten (bis Lachs zu brutzeln beginnt).

@@ -2,7 +2,7 @@ Linsencurry mit Spinat
 :yields: 2
 :category: Eintöpfe
 :tags: Hauptgericht;vegetarisch;leicht;Low Carb;Mikrowelle;Büro; Beilage; Asien; skalierbar
-:source: Jamie Oliver 15-Minuten-Küche, S.240
+:source: J.O., _15-M-R_, S.240
 
 1 Zwiebel
 1 Zehe Knoblauch

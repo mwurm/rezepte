@@ -2,7 +2,7 @@ Pasta mit Pilzen und Knoblauch
 :yields: 2
 :category: Pasta
 :tags: Hauptgericht;vegetarisch;schnell
-:source: Jamie Oliver, _5-Zutaten-Küche_, S.65
+:source: J.O., _5-Z-K_, S.65
 
 150g Pasta^1^
 # kochen, etwas Wasser behalten

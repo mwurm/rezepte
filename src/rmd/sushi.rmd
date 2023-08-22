@@ -9,7 +9,7 @@ Sushi
 ---
 mögliche Vorspeisen:
 
-* Pak-Choi-Gericht Jamie (TODO)
+* <<sec.reis_mit_pak_choi_und_hoisin-sauce,Reis mit Pak Choi und Hoisin-Sauce>>
 * Miso-Suppe
 * Tamagoyaki (japanisches Omelette)
 

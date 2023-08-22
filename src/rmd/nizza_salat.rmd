@@ -2,7 +2,7 @@ Nizza Salat mit Lachs
 :yields: 2
 :category: Fisch
 :tags: Hauptgericht;Fisch;leicht; Low Carb; Büro; Vorspeise; nur frisch
-:source: Jamie Oliver, _5-Zutaten-Küche_, S.19
+:source: J.O., _5-Z-K_, S.19
 
 2 Lachsfilets (mit Haut, à 120g); geschuppt und entgrätet
 # 8min über Salzwasser dämpfen
