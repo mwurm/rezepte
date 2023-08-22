@@ -220,7 +220,7 @@ indexterm:[{self.name}]
         out_str += f"""
 {caption} {"💥" if "ausprobieren" in self.tags else ""}{"📋" if "TODO" in self.tags else ""}{self.name}
 
-Portionen: {self.yields}{f", Stichwörter: {', '.join(replace_country_codes_with_emoji(self.tags))}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
+Portionen: {self.yields}{f", Stichwörter: {', '.join([replace_country_codes_with_emoji(tag) for tag in self.tags])}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
 """
         if self.info:
             out_str += f"""
