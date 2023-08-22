@@ -78,7 +78,7 @@ ingredient_to_tag = {
     "rind|chorizo|burger-patties|hack": ["Rind", "Fleisch"],
     "schwein|wurst|wiener|hack": ["Schwein", "Fleisch"],
     "dorade|forelle|lachs|fisch|sushi": ["Fisch"],
-    "garnele|krabbe": ["Meeresfrüchte"]
+    "garnele|krabbe": ["Meeresfrüchte", "Fisch"]
 }
 
 # ergänze Regex am ende mit ((\s*,.*)?(\s*\(.*\))?)*$
@@ -370,18 +370,35 @@ endif::[]""")
 """)
 
         config = [
-            ['nur noch aus dem Kühlschrank holen', ['nur noch aus dem Kühlschrank holen'], []],
-            ['nur noch aufwärmen: veg+', ['nur noch aufwärmen', 'veg+'], []],
-            ['nur noch aufwärmen', ['nur noch aufwärmen'], ['veg+']],
-            ['nur noch anrichten', ['nur noch anrichten'], []],
-            ['nur noch garen: veg+', ['nur noch garen', 'veg+'], []],
-            ['nur noch garen', ['nur noch garen'], ['veg+']],
-            ['schnell: veg+', ['schnell', 'veg+'], []],
-            ['schnell', ['schnell'], ['veg+']],
+            ['kalte Küche', None, ['nur noch aus dem Kühlschrank holen'], []],
+            ['veg+', 'nur noch aufwärmen', ['nur noch aufwärmen', 'veg+'], []],
+            ['veg+', 'nur noch garen', ['nur noch garen', 'veg+'], []],
+            ['veg+', 'nur noch aufwärmen', ['nur noch aufwärmen','veg+'], []],
+            ['veg+', 'nur noch anrichten', ['nur noch anrichten','veg+'], []],
+            ['veg+', 'schnell', ['schnell','veg+'], []],
+            ['veg+', 'schnell+Wartezeit', ['schnell+Wartezeit','veg+'], []],
+            ['veg+', 'wenig Käse', ['veg+'], ['Käse']],
+            ['Geflügel', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Geflügel'], []],
+            ['Geflügel', 'nur noch garen', ['nur noch garen', 'Geflügel'], []],
+            ['Geflügel', 'nur noch aufwärmen', ['nur noch aufwärmen','Geflügel'], []],
+            ['Geflügel', 'nur noch anrichten', ['nur noch anrichten','Geflügel'], []],
+            ['Geflügel', 'schnell', ['schnell','Geflügel'], []],
+            ['Geflügel', 'schnell+Wartezeit', ['schnell+Wartezeit','Geflügel'], []],
+            ['Fisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fisch'], []],
+            ['Fisch', 'nur noch garen', ['nur noch garen', 'Fisch'], []],
+            ['Fisch', 'nur noch aufwärmen', ['nur noch aufwärmen','Fisch'], []],
+            ['Fisch', 'nur noch anrichten', ['nur noch anrichten','Fisch'], []],
+            ['Fisch', 'schnell', ['schnell','Fisch'], []],
+            ['Fisch', 'schnell+Wartezeit', ['schnell+Wartezeit','Fisch'], []],
+            ['Fleisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fleisch'], []],
+            ['Fleisch', 'nur noch garen', ['nur noch garen', 'Fleisch'], []],
+            ['Fleisch', 'nur noch aufwärmen', ['nur noch aufwärmen','Fleisch'], []],
+            ['Fleisch', 'nur noch anrichten', ['nur noch anrichten','Fleisch'], []],
+            ['Fleisch', 'schnell', ['schnell','Fleisch'], []],
+            ['Fleisch', 'schnell+Wartezeit', ['schnell+Wartezeit','Fleisch'], []],
             ['leicht', ['leicht'], []],
             ['schnell+leicht', ['schnell', 'leicht'], []],
-            ['!(schnell+leicht)', [], ['schnell', 'leicht']],
-            ['vegetarisch, wenig Käse', ['vegetarisch'], ['Käse']]
+            ['!(schnell+leicht)', [], ['schnell', 'leicht']]
         ]
 
         tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
@@ -390,9 +407,13 @@ endif::[]""")
         hauptgerichte = [recipe for recipe in filter(lambda rec: 'Hauptgericht' in rec.tags, self.recipes)]
 
         for c in config:
-            gefilterte_rezepte = [recipe for recipe in filter(lambda rec: all(item in rec.tags for item in c[1]) and not set(c[2]).intersection(set(rec. tags)) , hauptgerichte)]
+            gefilterte_rezepte = [recipe for recipe in filter(lambda rec: all(item in rec.tags for item in c[2]) and not set(c[3]).intersection(set(rec. tags)) , hauptgerichte)]
 
             f.write(f"\n== {c[0]}\n\n")
+
+            if c[1] is not None:
+                f.write(f"\n=== {c[1]}\n\n")
+  
             for recipe in gefilterte_rezepte:
                 # * <<sec.curry_mango_garnelen, Curry-Mango-Garnelen>>
                 f.write(f"* https://mwurm.github.io/rezepte/#{recipe.sec_id()}[{recipe.name}] ^{(',{sp}'.join(recipe.tags)).replace(' ', '{sp}')}^\n")
