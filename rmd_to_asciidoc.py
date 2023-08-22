@@ -73,6 +73,14 @@ basic_ingredients_regexes = [
     "Brühe"
 ]
 
+ingredient_to_tag = {
+    "hähnchen|huhn|hühner|pute|hendl": ["Geflügel"],
+    "rind|chorizo|burger-patties|hack": ["Rind", "Fleisch"],
+    "schwein|wurst|wiener|hack": ["Schwein", "Fleisch"],
+    "dorade|forelle|lachs|fisch|sushi": ["Fisch"],
+    "garnele|krabbe": ["Meeresfrüchte"]
+}
+
 # ergänze Regex am ende mit ((\s*,.*)?(\s*\(.*\))?)*$
 # das Deckt folgende Zutatenerweiterungen ab:
 # Hefe (frisch)
@@ -178,13 +186,13 @@ class Recipe:
         self.subcategory = None if 'subcategory' not in attributes else attributes['subcategory'] 
         # ":indexterms: Garnelen, Curry-Mango-Garnelen; Mango-Garnelen"
         self.indexterms = () if 'indexterms' not in attributes else attributes['indexterms'].split(";")
-        self.tags = () if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]
-        self.add_autotags_and_sort()
+        self.tags = [] if 'tags' not in attributes else [t.strip() for t in attributes['tags'].split(";")]
         self.url = None if 'url' not in attributes else attributes['url'] 
         self.source = None if 'source' not in attributes else attributes['source'] 
         self.instructions_with_ingredients = instructions_with_ingredients
         self.asciidoc_footer = asciidoc_footer
         self.info = None if 'info' not in attributes else attributes['info']
+        self.add_autotags_and_sort()
 
     def add_autotags_and_sort(self):
         if ('Mikrowelle' in self.tags or 'Aufwärmen' in self.tags) and self.category != 'Pasta':
@@ -193,8 +201,14 @@ class Recipe:
             self.tags.append('nur noch garen')
         if ('vegetarisch' in self.tags or 'vegan' in self.tags or 'Low Meat' in self.tags):
             self.tags.append('veg+')
-        self.tags = sorted(self.tags)
 
+        for key in ingredient_to_tag:
+            for ii in self.instructions_with_ingredients:
+                for ing in ii.ingredients:
+                    if re.match(f".*{key}.*", ing.ingredient_name, re.IGNORECASE):
+                        self.tags.extend(ingredient_to_tag[key])
+
+        self.tags = sorted(set(self.tags))
 
     def to_id(self):
         return rudecode(to_snake_case(self.name))
