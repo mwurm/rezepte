@@ -1,7 +1,7 @@
 Schmorbraten
 :yields: 4
 :category: Fleischgerichte
-:tags: Rind; Anlass; Deutschland
+:tags: Rind; Anlass; DE; skalierbar
 
 
 1kg Rindfleisch (Bürgermeisterstück / falsches Filet)
@@ -21,3 +21,5 @@ _ Salz+Peffer
 # zugeben
   Fleisch dazugeben, 2.5h schmoren bei 180°C Ober-/Unterhitze, jede 0.5h wenden, ggf. Brühe zugießen
 
+---
+Beilagen: Kartoffelpüree / Gratin / Spätzle / grüne Bohnen / Rotkohl

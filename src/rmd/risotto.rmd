@@ -1,7 +1,8 @@
 Risotto
 :yields: 4
 :category: Reisgerichte
-:tags: Italien
+:tags: IT; Mikrowelle; nur noch garen; Vorspeise; Beilage; Hauptgericht
+:info: Vorbereiten möglich, dann nur Risotto ca. 10min vorgaren
 
 1 Zwiebel; würfeln
 # in Butter andünsten

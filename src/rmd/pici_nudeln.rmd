@@ -1,7 +1,7 @@
 Pici-Nudeln
 :yields: 4
-:category: Pasta
-:tags: Italien; ausprobieren
+:category: Basis
+:tags: IT; ausprobieren
 
 400g Hartweizengrieß
 150ml Wasser

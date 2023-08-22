@@ -1,8 +1,7 @@
 Paprikaauflauf mit Feta
 :yields: 2
 :category: Aufläufe
-:source: ...
-:tags: vegetarisch; leicht; Low Carb; Mikrowelle; Büro
+:tags: vegetarisch; leicht; Low Carb; Mikrowelle; Büro; Hauptgericht; Beilage; nur noch garen; skalierbar
 
 # Ofen auf 220°C (OUH) vorheizen
 

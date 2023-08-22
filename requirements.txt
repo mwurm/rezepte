@@ -1,1 +1,2 @@
 rotunicode==2.3.0
+emoji==2.8.0

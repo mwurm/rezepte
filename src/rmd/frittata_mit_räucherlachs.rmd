@@ -1,7 +1,7 @@
 Frittata mit Räucherlachs
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch
+:tags: Hauptgericht;Fisch;Vorspeise; skalierbar; schnell; Büro; skalierbar
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.86
 :info: Ofen auf Grillfunktion vorheizen
 

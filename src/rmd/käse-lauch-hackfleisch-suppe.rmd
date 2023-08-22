@@ -2,7 +2,7 @@ Käse-Lauch-Hackfleisch-Suppe
 :yields: 3
 :category: Suppen
 :url: https://www.einfachmalene.de/kase-lauch-hackfleisch-suppe/
-:tags: Rind; Deutschland; Büro; Mikrowelle
+:tags: Rind; DE; Büro; Mikrowelle; Hauptgericht; Vorspeise; TK
 
 500g Rinderhackfleisch
 3 Stangen Lauch; dünne Scheiben

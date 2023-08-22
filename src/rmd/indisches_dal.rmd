@@ -1,7 +1,7 @@
 Indisches Dal
 :yields: 2
 :category: Eintöpfe
-:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro
+:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro; Beilage; skalierbar
 :info: Mengenangabe als Beilage. Als Hauptgericht x1,33 rechnen
 
 1 Zwiebel; gewürfelt

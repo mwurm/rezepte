@@ -1,7 +1,7 @@
 Selleriesuppe
 :yields: 6
 :category: Suppen
-:tags: TK; Mikrowelle
+:tags: TK; Mikrowelle; Vorspeise; vegetarisch;skalierbar
 
 
 1 Zwiebel; gewürfelt

@@ -1,4 +1,5 @@
 Hackbraten
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Mikrowelle;TODO
+:tags: Hauptgericht;Mikrowelle;TODO;DE;skalierbar
+:info: TODO_Beilagen

@@ -1,19 +1,19 @@
-Pasta all'amatriciana
-:yields: 4
+all'amatriciana
+:yields: 2
 :category: Pasta
-:tags: Italien
+:subcategory: Pastasoßen
+:tags: IT; Hauptgericht; Vorspeise; schnell; Low Meat
 
-100g Bauchspeck; kleine Streifen
-# mit 1 EL Olivenöl anbraten
+50g Bauchspeck; kleine Streifen
+# mit 1 TL Olivenöl anbraten
 
-
-50ml Weißwein
+30ml Weißwein
 # mit Weißwein ablöschen, Speck zur Seite nehmen (soll knusprig bleiben), Teil des Fettes entfernen
 
-1 Zwiebel; gewürfelt
+0.5 Zwiebel; gewürfelt
 # mit restlichem Fett andünsten
 
-3/4 Dose Tomaten; gehackt
+3/8 Dose Tomaten; gehackt
 # zugeben, köcheln, mit Salz abschmecken
   Speck und Nudeln zugeben und vermengen
 ---

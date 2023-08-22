@@ -1,7 +1,7 @@
 Halbes Hähnchen
 :yields: 2
 :category: Geflügel
-:tags: Hauptgericht;schnell
+:tags: Hauptgericht;schnell; Biergarten
 
 _ halbe Hendl; gegrillt
 # vom Imbiss / Biergarten holen

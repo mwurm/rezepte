@@ -1,7 +1,7 @@
 Burger
 :yields: 4
 :category: Fleischgerichte
-:tags: schnell mit Garzeit
+:tags: schnell+Wartezeit; Hauptgericht; US; nur noch garen; Grill; skalierbar
 
 400g Pommes frites (opt.)
 # backen
@@ -19,5 +19,6 @@ Burger
 4 Scheiben Cheddar
 # zubereiten (oder selber machen lassen)
 
-4 Cole-Slaw
+_ Pommes frites
+_ Cole-Slaw
 # Burger, Pommes, Cole Slaw servieren

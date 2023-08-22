@@ -1,6 +1,8 @@
 Tomatensoße
 :yields: 4
-:category: Basis
+:category: Pasta
+:subcategory: Pastasoßen
+:tags: Hauptgericht; vegan; Büro; IT;skalierbar
 :source: Melli Schuh
 
 1 Zwiebel; gewürfelt

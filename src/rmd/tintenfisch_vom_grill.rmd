@@ -1,7 +1,7 @@
 Tintenfisch vom Grill
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch
+:tags: Hauptgericht;Fisch; Grill; nur frisch; schenn+Wartezeit
 
 4 EL Olivenöl
 0.5 Zitrone; Saft
@@ -13,3 +13,6 @@ _ Thymian
 4 Tintenfisch-Tuben; halbiert
 # 1h marinieren
   von beiden Seiten 2min grillen
+
+---
+TODO: Beilagen?

@@ -1,7 +1,7 @@
 Fettucine Alfredo
 :yields: 2
 :category: Pasta
-:tags: Italien;schnell
+:tags: IT;schnell;vegetarisch;Büro;Käse;Vorspeise;Hauptgericht
 
 200g Fettucine
 # kochen (mit halb soviel Wasser als üblich)^1^.

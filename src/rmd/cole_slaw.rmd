@@ -1,6 +1,6 @@
 Cole Slaw
 :category: Salate
-:tags: vegetarisch
+:tags: vegetarisch; Beilage; nur noch aus dem Kühlschrank holen; Salat; skalierbar
 :yields: 4
 :url: https://www.servicebund.de/rezepte/bayerischer-cole-slaw-meerrettich-dressing-rodeo-filetstreifen.html
 

@@ -1,7 +1,7 @@
 Pancakes
 :yields: 2
 :category: Mehlspeisen
-:tags: USA
+:tags: US
 
 2 Eiweiß
 # zu Schnee schlagen

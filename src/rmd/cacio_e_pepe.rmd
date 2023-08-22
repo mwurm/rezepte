@@ -1,7 +1,7 @@
 Cacio e pepe
 :yields: 2
 :category: Pasta
-:tags: Italien;schnell
+:tags: IT;schnell; vegetarisch; Büro; Käse; Vorspeise; Hauptgericht
 :url: https://www.youtube.com/watch?v=UzhkMm7gV2w
 
 200g Spaghetti

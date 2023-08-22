@@ -1,7 +1,7 @@
 Semmelknödel
 :yields: 4
 :category: Beilagen
-:tags: Österreich
+:tags: AT;skalierbar; Beilage
 
 
 1 Zwiebel; gewürfelt

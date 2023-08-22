@@ -1,7 +1,7 @@
 Hirschgulasch mit Pfifferlingen
 :yields: 2
 :category: Fleischgerichte
-:tags: Wild; TK; Mikrowelle; Büro;TODO
+:tags: Wild; TK; Mikrowelle; Büro;TODO;Hauptgericht;skalierbar
 :source: chefkoch.de
 :url: https://www.chefkoch.de/rezepte/237061096469256/Hirschgulasch-mit-frischen-Pfifferlingen.html
 

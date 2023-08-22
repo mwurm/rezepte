@@ -1,7 +1,8 @@
-Pasta mit Pesto Verde
+Pesto Verde
 :yields: 2
 :category: Pasta
-:tags: vegetarisch;schnell
+:subcategory: Pastasoßen
+:tags: vegetarisch;schnell;Hauptgericht;Vorspeise;Büro; skalierbar
 :url: https://www.lecker.de/basilikum-pesto-29673.html
 
 

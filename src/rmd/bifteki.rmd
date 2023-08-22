@@ -1,7 +1,7 @@
 Bifteki
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch; GR; Grill; TK; nur noch garen
 
 
 800g Rinderhackfleisch

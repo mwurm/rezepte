@@ -1,7 +1,8 @@
 Ragù alla Bolognese
 :yields: 4
 :category: Pasta
-:tags: Italien;schnell;Hauptgericht;Mikrowelle; Büro; TK
+:subcategory: Pastasoßen
+:tags: IT;schnell;Hauptgericht;Mikrowelle; Büro; TK; skalierbar
 
 
 :indexterms: Bolognese

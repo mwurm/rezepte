@@ -1,7 +1,7 @@
 Süsskartoffeln Cajun-Style
 :yields: 0
 :category: Vegetarisches
-:tags: Hauptgericht;vegetarisch;leicht
+:tags: Hauptgericht;vegetarisch;leicht; skalierbar; Beilage; nur frisch; nur noch garen
 :source: Jamie Oliver, _5-Zutaten-Küche_, S. 175
 
 # Backoffen auf 180°C Umluft vorheizen

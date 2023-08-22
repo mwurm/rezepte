@@ -1,7 +1,10 @@
 Wiener
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch; DE;  Imbiss;skalierbar
 
 _ Wiener
+_ Senf
+_ Semmeln
+_ Kartoffelsalat
 #

@@ -1,4 +1,8 @@
 Rouladen
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;TODO
+:tags: Hauptgericht;Fleisch;TODO;DE
+---
+Beilagen:
+
+* Kartoffelpüree

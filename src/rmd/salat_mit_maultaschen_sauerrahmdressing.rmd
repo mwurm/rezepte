@@ -1,4 +1,4 @@
-Salat mit Maultaschen + Sauerrahmdressing
+Salat mit Maultaschen und Sauerrahmdressing
 :yields: 0
 :category: Salate
 :tags: Hauptgericht;Salat;TODO

@@ -1,7 +1,7 @@
 Gulaschsuppe
 :yields: 6
 :category: Suppen
-:tags: TK; Mikrowelle; Büro
+:tags: TK; Mikrowelle; Büro; Hauptgericht; Vorspeise; skalierbar
 
 700g Rindergulasch; klein würfeln
 # anbraten

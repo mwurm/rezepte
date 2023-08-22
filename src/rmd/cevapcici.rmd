@@ -1,7 +1,8 @@
 Cevapcici
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;Mikrowelle
+:tags: Hauptgericht;Fleisch;Mikrowelle;TK; nur noch garen; Grill; HR; TODO; skalierbar
+:info: TODO:Beilage
 
 500g Hackfleisch (gemischt)
 100g Zwiebel; gewürfelt

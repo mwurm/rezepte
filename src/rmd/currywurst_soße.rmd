@@ -1,7 +1,7 @@
 Currywurst-Soße
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch; TK; DE; skalierbar
 
 1 Zwiebel; Halbringe
 1 Zehe Knoblauch; Scheiben

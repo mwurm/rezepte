@@ -1,7 +1,7 @@
 Nürnberger Bratwürste mit Sauerkraut
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell
+:tags: Hauptgericht;Fleisch;schnell;Grill;DE;Imbiss; skalierbar
 
 1 Pkg Sauerkraut
 # nach Packungsangabe zubereiten

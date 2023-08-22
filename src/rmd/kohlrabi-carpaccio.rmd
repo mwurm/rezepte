@@ -1,7 +1,7 @@
 Kohlrabi-Carpaccio
 :yields: 2
 :category: Salate
-:tags: vegetarisch
+:tags: Low Meat; Vorspeise; Salat; schnell; nur noch anrichten
 
 3 Kohlrabi; gehobelt
 # fächerförmig auf Teller anrichten

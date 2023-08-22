@@ -1,7 +1,7 @@
 Lemon Tagliatelle
 :yields: 2
 :category: Pasta
-:tags: Italien; vegetarisch
+:tags: IT; vegetarisch; schnell; Büro; Hauptgericht; Vorspeise
 
 200g Tagliatelle
 # kochen, Nudelwasser behalten

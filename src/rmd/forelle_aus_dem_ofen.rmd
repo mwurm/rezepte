@@ -1,7 +1,7 @@
 Forelle aus dem Ofen
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch
+:tags: Hauptgericht;Fisch; nur frisch; schnell+Wartezeit; skalierbar
 
 350g Forelle
 50g Butter
@@ -12,5 +12,9 @@ _ Petersilie
 # befüllen
 40ml Weißwein
 
+---
+Beilagen:
+
+* Baguette
 
 

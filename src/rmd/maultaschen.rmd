@@ -1,7 +1,14 @@
 Maultaschen
 :yields: 2
 :category: Fleischgerichte
-:tags: schnell
+:tags: schnell; DE; Beilage; Hauptgericht; Beilage
 
 1 Pkg Maultaschen
 #
+
+---
+* als Suppenbeilage
+* als Hauptgericht: mit Rührei
+* als Salat: <<sec.salat_mit_maultaschen_und_sauerrahmdressing,Salat mit Maultaschen und Sauerrahmdressing>>
+
+

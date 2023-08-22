@@ -1,4 +1,13 @@
 Raclette
 :yields: 0
 :category: Ofengerichte
-:tags: Hauptgericht;Käse;vegetarisch;TODO
+:tags: Hauptgericht;Käse;vegetarisch;TODO;Anlass
+---
+Beilagen:
+
+* Pellkartoffeln
+* Maissalat
+* Karottensalat
+* Feldsalat
+* Karotten-Staudensellerie-Salat
+* Ananasscheiben

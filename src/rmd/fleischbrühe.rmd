@@ -1,7 +1,7 @@
 Fleischbrühe
 :yields: 6
 :category: Suppen
-:tags: TK
+:tags: TK; Mikrowelle; Vorspeise; skalierbar
 
 500g Rindfleisch
 300g Knochen

@@ -1,0 +1,5 @@
+Cremige Auberginensoße für Pasta
+:yields: 0
+:category: Pasta
+:subcategory: Pastasoßen
+:tags: Hauptgericht;vegetarisch;TK;Büro;TODO

@@ -1,7 +1,7 @@
 Lammlachse mit Zitronenkruste
 :yields: 4
 :category: Fleischgerichte
-:tags: Lamm; Frühling; Ostern
+:tags: Lamm; Frühling; Ostern; Hauptgericht; Anlass
 :url: https://www.eatbetter.de/rezepte/lammlachse-mit-kraeuterkruste-aus-dem-backofen
 
 800g Kartoffeln (klein / Drillinge)

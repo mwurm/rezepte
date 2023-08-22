@@ -1,7 +1,7 @@
 Pasta emiliana
 :yields: 3
 :category: Pasta
-:tags: Hauptgericht;schnell;Low Meat
+:tags: Hauptgericht;schnell;Low Meat;Vorspeise
 
 300g Pasta
 # kochen

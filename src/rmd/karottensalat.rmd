@@ -1,7 +1,7 @@
 Karottensalat
 :yields: 4
 :category: Salate
-:tags: Salat
+:tags: Salat; Beilage; leicht; schnell; nur noch aus dem Kühlschrank holen
 
 9 Karotten; gerieben
 0.5 TL Zucker

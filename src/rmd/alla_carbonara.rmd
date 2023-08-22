@@ -1,18 +1,20 @@
 Pasta alla Carbonara
 :yields: 2
 :category: Pasta
-:tags: Italien;schnell
+:tags: IT;schnell;Hauptgericht;Vorspeise;Low Meat
 :indexterms: Pasta, alla Carbonara; Carbonara
 
-
-100g Bauchspeck; feine Streifen
-# langsam anbraten
+100g Bauchspeck^1^; feine Streifen
+# langsam anbraten. ^1^ Originalrezept: Pacetta / Guanciale
 
 200g Pasta
 # kochen
 
-3 Eigelb
-100ml Sahne
-50g Parmesan
+2 Eier
+1 Eigelb
+40g Parmesan
 # verquirlen
-  Pasta nach kochen wieder in heißen Topf geben, mit Carbonara vermengen, Speck zugeben
+  Pasta zu Speck geben, von Herd nehmen, Soße zugeben und verrühren.
+_ Parmesan
+_ Pfeffer
+# bestreuen, servieren

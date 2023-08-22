@@ -1,4 +1,4 @@
 Rehpflanzerl
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;Wild;TODO
+:tags: Hauptgericht;Wild;TODO;DE;ausprobieren

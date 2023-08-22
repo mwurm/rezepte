@@ -1,7 +1,7 @@
 Shakshuka
 :yields: 2
 :category: Vegetarisches
-:tags: Hauptgericht;vegetarisch;leicht
+:tags: Hauptgericht;vegetarisch;leicht; Vorspeise; Frühstück; nur frisch; schnell+Wartezeit
 
 1 Zehe Knoblauch; gehackt
 1 Zwiebel; fein gewürfelt

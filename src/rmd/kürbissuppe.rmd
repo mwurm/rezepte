@@ -2,8 +2,7 @@ Kürbissuppe
 :yields: 6
 :category: Suppen
 :source: chefkoch.de (Badische Kürbissuppe)
-:tags: Suppe; vegetarisch
-
+:tags: Suppe; vegetarisch; TK; Vorspeise; Mikrowelle; Büro; skalierbar
 1kg Kürbis
 2 Kartoffeln
 1 Lauch

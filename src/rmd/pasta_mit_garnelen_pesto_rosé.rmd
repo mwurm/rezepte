@@ -1,7 +1,7 @@
 Pasta mit Garnelen, Pesto und Rosé
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;schnell;
+:tags: Hauptgericht;schnell; Vorspeise; skalierbar; nur frisch; IT
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.73
 
 150g Pasta^1^

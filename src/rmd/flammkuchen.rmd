@@ -1,7 +1,7 @@
 Flammkuchen
 :yields: 2
 :category: Pizza & Co.
-:tags: Elsaß; Frankreich
+:tags: Elsaß; FR; Low Meat; Büro; Hauptgericht
 
 250g Mehl
 1 TL Salz

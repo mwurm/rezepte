@@ -1,7 +1,7 @@
 Pelmeni
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;Schwein;schnell
+:tags: Hauptgericht;Fleisch;Schwein;schnell;RU; skalierbar
 
 400g Pelmeni
 # kochen

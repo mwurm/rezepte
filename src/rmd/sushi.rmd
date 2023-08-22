@@ -1,7 +1,15 @@
 Sushi
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht
+:tags: Hauptgericht;Fisch;leicht;nur frisch; schnell; JP; Büro
 
 2 Pkg Sushi
 #
+
+---
+mögliche Vorspeisen:
+
+* Pak-Choi-Gericht Jamie (TODO)
+* Miso-Suppe
+* Tamagoyaki (japanisches Omelette)
+

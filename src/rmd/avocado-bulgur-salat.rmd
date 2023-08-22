@@ -1,7 +1,7 @@
 Avocado-Bulgur-Salat
 :yields: 2
 :category: Salate
-:tags: vegetarisch
+:tags: vegetarisch; nur noch aus dem Kühlschrank holen; Beilage; Salat; Hauptgericht; Büro
 
 150g Bulgur
 # kochen

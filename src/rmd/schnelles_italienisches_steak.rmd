@@ -1,7 +1,7 @@
 Schnelles italienisches Steak
 :yields: 2
 :category: Fleischgerichte
-:tags: Italien; Low Carb
+:tags: IT; Low Carb; Hauptgericht; schnell
 :source: Jamie Oliver, _5-Zutaten-Küche_
 
 1 EL Pinienkerne
@@ -18,3 +18,6 @@ Schnelles italienisches Steak
 40g Rucola
 15g Parmesan
 # zusammen mit Pinienkernen auf Fleisch geben.
+
+---
+Vorschlag: z.B. als kleines Hauptgericht nach Risotto-Vorspeise

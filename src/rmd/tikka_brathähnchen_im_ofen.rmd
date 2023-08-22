@@ -1,7 +1,7 @@
 Tikka Brathähnchen im Ofen 
 :yields: 4
 :category: Geflügel
-:tags: Hauptgericht;Geflügel
+:tags: Hauptgericht;Geflügel;Asien;nur frisch; nur noch garen
 :source: Jamie Oliver, _5-Zutaten-Küche_, S.98
 :info: Ofen auf 180°C vorheizen
 

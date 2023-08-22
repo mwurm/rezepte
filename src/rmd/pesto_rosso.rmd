@@ -1,7 +1,8 @@
 Pasta mit Pesto Rosso
 :yields: 2
 :category: Pasta
-:tags: vegetarisch;schnell
+:subcategory: Pastasoßen
+:tags: vegetarisch;schnell+Wartezeit;Hauptgericht;Vorspeise;Büro;skalierbar
 
 40g Tomaten (getrocknet, ohne Öl)
 50ml Olivenöl

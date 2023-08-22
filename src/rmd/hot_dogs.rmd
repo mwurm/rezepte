@@ -1,4 +1,4 @@
 Hot Dogs
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;schnell;TODO
+:tags: Hauptgericht;schnell;TODO;Imbiss;US;skalierbar

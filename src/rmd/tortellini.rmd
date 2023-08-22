@@ -1,7 +1,7 @@
 Tortellini
 :yields: 2
 :category: Pasta
-:tags: Pasta; schnell
+:tags: Pasta; schnell; Büro; Hauptgericht; Vorspeise;skalierbar
 
 1 Pkg Tortellini; Fertig-Tortellini von REWE / Djafar
 # 

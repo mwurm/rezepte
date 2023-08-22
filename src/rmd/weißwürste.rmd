@@ -1,7 +1,9 @@
 Weißwürste
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch;DE; Bayern; schnell; Imbiss;skalierbar
 
 _ Weißwürste
+_ süßer Senf
+_ Brezn
 #

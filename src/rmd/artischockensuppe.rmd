@@ -1,7 +1,7 @@
 Artischockensuppe
 :yields: 4
 :category: Suppen
-:tags: vegetarisch
+:tags: vegetarisch; TK; Vorspeise; Mikrowelle; skalierbar
 
 1 Zwiebel; gewürfelt
 # andünsten

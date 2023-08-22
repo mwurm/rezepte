@@ -1,7 +1,7 @@
 Pasta mit Shrimps
 :yields: 2
 :category: Pasta
-:tags: Meeresfrüchte; Pasta; leicht; schnell
+:tags: Meeresfrüchte; Pasta; schnell; Hauptgericht; Vorspeise
 
 1 Pkg Shrimps
 1 TL Currypaste (rot)

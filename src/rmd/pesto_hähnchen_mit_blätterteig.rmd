@@ -1,7 +1,7 @@
 Pesto-Hähnchen mit Blätterteig
 :yields: 2
 :category: Geflügel
-:tags: Hauptgericht;Geflügel
+:tags: Hauptgericht;Geflügel;nur frisch; schnell+Wartezeit
 :source: Jamie Oliver, _5-Zutaten-Küche_, S. 115
 
 2 Hähnchenbrust-Filets; flach gedrückt

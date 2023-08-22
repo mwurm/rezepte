@@ -1,7 +1,7 @@
 Antipasti
 :yields: 8
 :category: Beilagen
-:tags: Italien; vegetarisch; vegan
+:tags: IT; vegetarisch; vegan; Hauptgericht; Vorspeise; Beilagen; Biergarten
 
 4 Zucchini; Scheiben
 1 Aubergine; Scheiben

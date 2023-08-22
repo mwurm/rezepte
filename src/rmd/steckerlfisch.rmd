@@ -1,7 +1,7 @@
 Steckerlfisch
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch
+:tags: Hauptgericht;Fisch; nur frisch; Biergarten; DE; Bayern
 
 _ Steckerlfisch
 # vom Imbiss / Biergarten holen

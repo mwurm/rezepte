@@ -1,7 +1,7 @@
 Spare Ribs
 :yields: 2
 :category: Fleischgerichte
-:source: Biergarten
+:source: Biergarten; Hauptgericht; US; skalierbar
 
 _ Spare Ribs
 # im Biergarten holen

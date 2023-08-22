@@ -1,7 +1,7 @@
 Gulasch
 :yields: 8
 :category: Fleischgerichte
-:tags: Österreich; TK; Mikrowelle; Büro
+:tags: AT; TK; Mikrowelle; Büro; Hauptgericht; skalierbar
 
 800g Zwiebeln; gewürfelt
 2 Knoblauchzehe; gepresst

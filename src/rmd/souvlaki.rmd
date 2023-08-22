@@ -1,4 +1,10 @@
 Souvlaki
 :yields: 0
 :category: Fleischgerichte
-:tags: Hauptgericht;ohne Beilage;Fleisch;TODO
+:tags: Hauptgericht;ohne Beilage;Fleisch;TODO;GR;Grill
+
+---
+Beilagen:
+
+* Tomatenreis
+* Ofenkartoffeln

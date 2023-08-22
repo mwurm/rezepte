@@ -1,7 +1,7 @@
 Pilztopf
 :yields: 4
 :category: Eintöpfe
-:tags: Low Meat
+:tags: Low Meat; Hauptgericht; Büro; Mikrowelle; schnell+Wartezeit; nur noch garen
 
 175g Speck; würfeln
 2 Zwiebeln

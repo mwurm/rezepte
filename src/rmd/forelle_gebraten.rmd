@@ -1,7 +1,7 @@
 Forelle, gebraten
 :yields: 0
 :category: Fisch
-:tags: Hauptgericht;Fisch;Low Carb
+:tags: Hauptgericht;Fisch;Low Carb; Grill; skalierbar; nur frisch; schnell
 
 ---
 Grill: 

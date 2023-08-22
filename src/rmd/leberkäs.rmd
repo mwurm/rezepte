@@ -1,9 +1,12 @@
 Leberkäs
 :yields: 1
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell mit Garzeit
+:tags: Hauptgericht;Fleisch;schnell+Wartezeit;skalierbar
 
 200g Leberkäs
+_ Brezn
+_ süßer Senf
+_ Kartoffelsalat
 # backen
 
 

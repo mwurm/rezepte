@@ -1,7 +1,7 @@
 Bosna-Semmel
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell
+:tags: Hauptgericht;Fleisch;schnell;AT;Grill;Imbiss; skalierbar
 
 1 rote Zwiebel; fein würfeln
 2 EL Aceto balsamico

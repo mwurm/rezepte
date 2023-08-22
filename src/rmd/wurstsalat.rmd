@@ -1,7 +1,7 @@
 Wurstsalat
 :yields: 3
 :category: Salate
-:tags: Deutschland
+:tags: DE; nur noch aus dem Kühlschrank holen; Salat; Hauptgericht; Biergarten; Büro;skalierbar
 :source: Erzsi / Erika
 
 1 EL Rotweinessig

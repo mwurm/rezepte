@@ -1,7 +1,7 @@
 Sahara-Chili
 :yields: 4
 :category: Eintöpfe
-:tags: Hauptgericht;Fleisch
+:tags: Hauptgericht;Fleisch; Mikrowelle; Büro; US; skalierbar
 
 900g Rinderhackfleisch
 2 TL Zwiebelpulver

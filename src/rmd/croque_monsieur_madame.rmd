@@ -1,7 +1,7 @@
 Croque Monsieur / Madame
 :yields: 4
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell mit Aufheizzeit
+:tags: Hauptgericht;Fleisch;schnell+Wartezeit; FR; Imbiss
 
 # Backofen auf 180°C vorheizen (⎇ alternative: Toasts in Butter anbraten)
 

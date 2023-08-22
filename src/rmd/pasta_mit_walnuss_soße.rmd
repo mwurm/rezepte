@@ -2,7 +2,7 @@ Pasta mit Walnuss-Soße für Nudeln
 :yields: 4
 :category: Pasta
 :source: chefkoch / grüner Ordner
-:tags: Pasta; leicht; schnell
+:tags: Pasta;  schnell; Vorspeise; vegetarisch
 
 2 Zehen Knoblauch; gehackt
 2 Zwiebeln; würfeln

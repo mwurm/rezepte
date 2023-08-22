@@ -1,4 +1,4 @@
 Halloumi-Pilz-Paprika-Spieße
 :yields: 0
 :category: Vegetarisches
-:tags: vegetarisch;leicht;Low Carb;schnell;TODO
+:tags: vegetarisch;leicht;Low Carb;TODO; Hauptgericht; Beilage; Grill; nur noch garen;vegetarisch

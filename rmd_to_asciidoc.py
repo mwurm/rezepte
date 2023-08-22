@@ -6,6 +6,13 @@ import glob
 import json
 
 from rotunicode import rudecode
+import emoji
+
+def replace_country_codes_with_emoji(text):
+    country_codes = ['US', 'GB', 'DE', 'IN', 'FR', 'IT', 'AT', 'JP', 'RU', 'HU', 'ES', 'GR', 'CH', 'HR']  # Add more country codes as needed
+    for code in country_codes:
+        text = text.replace(code, emoji.emojize(f':flag_for_{code}:'))
+    return text
 
 basic_ingredients_regexes = [
     "Ahornsirup",
@@ -14,6 +21,7 @@ basic_ingredients_regexes = [
     "Tomatenmark",
     "Butter",
     "Ei",
+    "Eier",
     "Eigelb",
     "Eiweiß",
     "Eiklar",
@@ -212,7 +220,7 @@ indexterm:[{self.name}]
         out_str += f"""
 {caption} {"💥" if "ausprobieren" in self.tags else ""}{"📋" if "TODO" in self.tags else ""}{self.name}
 
-Portionen: {self.yields}{f", Stichwörter: {', '.join(self.tags)}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
+Portionen: {self.yields}{f", Stichwörter: {', '.join(replace_country_codes_with_emoji(self.tags))}" if self.tags else ""}{f", Quelle: {self.source}" if self.source else ""}{f", URL: {self.url}" if self.url else ""}
 """
         if self.info:
             out_str += f"""

@@ -1,7 +1,7 @@
 Dorade vom Grill
 :yields: 1
 :category: Fisch
-:tags: leicht;Low Carb
+:tags: leicht;Low Carb; Hauptgericht; Grill; skalierbar; nur frisch; schnell+Wartezeit
 
 1 Dorade Royal
 # Fisch außen und in Bachhöhle salzen

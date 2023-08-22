@@ -1,7 +1,7 @@
 Omelett mit Tomate und Mozarella
 :yields: 2
 :category: Vegetarisches
-:tags: Italien; Low Carb
+:tags: IT; Low Carb; Hauptgericht; Vorspeise; nur frisch; ; vegetarisch; Frühstück
 :source: Jamie Oliver, _5-Zutaten-Küche_ S. 77 "gerührtes Omelett"
 
 350g Tomaten (bunte); in dünnen Scheiben

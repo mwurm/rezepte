@@ -1,4 +1,4 @@
 Falafelsalat mit Tahin-Dressing
 :yields: 0
 :category: Salate
-:tags: Hauptgericht;vegetarisch;Salat;leicht;TODO
+:tags: Hauptgericht;vegetarisch;Salat;leicht;TODO; nur noch anrichten; Vorspeise

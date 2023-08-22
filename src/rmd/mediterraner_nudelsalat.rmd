@@ -2,7 +2,7 @@ Mediterraner Nudelsalat
 :yields: 4
 :category: Salate
 :source: Waldenberger
-:tags: vegetarisch;Büro
+:tags: vegetarisch;Büro; nur noch aus dem Kühlschrank holen; Beilage; Hauptgericht; Salat; skalierbar
 
 300g Nudeln
 # kochen

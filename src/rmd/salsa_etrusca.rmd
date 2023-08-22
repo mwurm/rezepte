@@ -1,7 +1,8 @@
 Salsa Etrusca
 :yields: 4
 :category: Pasta
-:tags: Italien;schnell;ausprobieren
+:subcategory: Pastasoßen
+:tags: IT;schnell;ausprobieren; vegetarisch;Hauptgericht;Vorspeise
 
 1 Ei; hartgekocht
 80g Pecorino

@@ -2,7 +2,7 @@ Brioche
 :yields: 4
 :category: Mehlspeisen
 :url: https://www.youtube.com/watch?v=jYg0rpwpAp4
-:tags: Frühstück; süß; Frankreich
+:tags: Frühstück; süß; FR
 
 # Butter aus Kühlschrank nehmen (siehe unten)
 420g Mehl

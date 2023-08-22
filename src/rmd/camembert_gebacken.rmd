@@ -1,8 +1,9 @@
 Camembert, gebacken
 :yields: 2
 :category: Ofengerichte
-:tags: Hauptgericht;Käse;vegetarisch;schnell mit Aufheizzeit
+:tags: Hauptgericht;Käse;vegetarisch;schnell+Wartezeit; skalierbar
 :indexterms: Gebackener Camembert
 
 4 panierte Camembert
+_ Preiselbeer-Kompott
 #
