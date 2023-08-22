@@ -370,35 +370,35 @@ endif::[]""")
 """)
 
         config = [
-            ['kalte Küche', None, ['nur noch aus dem Kühlschrank holen'], []],
-            ['veg+', 'nur noch aufwärmen', ['nur noch aufwärmen', 'veg+'], []],
-            ['veg+', 'nur noch garen', ['nur noch garen', 'veg+'], []],
-            ['veg+', 'nur noch aufwärmen', ['nur noch aufwärmen','veg+'], []],
-            ['veg+', 'nur noch anrichten', ['nur noch anrichten','veg+'], []],
+            ['kalte Küche', 'nur noch servieren', ['nur noch aus dem Kühlschrank holen'], []],
             ['veg+', 'schnell', ['schnell','veg+'], []],
             ['veg+', 'schnell+Wartezeit', ['schnell+Wartezeit','veg+'], []],
+            ['veg+', 'nur noch aufwärmen', ['nur noch aufwärmen', 'veg+'], []],
+            ['veg+', 'nur noch anrichten', ['nur noch anrichten','veg+'], []],
+            ['veg+', 'nur noch garen', ['nur noch garen', 'veg+'], []],
+            ['veg+', 'zeitintensiv', ['veg+'], ['schnell', 'schnell+Wartezeit', 'nur noch aufwärmen', 'nur noch anrichten', 'nur noch garen']],
             ['veg+', 'wenig Käse', ['veg+'], ['Käse']],
-            ['Geflügel', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Geflügel'], []],
-            ['Geflügel', 'nur noch garen', ['nur noch garen', 'Geflügel'], []],
-            ['Geflügel', 'nur noch aufwärmen', ['nur noch aufwärmen','Geflügel'], []],
-            ['Geflügel', 'nur noch anrichten', ['nur noch anrichten','Geflügel'], []],
             ['Geflügel', 'schnell', ['schnell','Geflügel'], []],
             ['Geflügel', 'schnell+Wartezeit', ['schnell+Wartezeit','Geflügel'], []],
-            ['Fisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fisch'], []],
-            ['Fisch', 'nur noch garen', ['nur noch garen', 'Fisch'], []],
-            ['Fisch', 'nur noch aufwärmen', ['nur noch aufwärmen','Fisch'], []],
-            ['Fisch', 'nur noch anrichten', ['nur noch anrichten','Fisch'], []],
+            ['Geflügel', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Geflügel'], []],
+            ['Geflügel', 'nur noch anrichten', ['nur noch anrichten','Geflügel'], []],
+            ['Geflügel', 'nur noch garen', ['nur noch garen', 'Geflügel'], []],
+            ['Geflügel', 'zeitintensiv', ['Geflügel'], ['schnell', 'schnell+Wartezeit', 'nur noch aufwärmen', 'nur noch anrichten', 'nur noch garen']],
             ['Fisch', 'schnell', ['schnell','Fisch'], []],
             ['Fisch', 'schnell+Wartezeit', ['schnell+Wartezeit','Fisch'], []],
-            ['Fleisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fleisch'], []],
-            ['Fleisch', 'nur noch garen', ['nur noch garen', 'Fleisch'], []],
-            ['Fleisch', 'nur noch aufwärmen', ['nur noch aufwärmen','Fleisch'], []],
-            ['Fleisch', 'nur noch anrichten', ['nur noch anrichten','Fleisch'], []],
+            ['Fisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fisch'], []],
+            ['Fisch', 'nur noch anrichten', ['nur noch anrichten','Fisch'], []],
+            ['Fisch', 'nur noch garen', ['nur noch garen', 'Fisch'], []],
+            ['Fisch', 'zeitintensiv', ['Fisch'], ['schnell', 'schnell+Wartezeit', 'nur noch aufwärmen', 'nur noch anrichten', 'nur noch garen']],
             ['Fleisch', 'schnell', ['schnell','Fleisch'], []],
             ['Fleisch', 'schnell+Wartezeit', ['schnell+Wartezeit','Fleisch'], []],
-            ['leicht', ['leicht'], []],
-            ['schnell+leicht', ['schnell', 'leicht'], []],
-            ['!(schnell+leicht)', [], ['schnell', 'leicht']]
+            ['Fleisch', 'nur noch aufwärmen', ['nur noch aufwärmen', 'Fleisch'], []],
+            ['Fleisch', 'nur noch anrichten', ['nur noch anrichten','Fleisch'], []],
+            ['Fleisch', 'nur noch garen', ['nur noch garen', 'Fleisch'], []],
+            ['Fleisch', 'zeitintensiv', ['Fleisch'], ['schnell', 'schnell+Wartezeit', 'nur noch aufwärmen', 'nur noch anrichten', 'nur noch garen']],
+            ['leicht', None, ['leicht'], []],
+            ['schnell+leicht', None, ['schnell', 'leicht'], []],
+            ['!(schnell+leicht)', None, [], ['schnell', 'leicht']]
         ]
 
         tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
@@ -406,10 +406,14 @@ endif::[]""")
 
         hauptgerichte = [recipe for recipe in filter(lambda rec: 'Hauptgericht' in rec.tags, self.recipes)]
 
+        current_section = None
+
         for c in config:
             gefilterte_rezepte = [recipe for recipe in filter(lambda rec: all(item in rec.tags for item in c[2]) and not set(c[3]).intersection(set(rec. tags)) , hauptgerichte)]
 
-            f.write(f"\n== {c[0]}\n\n")
+            if c[0] != current_section:    
+                f.write(f"\n== {c[0]}\n\n")
+                current_section = c[0]
 
             if c[1] is not None:
                 f.write(f"\n=== {c[1]}\n\n")
