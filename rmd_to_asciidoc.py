@@ -8,10 +8,13 @@ import json
 from rotunicode import rudecode
 import emoji
 
+
 def replace_country_codes_with_emoji(text):
-    country_codes = ['US', 'GB', 'DE', 'IN', 'FR', 'IT', 'AT', 'JP', 'RU', 'HU', 'ES', 'GR', 'CH', 'HR']  # Add more country codes as needed
-    for code in country_codes:
-        text = text.replace(code, emoji.emojize(f':flag_for_{code}:'))
+    country_codes = ['US', 'GB', 'DE', 'IN', 'FR', 'IT', 'AT', 'JP', 'RU', 'HU', 'ES', 'GR', 'CH', 'HR']
+    
+    # emojis derzeit nicht in asciidoc unterstützt
+    # for code in country_codes:
+    #    text = text.replace(code, emoji.emojize(f'flag:{code.lower()}[rectangle, xs]'))
     return text
 
 basic_ingredients_regexes = [
