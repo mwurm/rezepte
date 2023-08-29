@@ -1,6 +1,6 @@
 Weiße-Bohnen-Salat mit Thunfisch
 :yields: 2
-:category: Salat
+:category: Salate
 :tags: Hauptgericht; Vorspeise; nur frisch; nur noch aus dem Kühlschrank holen; vegetarisch; ausprobieren; TODO
 :source: J.O., _5-Z-K_, S. 22
 

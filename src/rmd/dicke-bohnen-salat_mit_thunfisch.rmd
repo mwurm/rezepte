@@ -1,11 +1,11 @@
 Dicke-Bohnen-Salat
 :yields: 2
-:category: Salat
+:category: Salate
 :tags: Hauptgericht; Vorspeise; nur frisch; nur noch aus dem Kühlschrank holen; vegetarisch; ausprobieren; TODO
 :source: J.O., _5-Z-K_, S. 28
 
 1/2 rote Zwiebel
-I Staudensellerie (nur die zarten inneren Stangen)
+1 Staudensellerie (nur die zarten inneren Stangen)
 1/2 Bund elatte Petersilie (15 g)
 1/2 Glas weiße Bohnen (à 660 g)
 1 Glas Thunfisch in Öl (220 g)
