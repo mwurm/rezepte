@@ -1,5 +1,29 @@
 Kichererbsen-Curry
-:yields: 0
+:yields: 2
 :category: Vegetarisches
-:tags: vegetarisch;leicht;Low Carb;Mikrowelle;Büro;TODO
-:source: Bild der Frau (Anne)
+:tags: Hauptgericht;skalierbar;TK;vegan;leicht;Low Carb;Mikrowelle;Büro;nur noch garen
+:sourcex: Bild der Frau (Anne)
+
+4 Lauchzwiebeln; Ringe
+2 TL Sesamöl
+2 TL Curry
+2 TL gelbe Currypaste
+2 TL Cumin
+# andünsten
+
+400ml Kokosmilch (leicht)
+2 Karotten; dicke Scheiben
+125g Champignons; halbiert
+1 grüne Paprika; grob gewürfelt
+# zugeben, 10min köcheln
+
+1/3 Limette; Saft
+_ Salz
+# abschmecken
+
+125g Kichererbsen (vorgegart)
+# zugeben, erwärmen
+
+
+
+
