@@ -1,4 +1,33 @@
 Zucchini mit Hack und Linsen
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;leicht;TODO; Low Meat; nur noch garen
+:tags: Hauptgericht;Fleisch;leicht; Low Meat; nur noch garen
+:info: vorheizen auf 160°C Umluft
+
+2 Zucchini; halbiert, ausgehöhlt
+# Zucchini-Fruchtfleisch hacken
+
+120g Rinderhack
+1 TL Olivenöl
+# anbraten, herausnehmen
+
+2 Schalotten; gewürfelt
+# im Bratfett andünsten
+
+250g Tomaten; gestückelt
+# zugeben
+
+100g rote Linsen (gegart)
+_ Salz+Pfeffer
+# zusammen mit Zucchini-Fruchtfleisch unterheben, würzen, 10min köcheln
+  Hackfleisch unterheben
+# Zucchinihälften in geölte Reine geben
+  mit Linsenhackmischung füllen
+  20min im Backofen garen
+
+
+
+
+
+
+
