@@ -1,5 +1,22 @@
 Cremige Auberginensoße für Pasta
-:yields: 0
+:yields: 4
 :category: Pasta
 :subcategory: Pastasoßen
-:tags: Hauptgericht;vegetarisch;TK;Büro;TODO
+:tags: Hauptgericht;vegetarisch;TK;Büro;schnell+Wartezeit;skalierbar
+:info: vorheizen auf 200°C Umluft
+
+2 EL Olivenöl
+1 Aubergine; halbiert
+10 Cocktail-Tomaten
+2 Zehen Knoblauch; ganz
+0.5 TL Paprikapulver
+1 TL Oregano; gerebelt
+_ Salz+Pfeffer
+# in Reine 25min backen
+
+150g Crème fraîche
+# zugeben, pürieren
+100ml Pastawasser
+# zugeben, verrühren, mit Pasta vermengen
+  (wenn später das Gericht mit Pasta zubereitet wird)
+# Servieren: mit Parmesan + Basilikum  
