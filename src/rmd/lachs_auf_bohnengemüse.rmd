@@ -1,4 +1,28 @@
 Lachs auf Bohnengemüse
-:yields: 0
+:yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht;TODO
+:tags: Hauptgericht;Fisch;leicht;nur frisch;Low Carb
+
+300g grüne Bohnen
+_ Salz
+# in kochendem Salzwasser 10min kochen
+
+250g Lachsfilet
+_ Salz+Pfeffer
+2 TL Olivenöl
+# würzen und braten, je Seite ca. 3min
+
+2 TL Zitronenschale; Abrieb
+# Lachs aus Pfanne nehmen und bestreuen
+
+2 rote Zwiebeln; Spalten
+# zusammen mit den grünen Bohnen im Bratfett 5min dünsten
+
+4 EL Zitrone; Saft
+# ablöschen
+
+4 EL Schmand
+2 TL körniger Senf
+_ Salz+Pfeffer
+# zugeben und einrühren, abschmecken
+# Anrichten: Lachs auf das Bohnengemüse anrichten
