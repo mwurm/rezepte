@@ -4,10 +4,12 @@ Dressing mit Preiselbeeren
 :subcategory: Dressing
 :tags: Dressing
 
-1 EL Preiselbeeren
-2 EL ÖL
-3 EL Aceto balsamico
+45ml Aceto balsamico
 1 TL Senf
 1 TL Salz
 # verrühren
+
+30ml ÖL
+1 EL Preiselbeeren
+# zugeben, weiterrühren
 
