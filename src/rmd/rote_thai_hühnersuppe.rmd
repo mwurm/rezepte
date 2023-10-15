@@ -5,12 +5,12 @@ Rote Thai Hühnersuppe
 
 1600g Hähnchen
 1200g Butternut-Kürbis; würfeln
-1 Bd Koriandergrün (Stiele); gehackt
+1 Bd Koriandergrün^1^; gehackt
 100g rote Thai-Currypaste
 400g Kokosmilch (fettreduziert)
 1l Wasser
 # 1h20min im Topf garen
 # Hähnchen aus Topf nehmen, Fleisch kleinschneiden und zurück in die Suppe geben
 
-1 Bd Koriandergrün (Blätter)
-# Suppe garnieren
+---
+^1^ opt. ein paar Blätter zum Garnieren übrig lassen
