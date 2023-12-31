@@ -52,7 +52,7 @@ if __name__ == '__main__':
     # Hole Bearer Token
     data = {
         "username": "changeme@email.com",
-        "password": "demo"
+        "password": "MyPassword"
     }
     response = requests.post("https://demo.mealie.io/api/auth/token", data=data)
     json_data = json.loads(response.text)
