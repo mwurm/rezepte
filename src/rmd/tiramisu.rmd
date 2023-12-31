@@ -1,6 +1,30 @@
 Tiramisu
-:yields: 4
+:yields: 3
 :category: Desserts
-:tags: TODO
+:source: Galbani
+:url: https://www.galbani.de/rezepte/tiramisu-das-originalrezept/
+:tags: Schokolade; süß
 
-# Kochbuchordner
+3 Eigelb
+75g Zucker
+# schaumig schlagen
+
+250 g Mascarpone
+50ml Amaretto
+# zugeben, weiterschlagen
+
+3 Eiklar
+# zu Schnee schlagen und unter Marcarpone-Creme heben.
+
+2 Espresso
+10ml Amaretto
+150g Löffelbiskuits
+# jeweils ein Biskuit mit 1TL Espresso-Amaretto-Mischung beträufeln.
+  In quadratisch Kahlaschüssel^1^: 1. wenig Mascarpone-Creme auf Boden geben 2.-5. Biskuit - Mascarpone - Biskuit - Maskarpone
+  2h kalt stellen
+
+_ Kakaopulver, ungesüßt
+# Tiramisu bestäuben
+
+---
+^1^Die Schüsseln hintereinander anrichten, schwer einzuschätzen für wie viele Schüsseln es reicht (dann gibt es am Ende zu wenig Creme für alle).
