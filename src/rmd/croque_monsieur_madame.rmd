@@ -9,7 +9,8 @@ Croque Monsieur / Madame
 # aufkochen
 120g Appenzeller; gerieben
 # mit Sahne verrühren
-50g Butter # erhitzen
+50g Butter
+# erhitzen
 
 8 Scheiben Toast; ungetoastet
 8 Scheiben Emmentaler
