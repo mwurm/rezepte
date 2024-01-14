@@ -1,5 +1,6 @@
 Sushi
 :yields: 2
+:ausblenden: true
 :category: Fisch
 :tags: Hauptgericht;Fisch;leicht;nur frisch; schnell; JP; Büro
 

@@ -1,5 +1,6 @@
 Toast Hawaii
 :yields: 2
+:ausblenden: true
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;Schwein;schnell+Wartezeit;Imbiss;DE
 :info: Backofen auf 170°C Umluft vorheizen

@@ -31,6 +31,9 @@ basic_ingredients_regexes = [
     "Milch",
     "Salz",
     "Pfeffer",
+    "Salz+Pfeffer",
+    "Curry",
+    "Currypulver"
     "Mehl",
     "Cumin",
     "Muskat",
@@ -192,6 +195,8 @@ class Recipe:
         self.instructions_with_ingredients = instructions_with_ingredients
         self.asciidoc_footer = asciidoc_footer
         self.info = None if 'info' not in attributes else attributes['info']
+        self.ausblenden = False if 'ausblenden' not in attributes \
+            else attributes['ausblenden'].lower() in ['true', '1', 'yes', 'j', 'ja', 't', 'y']
         self.add_autotags_and_sort()
 
     def add_autotags_and_sort(self):
@@ -319,7 +324,7 @@ class Cookbook:
 
         for category in cookbook_categories:
             f.write(f"== {category}\n\n")
-            for recipe in sorted(filter(lambda rec: rec.category == category and rec.subcategory is None, self.recipes), key=lambda r: r.name):
+            for recipe in sorted(filter(lambda rec: rec.ausblenden == False and rec.category == category and rec.subcategory is None, self.recipes), key=lambda r: r.name):
                 f.write(recipe.to_asciidoc_section("==="))
 
         

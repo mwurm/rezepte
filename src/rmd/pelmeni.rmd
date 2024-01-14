@@ -1,5 +1,6 @@
 Pelmeni
 :yields: 2
+:ausblenden: true
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;Schwein;schnell;RU; skalierbar
 

@@ -1,5 +1,6 @@
 Wiener
 :yields: 2
+:ausblenden: true
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch; DE;  Imbiss;skalierbar
 

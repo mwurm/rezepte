@@ -1,5 +1,6 @@
 Weißwürste
 :yields: 2
+:ausblenden: true
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;DE; Bayern; schnell; Imbiss;skalierbar
 

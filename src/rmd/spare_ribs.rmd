@@ -1,5 +1,6 @@
 Spare Ribs
 :yields: 2
+:ausblenden: true
 :category: Fleischgerichte
 :source: Biergarten; Hauptgericht; US; skalierbar
 

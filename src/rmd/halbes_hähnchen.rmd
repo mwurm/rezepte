@@ -1,5 +1,6 @@
 Halbes Hähnchen
 :yields: 2
+:ausblenden: true
 :category: Geflügel
 :tags: Hauptgericht;schnell; Biergarten
 

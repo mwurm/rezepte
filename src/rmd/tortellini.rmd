@@ -1,5 +1,6 @@
 Tortellini
 :yields: 2
+:ausblenden: true
 :category: Pasta
 :tags: Pasta; schnell; Büro; Hauptgericht; Vorspeise;skalierbar
 

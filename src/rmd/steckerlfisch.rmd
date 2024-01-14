@@ -1,5 +1,6 @@
 Steckerlfisch
 :yields: 2
+:ausblenden: true
 :category: Fisch
 :tags: Hauptgericht;Fisch; nur frisch; Biergarten; DE; Bayern
 
