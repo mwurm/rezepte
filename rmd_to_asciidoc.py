@@ -31,7 +31,7 @@ basic_ingredients_regexes = [
     "Milch",
     "Salz",
     "Pfeffer",
-    "Salz+Pfeffer",
+    "Salz\\+Pfeffer",
     "Curry",
     "Currypulver"
     "Mehl",
