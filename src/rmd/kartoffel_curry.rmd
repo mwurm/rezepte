@@ -3,11 +3,11 @@ Kartoffel-Curry
 :category: Aufläufe
 :tags: Hauptgericht;vegetarisch;leicht;TODO;ausprobieren
 
-2.5 TL gem. Koriander
-1 TL gem. Kreuzkümmel
-2 TL gem. Kurkuma
-1 Prise gem. Nelken
-1 Prise frisch gem. Muskatnuss
+2.5 TL Koriander, gem.
+1 TL Kreuzkümmel, gem.
+2 TL Kurkuma, gem.
+1 Prise Nelken, gem.
+1 Prise Muskat, gemahlen
 4 EL Olivenöl
 1 Zwiebel, gehackt
 4 Knoblauchzehen, fein gehackt

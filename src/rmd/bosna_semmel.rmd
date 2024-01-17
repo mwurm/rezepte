@@ -3,7 +3,7 @@ Bosna-Semmel
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch;schnell;AT;Grill;Imbiss; skalierbar
 
-1 rote Zwiebel; fein würfeln
+1 Zwiebeln, rot; fein würfeln
 2 EL Aceto balsamico
 0.5 TL Salz
 # 15min ziehen lassen (macht die Zwiebeln milder)
