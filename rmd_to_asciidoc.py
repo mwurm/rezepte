@@ -73,7 +73,19 @@ basic_ingredients_regexes = [
     "Fleischbrühe",
     "Gemüsebrühe",
     "Hühnerbrühe",
-    "Brühe"
+    "Brühe",
+    "Knoblauchgranulat",
+    "Knoblauchpulver",
+    "Zwiebelgranulat",
+    "Zwiebelpulver",
+    "Curry",
+    "Currypulver",
+    "Cayennepfeffer",
+    "Chilipulver",
+    "Hühnerbrühpulver",
+    "Hühnerbrühgranulat",
+    "Brühpulver",
+    "Brühgranulat"
 ]
 
 ingredient_to_tag = {
