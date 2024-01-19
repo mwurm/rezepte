@@ -1,7 +1,7 @@
 Warmer Linsensalat mit Sardellen
 :yields: 4
 :category: Salate
-:tags: Hauptgericht; Vorspeise; nur frisch; vegetarisch; ausprobieren; TODO
+:tags: Hauptgericht; Vorspeise; nur frisch; ausprobieren; TODO
 :source: J.O., _5-Z-K_, S. 36
 
 1 Dose Sardellen in Öl (50 g)

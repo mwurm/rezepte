@@ -1,7 +1,7 @@
 Lecsó
 :yields: 4
 :category: Vegetarisches
-:tags: vegetarisch;leicht;Low Carb;Mikrowelle;Büro
+:tags: leicht;Low Carb;Mikrowelle;Büro
 :source: Erzsi
 
 3 Zwiebeln; gewürfelt
