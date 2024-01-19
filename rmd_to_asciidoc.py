@@ -312,7 +312,7 @@ class Cookbook:
         with open(f"{directory}/{filename}", "w") as f:
             json.dump(recipes_dict, f, indent=4)
 
-    def write_to_adoc(self, directory, filename):
+    def write_to_adoc(self, directory, filename, cookbook_categories = ["Appetithäppchen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Eintöpfe", "Aufläufe", "Ofengerichte", "Reisgerichte", "Fleischgerichte", "Geflügel", "Fisch", "Vegetarisches", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen", "Basis", "Beilagen"]):
         if not os.path.exists(directory):
            os.makedirs(directory)
 
@@ -336,10 +336,6 @@ class Cookbook:
         tags = sorted(set([item for sublist in [r.tags for r in self.recipes] for item in sublist]), key=lambda t: t.lower())
         f.write(f"Stichwörter: {'; '.join(list(tags))}\n\n")
 
-        cookbook_categories = ["Appetithäppchen", "Salate", "Suppen", "Pasta", "Pizza & Co.", "Eintöpfe", "Aufläufe", "Ofengerichte", "Reisgerichte", "Fleischgerichte", "Geflügel", "Fisch", "Vegetarisches", "Desserts", "Mehlspeisen", "Gebäck", "Kuchen", "Basis", "Beilagen"]
-        for recipe in self.recipes:
-            if recipe.category not in cookbook_categories:
-                raise Exception(f"Recipe {recipe.name} uses unknown category {recipe.category}")                
 
         for category in cookbook_categories:
             f.write(f"== {category}\n\n")
@@ -526,6 +522,9 @@ if __name__ == '__main__':
     cookbook = Cookbook(recipes)
     
     cookbook.write_to_adoc(".", "index.adoc")
+    cookbook.write_to_adoc(".", "hauptgerichte.adoc", ["Suppen", "Pasta", "Pizza & Co.", "Eintöpfe", "Aufläufe", "Ofengerichte", "Reisgerichte", "Fleischgerichte", "Geflügel", "Fisch", "Vegetarisches"])
+    cookbook.write_to_adoc(".", "basis_und_beilagen.adoc", ["Salate", "Basis", "Beilagen"])
+    cookbook.write_to_adoc(".", "nachspeisen_und_snacks.adoc", ["Desserts", "Mehlspeisen", "Gebäck", "Kuchen", "Appetithäppchen"])
     cookbook.write_tagbook_to_adoc(".", "tagbook.adoc")
     cookbook.write_json_metadata(".", "recipes-metadata.json")
 
