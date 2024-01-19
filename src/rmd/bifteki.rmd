@@ -1,24 +1,24 @@
 Bifteki
-:yields: 0
+:yields: 3
 :category: Fleischgerichte
 :tags: Hauptgericht;Fleisch; GR; Grill; TK; nur noch garen
 
 
-800g Rinderhackfleisch
-1 Zwiebel; gewürfelt
-1 Tomate; gehackt
-3 EL Smoking Zeus
-1 Ei
-2 EL Olivenöl
-1 TL Salz
-1 TL Pfeffer
+400g Rinderhackfleisch
+0.5 Zwiebel; gewürfelt
+0.5 Tomate; gehackt
+1.5 EL Smoking Zeus
+0.5 Ei
+1 EL Olivenöl
+0.5 TL Salz
+0.5 TL Pfeffer
 0.5 Zitrone (Saft)
 # verkneten
 
-1 rote Peperoni
-2 EL Petersilie
-1 Feta; halbiert, in Scheiben
-# zu 6 Bifteki rollen, flachdrücken
+0.5 rote Peperoni
+1 EL Petersilie
+100g Feta; halbiert, in Scheiben
+# zu 3 Bifteki rollen, flachdrücken
 
 
 ---

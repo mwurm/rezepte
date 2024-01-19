@@ -1,7 +1,20 @@
 Souvlaki
-:yields: 0
+:yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;ohne Beilage;Fleisch;TODO;GR;Grill
+:tags: Hauptgericht;ohne Beilage;Fleisch;GR;Grill
+
+200g Schweinelachs/-rücken
+# in Rechtecke schneiden
+
+0.5 Zitrone; Saft
+1 Zehe Knoblauch
+1 TL Organo
+0.5 TL Pfeffer
+1 EL Olivenöl
+# Fleisch 3h marinieren (ohne Salz!)
+  Aufspießen. Pro Seite 2-3m grillen.
+
+
 
 ---
 Beilagen:
