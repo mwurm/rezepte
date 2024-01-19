@@ -1,4 +1,22 @@
 Indischer Eintopf
-:yields: 0
+:yields: 2
 :category: Eintöpfe
-:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro;TODO; Asien
+:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro; Asien
+
+1 Zwiebeln; gewürfelt
+# in Öl andünsten
+2 Tomaten; gewürfelt
+300g Pilze; Scheiben
+2 EL Tomatenmark
+Salz+Pfeffer
+2 TL Currypaste, gelb
+125g Ebly
+2 Zucchini; Scheiben
+300g Blumenkohl (TK)
+200ml Gemüsebrühe
+# zugeben, 15 min köcheln
+
+60g saure Sahne
+1TL Cumin
+Salz+Pfeffer
+# zugeben, abschmecken
