@@ -31,7 +31,7 @@ basic_ingredients_regexes = [
     "Milch",
     "Salz",
     "Pfeffer",
-    "Salz\+Pfeffer",
+    "Salz ?\+ ?Pfeffer",
     "Curry",
     "Currypulver"
     "Mehl",
@@ -85,7 +85,14 @@ basic_ingredients_regexes = [
     "Hühnerbrühpulver",
     "Hühnerbrühgranulat",
     "Brühpulver",
-    "Brühgranulat"
+    "Brühgranulat",
+    "Pastawasser",
+    "Nudelwasser",
+    "Majoran",
+    "Lorbeerblatt",
+    "Lorbeer",
+    "Lorbeeren"
+
 ]
 
 ingredient_to_tag = {
