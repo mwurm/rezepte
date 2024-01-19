@@ -8,7 +8,7 @@ Indischer Eintopf
 2 Tomaten; gewürfelt
 300g Pilze; Scheiben
 2 EL Tomatenmark
-Salz+Pfeffer
+_ Salz+Pfeffer
 2 TL Currypaste, gelb
 125g Ebly
 2 Zucchini; Scheiben
@@ -18,5 +18,5 @@ Salz+Pfeffer
 
 60g saure Sahne
 1TL Cumin
-Salz+Pfeffer
+_ Salz+Pfeffer
 # zugeben, abschmecken
