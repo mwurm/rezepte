@@ -231,7 +231,7 @@ class Recipe:
             if ('5-Z-K-M' in self.source):
                 self.tags.append('5ZM')
             else:
-                self.tags.append('5Z')
+                self.tags.append('5ZK')
 
         for key in ingredient_to_tag:
             for ii in self.instructions_with_ingredients:
