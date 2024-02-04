@@ -225,6 +225,13 @@ class Recipe:
             self.tags.append('nur noch garen')
         if ('vegetarisch' in self.tags or 'vegan' in self.tags or 'Low Meat' in self.tags):
             self.tags.append('veg+')
+        if ('Jamie Oliver' in self.source or 'J.O.' in self.source):
+            self.tags.append('JO')
+        if ('5-Z-K' in self.source):
+            if ('5-Z-K-M' in self.source):
+                self.tags.append('5ZM')
+            else:
+                self.tags.append('5Z')
 
         for key in ingredient_to_tag:
             for ii in self.instructions_with_ingredients:
