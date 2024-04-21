@@ -1,9 +1,0 @@
-Flammkuchenteig
-:yields: 2
-:category: Basis
-
-300g Mehl
-1 TL Trockenhefe
-1 TL Salz
-180ml Wasser
-# verkneten
