@@ -38,7 +38,7 @@ jobs:
       - run: pip install -r requirements.txt
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.0
       - run: gem install asciidoctor-pdf
       - uses: reitzig/actions-asciidoctor@v2.0.1
         with:
