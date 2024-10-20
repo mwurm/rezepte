@@ -1,0 +1,6 @@
+Pitachio Cheesecake
+:yields: 12
+:category: Kuchen
+:source: Instagram, Anne fragen, mit Pistanzienmus statt Rewe-Creme
+:tags: TODO
+:since: 2024
