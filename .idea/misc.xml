@@ -317,6 +317,13 @@
             </RMarkdownRenderProfile>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/src/rmd/gulasch_wildschwein_mit_paprikacreme.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/src/rmd/gulaschsuppe.rmd">
           <value>
             <RMarkdownRenderProfile>
