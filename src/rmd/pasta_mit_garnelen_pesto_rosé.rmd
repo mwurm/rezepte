@@ -1,7 +1,7 @@
 Pasta mit Garnelen, Pesto und Rosé
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;schnell; Vorspeise; skalierbar; nur frisch; IT
+:tags: Hauptgericht;schnell; Vorspeise; skalierbar; nur frisch; IT; pimp
 :source: J.O., _5-Z-K_, S.73
 
 150g Pasta^1^

@@ -219,6 +219,13 @@
             </RMarkdownRenderProfile>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/src/rmd/beef_ragout_mit_asia_nudeln.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/src/rmd/beeren-baiser-träumchen.rmd">
           <value>
             <RMarkdownRenderProfile>
@@ -283,6 +290,13 @@
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/src/rmd/dicke-bohnen-salat_mit_thunfisch.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/rmd/falafeln_cranberry_gurkensalat_knoblauch_joghurt.rmd">
           <value>
             <RMarkdownRenderProfile>
               <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
@@ -360,6 +374,13 @@
           </value>
         </entry>
         <entry key="file://$PROJECT_DIR$/src/rmd/mediterraner_nudelsalat.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/src/rmd/pasta_mit_garnelen_pesto_rosé.rmd">
           <value>
             <RMarkdownRenderProfile>
               <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/src/rmd" />
