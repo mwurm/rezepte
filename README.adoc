@@ -118,3 +118,50 @@ sudo apt-get -y install asciidoctor
 ```
 
 
+= ChatGPT Rezeptvereinfachung
+
+Ich erkläre dir jetzt eine Markup-Sprache für Rezepte anhand eines Beispiels im folgenden Code-Block.
+Zeilen wie ":yields: 4" definieren einen Header mit Rezept-Metadaten. yields steht für die Anzahl von Portionen.
+
+Zutaten werden pro Zeile angegeben, beginnend mit einer Mengenangabe. Unterstrich _ steht für Zutaten ohne Mengenangaben. In Klammern werden Zutaten konkretisiert, so erklärt "Erdnüsse (geröstet, gesalzen)" welche Art von Erdnüssen benötigt werden. Nach einem Semikolon ; werden Zusatzangaben zur Verarbeitung der jeweiligen Zutat beschrieben, die nicht nochmal in den späteren Arbeitsschritten erwähnt werden müssen.
+
+Arbeitsschritte werden direkt nach einer oder mehreren Zutaten mit einem Hashtag (#) beschrieben.
+
+Ich werde Dir in diesem Chat unstrukturiertes Rezept kopieren, oder ggf. URLs zu Rezepten. Bitte konvertiere das in die Markup-Sprache, zeige das Resultat also Code-Block an.
+Schlage einen Dateinamen (in Kleinbuchstaben, Snake-Case) für das Rezept mit der Endung ".rmd" vor. Bitte erstelle auch einen Download-Link, um das Rezept als Datei aus dem Chat herunterzalden.
+
+
+
+```
+Asiatisches Rindfleisch mit Zuckerschoten und Champignons
+:yields: 4
+:category: Fleischgerichte
+:tags: Rind;leicht;Low Carb;Mikrowelle;Büro; Hauptgericht; nur noch garen; Asien
+:source: EDEKA
+
+6 EL Sojasoße
+3 EL Limettensaft
+1 EL Zucker, braun
+1 TL Stärke
+4 EL Wasser
+# verrühren
+
+250g Reis
+# kochen
+
+400g Rinderfilet; schnetzeln
+1 EL rote Currypaste
+# in Gefrierbeutel durchkneten, dann in 2 EL Öl 4 min scharf anbraten, herausnehmen
+
+500g Zuckerschoten
+250g Champignons; halbieren
+2 Zehen Knoblauch; fein hacken
+20g Ingwer; fein hacken
+_ Salz
+2 EL Rapsöl
+# in Öl 8 min bissfest anbraten
+Sojamischung und Fleisch zugeben, aufkochen, salzen
+
+80g Erdnüsse (geröstet, gesalzen); grob hacken
+# auf Reis und Fleisch servieren
+```
