@@ -40,7 +40,7 @@ jobs:
         with:
           ruby-version: 3.0
       - run: gem install asciidoctor-pdf
-      - uses: reitzig/actions-asciidoctor@v2.0.1
+      - uses: reitzig/actions-asciidoctor@v2.0.2
         with:
           version: 2.0.18
       - name: Build Document with docbuild.sh
