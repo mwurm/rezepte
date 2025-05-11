@@ -1,0 +1,17 @@
+Kartoffelpüree
+:yields: 4
+:category: Beilage
+:tags: vegetarisch
+:source: Ich helf Dir kochen
+
+750g Kartoffeln; grob gewürfelt
+150ml Wasser
+_ Salz
+# in Salzwasser 20-30 Minuten garen, restl. Wasser abgißen.
+TODO: Wassermenge prüfen
+20g Butter
+_ Salz
+# durchpressen
+250ml Milch; kochend
+# einrühren, bis schaumig
+
