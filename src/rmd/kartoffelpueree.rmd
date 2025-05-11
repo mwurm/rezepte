@@ -8,7 +8,7 @@ Kartoffelpüree
 150ml Wasser
 _ Salz
 # in Salzwasser 20-30 Minuten garen, restl. Wasser abgißen.
-TODO: Wassermenge prüfen
+  TODO: Wassermenge prüfen
 20g Butter
 _ Salz
 # durchpressen
