@@ -1,7 +1,7 @@
 Pasta alla Carbonara
 :yields: 2
 :category: Pasta
-:tags: IT;schnell;Hauptgericht;Vorspeise;Low Meat
+:tags: IT;schnell;Hauptgericht;Vorspeise;Low Meat; Mealie
 :indexterms: Pasta, alla Carbonara; Carbonara
 
 100g Bauchspeck^1^; feine Streifen

@@ -1,7 +1,7 @@
 Dampfnudeln
 :yields: 4
 :category: Mehlspeisen
-:tags: Hauptgericht;vegetarisch
+:tags: Hauptgericht;vegetarisch; Mealie
 
 250g Mehl
 10g Hefe

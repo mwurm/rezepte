@@ -2,7 +2,7 @@ Cremige Auberginensoße für Pasta
 :yields: 4
 :category: Pasta
 :subcategory: Pastasoßen
-:tags: Hauptgericht;vegetarisch;TK;Büro;schnell+Wartezeit;skalierbar
+:tags: Hauptgericht;vegetarisch;TK;Büro;schnell+Wartezeit;skalierbar; Mealie
 :info: vorheizen auf 200°C Umluft
 
 2 EL Olivenöl

@@ -2,7 +2,7 @@ all'amatriciana
 :yields: 2
 :category: Pasta
 :subcategory: Pastasoßen
-:tags: IT; Hauptgericht; Vorspeise; schnell; Low Meat
+:tags: IT; Hauptgericht; Vorspeise; schnell; Low Meat; Mealie
 
 50g Bauchspeck; kleine Streifen
 # mit 1 TL Olivenöl anbraten

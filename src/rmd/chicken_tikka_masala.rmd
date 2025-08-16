@@ -1,7 +1,7 @@
 Chicken Tikka Masala
 :yields: 4
 :category: Geflügel
-:tags: Indien;Mikrowelle;TK; nur noch garen; Asien; Büro; Hauptgericht
+:tags: Indien;Mikrowelle;TK; nur noch garen; Asien; Büro; Hauptgericht;Mealie
 
 150g Joghurt
 3 Zehen Knoblauch

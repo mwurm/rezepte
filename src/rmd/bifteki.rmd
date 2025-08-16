@@ -1,7 +1,7 @@
 Bifteki
 :yields: 3
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch; GR; Grill; TK; nur noch garen
+:tags: Hauptgericht;Fleisch; GR; Grill; TK; nur noch garen; Mealie
 
 
 400g Rinderhackfleisch

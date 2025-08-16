@@ -1,7 +1,7 @@
 Frittata mit Räucherlachs
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;Vorspeise; skalierbar; schnell; Büro; skalierbar
+:tags: Hauptgericht;Fisch;Vorspeise; skalierbar; schnell; Büro; skalierbar;Mealie
 :source: J.O., _5-Z-K_, S.86
 :info: Ofen auf Grillfunktion vorheizen
 

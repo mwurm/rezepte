@@ -1,7 +1,7 @@
 Grüne Bohnen
 :yields: 2
 :category: Beilagen
-:tags: vegetarisch; leicht
+:tags: vegetarisch; leicht;Mealie
 
 1 Zwiebeln, klein; gewürfelt
 # in Öl andünsten

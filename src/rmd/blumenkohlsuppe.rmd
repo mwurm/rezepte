@@ -1,7 +1,7 @@
 Blumenkohlsuppe
 :yields: 6
 :category: Suppen
-:tags: TK; Mikrowelle; Vorspeise; Mikrowelle; vegetarisch; skalierbar
+:tags: TK; Mikrowelle; Vorspeise; Mikrowelle; vegetarisch; skalierbar; Mealie
 
 400g Blumekohl (TK)
 # in Öl anbraten

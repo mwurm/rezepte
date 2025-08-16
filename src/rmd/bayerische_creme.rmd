@@ -1,6 +1,7 @@
 Bayerische Crème
 :yields: 4
 :category: Desserts
+:tags: Nachspeise;Dessert;Mealie
 
 2 Blatt Gelatine
 # in kaltem Wasser einreichen

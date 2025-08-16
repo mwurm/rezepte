@@ -1,7 +1,7 @@
 Asiatisches Rindfleisch mit Zuckerschoten und Champignons
 :yields: 4
 :category: Fleischgerichte
-:tags: Rind;leicht;Low Carb;Mikrowelle;Büro; Hauptgericht; nur noch garen; Asien
+:tags: Rind;leicht;Low Carb;Mikrowelle;Büro; Hauptgericht; nur noch garen; Asien; Mealie
 :source: EDEKA
 
 6 EL Sojasoße

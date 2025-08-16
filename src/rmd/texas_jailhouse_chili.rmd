@@ -3,7 +3,7 @@ Texas Jailhouse Chili
 :category: Fleischgerichte
 :indexterms: Chili, Texas Jailhouse Chili
 :url: https://www.chefkoch.de/rezepte/223571092410598/Texas-Jailhouse-Chili.html
-:tags: Eintopf;US;Mikrowelle;Büro;Hauptgericht;TK;skalierbar
+:tags: Eintopf;US;Mikrowelle;Büro;Hauptgericht;TK;skalierbar;Mealie
 
 2 Zwiebeln; gewürfelt
 # glasig andünsten

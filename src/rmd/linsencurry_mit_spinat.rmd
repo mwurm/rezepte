@@ -1,7 +1,7 @@
 Linsencurry mit Spinat
 :yields: 2
 :category: Eintöpfe
-:tags: Hauptgericht;vegetarisch;leicht;Low Carb;Mikrowelle;Büro; Beilage; Asien; skalierbar
+:tags: Hauptgericht;vegetarisch;leicht;Low Carb;Mikrowelle;Büro; Beilage; Asien; skalierbar;Mealie
 :source: J.O., _15-M-R_, S.240
 
 1 Zwiebel

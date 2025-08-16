@@ -1,7 +1,7 @@
 Boeuf Bourguignon
 :yields: 3
 :category: Fleischgerichte
-:tags: FR; Hauptgericht; skalierbar
+:tags: FR; Hauptgericht; skalierbar; Mealie
 
 4 Zweige Thymian
 2 Zweige Rosmarin

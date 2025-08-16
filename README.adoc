@@ -165,3 +165,9 @@ Sojamischung und Fleisch zugeben, aufkochen, salzen
 80g Erdnüsse (geröstet, gesalzen); grob hacken
 # auf Reis und Fleisch servieren
 ```
+
+
+== Zu Mealie konvertieren:
+
+- Kopiere .md-Inhalt in Chat "Rezept im Mealie-.JSON-Format"
+- Imporiere in Mealie

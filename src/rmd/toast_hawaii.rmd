@@ -2,7 +2,7 @@ Toast Hawaii
 :yields: 2
 :ausblenden: true
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;Schwein;schnell+Wartezeit;Imbiss;DE
+:tags: Hauptgericht;Fleisch;Schwein;schnell+Wartezeit;Imbiss;DE;Mealie
 :info: Backofen auf 170°C Umluft vorheizen
 
 4 American Sandwich Toast

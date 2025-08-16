@@ -1,7 +1,7 @@
 Lachs mit Chorizo
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch; nur frisch; schnell; nur noch garen; Rind; Low Carb
+:tags: Hauptgericht;Fisch; nur frisch; schnell; nur noch garen; Rind; Low Carb;Mealie
 :source: J.O., _5-Z-K_, S.125
 
 300g Lachsfilet mit Haut

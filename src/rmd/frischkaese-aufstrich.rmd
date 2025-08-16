@@ -1,7 +1,7 @@
 Frischkäse-Aufstrich
 :yields: 4
 :category: Beilagen
-:tags: Aufstrich
+:tags: Aufstrich;Mealie
 
 300g Frischkäse
 50g Butter

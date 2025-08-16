@@ -1,7 +1,7 @@
 Lachs auf Bohnengemüse
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch;leicht;nur frisch;Low Carb
+:tags: Hauptgericht;Fisch;leicht;nur frisch;Low Carb;Mealie
 
 300g grüne Bohnen
 _ Salz
