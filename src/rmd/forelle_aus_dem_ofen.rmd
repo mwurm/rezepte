@@ -1,7 +1,7 @@
 Forelle aus dem Ofen
 :yields: 2
 :category: Fisch
-:tags: Hauptgericht;Fisch; nur frisch; schnell+Wartezeit; skalierbar
+:tags: Hauptgericht;Fisch; nur frisch; schnell+Wartezeit; skalierbar; Mealie
 
 350g Forelle
 50g Butter

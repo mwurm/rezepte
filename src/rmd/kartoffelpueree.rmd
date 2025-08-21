@@ -1,7 +1,7 @@
 Kartoffelpüree
 :yields: 4
 :category: Beilage
-:tags: vegetarisch
+:tags: vegetarisch;Mealie
 :source: Ich helf Dir kochen
 
 750g Kartoffeln; grob gewürfelt

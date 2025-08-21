@@ -170,4 +170,8 @@ Sojamischung und Fleisch zugeben, aufkochen, salzen
 == Zu Mealie konvertieren:
 
 - Kopiere .md-Inhalt in Chat "Rezept im Mealie-.JSON-Format"
-- Imporiere in Mealie
+- Imporiere in Mealie: https://mealie.mwurm.duckdns.org/g/home/r/create/html?use_keywords=1&edit=1
+  - Wenn das nicht funktioniert (ohne Fehlermeldung), sind ggf. Sonderzeichen enthalten oder es fehlen wichtige Elemente
+- Zutaten zu Schritte zuweisen
+- URL von https://mwurm.github.io/rezepte/ in Ursprungs-URL eintragen
+- in jedem Schritt: Zutaten verlinken

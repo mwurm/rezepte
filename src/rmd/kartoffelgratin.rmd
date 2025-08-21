@@ -1,7 +1,7 @@
 Kartoffelgratin
 :yields: 2
 :category: Aufläufe
-:tags: Hauptgericht;Käse;vegetarisch;Beilage;Büro;Mikrowelle;skalierbar
+:tags: Hauptgericht;Käse;vegetarisch;Beilage;Büro;Mikrowelle;skalierbar;Mealie
 
 200ml Sahne
 200ml Milch

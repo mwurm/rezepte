@@ -1,7 +1,7 @@
 Gemischtes Gemüse mediterran
 :yields: 2
 :category: Beilage
-:tags: leicht; vegan
+:tags: leicht; vegan; Mealie
 :since: 2024
 
 1/2 Aubergine; Scheibe vierteln

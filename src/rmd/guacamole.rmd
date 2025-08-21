@@ -1,6 +1,7 @@
 Guacamole
 :yields: 2
 :category: Beilagen
+:tags: Mealie
 
 
 0.5 Zwiebeln, rot; gewürfelt

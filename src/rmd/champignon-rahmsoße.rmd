@@ -1,7 +1,7 @@
 Champigon-Rahmsoße
 :yields: 2
 :category: Basis
-:tags: Soße; vegetarisch
+:tags: Soße; vegetarisch; Mealie
 
 300g Champignons; geviertelt
 # anbraten

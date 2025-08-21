@@ -1,7 +1,7 @@
 Kichererbsen-Curry
 :yields: 2
 :category: Vegetarisches
-:tags: Hauptgericht;skalierbar;TK;vegan;leicht;Low Carb;Mikrowelle;Büro;nur noch garen
+:tags: Hauptgericht;skalierbar;TK;vegan;leicht;Low Carb;Mikrowelle;Büro;nur noch garen;Mealie
 :sourcex: Bild der Frau (Anne)
 
 4 Lauchzwiebeln; Ringe

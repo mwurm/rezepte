@@ -1,7 +1,7 @@
 Geflügelsalat
 :yields: 2
 :category: Salate
-:tags: Geflügel; FR; nur noch aus dem Kühlschrank holen; Vorspeise
+:tags: Geflügel; FR; nur noch aus dem Kühlschrank holen; Vorspeise; Mealie
 :region: FR
 :source: Erzsi, Salate-Buch
 

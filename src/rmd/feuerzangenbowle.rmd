@@ -1,7 +1,7 @@
 Feuerzangenbowle
 :yields: 2
 :category: Beilagen
-:tags: vegetarisch
+:tags: vegetarisch; Mealie
 
 200ml Rotwein
 1/3 Orange; Saft

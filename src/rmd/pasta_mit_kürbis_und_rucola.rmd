@@ -1,7 +1,7 @@
 Pasta mit Kürbis, Rucola, Pinienkerne
 :yields: 2
 :category: Pasta
-:tags: Hauptgericht;vegetarisch;schnell
+:tags: Hauptgericht;vegetarisch;schnell;Mealie
 :source: Weight Watchers, S.88
 
 200g Pasta
