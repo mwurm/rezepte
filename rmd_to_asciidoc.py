@@ -138,11 +138,16 @@ class Ingredient:
             unit_str = re.sub(' ', '{nbsp}', self.unit, flags=re.IGNORECASE)
         return f"!{amount_str}{unit_str}!{self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
-    def __str__(self):
+    def to_string(self, no_amount_alias=None, no_unit_alias='', skip_preparation_notes=False):
         amount_str = ""
         if self.amount is not None:
             amount_str = f"{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
-        return f"{amount_str}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else '; ' + self.preparation_notes}"
+        elif no_amount_alias is not None:
+            amount_str = f"{no_amount_alias}"
+        return f"{amount_str}{no_unit_alias if self.unit is None else self.unit} {self.ingredient_name}{'' if skip_preparation_notes or self.preparation_notes is None else '; ' + self.preparation_notes}"
+
+    def __str__(self):
+        return self.to_string()
 
 class IngredientFactory:
     def get_ingredient(self, ingredient):
@@ -246,6 +251,9 @@ class Recipe:
 
     def sec_id(self):
         return f"sec.{self.to_id()}"
+
+    def get_all_ingredients(self) -> list[Ingredient]:
+        return [ing for iwi in self.instructions_with_ingredients for ing in iwi.ingredients]
 
     def write_to_adoc(self, directory):
         if not os.path.exists(directory):
@@ -463,7 +471,7 @@ endif::[]""")
 
 
 
-def parse_recipe(input_str):
+def parse_recipe(input_str) -> Recipe:
     ingredient_factory = IngredientFactory()
 
     lines = input_str.split("\n")
