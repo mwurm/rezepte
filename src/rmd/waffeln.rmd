@@ -1,7 +1,7 @@
 Waffeln
 :yields: 4
 :category: Mehlspeisen
-:tags: süß; schnell
+:tags: süß; schnell;MealieTodo
 
 125g Butter; weich
 100g Zucker

@@ -1,7 +1,7 @@
 Tsatsiki
 :yields: 2
 :category: Beilagen
-:tags: vegetarisch; Mealie
+:tags: vegetarisch; Mealie;MealieTodo
 :source: -
 
 1/2 Gurke

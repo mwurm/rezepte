@@ -1,7 +1,7 @@
 Leberkäs
 :yields: 1
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;schnell+Wartezeit;skalierbar
+:tags: Hauptgericht;Fleisch;schnell+Wartezeit;skalierbar;MealieTodo
 
 200g Leberkäs
 _ Brezn

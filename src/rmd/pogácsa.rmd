@@ -1,6 +1,6 @@
 Pogácsa
 :category: Gebäck
-:tags: HU; ausprobieren; Snack
+:tags: HU; ausprobieren; Snack;MealieTodo
 :yields: 60
 :url: https://backmaedchen1967.de/pogacsa-ungarisches-gebaeck/
 

@@ -1,7 +1,7 @@
 Schmorbraten
 :yields: 4
 :category: Fleischgerichte
-:tags: Rind; Anlass; DE; skalierbar
+:tags: Rind; Anlass; DE; skalierbar;MealieTodo
 
 
 1kg Rindfleisch (Bürgermeisterstück / falsches Filet)

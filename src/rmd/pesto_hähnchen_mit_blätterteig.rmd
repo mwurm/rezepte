@@ -1,7 +1,7 @@
 Pesto-Hähnchen mit Blätterteig
 :yields: 2
 :category: Geflügel
-:tags: Hauptgericht;Geflügel;nur frisch; schnell+Wartezeit
+:tags: Hauptgericht;Geflügel;nur frisch; schnell+Wartezeit;MealieTodo
 :source: J.O., _5-Z-K_, S. 115
 
 2 Hähnchenbrust-Filets; flach gedrückt

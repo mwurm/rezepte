@@ -1,6 +1,6 @@
 Polentaschnitten
 :category: Beilagen
-:tags: Beilage; nur frisch; vegetarisch
+:tags: Beilage; nur frisch; vegetarisch;MealieTodo
 :yields: 2
 :url: https://www.gutekueche.at/polentaschnitten-rezept-2739
 

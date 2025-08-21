@@ -1,7 +1,7 @@
 Reis mit Pak Choi und Hoisin-Sauce
 :yields: 2
 :category: Vegetarisches
-:tags: Hauptgericht; nur frisch; vegetarisch; ausprobieren; TODO
+:tags: Hauptgericht; nur frisch; vegetarisch; ausprobieren; TODO;MealieTodo
 :source: J.O., _5-Z-K_, S. 260
 
 

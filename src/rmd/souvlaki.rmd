@@ -1,7 +1,7 @@
 Souvlaki
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;ohne Beilage;Fleisch;GR;Grill
+:tags: Hauptgericht;ohne Beilage;Fleisch;GR;Grill;MealieTodo
 
 200g Schweinelachs/-rücken
 # in Rechtecke schneiden

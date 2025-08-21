@@ -1,7 +1,7 @@
 Zucchini mit Hack und Linsen
 :yields: 2
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;leicht; Low Meat; nur noch garen
+:tags: Hauptgericht;Fleisch;leicht; Low Meat; nur noch garen;MealieTodo
 :info: vorheizen auf 160°C Umluft
 
 2 Zucchini; halbiert, ausgehöhlt

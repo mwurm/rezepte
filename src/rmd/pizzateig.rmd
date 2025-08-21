@@ -1,7 +1,7 @@
 Pizzateig
 :yields: 2
 :category: Basis
-:tags: TODO
+:tags: TODO;MealieTodo
 
 300g Mehl
 1/2 Würfel Hefe (frisch)

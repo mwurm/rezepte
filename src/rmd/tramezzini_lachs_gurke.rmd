@@ -2,7 +2,7 @@ Tramezzini mit Lachs und Gurke
 :yields: 4 Portionen
 :category: Appetithäppchen
 :subcategory: Tramezzini
-:tags: Snack; Fisch
+:tags: Snack; Fisch;MealieTodo
 
 4 Tramezzini-Scheiben (lang)
 _ Butter

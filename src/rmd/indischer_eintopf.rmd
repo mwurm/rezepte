@@ -1,7 +1,7 @@
 Indischer Eintopf
 :yields: 2
 :category: Eintöpfe
-:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro; Asien
+:tags: Hauptgericht;vegetarisch;leicht;Low Carb; TK; Mikrowelle; Büro; Asien;MealieTodo
 
 1 Zwiebeln; gewürfelt
 # in Öl andünsten

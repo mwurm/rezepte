@@ -1,7 +1,7 @@
  Schweinefilet mit Senfkruste
 :yields: 2
 :category: Fleischgerichte
-:tags: Schwein; Grill; schnell+Wartezeit; Hauptgericht;skalierbar
+:tags: Schwein; Grill; schnell+Wartezeit; Hauptgericht;skalierbar;MealieTodo
 
 40g Butter (zimmerwarm)
 20g Paniermehl

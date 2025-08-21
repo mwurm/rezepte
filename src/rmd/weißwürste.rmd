@@ -2,7 +2,7 @@ Weißwürste
 :yields: 2
 :ausblenden: true
 :category: Fleischgerichte
-:tags: Hauptgericht;Fleisch;DE; Bayern; schnell; Imbiss;skalierbar
+:tags: Hauptgericht;Fleisch;DE; Bayern; schnell; Imbiss;skalierbar;MealieTodo
 
 _ Weißwürste
 _ süßer Senf

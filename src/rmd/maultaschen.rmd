@@ -1,7 +1,7 @@
 Maultaschen
 :yields: 2
 :category: Fleischgerichte
-:tags: schnell; DE; Beilage; Hauptgericht; Beilage
+:tags: schnell; DE; Beilage; Hauptgericht; Beilage;MealieTodo
 
 1 Pkg Maultaschen
 #

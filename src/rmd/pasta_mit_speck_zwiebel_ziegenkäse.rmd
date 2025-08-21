@@ -1,4 +1,4 @@
 Pasta mit Speck-Zwiebel-Ziegenkäse
 :yields: 0
 :category: Pasta
-:tags: Hauptgericht;Low Meat;TODO;schnell
+:tags: Hauptgericht;Low Meat;TODO;schnell;MealieTodo

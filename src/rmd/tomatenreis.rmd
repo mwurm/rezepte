@@ -2,6 +2,7 @@ Tomatenreis
 :yields: 2
 :category: Beilagen
 :source: -
+:tags: MealieTodo
 
 150g Reis
 225ml Brühe

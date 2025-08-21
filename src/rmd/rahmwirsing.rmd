@@ -2,6 +2,7 @@ Rahmwirsing
 :yields: 2
 :category: Beilagen
 :source: Schuhbeck (modifiziert)
+:tags: MealieTodo
 
 1/2 Wirsingkohl
 # Blattrippe entfernen. Mit siedendem Wasser übergießen. In EL-große Stücke schneiden.

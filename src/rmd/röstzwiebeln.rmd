@@ -1,6 +1,6 @@
 Röstzwiebeln
 :yields: 2
-:category: Beilagen
+:category: Beilagen;MealieTodo
 
 4 Zwiebeln; Ringe
 # salzen. 3h ruhen lassen. Zwiebelwasser ausdrücken.

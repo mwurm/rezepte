@@ -2,7 +2,7 @@ Tramezzini mit Tomate-Mozzarella
 :yields: 4 Portionen
 :category: Appetithäppchen
 :subcategory: Tramezzini
-:tags: Snack; vegetarisch
+:tags: Snack; vegetarisch;MealieTodo
 
 
 4 Tramezzini-Scheiben (lang)

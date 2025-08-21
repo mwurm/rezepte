@@ -1,7 +1,7 @@
 Süsskartoffeln Cajun-Style
 :yields: 0
 :category: Vegetarisches
-:tags: Hauptgericht;vegetarisch;leicht; skalierbar; Beilage; nur frisch; nur noch garen
+:tags: Hauptgericht;vegetarisch;leicht; skalierbar; Beilage; nur frisch; nur noch garen;MealieTodo
 :source: J.O., _5-Z-K_, S. 175
 
 # Backoffen auf 180°C Umluft vorheizen

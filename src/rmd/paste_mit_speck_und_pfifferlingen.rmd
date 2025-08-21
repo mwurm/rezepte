@@ -1,7 +1,7 @@
 Pasta mit Speck und Pfifferlingen
 :yields: 2
 :category: Pasta
-:tags: Laktosefrei; Hauptgericht; einfach
+:tags: Laktosefrei; Hauptgericht; einfach;MealieTodo
 :source: EDEKA
 
 180 g Spaghetti

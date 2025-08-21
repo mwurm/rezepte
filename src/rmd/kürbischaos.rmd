@@ -1,7 +1,7 @@
 Kürbischaos
 :yields: 4
 :category: Aufläufe
-:tags: Low Carb; Mikrowelle; Büro; nur noch garen; Hauptgericht;skalierbar
+:tags: Low Carb; Mikrowelle; Büro; nur noch garen; Hauptgericht;skalierbar;MealieTodo
 :source: Mutti-Magazin https://goo.gl/fsvFpn
 
 3 Zwiebeln (rot); Spalten

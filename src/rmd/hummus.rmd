@@ -1,7 +1,7 @@
 Hummus
 :yields: 2
 :category: Beilagen
-:tags: Kichererbsen; Orient
+:tags: Kichererbsen; Orient;MealieTodo
 
 50g Kichererbsen (trockene)
 # trockene Kichererbsen 24h einweichen, dann in 200ml kochendes Wasser geben und 1h köcheln

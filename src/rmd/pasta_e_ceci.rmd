@@ -2,6 +2,6 @@ Pasta e Ceci
 :yields: 3
 :category: Pasta
 :subcategory: Pastasoßen; skalierbar
-:tags: Hauptgericht;vegetarisch;vegan;TODO
+:tags: Hauptgericht;vegetarisch;vegan;TODO;MealieTodo
 
 # TODO Rezept suchen https://www.orodiparma.de/italienisch-kochen/pasta-mit-kichererbsen ?

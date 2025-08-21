@@ -1,7 +1,7 @@
 Paprikahähnchen im Schmortopf
 :yields: 4
 :category: Geflügel
-:tags: Hauptgericht;Geflügel;nur frisch
+:tags: Hauptgericht;Geflügel;nur frisch;MealieTodo
 :source: J.O., One, S.98
 :info: Ofen auf 180°C vorheizen
 

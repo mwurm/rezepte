@@ -2,7 +2,7 @@ Rührei
 :yields: 2
 :category: Vegetarisches
 :ausblenden: true
-:tags: Hauptgericht;vegetarisch; Frühstück; nur frisch; Low Carb; schnell; skalierbar
+:tags: Hauptgericht;vegetarisch; Frühstück; nur frisch; Low Carb; schnell; skalierbar;MealieTodo
 
 6 Eier
 #
