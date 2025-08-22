@@ -1,5 +1,5 @@
 Tramezzini mit Salami, Gurke, Remoulade
-:yields: 4 Portionen
+:yields: 4
 :category: Appetithäppchen
 :subcategory: Tramezzini
 :tags: Snack

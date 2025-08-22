@@ -4,7 +4,7 @@ Bifteki
 :tags: Hauptgericht;Fleisch; GR; Grill; TK; nur noch garen; Mealie
 
 
-400g Hackfleisch (Rind)
+400g Rinder-Hackfleisch
 0.5 Zwiebel; gewürfelt
 0.5 Tomate; gehackt
 1.5 EL Smoking Zeus
@@ -12,7 +12,7 @@ Bifteki
 1 EL Olivenöl
 0.5 TL Salz
 0.5 TL Pfeffer
-0.5 Zitrone (Saft)
+0.5 Zitrone Zitronensaft
 # verkneten
 
 0.5 rote Peperoni

@@ -1,11 +1,11 @@
 Tramezzini mit Avocado-Krabben-Creme
-:yields: 4 Portionen
+:yields: 4
 :category: Appetithäppchen
 :subcategory: Tramezzini
 :tags: Snack; Meeresfrüchte
 
 1 Avocado; würfeln
-3 TL Zitrone (Saft)
+3 TL Zitrone Zitronensaft
 _ Salz+Pfeffer
 # vermengen
 100g Frischkäse

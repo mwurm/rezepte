@@ -8,4 +8,4 @@ _ Wiener
 _ Senf
 _ Semmeln
 _ Kartoffelsalat
-#
+# zubereiten
