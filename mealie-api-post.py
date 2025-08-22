@@ -9,6 +9,8 @@ import requests
 import dotenv
 import os
 from rmd_to_asciidoc import Recipe, parse_recipe, Ingredient
+import csv
+import pandas as pd
 
 
 def post_recipe(recipe: Recipe):
@@ -40,6 +42,27 @@ def post_recipe(recipe: Recipe):
     mealie_dict_recipe["recipeServings"] = float(recipe.yields)
     mealie_dict_recipe["recipeYieldQuantity"] = float(recipe.yields)
     mealie_dict_recipe["description"] = recipe.info
+    mealie_dict_recipe["notes"] = [{
+        "title": "",
+        "text": recipe.asciidoc_footer,
+    }]
+
+    # "notes": [
+    #     {
+    #       "title": "<Notiz-Titel>",
+    #       "text": "<Notiz-Text>"
+    #     }
+    #   ],
+
+    mealie_dict_recipe["extras"] = {
+       "rmd_file": f"{recipe.to_id()}.rmd"
+    }
+
+
+    #   "extras": {
+    #     "rmd_file": "artischockensuppe.rmd"
+    #   },
+
 
 
 
@@ -111,7 +134,7 @@ def get_or_create_tags(tags: list[str]) -> list[dict]:
     return tag_dict_list
 
 
-def parse_ingredients(ingredients: list[Ingredient]) -> dict:
+def parse_ingredients(ingredients: list[Ingredient], fail_on_error=True) -> list | None:
     jdict = {
         "parser": "brute",
         "ingredients": [i.to_string(no_amount_alias=0, no_unit_alias=" Stück", skip_preparation_notes=True) for i in ingredients]
@@ -134,7 +157,10 @@ def parse_ingredients(ingredients: list[Ingredient]) -> dict:
             ingredients_dict.append(result['ingredient'])
 
     if any_error:
-        exit(1)
+        if fail_on_error:
+            exit(1)
+        else:
+            return None
     return ingredients_dict
 
 
@@ -179,32 +205,60 @@ headers = {
 
 # Rezept senden
 
-with open("src/rmd/avocado-bulgur-salat.rmd", 'r', encoding="utf-8") as f:
+with open("src/rmd/artischockensuppe.rmd", 'r', encoding="utf-8") as f:
     print(f"Reading {f.name}")
     recipe = parse_recipe(f.read())
-    #print(recipe.to_asciidoc_section("Tikka Brathähnchen im Ofen"))
+
+    #recipe_id = post_recipe(recipe)
+    #response = requests.get(f"{MEALIE_API_URL}/foods", headers=headers)
+    #jfoods = json.loads(response.text)
+    #print(response.text)
+
+# Food hinzufügen
+# food_dict = {
+#   "name": "Tomatenmark"
+# }
+# response = requests.post(f"{MEALIE_API_URL}/organizers/tags", json=food_dict, headers=headers)
+# print(response.text)
+
+
+#
+# response = requests.get(f"{MEALIE_API_URL}/recipes/artischockensuppe-5", headers=headers)
+# print(response.text)
+
+# Output aller Zutaten in ausgewählten RMD-Dateien
+# ingredient_name_set = set()
+# for file in os.listdir("src/rmd"):
+#     if file.endswith(".rmd"):
+#         with open(f"src/rmd/{file}", 'r', encoding="utf-8") as f:
+#             #print(f"Reading {f.name}")
+#             recipe = parse_recipe(f.read())
+#             if "MealieTodo" in recipe.tags:
+#                 ingredient_name_set = ingredient_name_set.union(
+#                     set([x.ingredient_name for x in recipe.get_all_ingredients()]))
+#
+# for x in sorted(list(ingredient_name_set)):
+#     print(x)
 
 
 
-#recipe_id = post_recipe(recipe)
-#response = requests.get(f"{MEALIE_API_URL}/foods", headers=headers)
-#jfoods = json.loads(response.text)
-#print(response.text)
+with open("src/lebensmittel_kategorisiert.csv", 'r', newline='') as csvfile:
+    reader = csv.reader(csvfile, delimiter=',')
+#    for row in reader:
+#        result = parse_ingredients([Ingredient(1, "g", row[0], preparation_notes="")])
 
-food_dict = {
-  "name": "Tomatenmark"
-}
 
-response = requests.post(f"{MEALIE_API_URL}/organizers/tags", json=food_dict, headers=headers)
-print(response.text)
+df = pd.read_csv("src/lebensmittel_kategorisiert.csv")
+for index, row in df.iterrows():
+    ingredient = Ingredient(1, "g", row['Singular'], preparation_notes="")
+    result = parse_ingredients([ingredient])
+    if not result:
+        food_dict = {
+          "name": row['Singular'],
+        }
+        if row['Plural']:
+            food_dict["pluralName"] = row['Plural']
 
-ingredient_name_set = set()
-for file in os.listdir("src/rmd"):
-    if file.endswith(".rmd"):
-        with open(f"src/rmd/{file}", 'r', encoding="utf-8") as f:
-            #print(f"Reading {f.name}")
-            recipe = parse_recipe(f.read())
-            ingredient_name_set = ingredient_name_set.union(set([x.ingredient_name for x in recipe.get_all_ingredients()]))
 
-for x in sorted(list(ingredient_name_set)):
-    print(x)
+        response = requests.post(f"{MEALIE_API_URL}/foods", json=food_dict, headers=headers)
+        print(response.text)
