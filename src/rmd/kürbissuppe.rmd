@@ -7,7 +7,7 @@ Kürbissuppe
 2 Kartoffeln
 1 Lauch
 # schneiden, anbraten
-_ Kreuzkümmel
+_ Cumin
 _ Koriander
 _ Salz+Pfeffer
 # würzen

@@ -12,7 +12,7 @@ Cole Slaw
 1 TL Salz
 0.5 TL Pfeffer
 # verrühren
-400g Weißkraut^2^; geraspelt
+400g Weißkraut;^2^ geraspelt
 120g Karotten; geraspelt
 20g Petersilie (optional), gehackt
 # zugeben, abeschmecken

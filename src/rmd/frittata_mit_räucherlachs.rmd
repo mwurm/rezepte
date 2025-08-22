@@ -13,7 +13,7 @@ _ Pfeffer
 # zugeben, pfeffern, 5min garen
 
 2 EL Crème fraîche
-40g Cheddar^1^; gerieben
+40g Cheddar;^1^ gerieben
 # zugeben
 
 4 Eier; verquirlt

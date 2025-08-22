@@ -3,12 +3,12 @@ Souvlaki
 :category: Fleischgerichte
 :tags: Hauptgericht;ohne Beilage;Fleisch;GR;Grill;MealieTodo
 
-200g Schweinelachs/-rücken
+200g Schweinerücken
 # in Rechtecke schneiden
 
 0.5 Zitrone; Saft
 1 Zehe Knoblauch
-1 TL Organo
+1 TL Oregano
 0.5 TL Pfeffer
 1 EL Olivenöl
 # Fleisch 3h marinieren (ohne Salz!)

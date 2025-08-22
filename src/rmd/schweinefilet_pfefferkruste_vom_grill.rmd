@@ -3,8 +3,8 @@
 :category: Fleischgerichte
 :tags: Schwein; Grill; schnell+Wartezeit; Hauptgericht;skalierbar;MealieTodo
 
-2 EL grüner Pfeffer
-2 EL rote Beeren
+2 EL Pfeffer (grün)
+2 EL Pfeffer (rot)
 # mit Mörser grob vermahlen
 1 Schweinefilet
 _ süßer Senf

@@ -6,7 +6,7 @@ Cookie Dough Eis
 :source: Sally
 :url: https://sallys-blog.de/rezepte/ben-jerry-s-cookie-dough-nachgemacht-vanille-eis-mit-keksteig-stuckchen
 
-1 Fertig Cookie Dough Vanille^1,2,3^
+1 Fertig Cookie Dough Vanille;^1,2,3^
 100g Butter
 60g Milch
 50g Schokoladendrops

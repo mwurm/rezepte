@@ -10,12 +10,14 @@ Burger
 4 Burger-Patties
 # braten / grillen
 
-4 Brioche Burger-Buns (REWE)
+4 Brioche Burger-Buns
 2 Tomaten
 1 Zwiebel, rot
 1 Glas Gewürzgurken (Burger-Gurken); in Scheiben
 1 Römersalat
-1 Burger-Soße / Tomatenketchup / Mayonnaise
+_ Burger-Soße
+_ Tomatenketchup
+_ Mayonnaise
 4 Scheiben Cheddar
 # zubereiten (oder selber machen lassen)
 

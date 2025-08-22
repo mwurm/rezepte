@@ -11,14 +11,14 @@ Kartoffel-Curry
 4 EL Olivenöl
 1 Zwiebel, gehackt
 4 Knoblauchzehen, fein gehackt
-1 1/2 EL Ingwer, fein gehackt
+1.5 EL Ingwer, fein gehackt
 1 rote Chili, fein geschnitten
 1 Prise Meersalz
 1 Zimtstange
 2 Sternanis
 400ml Kokosmilch
 300g Kartoffeln; geschält und in Würfel (2 cm) geschnitten
-800g Kichererbsen (aus der Dose mit Flüssigkeit)
+800g Kichererbsen (vorgegart); mit Flüssigkeit
 4 EL Korianderblätter; gehackt
 
 # TODO Zutaten einsortieren

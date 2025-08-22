@@ -1,4 +1,4 @@
-Omelett mit Tomate und Mozarella
+Omelett mit Tomate und Mozzarella
 :yields: 2
 :category: Vegetarisches
 :tags: IT; Low Carb; Hauptgericht; Vorspeise; nur frisch; ; vegetarisch; Frühstück;MealieTodo
@@ -11,10 +11,10 @@ _ Salz+Pfeffer
 # auf Teller anrichten und anmachen.
 4 Eier; verquirlt
 # in Pfanne erhitzen und umrühren, bis cremig
-0.5 Mozarella; würfeln
+0.5 Mozzarella; würfeln
 1 TL Pesto
-# in Mitte des Omelett verteilen. Weiter stocken lassen und Omelett über Mozarella zuklappen.
+# in Mitte des Omelett verteilen. Weiter stocken lassen und Omelett über Mozzarella zuklappen.
   Omelett auf Tomaten anrichten
 0.5 Chilischote; dünne Ringe
-10 Blätter Basilikim
+10 Blätter Basilikum
 # garnieren

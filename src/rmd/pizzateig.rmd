@@ -4,7 +4,7 @@ Pizzateig
 :tags: TODO;MealieTodo
 
 300g Mehl
-1/2 Würfel Hefe (frisch)
+0.5 Würfel Hefe (frisch)
 1 TL Zucker
 # Mulde in Mehl drücken. Hefe, Zucker und 30ml lauwarmes Wasser zugeben. 15min ruhen.
 

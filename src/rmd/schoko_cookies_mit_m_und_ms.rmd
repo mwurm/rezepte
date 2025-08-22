@@ -6,7 +6,7 @@ Schoko-Cookies mit M&M's
 # Ofen auf 175°C O/U-Hitze
 125g Butter
 160g Zucker
-10g Melasse / Grafschafter Goldsaft
+10g Grafschafter Goldsaft
 # cremig aufschlagen
 1 Ei
 1 TL Vanilleextrakt
@@ -18,3 +18,5 @@ Schoko-Cookies mit M&M's
 
 150g M&M's (Erdnuss)
 # auf Cookies drücken. 15min backen
+---
+Alternative: Melasse statt Grafschafter Goldsaft

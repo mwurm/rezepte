@@ -4,7 +4,7 @@ Pasta alla Carbonara
 :tags: IT;schnell;Hauptgericht;Vorspeise;Low Meat; Mealie
 :indexterms: Pasta, alla Carbonara; Carbonara
 
-100g Bauchspeck^1^; feine Streifen
+100g Bauchspeck;^1^ feine Streifen
 # langsam anbraten. ^1^ Originalrezept: Pacetta / Guanciale
 
 200g Pasta

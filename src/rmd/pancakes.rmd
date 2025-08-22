@@ -3,7 +3,7 @@ Pancakes
 :category: Mehlspeisen
 :tags: US;MealieTodo
 
-2 Eiweiß
+2 Eiklar
 # zu Schnee schlagen
 2 Eigelb
 2 EL Zucker

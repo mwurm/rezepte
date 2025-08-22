@@ -3,9 +3,9 @@
 :category: Fleischgerichte
 :tags: Schwein; Grill; schnell+Wartezeit; Hauptgericht;skalierbar;MealieTodo
 
-40g Butter (zimmerwarm)
+40g Butter; zimmerwarm
 20g Paniermehl
-3 EL Dijon-Senf, grob
+3 EL Dijon-Senf (grob)
 1 Zehe Knoblauch; gepresst
 1 TL Estragon
 0.5 TL Salz+Pfeffer
