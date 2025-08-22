@@ -1,5 +1,5 @@
 Tramezzini mit Tunfisch-Sardellen-Creme
-:yields: 4 Portionen
+:yields: 4
 :category: Appetithäppchen
 :subcategory: Tramezzini
 :tags: Snack; Fisch

@@ -3,12 +3,13 @@ Vanilleeis mit heißen Kirschen / Himbeeren
 :category: Desserts
 :source: Schuhbeck (modifiziert)
 
-200g Schattenmorellen / Himbeeren (aus Glas)
+200g Schattenmorellen;^1^ Saft behalten!
 # erhitzen
-200ml Saft (aus Glas)
 1 EL Puderzucker
-2 TL Speisestärke ^1^
-# verrühren, eindicken.
-2 Kugeln p.P. Vanilleeis
+2 TL Stärke;^2^
+# mit Saft der Schattenmorellen verrühren, eindicken.
+4 Kugeln Vanilleeis
 # mit Kirschen / Himbeeren servieren
-  ^1^in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
+  ^2^in kaltem Wasser vor dem Hinzufügen anrühren. Verhältnis Stärke 1 : Wasser 2
+---
+ ^1^ oder Himbeeren (aus Glas)

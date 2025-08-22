@@ -4,7 +4,7 @@ Pasta mit Pilzen und Knoblauch
 :tags: Hauptgericht;vegetarisch;schnell;MealieTodo
 :source: J.O., _5-Z-K_, S.65
 
-150g Pasta^1^
+150g Pasta;^1^
 # kochen, etwas Wasser behalten
 
 2 Zehen Knoblauch; feine Scheiben

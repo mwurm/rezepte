@@ -1,10 +1,10 @@
-Spare Ribs
+Spareribs
 :yields: 2
 :ausblenden: true
 :category: Fleischgerichte
 :source: Biergarten; Hauptgericht; US; skalierbar;MealieTodo
 
-_ Spare Ribs
+_ Spareribs
 # im Biergarten holen
 ---
 Ayinger Biergarten: eine Portion reicht locker für zwei

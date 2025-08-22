@@ -1,7 +1,7 @@
 Omelett mit Tomate und Mozzarella
 :yields: 2
 :category: Vegetarisches
-:tags: IT; Low Carb; Hauptgericht; Vorspeise; nur frisch; ; vegetarisch; Frühstück;MealieTodo
+:tags: IT; Low Carb; Hauptgericht; Vorspeise; nur frisch; vegetarisch; Frühstück;MealieTodo
 :source: J.O., _5-Z-K_ S. 77 "gerührtes Omelett"
 
 350g bunte Tomaten; in dünnen Scheiben

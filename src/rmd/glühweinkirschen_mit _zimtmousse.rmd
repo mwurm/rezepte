@@ -1,7 +1,7 @@
 Glühweinkirschen mit Zimtmousse
 :yields: 4
 :category: Desserts
-:tags: süß; Anlass; Schokolade
+:tags: süß; Anlass; Schokolade;TODO
 
 30g Zucker
 # karamellisieren

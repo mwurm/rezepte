@@ -1,7 +1,7 @@
 Tomaten-Bohnen-Eintopf mit Salsiccia-Crostini
 :yields: 4
 :category: Eintopf
-:tags: Herzhaft; Hauptgericht
+:tags: Herzhaft; Hauptgericht;TODO
 :source: EDEKA
 
 180 g Zwiebeln; würfeln
@@ -12,7 +12,7 @@ Tomaten-Bohnen-Eintopf mit Salsiccia-Crostini
 1 EL Tomatenmark
 1 l Geflügelbrühe
 1 Dose geschälte Tomaten (260 g Abtropfgewicht)
-3 Salbeiblätter
+3 Blätter Salbei
 1 TL Thymianblätter
 1 TL Rosmarinnadeln
 _ Salz

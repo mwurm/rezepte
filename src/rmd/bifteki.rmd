@@ -12,7 +12,7 @@ Bifteki
 1 EL Olivenöl
 0.5 TL Salz
 0.5 TL Pfeffer
-0.5 Zitrone Zitronensaft
+0.5 Zitronensaft
 # verkneten
 
 0.5 rote Peperoni

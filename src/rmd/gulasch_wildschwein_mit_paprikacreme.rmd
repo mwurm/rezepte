@@ -1,7 +1,7 @@
 Gulasch vom Wildschwein mit Paprikacreme
 :yields: 6
 :category: Hauptgericht
-:tags: Wild; einfach; gut vorzubereiten
+:tags: Wild; einfach; gut vorzubereiten;TODO
 :source: essen&trinken 11/2024
 
 # GULASCH
@@ -21,7 +21,7 @@ _ Pfeffer
 500 ml Wildfond
 500 ml Rotwein
 6 rote Spitzpaprika (600 g); in grobe Stücke
-1 TL Speisestärke
+1 TL Stärke
 
 # Fleisch anbraten, Zwiebeln und Knoblauch andünsten, Paprikamark und Paprikapulver zugeben, restliche Zutaten hinzufügen und schmoren.
 

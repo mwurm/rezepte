@@ -1,7 +1,7 @@
 Beef Ragout mit Nudeln und eingelegtem Ingwer
 :yields: 6
 :category: Hauptgericht
-:tags: Fleisch; ausprobieren
+:tags: Fleisch; ausprobieren;TODO
 :source: Seite 42
 
 # ASIA-NUDELN (BIANG BIANG)
@@ -27,7 +27,7 @@ _ Salz
 _ Salz
 _ Pfeffer
 2 Limetten; Saft und Schale
-1 EL Speisestärke
+1 EL Stärke
 
 # Fleisch anbraten, Gewürze und Flüssigkeiten zugeben, 1:30 Stunden schmoren. Limettenschale und -saft zugeben und abschmecken.
 
