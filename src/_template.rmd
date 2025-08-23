@@ -8,7 +8,7 @@ TITEL
 :info: ???
 
 100g XXX; Zubereitung
-1 geh. EL YYY; Zubereitung
+1 EL YYY; Zubereitung
 # Anweisung
   mehrzeilige Anweisung
 
