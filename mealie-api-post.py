@@ -16,7 +16,7 @@ import pandas as pd
 
 
 def update_food():
-    df = pd.read_csv("src/lebensmittel_kategorisiert.csv")
+    df = pd.read_csv("src/lebensmittel_labels.csv")
     for index, row in df.iterrows():
         ingredient = Ingredient(100, " Gramm", row['Singular'], preparation_notes=None)
         result = parse_ingredients([ingredient], fail_on_error=False)
