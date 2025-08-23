@@ -51,19 +51,26 @@ def update_food():
             print(response.text)
             print(f"✅ {row['Singular']} hinzugefügt, 🏷Label {row['Kategorie']}")
 
-def post_recipe(recipe: Recipe):
+def post_recipe(recipe: Recipe, update_ingredients_and_instructions=False, update_metadata=True):
     mealie_dict_recipe = {}
     mealie_dict_recipe["name"] = recipe.name
 
     response = requests.get(f"{MEALIE_API_URL}/recipes?search={recipe.name}", headers=headers)
     results = json.loads(response.content)
     items = list(filter(lambda x: x['name'] == recipe.name, results['items']))
+    recipe_already_exists = False
     if len(items) > 0:
         if len(items) > 1:
             print(f"❌ Mehrere Rezepte mit dem Namen {recipe.name} gefunden, bitte Duplikate löschen: {[x['slug'] for x in items]}")
             exit(1)
-        print(f"Rezept {recipe.name} ({recipe.to_id()}) existiert bereits, verwende es zur Aktualisierung...")
-        mealie_dict_recipe["slug"] = items[0]['slug']
+
+        recipe_already_exists = True
+        if update_ingredients_and_instructions or update_metadata:
+            print(f"Rezept {recipe.name} ({recipe.to_id()}) existiert bereits, verwende es zur Aktualisierung...")
+            mealie_dict_recipe["slug"] = items[0]['slug']
+        else:
+            print(f"Rezept {recipe.name} ({recipe.to_id()}) existiert bereits, nichts ändern")
+            return
     else:
         response = requests.post(f"{MEALIE_API_URL}/recipes", json=mealie_dict_recipe, headers=headers)
         if response.status_code == 201:
@@ -79,65 +86,62 @@ def post_recipe(recipe: Recipe):
 
     response = requests.get(f"{MEALIE_API_URL}/recipes/{mealie_dict_recipe["slug"]}", headers=headers)
     mealie_dict_recipe = json.loads(response.text)
-    mealie_dict_recipe["recipeCategory"] = get_or_create_categories([recipe.category])
-    mealie_dict_recipe["tags"] = get_or_create_tags(recipe.tags)
 
-    mealie_dict_recipe["recipeServings"] = float(recipe.yields)
-    #mealie_dict_recipe["recipeYieldQuantity"] = float(recipe.yields)
-    if recipe.info:
-        mealie_dict_recipe["description"] = recipe.info
-    if recipe.asciidoc_footer:
-        mealie_dict_recipe["notes"] = [{
-            "title": "",
-            "text": recipe.asciidoc_footer,
-        }]
+    if not recipe_already_exists or update_metadata:
+        mealie_dict_recipe["recipeCategory"] = get_or_create_categories([recipe.category])
+        mealie_dict_recipe["tags"] = get_or_create_tags(recipe.tags)
 
-    # "notes": [
-    #     {
-    #       "title": "<Notiz-Titel>",
-    #       "text": "<Notiz-Text>"
-    #     }
-    #   ],
+        mealie_dict_recipe["recipeServings"] = float(recipe.yields)
+        #mealie_dict_recipe["recipeYieldQuantity"] = float(recipe.yields)
+        if recipe.info:
+            mealie_dict_recipe["description"] = recipe.info
+        if recipe.url:
+            mealie_dict_recipe["orgURL"] = recipe.info
 
-    mealie_dict_recipe["extras"] = {
-       "rmd_file": f"{recipe.to_id()}.rmd"
-    }
+        mealie_dict_recipe["notes"] = []
+        if recipe.source:
+            mealie_dict_recipe["notes"].append({
+                "title": "",
+                "text": f"Quelle: {recipe.source}",
+            })
+        if recipe.asciidoc_footer:
+            mealie_dict_recipe["notes"].append({
+                "title": "",
+                "text": recipe.asciidoc_footer,
+            })
 
-
-    #   "extras": {
-    #     "rmd_file": "artischockensuppe.rmd"
-    #   },
-
-
-
-
-    ingredients_texts = []
-    for iwi in recipe.instructions_with_ingredients:
-        for ing in iwi.ingredients:
-            ingredients_texts.append(ing)
-
-    mealie_dict_recipe["recipeIngredient"] = parse_ingredients(ingredients_texts)
-
-
-    mealie_dict_recipe["recipeInstructions"] = []
-    ingredient_index = 0
-    for iwi in recipe.instructions_with_ingredients:
-        text = ""
-        if len(iwi.ingredients) > 0:
-            text = "**"
-            text = text + ", ".join([ing.ingredient_name for ing in iwi.ingredients])
-            text = text + "**: "
-        text = text + "\n".join([i for i in iwi.instructions])
-        step_dict = {
-            "text": text,
-            "ingredientReferences": []
+        mealie_dict_recipe["extras"] = {
+           "rmd_file": f"{recipe.to_id()}.rmd"
         }
-        for _ in iwi.ingredients:
-            ref_id = mealie_dict_recipe["recipeIngredient"][ingredient_index]['referenceId']
-            step_dict["ingredientReferences"].append({"referenceId": ref_id})
-            ingredient_index = ingredient_index + 1
 
-        mealie_dict_recipe["recipeInstructions"].append(step_dict)
+
+    if not recipe_already_exists or update_ingredients_and_instructions:
+
+        ingredients_texts = []
+        for iwi in recipe.instructions_with_ingredients:
+            for ing in iwi.ingredients:
+                ingredients_texts.append(ing)
+        mealie_dict_recipe["recipeIngredient"] = parse_ingredients(ingredients_texts)
+
+        mealie_dict_recipe["recipeInstructions"] = []
+        ingredient_index = 0
+        for iwi in recipe.instructions_with_ingredients:
+            text = ""
+            if len(iwi.ingredients) > 0:
+                text = "**"
+                text = text + ", ".join([ing.ingredient_name for ing in iwi.ingredients])
+                text = text + "**: "
+            text = text + "\n".join([i for i in iwi.instructions])
+            step_dict = {
+                "text": text,
+                "ingredientReferences": []
+            }
+            for _ in iwi.ingredients:
+                ref_id = mealie_dict_recipe["recipeIngredient"][ingredient_index]['referenceId']
+                step_dict["ingredientReferences"].append({"referenceId": ref_id})
+                ingredient_index = ingredient_index + 1
+
+            mealie_dict_recipe["recipeInstructions"].append(step_dict)
 
     #mealie_dict_recipe["name"] = mealie_dict_recipe["name"] + str(random.randint(1000, 9999))
     #pprint.pprint(mealie_dict_recipe, compact=True)
@@ -159,7 +163,7 @@ def get_or_create_tags(tags: list[str]) -> list[dict]:
         json_tags = json.loads(response.text)
         tag_found = False
         for t in json_tags['items']:
-            if t['name'] == tag:
+            if t['name'].lower() == tag.lower():
                 tag_dict_list.append({
                     "id": t['id'],
                     "name": t['name'],
@@ -198,7 +202,7 @@ def parse_ingredients(ingredients: list[Ingredient], fail_on_error=True) -> list
     ingredients_dict = []
     any_error = False
     for (ingredient, result) in zip(ingredients, results):
-        if result['confidence']['average'] < .75:
+        if result['confidence']['average'] and result['confidence']['average'] < .75:
             print(f"❌ Geringe Confidence für '{result}")
             any_error = True
         elif not result['ingredient']['food']['id']:
@@ -271,7 +275,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-update_food()
+#update_food()
 
 # Rezept senden
 for file in os.listdir("src/rmd"):
@@ -279,14 +283,15 @@ for file in os.listdir("src/rmd"):
         with open(f"src/rmd/{file}", 'r', encoding="utf-8") as f:
             #print(f"Reading {f.name}")
             recipe = parse_recipe(f.read())
-            if "Mealie" not in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
+            if "Mealie" in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
+#            if "Mealie" not in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
                 #search = Pfannkuchen
                 response = requests.get(f"{MEALIE_API_URL}/recipes?search={recipe.name}", headers=headers)
                 results = json.loads(response.content)
-                if results['total'] > 0:
-                    if 'recipeServings' in results['items'][0] and results['items'][0]['recipeServings'] == float(recipe.yields):
-                        print(f"Rezept {recipe.name} ({recipe.to_id()}) existiert bereits, überspringe ...")
-                        continue
+                # if results['total'] > 0:
+                #     if 'recipeServings' in results['items'][0] and results['items'][0]['recipeServings'] == float(recipe.yields):
+                #         print(f"Rezept {recipe.name} ({recipe.to_id()}) existiert bereits, überspringe ...")
+                #         continue
 
                 print(f"Poste Rezept {recipe.name} ({recipe.to_id()}) ...")
                 recipe_id = post_recipe(recipe)
