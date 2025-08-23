@@ -278,13 +278,13 @@ headers = {
 #update_food()
 
 # Rezept senden
-for file in os.listdir("src/rmd"):
+for file in sorted(os.listdir("src/rmd")):
     if file.endswith(".rmd"):
         with open(f"src/rmd/{file}", 'r', encoding="utf-8") as f:
             #print(f"Reading {f.name}")
             recipe = parse_recipe(f.read())
-            if "Mealie" in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
-#            if "Mealie" not in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
+#            if "Mealie" in recipe.tags and "MealieTodo" not in recipe.tags and "TODO" not in recipe.tags:
+            if "Mealie" not in recipe.tags and "MealieTodo" in recipe.tags and "TODO" not in recipe.tags:
                 #search = Pfannkuchen
                 response = requests.get(f"{MEALIE_API_URL}/recipes?search={recipe.name}", headers=headers)
                 results = json.loads(response.content)
@@ -294,24 +294,9 @@ for file in os.listdir("src/rmd"):
                 #         continue
 
                 print(f"Poste Rezept {recipe.name} ({recipe.to_id()}) ...")
-                recipe_id = post_recipe(recipe)
+                recipe_id = post_recipe(recipe, update_metadata=True, update_ingredients_and_instructions=True)
                 print(f"✅ Rezept {recipe.name} ({recipe.to_id()}) erfolgreich gepostet: {recipe_id}")
 
-
-
-#with open("src/rmd/artischockensuppe.rmd", 'r', encoding="utf-8") as f:
-#    print(f"Reading {f.name}")
-#    recipe = parse_recipe(f.read())
-
-    #recipe_id = post_recipe(recipe)
-    #response = requests.get(f"{MEALIE_API_URL}/foods", headers=headers)
-    #jfoods = json.loads(response.text)
-    #print(response.text)
-
-
-#
-# response = requests.get(f"{MEALIE_API_URL}/recipes/artischockensuppe-5", headers=headers)
-# print(response.text)
 
 # Output aller Zutaten in ausgewählten RMD-Dateien
 # ingredient_name_set = set()
