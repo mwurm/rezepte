@@ -1,4 +1,4 @@
-all'amatriciana
+Pasta all'amatriciana
 :yields: 2
 :category: Pasta
 :subcategory: Pastasoßen
