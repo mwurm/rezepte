@@ -5,6 +5,7 @@ articles:
     - Oettinger
   Fleisch🥩:
     - Rinderfilet
+    - Rinderhüftsteak
     - Cevapcici
     - Schweinefilet
     - Entrecote
@@ -15,6 +16,7 @@ articles:
     - Rinderrouladen
     - Rindergulasch
     - falsches Filet
+    - Chorizo
 
   "Fisch & Meeresfrüchte🐟":
     - Lachsforelle
@@ -45,4 +47,6 @@ publishers:
   - rewe
   - edeka
   - netto marken-discount
+  - lidl
+  - penny
 # "rewe", "edeka", "lidl", "Netto Marken-Discount", "Penny", "Metro"]]
