@@ -7,6 +7,7 @@ import json
 
 from rotunicode import rudecode
 import emoji
+from pathlib import Path
 
 
 def replace_country_codes_with_emoji(text):
@@ -138,6 +139,12 @@ class Ingredient:
             unit_str = re.sub(' ', '{nbsp}', self.unit, flags=re.IGNORECASE)
         return f"!{amount_str}{unit_str}!{self.ingredient_name_highlighted()}{'' if self.preparation_notes is None else '; _' + self.preparation_notes + '_'}"
 
+    def to_recipe_json_string(self):
+        amount_str = ""
+        if self.amount is not None:
+            amount_str = f"{int(self.amount) if self.amount.is_integer() else round(self.amount, 2)}"
+        return f"{amount_str}{'' if self.unit is None else self.unit} {self.ingredient_name}{'' if self.preparation_notes is None else ', ' + self.preparation_notes}"
+
     def __str__(self):
         amount_str = ""
         if self.amount is not None:
@@ -217,6 +224,61 @@ class Recipe:
         self.ausblenden = False if 'ausblenden' not in attributes \
             else attributes['ausblenden'].lower() in ['true', '1', 'yes', 'j', 'ja', 't', 'y']
         self.add_autotags_and_sort()
+
+    def to_schema_org_json(self):
+        """
+        Convert the Recipe object to a Schema.org Recipe JSON object.
+        Returns a dictionary formatted according to Schema.org/Recipe.
+        """
+        recipe_json = {
+            "@context": "https://schema.org",
+            "@type": "Recipe",
+            "name": self.name,
+            "recipeYield": self.yields,
+            "recipeCategory": self.category
+        }
+
+        # Add optional subcategory if present
+        if self.subcategory:
+            recipe_json["recipeCuisine"] = self.subcategory
+
+        # Combine indexterms and tags for keywords
+        keywords = list(self.indexterms) + self.tags
+        if keywords:
+            recipe_json["keywords"] = ", ".join(keywords)
+
+        # Add URL if present
+        if self.url:
+            recipe_json["url"] = self.url
+
+        # Add source as publisher or author if present
+        if self.source:
+            recipe_json["publisher"] = {
+                "@type": "Organization" if "http" not in self.source else "WebPage",
+                "name": self.source
+            }
+
+        # Add instructions and ingredients
+        if self.instructions_with_ingredients:
+            # Collect all instructions as HowToStep objects
+            recipe_json["recipeInstructions"] = []
+            recipe_json["recipeIngredient"] = []
+            for instr_with_ingr in self.instructions_with_ingredients:
+                recipe_json["recipeInstructions"].append({
+                    "@type": "HowToStep",
+                    "text":  "**" + ", ".join([ing.ingredient_name for ing in instr_with_ingr.ingredients]) + ":** " + "\n".join(instr_with_ingr.instructions)
+                })
+                # Add ingredients (assuming Ingredient has a string representation)
+                recipe_json["recipeIngredient"].extend([ingredient.to_recipe_json_string() for ingredient in instr_with_ingr.ingredients])
+
+
+
+        # Add additional information as description if present
+        if self.info:
+            recipe_json["description"] = self.info + ("\n" + self.asciidoc_footer if self.asciidoc_footer else "")
+
+        return recipe_json
+
 
     def add_autotags_and_sort(self):
         if ('Mikrowelle' in self.tags or 'Aufwärmen' in self.tags) and self.category != 'Pasta':
@@ -522,6 +584,12 @@ if __name__ == '__main__':
         with open(filename, 'r', encoding="utf-8") as f:
             print(f"Reading {f.name}")
             recipe = parse_recipe(f.read())
+            recipe_json = recipe.to_schema_org_json()
+            base_filename = Path(filename).stem
+            recipe_json["url"] = f"https://mwurm.github.io/rezepte/#_{base_filename}"
+            f = open(f"target/{base_filename}.json", "w", encoding="utf-8")
+            f.write(json.dumps(recipe_json, indent=2))
+
             recipes.append(recipe)
             if args.target is not None:
                 recipe.write_to_adoc(args.target)

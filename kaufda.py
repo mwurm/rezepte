@@ -1,11 +1,74 @@
+from datetime import datetime
+
 import requests
 import time
 from typing import List, Dict
 import yaml
 from pathlib import Path
+from hashlib import sha256
+import re
+from decimal import Decimal, InvalidOperation
+from dataclasses import dataclass
+from dateutil import parser
 
 PRINT_CATEGORY_PATHS = False
-PRINT_DEALS = True
+PRINT_DEALS = False
+
+TAGE = ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So']
+
+def normalize_price(text: str) -> str | None:
+    """
+    Vereinheitlicht Preisangaben pro kg oder l.
+
+    Beispiele:
+    "1 kg = 46.13"        -> "46.13 EUR/kg"
+    "15.98 / kg"          -> "15.98 EUR/kg"
+    "1kg = 11,63–6,20"    -> "6.20–11.63 EUR/kg"
+    "1 l = 1.80"          -> "1.80 EUR/l"
+    """
+
+    if not text:
+        return text
+
+    original = text.lower().strip()
+
+    # Einheit erkennen
+    unit_match = re.search(r"(kg|ml|l)", original.replace(" ", ""))
+    if not unit_match:
+        return original
+
+    unit = unit_match.group(1)
+
+    # Kommas in Punkte umwandeln
+    text = text.replace(",", ".")
+
+    # Zahlen extrahieren
+    numbers = re.findall(r"\d+(?:\.\d+)?", text)
+
+    if not numbers:
+        return original
+
+    try:
+        values = [Decimal(n) for n in numbers]
+    except InvalidOperation:
+        return original
+
+    # Falls Form wie "1 kg = 46.13" → die "1" ignorieren
+    if len(values) >= 2 and values[0] == 1:
+        values = values[1:]
+
+    if not values:
+        return original
+
+    # Einzelpreis
+    if len(values) == 1:
+        return f"{values[0]:.2f}€/{unit}"
+
+    # Preisbereich
+    min_val = min(values)
+    max_val = max(values)
+
+    return f"{min_val:.2f}–{max_val:.2f} EUR/{unit}"
 
 def load_config(config_path: str = "kaufda.yaml") -> Dict:
     """Lädt die YAML-Konfigurationsdatei."""
@@ -16,7 +79,8 @@ def get_all_articles(config: Dict) -> List[str]:
     """Extrahiert alle Artikel aus den Kategorien."""
     articles = []
     for category, items in config.get("articles", {}).items():
-        articles.extend(items)
+        if items:
+            articles.extend(items)
     return articles
 
 
@@ -28,7 +92,60 @@ HEADERS = {
     "Accept": "application/json"
 }
 
-def search_article(article: str, preffered_publishers: List[str] | None = None) -> List[Dict]:
+
+
+@dataclass(frozen=True)
+class Deal:
+    type: str
+    price_min: float
+    price_max: float
+    price_by_base_unit: str
+
+    def price_range_str(self) -> str:
+        if self.price_min == self.price_max:
+            return f"{self.price_min}€"
+        else:
+            return f"{self.price_min}€ - {self.price_max}€"
+
+    def normalized_price_by_base_unit(self) -> str | None:
+        return normalize_price(self.price_by_base_unit)
+
+
+@dataclass(frozen=True)
+class SearchResult:
+    publisher_name: str
+    article: str
+    deals: tuple[Deal]
+    description: str
+    pub_dates: list[tuple[datetime, datetime]]
+
+    def min_price(self) -> float:
+        return min(deal.price_min for deal in self.deals)
+
+    def __str__(self) -> str:
+        obj_string =  f"{self.article} | {self.publisher_name} | {self.description} || {'|'.join([d.__str__() for d in self.deals])}"
+        return obj_string
+
+    def to_markdown(self):
+        obj_string =  f"{self.publisher_name}, {self.description}: \n"
+        for deal in self.deals:
+            if deal.type in ['RECOMMENDED_RETAIL_PRICE', 'REGULAR_PRICE']:
+                continue
+            obj_string += f"- {deal.price_range_str()}"
+            # obj_string += f"- {deal.type}: {deal.price_range_str()}"
+            if deal.price_by_base_unit:
+                obj_string += f" ({deal.normalized_price_by_base_unit()})\n"
+        for (start, end) in self.pub_dates:
+            obj_string += f"- {TAGE[start.weekday()]} {start.strftime('%d.%m') if start else '?'} - {TAGE[end.weekday()]} {end.strftime('%d.%m') if end else '?'}\n"
+
+        return obj_string
+
+    def to_sha256(self):
+        return sha256(self.to_markdown().encode('utf-8')).hexdigest()
+
+
+
+def search_article(article: str, preffered_publishers: List[str] | None = None) -> List[SearchResult]:
     # https://www.kaufda.de/webapp/api/slots/offerSearch?searchQuery=h%C3%A4hnchenbrust&lat=47.965625499999994&lng=11.753921799999999&size=25
     # https://www.kaufda.de/webapp/?query=h%C3%A4hnchenbrust&lat=47.965625499999994&lng=11.753921799999999
 
@@ -63,112 +180,37 @@ def search_article(article: str, preffered_publishers: List[str] | None = None) 
     response.raise_for_status()
 
     data = response.json()
-    results = []
-
     contents = data.get("_embedded", []).get("contents", [])
 
     publisher_filtered_contents = list(filter(lambda e: e.get("content", {}).get("publisherName", "").lower() in preffered_publishers, contents)) if preffered_publishers else contents
+    found_results = list()
     for result_entry in publisher_filtered_contents:
         try:
 
             search_result = extract_content(result_entry, article)
-            print(search_result)
+            if search_result:
+                found_results.append(search_result)
 
 
         except Exception as e:
             print(f"Exception: {e}")
             continue
 
-    return results
-
-from dataclasses import dataclass
-
-@dataclass
-class SearchResult:
-    publisher_name: str
-    article: str
-    price_min: float
-    price_max: float
-    price_by_base_unit: str
-    regular_price_min: float
-    regular_price_max: float
-    regular_price_by_base_unit: str
-    description: str
-
-    def __str__(self) -> str:
-        if self.price_min == self.price_max:
-            price_range = f"{self.price_min}€"
-        else:
-            price_range = f"{self.price_min}€ - {self.price_max}€"
-
-        if self.regular_price_min == self.regular_price_max:
-            regular_price_range = f"{self.regular_price_min}€"
-        else:
-            regular_price_range = f"{self.regular_price_min}€ - {self.regular_price_max}€"
-
-
-        obj_string =  f"{self.article} | {self.publisher_name} | {price_range} | {self.price_by_base_unit} | {self.description}"
-        if self.regular_price_min or self.regular_price_max:
-            obj_string = obj_string + f" | REGULÄR: {regular_price_range} | {self.regular_price_by_base_unit} |"
-        return obj_string
-
-
-def extract_price_triplet(deals: List[Dict], deal_type: str) -> tuple[float, float, str] | None:
-    """
-    Extrahiert das Price-Tripel (price_min, price_max, price_by_base_unit) aus einer Liste von Deals.
-
-    Args:
-        deals: Liste der Deal-Objekte
-        deal_type: Typ des Deals (z.B. 'SALES_PRICE', 'REGULAR_PRICE')
-
-    Returns:
-        Tupel von (price_min, price_max, price_by_base_unit) oder None wenn kein passender Deal gefunden
-
-    Raises:
-        ValueError: Falls Währung nicht EUR ist
-    """
-
-    # 🔎 Chiemseer
-    #    {'type': 'SPECIAL_PRICE', 'description': 'Mo, 23.2. – Sa, 28.2.', 'conditions': [{'other': 'Nur mit App'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 13.99, 'min': 13.99, 'priceByBaseUnit': '1 l = 1.40'}
-    #    {'type': 'SALES_PRICE', 'description': ' ', 'conditions': [{}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 14.99, 'min': 14.99, 'priceByBaseUnit': '1 l = 1.50'}
-    #    {'type': 'REGULAR_PRICE', 'description': '', 'conditions': [{}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 18.99, 'min': 18.99, 'priceByBaseUnit': ''}
-    # Exception: ⚠️ Unerwartete deal types: {'REGULAR_PRICE', 'SALES_PRICE', 'SPECIAL_PRICE'}
-
-    # RECOMMENDED_RETAIL_PRICE
-    # 🔎 Schweinefilet
-    #    {'type': 'SALES_PRICE', 'description': 'gültig am Samstag, 07.03.26', 'conditions': [{}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 7.77, 'min': 7.77, 'priceByBaseUnit': ''}
-    #    {'type': 'RECOMMENDED_RETAIL_PRICE', 'description': '', 'conditions': [{}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 11.99, 'min': 11.99, 'priceByBaseUnit': ''}
-    # Exception: ⚠️ Unerwartete deal types: {'RECOMMENDED_RETAIL_PRICE', 'SALES_PRICE'}
-
-    # Hähnchenbrust | METRO | 23.53€ |  | Gewürzt, gebraten, Ofen-gebräunt 2,5-kg-Beutel
-    #    {'type': 'SPECIAL_PRICE', 'description': 'Hähnchenbrust-Innenfilets gebräunt', 'conditions': [{'other': 'Ab 4 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 22.46, 'min': 22.46, 'priceByBaseUnit': ''}
-    #    {'type': 'SPECIAL_PRICE', 'description': 'Hähnchenbrust-Innenfilets gebräunt', 'conditions': [{'other': 'Ab 2 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 23.53, 'min': 23.53, 'priceByBaseUnit': ''}
-    #    {'type': 'SALES_PRICE', 'description': 'Hähnchenbrust-Innenfilets gebräunt', 'conditions': [{'other': 'Ab 1 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 24.6, 'min': 24.6, 'priceByBaseUnit': ''}
-    #    {'type': 'SPECIAL_PRICE', 'description': 'Hähnchenbrust gebraten', 'conditions': [{'other': 'Ab 4 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 22.46, 'min': 22.46, 'priceByBaseUnit': ''}
-    #    {'type': 'SPECIAL_PRICE', 'description': 'Hähnchenbrust gebraten', 'conditions': [{'other': 'Ab 2 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 23.53, 'min': 23.53, 'priceByBaseUnit': ''}
-    #    {'type': 'SALES_PRICE', 'description': 'Hähnchenbrust gebraten', 'conditions': [{'other': 'Ab 1 Beutel'}], 'frequency': 'ONCE', 'currencyCode': 'EUR', 'max': 24.6, 'min': 24.6, 'priceByBaseUnit': ''}
-    # Exception: ⚠️ Unerwartete deal types: {'SALES_PRICE', 'SPECIAL_PRICE'}
-
-
-
-    for deal in filter(lambda x: x.get('type') == deal_type, deals):
-        price_min = min(deal.get("min"), deal.get("max"))
-        price_max = max(deal.get("min"), deal.get("max"))
-        price_by_base_unit = deal.get("priceByBaseUnit")
-
-        if 'EUR' != deal.get("currencyCode", "EUR"):
-            raise ValueError(f"Unexpected currency: {deal.get('currencyCode')}")
-
-        return price_min, price_max, price_by_base_unit
-
-    return (None, None, None)
+    return list(found_results)
 
 
 def extract_content(result_entry: dict, searched_article: str) -> SearchResult | None:
     content_object = result_entry.get("content", {})
 
     publisher_name = content_object.get("publisherName")
+    pub_dates = []
+    for publicationProfile in content_object.get("publicationProfiles", []):
+        start = publicationProfile.get("validity", {}).get("startDate")
+        end = publicationProfile.get("validity", {}).get("endDate")
 
+        start_parsed = parser.parse(start) if start else None
+        end_parsed = parser.parse(end) if end else None
+        pub_dates.append((start_parsed, end_parsed))
 
     # finde gesuchten artikel in categoryPaths
     for p in content_object.get("products", []):
@@ -190,51 +232,41 @@ def extract_content(result_entry: dict, searched_article: str) -> SearchResult |
                 for d in deals:
                     print(f"   {d}")
 
-            # Sanity-Check: Gibt es andere deal types?
-            deal_types = set([deal.get('type') for deal in deals])
-            if deal_types - {'SALES_PRICE', 'REGULAR_PRICE'} != set():
-                raise ValueError(f"⚠️ Unerwartete deal types: {deal_types}")
+            deals_dataobjects: list[Deal] = []
+            for deal in deals:
+                deal_type = deal.get("type")
+                price_min = min(deal.get("min"), deal.get("max"))
+                price_max = max(deal.get("min"), deal.get("max"))
+                price_by_base_unit = deal.get("priceByBaseUnit")
 
+                if 'EUR' != deal.get("currencyCode", "EUR"):
+                    raise ValueError(f"Unexpected currency: {deal.get('currencyCode')}")
+
+                deals_dataobjects.append(Deal(type=deal_type, price_min=price_min, price_max=price_max, price_by_base_unit=price_by_base_unit))
 
             # Versuche zuerst SALES_PRICE zu extrahieren, sonst REGULAR_PRICE
-            (price_min, price_max, price_by_base_unit) = extract_price_triplet(deals, 'SALES_PRICE')
-            (regular_price_min, regular_price_max, regular_price_by_base_unit) = extract_price_triplet(deals, 'REGULAR_PRICE')
-
-            search_result = SearchResult(publisher_name, searched_article, price_min, price_max, price_by_base_unit,
-                                         regular_price_min, regular_price_max, regular_price_by_base_unit,
-                                         description)
+            search_result = SearchResult(publisher_name=publisher_name, article=searched_article,
+                                         deals=tuple(deals_dataobjects), description=description, pub_dates=pub_dates)
             return search_result
 
         return None
 
 
-def find_best_price(
-    article: str,
-    preferred_retailers: List[str] | None = None
-):
-    results = search_article(article, preferred_retailers)
 
-    # Filter nach bevorzugten Händlern
-    # filtered = [
-    #     r for r in results
-    #     if r["retailer"] and r["retailer"].upper() in
-    #     [p.upper() for p in preferred_retailers]
-    # ]
+def run(category: str, articles: List[str], publishers: List[str] | None = None):
 
-    # if not filtered:
-    #     return None
-
-    # best = min(filtered, key=lambda x: x["price"])
-    return results
-
-
-def run(articles: List[str], publishers: List[str] | None = None):
-
+    print("")
+    print(f"## {category}")
     for article in articles:
-        print(f"🔎 {article}")
+        #print(f"🔎 {article}")
 
         try:
-            best = find_best_price(article, publishers)
+            results = search_article(article, publishers)
+
+            if results:
+                print(article)
+                for result in sorted(results, key=lambda r: r.min_price()):
+                    print(result.to_markdown())
 
             # TODO: Ist es moeglich, den "besten" zu finden?
             # if not best:
@@ -253,10 +285,14 @@ def run(articles: List[str], publishers: List[str] | None = None):
 
 if __name__ == "__main__":
     config = load_config("kaufda.yaml")
-    articles = get_all_articles(config)
     publishers = config.get("publishers")
 
-    run(articles, publishers)
+    for category, items in config.get("articles", {}).items():
+        if items:
+            run(category, items, publishers)
+
+
+
 
 
 # if __name__ == "__main__":

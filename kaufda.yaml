@@ -1,9 +1,9 @@
 articles:
-  Getränke:
+  Getränke🍻:
     - Augustiner
     - Chiemseer
     - Oettinger
-  Fleisch:
+  Fleisch🥩:
     - Rinderfilet
     - Cevapcici
     - Schweinefilet
@@ -16,7 +16,7 @@ articles:
     - Rindergulasch
     - falsches Filet
 
-  "Fisch & Meeresfrüchte":
+  "Fisch & Meeresfrüchte🐟":
     - Lachsforelle
     - Lachs
     - Fischstäbchen
@@ -28,17 +28,17 @@ articles:
     - Maultaschen
     - Beinscheibe
 
-  Feinkost:
+  Feinkost🫒:
     - Barilla Pesto
     - Barilla Pasta
     - Toffifee
     - Nutella
 
-  "Obst & Gemüse":
+  "Obst & Gemüse🍎🫑":
     - Heidelbeeren
     - Erdbeeren
     - Himbeeren
-  Backwaren:
+  Backwaren🥖🥨:
     - Golden Toast
 
 publishers:
