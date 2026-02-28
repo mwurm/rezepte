@@ -1,0 +1,48 @@
+articles:
+  Getränke:
+    - Augustiner
+    - Chiemseer
+    - Oettinger
+  Fleisch:
+    - Rinderfilet
+    - Cevapcici
+    - Schweinefilet
+    - Entrecote
+    - Putenschnitzel
+    - Hähnchenbrust
+    - Hähnchenbrustfilet
+    - Roastbeef
+    - Rinderrouladen
+    - Rindergulasch
+    - falsches Filet
+
+  "Fisch & Meeresfrüchte":
+    - Lachsforelle
+    - Lachs
+    - Fischstäbchen
+    - Iglo Fischstäbchen
+    - Lachsfilet
+    - Nordsee Backfisch
+    - Wiener Würstchen
+    - Pelmeni
+    - Maultaschen
+    - Beinscheibe
+
+  Feinkost:
+    - Barilla Pesto
+    - Barilla Pasta
+    - Toffifee
+    - Nutella
+
+  "Obst & Gemüse":
+    - Heidelbeeren
+    - Erdbeeren
+    - Himbeeren
+  Backwaren:
+    - Golden Toast
+
+publishers:
+  - rewe
+  - edeka
+  - netto marken-discount
+# "rewe", "edeka", "lidl", "Netto Marken-Discount", "Penny", "Metro"]]
