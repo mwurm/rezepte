@@ -17,6 +17,8 @@ articles:
     - Rindergulasch
     - falsches Filet
     - Chorizo
+    - Wiener Würstchen
+    - Beinscheibe
 
   "Fisch & Meeresfrüchte🐟":
     - Lachsforelle
@@ -25,12 +27,10 @@ articles:
     - Iglo Fischstäbchen
     - Lachsfilet
     - Nordsee Backfisch
-    - Wiener Würstchen
-    - Pelmeni
-    - Maultaschen
-    - Beinscheibe
 
   Feinkost🫒:
+    - Maultaschen
+    - Pelmeni
     - Barilla Pesto
     - Barilla Pasta
     - Toffifee
@@ -42,6 +42,13 @@ articles:
     - Himbeeren
   Backwaren🥖🥨:
     - Golden Toast
+  Sonstiges:
+    #- Lindt Schokolade
+    #- Milka Schokolade
+    #- Ritter Sport
+    #- Wodka Gorbatschow
+    #- Whisky
+
 
 publishers:
   - rewe

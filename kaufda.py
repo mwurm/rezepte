@@ -1,5 +1,6 @@
 from datetime import datetime
-
+from collections import defaultdict
+from typing import Iterable
 import requests
 import time
 from typing import List, Dict
@@ -100,6 +101,7 @@ class Deal:
     price_min: float
     price_max: float
     price_by_base_unit: str
+    conditions: list[str]
 
     def price_range_str(self) -> str:
         if self.price_min == self.price_max:
@@ -115,6 +117,7 @@ class Deal:
 class SearchResult:
     publisher_name: str
     article: str
+    image_url: str | None
     deals: tuple[Deal]
     description: str
     pub_dates: list[tuple[datetime, datetime]]
@@ -127,14 +130,18 @@ class SearchResult:
         return obj_string
 
     def to_markdown(self):
-        obj_string =  f"{self.publisher_name}, {self.description}: \n"
+        obj_string =  f"{self.publisher_name}, {self.article}, {self.description}: \n"
+        obj_string +=  f"{self.image_url}\n"
         for deal in self.deals:
             if deal.type in ['RECOMMENDED_RETAIL_PRICE', 'REGULAR_PRICE']:
                 continue
             obj_string += f"- {deal.price_range_str()}"
             # obj_string += f"- {deal.type}: {deal.price_range_str()}"
+            if deal.conditions:
+                obj_string += f" [{', '.join(deal.conditions)}]"
             if deal.price_by_base_unit:
-                obj_string += f" ({deal.normalized_price_by_base_unit()})\n"
+                obj_string += f" ({deal.normalized_price_by_base_unit()})"
+            obj_string += "\n"
         for (start, end) in self.pub_dates:
             obj_string += f"- {TAGE[start.weekday()]} {start.strftime('%d.%m') if start else '?'} - {TAGE[end.weekday()]} {end.strftime('%d.%m') if end else '?'}\n"
 
@@ -203,6 +210,9 @@ def extract_content(result_entry: dict, searched_article: str) -> SearchResult |
     content_object = result_entry.get("content", {})
 
     publisher_name = content_object.get("publisherName")
+    publisher_name = 'Netto' if publisher_name and publisher_name.lower() == 'netto marken-discount' else publisher_name
+    image_url = content_object.get("image", {}).get("url", None)
+
     pub_dates = []
     for publicationProfile in content_object.get("publicationProfiles", []):
         start = publicationProfile.get("validity", {}).get("startDate")
@@ -226,6 +236,7 @@ def extract_content(result_entry: dict, searched_article: str) -> SearchResult |
                 found = True
 
         if found:
+            article_name_from_category_path = "/".join([cp[-1].get('name') for cp in category_paths])
             deals = content_object.get("deals", [])
 
             if PRINT_DEALS:
@@ -238,14 +249,23 @@ def extract_content(result_entry: dict, searched_article: str) -> SearchResult |
                 price_min = min(deal.get("min"), deal.get("max"))
                 price_max = max(deal.get("min"), deal.get("max"))
                 price_by_base_unit = deal.get("priceByBaseUnit")
+                conditions = deal.get('conditions', [])
+                condition_strings = []
+                for condition in conditions:
+                    for key, value in condition.items():
+                        if isinstance(value, str):
+                            condition_strings.append(value)
+                        else:
+                            condition_strings.append(f"{key}: {value}")
 
                 if 'EUR' != deal.get("currencyCode", "EUR"):
                     raise ValueError(f"Unexpected currency: {deal.get('currencyCode')}")
 
-                deals_dataobjects.append(Deal(type=deal_type, price_min=price_min, price_max=price_max, price_by_base_unit=price_by_base_unit))
+                deals_dataobjects.append(Deal(type=deal_type, price_min=price_min, price_max=price_max, price_by_base_unit=price_by_base_unit, conditions=condition_strings))
 
             # Versuche zuerst SALES_PRICE zu extrahieren, sonst REGULAR_PRICE
-            search_result = SearchResult(publisher_name=publisher_name, article=searched_article,
+            search_result = SearchResult(publisher_name=publisher_name, article=article_name_from_category_path,
+                                         image_url=image_url,
                                          deals=tuple(deals_dataobjects), description=description, pub_dates=pub_dates)
             return search_result
 
@@ -256,7 +276,7 @@ def extract_content(result_entry: dict, searched_article: str) -> SearchResult |
 def run(category: str, articles: List[str], publishers: List[str] | None = None):
 
     print("")
-    print(f"## {category}")
+    print(f"# {category}")
     for article in articles:
         #print(f"🔎 {article}")
 
@@ -264,7 +284,7 @@ def run(category: str, articles: List[str], publishers: List[str] | None = None)
             results = search_article(article, publishers)
 
             if results:
-                print(article)
+                print(f"## {article}")
                 for result in sorted(results, key=lambda r: r.min_price()):
                     print(result.to_markdown())
 
@@ -283,6 +303,100 @@ def run(category: str, articles: List[str], publishers: List[str] | None = None)
             print(f"   Fehler: {e}\n")
 
 
+def extract_price_per_kg(result: SearchResult) -> float | None:
+    """
+    Extrahiert den niedrigsten €/kg Preis aus allen Deals eines SearchResults.
+    Ignoriert 0.0€ Angebote.
+    """
+    prices = []
+
+    for deal in result.deals:
+        if deal.price_min == 0.0:
+            continue
+
+        normalized = deal.normalized_price_by_base_unit()
+        if not normalized:
+            continue
+
+        # erwartet Format wie "15.98€/kg"
+        match = re.search(r"([\d\.]+)\s*€/[kg|ml|l]", normalized)
+        if match:
+            prices.append(float(match.group(1)))
+
+    return min(prices) if prices else None
+
+
+def detect_badges(result: SearchResult) -> str:
+    """
+    Erkennt optionale UX-Emojis.
+    """
+    text = (result.description or "").lower()
+
+    badges = []
+
+    if "tiefgefroren" in text:
+        badges.append("❄️")
+
+    if "bio" in text:
+        badges.append("🌱")
+
+    return " ".join(badges)
+
+
+def group_by_article(results: Iterable[SearchResult]) -> dict[str, list[tuple[str, float, str]]]:
+    """
+    Gruppiert nach Artikelname.
+    """
+    grouped = defaultdict(list)
+
+    for r in results:
+        price_per_kg = extract_price_per_kg(r)
+        if price_per_kg is None:
+            continue
+
+        badges = detect_badges(r)
+        grouped[r.article].append((r.publisher_name, price_per_kg, badges))
+
+    return grouped
+
+
+def format_ultra_scan(results: Iterable[SearchResult]) -> str:
+    grouped = group_by_article(results)
+    lines = []
+
+    for article, entries in grouped.items():
+        # nach Preis sortieren
+        entries = sorted(entries, key=lambda x: x[1])
+
+        top3 = entries[:3]
+        if not top3:
+            continue
+
+        formatted = []
+
+        for i, (store, price, badges) in enumerate(top3):
+            medal = ["🥇", "🥈", "🥉"][i]
+
+            extra = ""
+            if i == 0 and len(top3) > 1:
+                diff_ratio = (top3[1][1] - price) / top3[1][1]
+                if diff_ratio > 0.20:
+                    extra = " 🔥"
+                elif diff_ratio < 0.05:
+                    extra = " ⚖️"
+
+            badge_str = f" {badges}" if badges else ""
+
+            formatted.append(
+                f"{medal} {store} {price:.2f}€{extra}{badge_str}"
+            )
+
+        line = f"{article} → " + " | ".join(formatted)
+        lines.append(line)
+
+    return "\n".join(sorted(lines))
+
+
 if __name__ == "__main__":
     config = load_config("kaufda.yaml")
     publishers = config.get("publishers")
@@ -290,112 +404,17 @@ if __name__ == "__main__":
     for category, items in config.get("articles", {}).items():
         if items:
             run(category, items, publishers)
+    exit(0)
+
+
+    for category, items in config.get("articles", {}).items():
+        if items:
+            results = []
+            for article in items:
+                results.extend(search_article(article, publishers))
+            if len(results) > 0:
+                print(f"\n# {category}")
+                print(format_ultra_scan(results))
 
 
 
-
-
-# if __name__ == "__main__":
-#     articles = ["Augustiner"] # Münchner Hell (nicht immer)
-#     articles = ["Chiemseer"]
-#     articles = ["Oettinger"] #Glorietta / Oettinger    vs "Oettinger Alkoholfrei / Oettinger
-#     #articles = ["Ayinger"]  # NA
-#
-#     #articles = ["Hackfleisch gemischt"]  # DE-103916176
-#     #articles = ["Rinderhackfleisch"]  # DE-103755852
-#
-#     articles = ["Rinderfilet"]  # NA
-#     articles = ["Cevapcici"]  # DE-103741278
-#     articles = ["Schweinefilet"]  # DE-46548
-#     articles = ["Entrecote"]  # DE-46333
-#     articles = ["Putenschnitzel"]  # DE-447443
-#     articles = ["Hähnchenbrust"]  #   DE-96565476
-#     articles = ["Hähnchenbrustfilet"]  # DE-96565507
-#     articles = ["Barilla Pesto"]  # Pesto DE-28455   Barilla DE-118573 !!!!!
-#     articles = ["Barilla Pasta"]  # Pasta DE-1888207   Barilla DE-118573 !!!!!
-#     articles = ["Beinscheibe"]  # DE-114575711   TODO immer Rind?
-#     articles = ["Lachsforelle"]  # DE-112824778
-#     articles = ["Lachs"]  # DE-189
-#
-#     articles = ["Fischstäbchen"]  # DE-10502    # Iglo Fischstäbchen DE-304258260
-#     articles = ["Iglo Fischstäbchen"]  #  DE-304258260
-#
-#     articles = ["Lachsfilet"]  # DE-124820091
-#     articles = ["Nordsee Backfisch"]  # Nordsee DE-522185456   # Backfisch DE-103720631
-#     articles = ["Wiener Würstchen"]  # DE-1475
-#     articles = ["Pelmeni"]  # DE-196424573
-#     articles = ["Maultaschen"]  # NA
-#     articles = ["Roastbeef"]  # DE-46358
-#     articles = ["Rinderrouladen"]  # DE-778440418
-#     articles = ["Rindergulasch"]  # DE-103750662
-#     articles = ["Toffifee"]  # DE-282571   # Storck DE-92457096
-#     articles = ["Nutella"]  # DE-9694
-#     articles = ["falsches Filet"]  # DE-136402970
-#     articles = ["Heidelbeeren"]  # DE-33862705
-#     articles = ["Erdbeeren"]  # DE-619032
-#     articles = ["Himbeeren"]  # DE-11217
-#
-#     #articles = ["D'arbo"]  # DE-
-#
-#     articles = ["Golden Toast"]  # DE-1186081
-#     #articles = ["Maracuja"]  # DE-      TODO: _ohne_ Fruchtsaft DE-96565068
-#
-#     #articles = ["Doppio Passo"]  # DE-
-#     #articles = ["Luna Argenta"]  # DE-
-#     #articles = ["Rothaus"]  # DE-
-#
-#
-#
-#
-#     articles = [
-#         "Augustiner",
-#         "Chiemseer",
-#         "Oettinger",
-#         "Rinderfilet",
-#         "Cevapcici",
-#         "Schweinefilet",
-#         "Entrecote",
-#         "Putenschnitzel",
-#         "Hähnchenbrust",
-#         "Hähnchenbrustfilet",
-#         "Barilla Pesto",
-#         "Barilla Pasta",
-#         "Beinscheibe",
-#         "Lachsforelle",
-#         "Lachs",
-#         "Fischstäbchen",
-#         "Iglo Fischstäbchen",
-#         "Lachsfilet",
-#         "Nordsee Backfisch",
-#         "Wiener Würstchen",
-#         "Pelmeni",
-#         "Maultaschen",
-#         "Roastbeef",
-#         "Rinderrouladen",
-#         "Rindergulasch",
-#         "Toffifee",
-#         "Nutella",
-#         "falsches Filet",
-#         "Heidelbeeren",
-#         "Erdbeeren",
-#         "Himbeeren",
-#         "Golden Toast"
-#     ]
-#
-#     #articles = ["Absolut Vodka"]  # DE-554305 # komisch: bei Netto vermischt mit Quark
-#     #articles = ["Mozzarella"]  # DE-246664
-#     #articles = ["Parmesan"]  # DE-911771
-#     #articles = ["Händlmaier's"]  # DE-197979411   # süßer Senf DE-208821972
-#
-#
-#
-#     #articles = ["Hähnchenbrust", "Paprika", "Spaghetti"]
-#     # articles = ["Cevapcici"]
-#
-#     # articles = ["putensteak"]
-#     #articles = ["Rinderfilet", "Paprika", "Spaghetti"]
-#     publishers = None
-#     #publishers = [p.lower() for p in ["rewe", "edeka", "lidl", "Netto", "Netto Marken-Discount", "Penny", "Metro"]]
-#     #publishers = [p.lower() for p in ["rewe", "edeka", "Netto Marken-Discount"]]
-#
-#     run(articles, publishers)
